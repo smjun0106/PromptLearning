@@ -1,0 +1,651 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 768.2,
+      "minX": 74.2,
+      "maxY": 785.6,
+      "maxX": 177.8,
+      "page": 1
+    }],
+    "text": "molecules"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 649.2,
+      "minX": 35.1,
+      "maxY": 723.4,
+      "maxX": 552.2,
+      "page": 1
+    }],
+    "text": "Identification of GM1-Ganglioside Secondary Accumulation in Fibroblasts from Neuropathic Gaucher Patients and Effect of a Trivalent Trihydroxypiperidine Iminosugar Compound on Its Storage Reduction"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 538.1,
+      "minX": 166.4,
+      "maxY": 579.7,
+      "maxX": 516.5,
+      "page": 1
+    }],
+    "text": "1 Department of Chemistry \"U. Schiff\" (DICUS), University of Florence, Via della Lastruccia 3-13, 50019 Sesto Fiorentino, Italy; ceni@lens.unifi.it (C.C.); francesca.mangiavacchi@unifi.it (F.M.); camilla.matassini@unifi.it (C.M.); francesca.cardona@unifi.it (F.C.) 2 European Laboratory for Non-Linear Spectroscopy (LENS), University of Florence,"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Molecules 2024, 29, 453 2 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 438,
+      "minX": 166.1,
+      "maxY": 736.7,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD) is the most common lysosomal storage disorder (LSD) of glycosphingolipids. It occurs at a frequency of 1 in 100,000 live births in the general population and of 1 in 450 live births among Ashkenazi Jews [1,2]. GD is caused by mutations in the GBA gene (mapped on chromosome 1q21-22), which encodes for the lysosomal enzyme acid β-glucosidase (glucocerebrosidase, also known as GCase and GBA, EC 3.2.1.45, MIM*606463). GCase is an enzyme involved in the lysosomal breakdown of two sphingolipids, glucocerebroside (GlcCer) and glucosylsphingosine (GlcSph). Human GCase comprises three interconnected domains: Domain I (residues 1\u201327 and 383\u2013414); Domain II (residues 30\u201375 and 431\u2013497), which resembles an immunoglobulin (Ig) fold; and Domain III (residues 76\u2013381 and 416\u2013430), which contains the catalytic site. Severe mutations in the GBA gene are distributed throughout the three domains of the GCase [3]. The severe neuropathic GD phenotypes may arise from a broad range of enzyme defects involving the catalytic site (directly and indirectly), protein folding and/or stability, or regulatory functions, such as the interactions with saposin C or lysosomal-membrane phospholipids [3]. GD is classified into three major clinical types based on age of onset and neurological involvement. GD type 1 is characterized by the presence of clinical or radiographic evidence of bone disease (osteopenia, focal lytic or sclerotic lesions, and osteonecrosis), hepatosplenomegaly, anaemia and thrombocytopenia, lung disease, and the absence of primary central-nervous-system disease. GD types 2 and 3 are characterized by the presence of primary neurologic disease. GD type 2 (acute neuronopathic) is characterized by childhood onset, with aggressive involvement of the central nervous system, often resulting in death within 2 years. GD type 3 (subacute chronic neuronopathic) is characterized by later onset and a slower progressive course [4]. Additional data on the role of each mutation in determining specific GD phenotypes are needed."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 288.3,
+      "minX": 166,
+      "maxY": 435.5,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Currently available treatments for GD, especially for type 1, include enzyme replacement therapy (ERT) [5] using imiglucerase (Cerezyme®, Genzyme, Cambridge, MA, USA), velaglucerase alfa (VPRIV®, Shire, Lexington, MA, USA), and taliglucerase alfa (Elelyso® Pfizer, New York, NY, USA) and substrate reduction therapy (SRT) [6] using N-butyldeoxynojirimycin (NB-DNJ; Zavesca, Phoenix AZ, USA). The goal of both treatments is to reduce GlcCer storage, thus reducing the detrimental effects caused by its accumulation. ERT achieves this by supplementing defective enzymes with active enzymes, whereas SRT works by lowering the rates of synthesis of all GlcCer, thus reducing glycolipid accumulation. These therapies have different disadvantages, such as the dependence of ERT on intravenous infusions usually every 2 weeks and poor delivery to bones and lungs and its inability to cross the blood\u2013brain barrier [7]. By contrast, Zavesca® is given orally and crosses the blood\u2013brain barrier but causes several side effects [7]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 73.9,
+      "minX": 166.1,
+      "maxY": 284.8,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "More recently, an alternative therapeutic strategy has emerged, namely the pharmacological chaperone therapy (PCT). Pharmacological chaperones (PCs) have been studied as a potential treatment for GD, particularly in cases where the mutations result in misfolded GCase that retains some residual enzymatic activity. The PCs can interact with the misfolded GCase, stabilizing and helping it fold into its proper conformation. This allows the enzyme to be trafficked from the endoplasmic reticulum to lysosomes and resume its enzymatic activity, thereby reducing the accumulation of GlcCer. PCs behave as reversible inhibitors of the enzyme, but when they are used in sub-inhibitory amounts, they can correct the folding and/or stabilize the enzyme's catalytic activity with minimal side effects [8,9]. Trihydroxypiperidine iminosugars, carbohydrate analogues in which a nitrogen atom replaces the endocyclic oxygen, have shown interesting properties as anti-viral, anti-bacterial, anti-diabetes, or immunosuppressant agents [10] and, more recently, also as PCs for LSDs [11,12]. In the past twenty years, other piperidine iminosugars have been investigated to this aim, such as 1-deoxygalactonojirimycin (DGJ), which was the first oral PC commercially approved for Fabry disease (another LSD) in Europe (Migalastat, Galafold, Amicus Therapeutics, Philadelphia, PA, USA) [13]. However, no PC for Gaucher disease has yet reached the market."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Molecules 2024, 29, 453 3 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 604.1,
+      "minX": 166.1,
+      "maxY": 752.3,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "The lack of a treatment that targets the primary cause for the neuropathic GD phenotypes has prompted us to dig deeper in the mechanisms involving the first events in the pathogenesis and take into account secondary accumulated materials. Although noted for the first time 40 years ago, few studies have looked at the secondary accumulation in the central nervous system and peripheral organs of GD patients. Higher levels of lactosylceramide (LacCer) were found in the brain of patients affected by different types of GD, while the concentration of gangliosides was found to be normal but with a higher proportion of GM2 and GM3 [14]. An increase in secondary GD3 was found in the brain of a type 2 patient [15]. Ceramide, dihexosylceramide, trihexosylceramide, and phosphatidylglycerol were found to be higher in skin fibroblasts from patients with GD types 1 and 2 [16]. A clear connection between accumulation of GluCer or GluSph and secondary compounds has not yet been clearly established."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 468.7,
+      "minX": 166,
+      "maxY": 601.7,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "In this work, we show that GM1 is also accumulated in skin fibroblasts from GD types 2 and 3 by using a novel approach based on flow cytometry and fluorescent labelling. No known genetic defects were found in beta-Galactosidase (β-Gal), the lysosomal hydrolase responsible for the degradation of GM1, which is located several steps upstream in the catabolic pathway of GlcCer (Table 1). Moreover, the ability of a trivalent trihydroxypiperidine iminosugar compound (CV82), which previously showed good pharmacological chaperone activity on GCase [17] (Table 2), to reduce the levels of both GlcCer and GM1 was evaluated. Our results on the secondary accumulation of GM1 are important for the characterization of the downstream pathways in GD and potentially paving the way for testing β-galactosidase as an alternative therapeutic target for neuronopathic variants of GD with unmet clinical needs."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 444.2,
+      "minX": 166.1,
+      "maxY": 453.3,
+      "maxX": 539.7,
+      "page": 3
+    }],
+    "text": "Table 1. Molecular, genetic, and enzymatic characterization of GD-derived fibroblast cell lines."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 175.4,
+      "minX": 166.2,
+      "maxY": 184.1,
+      "maxX": 266.4,
+      "page": 3
+    }],
+    "text": "(a) Data taken from Ref. [17]."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 170.4,
+      "minX": 169.9,
+      "maxY": 175.3,
+      "maxX": 258.5,
+      "page": 3
+    }],
+    "text": "(a) Data taken from Ref. [17]."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 150.7,
+      "minX": 166.4,
+      "maxY": 160.2,
+      "maxX": 210.7,
+      "page": 3
+    }],
+    "text": "22.. RReessuultlsts"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 136.8,
+      "minX": 166.4,
+      "maxY": 146.8,
+      "maxX": 482.5,
+      "page": 3
+    }],
+    "text": "22.1.1.. IInnccrreaesaesdeGdlcGClecrCanedr GanMd1GCoMnt1enCtsoinntLe4n4t4sPiFnibLro4b4la4stPs HFiigbhrloigbhltaesdtbsyHCiognhfolciaglh-ted by"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 110.7,
+        "minX": 166.1,
+        "maxY": 136.4,
+        "maxX": 559.3,
+        "page": 3
+      },
+      {
+        "minY": 73.1,
+        "minX": 166.1,
+        "maxY": 83.1,
+        "maxX": 559.3,
+        "page": 3
+      },
+      {
+        "minY": 704.6,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.6,
+        "page": 4
+      }
+    ],
+    "text": "CMonicfroosccaolp-yManicdrFolsocwo-pCyytaomndetrFylAowna-lCysyestometry Analyses WWee mmoonnitiotorerdedchchanagnegsesininstsotroargaegemmateartiaelrsiailns ifinbfirobbrloasbtslasdtesridveedrivferodmfroam a homozygous (WN3T70)Sfimburotabtiloansatsre. lWinkheidletoptayptiee1nGtsDw,phaotieanrtsehcoommozpyoguounsdfohrethteerLo4z4y4Pgmouustaftioorntahree N370S mutation are linked to type 1 GD, patients homozygous for the L444P mutation are prone to develop type 3 GD [18]. The N370S mutation is located at the interface of Domains II and III, too far from the catalytic site to affect it. The L444P mutation perturbs the stability of the hydrophobic core of Domain II, generating an unstable GCase [3]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "Molecules 2024, 29, 453 4 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 641.8,
+        "minX": 33.5,
+        "maxY": 702.1,
+        "maxX": 567.2,
+        "page": 4
+      },
+      {
+        "minY": 629.9,
+        "minX": 166.1,
+        "maxY": 639.3,
+        "maxX": 480.2,
+        "page": 4
+      }
+    ],
+    "text": "In order to label GlcCer, the primary storage material in GD, fibroblasts were first fixed, permeabilized, labelled with a specific primary anti-glucosylceramide antibody coupled to a secondary fluorescent antibody, and imaged with a confocal microscope (Figure 1A). Molecules 2024, 29, x FOR PEER REVIWnEoWhtifloeuinndthtoe bceassetaotifsttihcealNly3s7ig0Snimficuatnatnwt,itahsrleigsphetcitntcoretahseeWinT,flcuoonrseisdceernacbeleinhtiegnhseirtyle5wveoalfss14 (~2-fold increase) of labelled GlcCer were detected in L444P fibroblasts."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 288.6,
+      "minX": 166,
+      "maxY": 330.1,
+      "maxX": 567.4,
+      "page": 4
+    }],
+    "text": "wmiciwonnobiiintfistcchherfeboorlarlvcsanoucaenbtloldiatl-pimagr-iysglnci.utlcosuAcfirncoocbatssoserryicsongrloybycntpleiliconarfiyefasg.crtmGaAastnmhilcdctseaCiieidgrLneraen4cyrnri4ifidaean4anncPgssaddeenmtchGotisuneeniMntcdaLaocn1at4rni.rt4oeiydS-a4nGacAsPawrellyclmeeiinxtaAuhbanataldr5anere6txtCsi83iaop-T0(GneAX5μclw6b)ctm8-otiaFotr.nh(IACAtTdhrTC)eetCXosflocTptboaruX-enlFocbCtoIrtr-TeTfoFtsCoX>lIc,T2eb(th0BChn-iFe)cgcfl,IehecTaullionlCinosgndtrhtewe(irntBmsoeiscn)lraie,,egtgnihaeeaacinsdngerdwhaiwisnllaeyiiitgmtsseihhenonadtcbsgcioniseeftneogildlferruovsacwleeawaradriilcatshhes"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 195,
+      "minX": 166.4,
+      "maxY": 258.6,
+      "maxX": 567.4,
+      "page": 4
+    }],
+    "text": "mstttptwhohohaaaaeoWttstthiwceeseTooIrTnepni,bnohatdewsstanleceeacdwhisenrfiaedi~votaccrs5riehsrbate-dyolisefswolie,foyxunnralGaaldgavcstmtlnesoctcinddhoniCwnoGmecisteeernltLrdeocprreCa4bpoaabs4nnsanefyee4ugtdriri,PeiurlevnGytdtsnhmehitMbtdenbehsuirgyneai1atncdcaCffcaioctnNseTeiur~lotcrfil3Xm6ounot7b0belb,G0u%rad-aSooFlrMa/rbbI~icTtaRny51loitaCo0ceen[Gsnr%c1,dtteNMet9soahbni]ocfnse1yt(ifeGcFloflgpflrfiiifMuaegnaobGanuotwr1iGsgrroMeeee-glbMncisi1a1oltcynasn1BesotsiGngo)cftsd.asmtltlLiCo.orcbo4rseMCrosy4istaniseru4iodgfynr[Prboee2geauac0fioa(cantnF,cvbsh2laiui-er1teagmlormy]ou,Nbs.isfterucOlhi3aetcrslhe7onso.a2et0sItndstBnicShcdioow)shmefin,aptorircboyt(iulyobhFrettahmourisargnabettetpoiuarilstooaarlorphynansrexeastagiosc2dinnbestfAiodldef),"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.2,
+      "minX": 166.4,
+      "maxY": 193.3,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "GnoMt1vainryL4si4g4nPificeclalsnwtlyascroemmpinairsecdentototfhtehceoonnteroolb(sFeirgvuedrein2AG,MB)1. gangliosidosis patients [20]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 105.9,
+        "minX": 166,
+        "maxY": 178.7,
+        "maxX": 560.5,
+        "page": 4
+      },
+      {
+        "minY": 431.5,
+        "minX": 166.4,
+        "maxY": 442.6,
+        "maxX": 560.9,
+        "page": 5
+      },
+      {
+        "minY": 407.4,
+        "minX": 166.1,
+        "maxY": 417.5,
+        "maxX": 559.3,
+        "page": 5
+      },
+      {
+        "minY": 369.7,
+        "minX": 166.4,
+        "maxY": 379.8,
+        "maxX": 559.3,
+        "page": 5
+      },
+      {
+        "minY": 553,
+        "minX": 50.1,
+        "maxY": 726.3,
+        "maxX": 560.9,
+        "page": 6
+      },
+      {
+        "minY": 652.8,
+        "minX": 166.4,
+        "maxY": 688,
+        "maxX": 560.9,
+        "page": 7
+      },
+      {
+        "minY": 627.7,
+        "minX": 39.8,
+        "maxY": 650.3,
+        "maxX": 559.6,
+        "page": 7
+      },
+      {
+        "minY": 615.1,
+        "minX": 166.4,
+        "maxY": 625.2,
+        "maxX": 559.3,
+        "page": 7
+      },
+      {
+        "minY": 488.5,
+        "minX": 166.1,
+        "maxY": 636.7,
+        "maxX": 561,
+        "page": 8
+      }
+    ],
+    "text": "These results were further corroborated by flow-cytometry analysis. In fibroblasts of patients carrying the L444P mutation, a ~50% increase in GlcCer accumulation (Figure 2A) was observed, accompanied by a ~60% increase in GM1 storage (Figure 2B), comparable to the one observed in patients affected by GM1 gangliosidosis [20,21]. On the other hand, the contents of GlcCer and GM1 in fibroblasts of patients carrying the N370S mutation did not vary significantly compared to the control (Figure 2A,B). tthhaatt pprreevviioouussllyy sshhoowweedd aannaapppprreecciiaabblleeeeffffeeccttoonnthteheGCGaCsaeseeneznyzmyme(e2-(f2o-lfdoladctaicvtiitvyiteynhancepfraotmienptastcieanrtrsyicnagrrtyhinegLt4h4e4PL4m44uPtamtiounta.tPiornim.ParriymcauryltucureltsuorefsL4o4f4LP44fi4bProfibblraosbtslawstesrweeinrecubated tCoVa82silgenditfiocaanstigrneidfiucacntitornediuncGtioMn1inacGcMum1auclcautmiounla(Ftiiognu(rFeig3uBr)ew3Bit)hwoiutht,ohuot,whoewveerv,earf,fecting In order to investigate the mechanisms through which CV82 could decrease the build-up of GM1 without significantly affecting GlcCer levels, we initially hypothesized a direct interaction between the compound CV82 and the β-Gal enzyme responsible for the catabolism of GM1 ganglioside. For this reason, the inhibition and pharmacological chaperone activities of CV82 towards the β-Gal enzyme were evaluated. First of all, we evaluated the inhibition ability of CV82 towards the β-Gal enzyme at 1 mM in human leukocyte homogenates derived from healthy donors. The compound CV82 showed a negligible percentage of inhibition (33% at 1 mM; Figure 4A), demonstrating its complete selectivity against the GCase enzyme with respect to the β-Gal enzyme. It is worth noting that the best inhibitory activity does not always correspond to the best chaperone activity on cell lines, as already observed for a series of compounds [22]. Therefore, we tested the ability of the CV82 compound to increase the β-Gal enzyme activity in the fibroblasts wild type (Figure 4B) and Molecules 2024, 29, x FOR PEER REVIEwWith the p.Arg201His/p.Tyr83LeufsX8 and p.Arg201His/p.Ile51Asn muta7tioofn1s4 from juvenile GM1 patients (Figure 4C,D). No enzymatic-activity increase was observed in wild-type and Additionally, we evaluated the effect of CV82 on fibroblasts carrying, at the homozygous state, the c.508C>T (R131C) mutation, which has been proven to be an extremely severe mutation that alters the stability and activity of GCase [23,24]. First of all, changes in primary and secondary storage materials in R131C fibroblasts, with respect to the WT Molecules 2024, 29, x FOR PEER REVIEW control, were monitored by using flow-cytometry analysis (Figu8reof51)4, revealing not only an increase (~20%) in GlcCer storage (Figure 5A) but also a substantial (~110%) increase in The disease severity of LSDs is often correlated with the residual activity levels of the mutated enzyme involved. In vitro enzymatic-activity tests use soluble synthetic fluorogenic substrates in cell lysates, which may not take into account potential enzyme activators and may deliver inaccurate results that may not match the clinical course of the disease. We have recently developed an approach based on specific fluorescence labelling coupled to microscopy and flow cytometry capable of detecting higher levels of accumulated metabolites (e.g., sialic acid, GM1 ganglioside, and cholesterol) in fibroblasts from patients affected by several LSDs, such as GM1 gangliosidosis, Niemann\u2013Pick type C, and sialidosis [20,21]. These methods allow one to directly correlate the amount of accumulated material with the severity of the disease. We previously showed that our approach also turns out to be very convenient to rapidly screen the effects of new pharmacological compounds on the accumulation of catabolites directly in treated cells [20]."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": -88.9,
+      "minX": 166.5,
+      "maxY": -23.9,
+      "maxX": 567.4,
+      "page": 4
+    }],
+    "text": "Figure 2. Flow-cytometry analysis of fibroblasts from WT and from GD patients carrying N370S and L444P mutations. Cells were fixed, permeabilized, and labelled with anti-GlcCer and secondary Alexa 647 antibodies (A) or CTXb-FITC (B). MFI/MFIWT mean values were obtained by dividing the MFI of a distribution by the mean MFI obtained from the controls. MFI/MFIWT mean values of anti-Glc (A) and CTXb-FITC (B) increased significantly in the fibroblasts carrying the L444P mutation with respect to the WT control and to fibroblasts carrying the N370S/RecNcil mutation,"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 846,
+      "minX": 165.7,
+      "maxY": 915.3,
+      "maxX": 527.3,
+      "page": 5
+    }],
+    "text": "Figure 1. Thawed primary cultures of fibroblasts isolated from control wild type (WT) and GD patients carrying N370S/RecNcil and L444P mutations were cultured, fixed, permeabilized, labelled with anti-glucosylceramide and secondary Alexa 568 (A) or CTXb-FITC (B), and imaged with confocal microscopy. A significant increase in anti-Glc and CTXb-FITC fluorescence intensities was observed in fibroblasts carrying the L444P mutation with respect to the control, highlighting a rise in cellular content of GlcCer and GM1. Scale bar 30 μm. A total of >20 cells were analysed for each condition. Error bar S.D. Student's t-test: ** p ≤ 0.01 and *** p ≤ 0.001."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 516.1,
+      "minX": 47,
+      "maxY": 542.9,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Molecules 2024, 29, x FOR PEER REVIatmtaEhhnnWueettitiM-aM-GGtFilFolcIcIno((ofAwAfa)i)atdhaadinnsritddsertsirCbpCiuebTTctuXiXtotbbtinoo--FFbntIIyhTTbetCCyhWet((hBmTBe))ecmiaoninnncectraMrrenoeaFalsMIsaeeondFdbdItsasiotgiiobngntnefiiadifibifinrcfcoraeaobndnmltatlflsyryttohsimenicncattorhthrnheyeetifirncobfioglrsbno.trthMboreoblFallNassI/t.s3MstM7sc0FaFScIrWa/IrR/ryrTeMyicnmiNFngeIgcWtaihlntemhTveLuam4l6tLua4e4eto4ai4sfoPn4on1Pmvf4,aulutaetsioonf"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 480.5,
+      "minX": 166.4,
+      "maxY": 490.2,
+      "maxX": 496.2,
+      "page": 5
+    }],
+    "text": "td-otet.sSt:tu*dpe≤nt'0s.t0-5te,s*t*: *pp≤≤ 00..0051,, *a*npd≤*0*.*0p1,≤an0d.0*0**1p. n≤ 0≥.0301i.nnd≥ep3einnddeepnetnedxepnetreimxpeenritms.ents."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 457.9,
+      "minX": 166.4,
+      "maxY": 470.7,
+      "maxX": 483.4,
+      "page": 5
+    }],
+    "text": "22..22.. DDeeccrreeaassededAAcccucmumuluatliaotnioonf GofMG1Min1Lin44L44P4F4iPbrFobiblarsotbslTasrtesatTerdewatiethd CwVit8h2CV82"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 419.8,
+      "minX": 166.4,
+      "maxY": 430,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "menehnatnacetm10enµtMat)10[1μ7M],)to[1r7e],dtuocreedtuhceeltehveellesvoelfssotfosrtaograegmemataetreiraialslsininfifibbrroobbllaassttssisisoolaltaetded from"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 382.3,
+      "minX": 166.4,
+      "maxY": 404.9,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "finocru4badtaedysfowri4thdathysreweitdhiftfherreeendticffoenrecnetnctroantcieonntsraotifoCnsVo8f2C(V1802µ(M10,μ1Mµ,M1,μaMn,dan1d0010n0M) and lnaMbe)lalendd alasbreellpeodratesdreapboortveed. aInbotevree.sItnintegrelys,titnrgelayt,mtreenattmweinthtw10ithµM10 aμnMda1n0d01n0M0noMfCoVf82 led"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 138.4,
+      "minX": 166.4,
+      "maxY": 160.3,
+      "maxX": 560.8,
+      "page": 5
+    }],
+    "text": "FFiigguurree33..(A(,AB,)BP)riPmraimryacruyltcuureltsuorfefisborfobfilbasrtosbilsaoslatsteidsofrlaotmedpaftrioemntspcaatrireynintsg cthaerrLy4i4n4gPtmheutLat4i4o4nP mutatwioenrewinecruebaintecdufboart4eddafyosrw4itdhatyhsreweditihffetrhernetecodnicffeenrteranttiocnosnocfeCnVtr8a2ti(o1n0sμoMf, C1VμM82, a(1n0d 1µ0M0,nM1)µ,M, and"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 109.1,
+      "minX": 166.3,
+      "maxY": 125.3,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "bloeorddCtiToeXsab(sA-iFg)InToiCrficC(aBTn)Xt,arben-ddFuIaTcntCiaol(nyBsi)en,dacwenldliuthalanflraoclwoynscetyedntotwmoifethtGryflM.o1TwrbeucayttmtnooemtntGetwlrcyiCt.heTr1r.e0EaμrtrmMoreabnnatdrwS1i.0tD0h.n1SM0tuµdoMefnCtaV'sn8dt2- 100 nM"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 87.2,
+      "minX": 166.4,
+      "maxY": 109,
+      "maxX": 560.8,
+      "page": 5
+    }],
+    "text": "otefstC:V**8p2 ≤le0d.0t1o, aansdig*n**ifipca≤n0t.0r0e1d.uActitootnalinofc>e4ll0u0l0arceclolsnwteenrte oafnaGlyMse1dbfuort neaocthGMlcFCIedro.t.Enrro≥r3bar S.D. Sintudedpeenntd'setn-tteesxtp:e*r*impe≤nt0s..01, and *** p ≤ 0.001. A total of >4000 cells were analysed for each MFI dot."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Molecules 2024, 29, 453 6 of 12"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 7
+    }],
+    "text": "Molecules 2024, 29, 453 7 of 12"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "Molecules 2024, 29, 453 8 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 250,
+      "minX": 166,
+      "maxY": 486,
+      "maxX": 561,
+      "page": 8
+    }],
+    "text": "Here, our method was extended to fibroblasts from GD patients, not limiting our experiments to measure the level of GlcCer but also that of GM1 (Figures 1\u20133), and to investigate the effects arising from the treatment of the cells with a previously developed PC directed against GCase [17]. The levels of GlcCer were found to be significantly higher in homozygous-patient fibroblasts affected by the mutations of L444P, which strongly affects the stability of GCase by altering the retention of mutated GCase in the endoplasmic reticulum [25], and R131C, which severely alters the active site structure/function of GCase [23]. It is largely known that the L444P mutation has been directly linked to Gaucher type 2 and type 3 [26,27]. The R131C mutant allele was also identified in type 2 (acute neuronopathic) GD [23,28]. Surprisingly, the levels of GM1 also appeared to be dramatically increased in fibroblasts bearing these mutations, up to the levels observed for infantile patients affected by GM1 gangliosidosis [20,21]. Little or no changes in the GlcCer and GM1 amounts were found for the fibroblasts with the N370S mutation, which is associated with GD type 1. N370S has been proven to be a folding mutant in part retained in the endoplasmic reticulum [29]. Our results show that secondary GM1 accumulation is not negligible, and its importance should not be undervalued in the pathological context. Interestingly, the correlation between the primary GlcCer and secondary GM1 accumulation was found to be not very strong, with the amount of GM1 rather linked to the severity of the disease (Figure 5E)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 102,
+      "minX": 166,
+      "maxY": 247.5,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "Interestingly, treatment with different concentrations of the trivalent trihydroxypiperidine iminosugar compound CV82 led to a significant reduction in GM1 accumulation without significantly affecting GlcCer levels in L444P fibroblasts. In order to investigate the mechanisms through which CV82 could decrease the build-up of GM1 without significantly affecting GlcCer levels, a direct interaction between the compound CV82 and the β-Gal enzyme responsible for the catabolism of GM1 ganglioside was initially hypothesized. The effects of the CV82 compound on the β-Gal enzyme were negligible, suggesting that the GM1 decrease is rather related to other yet unknown mechanisms that follow the direct action of CV82 on GCase. Additionally, CV82 did not decrease (instead, it increased) GM1 levels in fibroblasts carrying the R131C mutation, which can affect the active site of GCase, possibly leading to structural changes of the catalytic site that might prevent the interaction with CV82."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 166.4,
+        "maxY": 96.9,
+        "maxX": 559.3,
+        "page": 8
+      },
+      {
+        "minY": 654.3,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 561,
+        "page": 9
+      }
+    ],
+    "text": "GCase defects are increasingly assimilated to a continuum of symptoms and signs since they can give rise to the three main GD phenotypes, to perinatal lethal GD and to at least two additional neurodegenerative diseases: Lewy body dementia and Parkinson's disease [18,30]. The accumulation of GM1 ganglioside detected in the two different cell lines (bearing the L444P and RC131 homozygous mutations) could be useful to explain the complex scenario of the neurodegeneration observed in some severe forms of GD. It is well established that neurodegeneration in GM1 gangliosidosis is caused by GM1 storage [31,32]. The here-reported detection of GM1 storage materials also in GD cell lines from neuropathic patients suggests a possible role of this secondary storage material in GD pathogenesis."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Molecules 2024, 29, 453 9 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 503.7,
+      "minX": 166.1,
+      "maxY": 651.8,
+      "maxX": 559.7,
+      "page": 9
+    }],
+    "text": "Although gangliosides and glycosphingolipids are known to accumulate in many LSDs other than GD, the molecular mechanisms at the basis are mostly unknown [33,34]. The explanation of the metabolic pathways that can give rise to GM1-ganglioside accumulation in GD may provide a solid rationale for a better understanding of the physiopathology linked to GCase defects and of the corresponding phenotypes and be of relevance for other LSDs. If targeting GCase, since the enzyme involved in the primary storage accumulation has not yet led to any treatment for the neuropathic GD conditions, it could be worth trying to target the secondary accumulation of GM1 and find whether any beneficial effects are found in vivo. The results obtained here on the pharmacological treatment of patients' cells carrying mutations that can affect either the stability of GCase (L444P) or the functionality of its active (R131C) might help in the future to establish personalized drug treatments for patients according to their mutations."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 389.6,
+      "minX": 166,
+      "maxY": 462.4,
+      "maxX": 561,
+      "page": 9
+    }],
+    "text": "Fibroblast samples were obtained from the \"Cell Line and DNA Biobank from Patients Affected by Genetic Diseases\" (G. Gaslini Institute)\u2014Telethon Genetic Biobank Network. The isolated skin fibroblasts from patients were cultured in Dulbecco's Modified Eagle's Medium with 10% foetal bovine serum and 1% penicillin/streptomycin antibiotics solution. The fibroblasts were characterized at the genetic and biochemical level. Their details are presented in Table 1."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 189.1,
+      "minX": 165.9,
+      "maxY": 361.6,
+      "maxX": 561,
+      "page": 9
+    }],
+    "text": "The compound CV82 was screened at a 1 mM concentration towards β-Galactosidase (β-Gal) in leukocytes isolated from healthy donors (controls). Isolated leukocytes were disrupted by sonication, and a Micro BCA Protein Assay Kit (Sigma-Aldrich, St. Louis, MO, USA) was used to determine the total protein amount for the enzymatic assay, according to the manufacturer's instructions. β-Gal activity was measured in a flat-bottomed 96-well plate. Compound-CV82 solution (3 µL), 4.29 µg/µL of leukocyte homogenate 1:10 (7 µL), and substrate 4-methylumbelliferyl β-D-Galactopyranoside (1.47 mM, 20 µL, Sigma-Aldrich) in acetate buffer (0.1 M, pH 4.3) containing NaCl (0.1 M) and sodium azide (0.02%) were incubated at 37 ◦C for 1 h. The reaction was stopped by the addition of sodium carbonate (200 µL; 0.5M, pH 10.7) containing Triton X-100 (0.0025%), and the fluorescence of 4-methylumbelliferone released by β-Gal activity was measured in a SpectraMax M2 microplate reader (λex = 365 nm, λem = 435 nm; Molecular Devices, San Jose, CA, USA). The percentage of β-Gal inhibition is given with respect to the control (Ctrl, without compound). Data are mean ± S.D. (n = 3)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.1,
+        "minX": 166,
+        "maxY": 160.5,
+        "maxX": 560.5,
+        "page": 9
+      },
+      {
+        "minY": 717.1,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 561,
+        "page": 10
+      }
+    ],
+    "text": "The fibroblasts wild type (WT) and with the p.Arg201His/p.Tyr83LeufsX8 and p.Arg201His/p.Ile51Asn mutations from juvenile GM1 patients were obtained from Meyer Children's Hospital (Firenze, Italy). Fibroblast cells (20.0 × 104) were seeded in T25 flasks with DMEM supplemented with foetal bovine serum (10%), penicillin/streptomycin (1%), and glutamine (1%) and incubated at 37 ◦C with 5% CO2 for 24 h. The medium was removed, and fresh medium containing the compound CV82 was added to the cells and incubated for 4 days. The medium was removed, and the cells were washed with PBS and detached with trypsin to obtain cell pellets, which were washed four times with PBS, frozen, and lysed by sonication in water. Enzyme activity was measured as reported above. Reported data are mean ± S.D. (n = 2)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Molecules 2024, 29, 453 10 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 492.5,
+      "minX": 165.9,
+      "maxY": 689.2,
+      "maxX": 560.5,
+      "page": 10
+    }],
+    "text": "Fibroblasts from the wild-type (WT) control and from GD patients carrying c.1226A>G (N370S)/RecNcil, c.1448T>C (L444P) and c.508C>T p. (R131C) mutations were plated in 12-well plates containing glass coverslips at a 30,000 cells/well density. Twenty-four hours after plating, the cells were fixed with 4% PFA, rinsed with PBS (+MgCl2 0.5 mM, +CaCl2 0.8 mM) and permeabilized with 0.075% Triton X. After rinsing with PBS and blocking with 4% BSA PBS, cells were incubated for 45 min with rabbit polyclonal anti-Glc 0.02% NaN3 (RAS0010, Glycobiotech, Kükels, Germany, diluted at 1:250) or 10 µg/mL Cholera Toxin B subunit\u2014Fluorescein isothiocyanate conjugate (CTXb-FITC, Sigma-Aldrich Merck, Burlington, MA, USA) primary antibodies to stain GlcCer and GM1, respectively. After washing the coverslips with PBS, cells were incubated for 40 min with the secondary antibody Alexa 568 anti-rabbit (Invitrogen, diluted at 1:500). The coverslips were then washed with PBS and water and mounted on a glass slide. Cell imaging was performed on a Nikon Eclipse TE300 C2 confocal microscope (Nikon, Tokyo, Japan) equipped with a Nikon 100× immersion oil objective (Apo Plan, NA 1.4), with Melles Griot (Argon 488 nm) and Coherent (Sapphire 561 nm) lasers. Emission filters for imaging were 514/30 nm and 595/60 nm."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 176.7,
+      "minX": 165.9,
+      "maxY": 463,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "Fibroblasts from the wild-type (WT) control and from GD patients carrying c.1226A>G (N370S)/RecNcil, c.1448T>C (L444P) and c.508C>T p. (R131C) mutations were plated in 12-well plates at a 30,000 cells/well density. Twenty-four hours after plating, the cells were harvested and washed with PBS. A BD Cytofix/CytopermTM Fixation/Permeabilization Solution kit (BD Biosciences, Lake Franklin, NJ, USA) was used for fixation and permeabilization according to the manufacturer's instructions. Then, fibroblasts were incubated with 10 µg/mL of rabbit polyclonal anti-Glc (diluted at 1:500) or 10 µg/mL of FITC-CTXb primary antibodies prepared in a 1× BD Perm/Wash buffer for 40 min at room temperature. After washing with 1× BD Perm/Wash buffer, cells were incubated with the secondary antibody Alexa 568 anti-rabbit (diluted at 1:500) for 30 min at room temperature. After washing with a 1× BD Perm/Wash buffer, the samples were analysed on a Accuri C6 flow cytometer (BD Biosciences, Lake Franklin, NJ, USA). Data were analysed using the free Flowing software (Version 2.5.1 downloadable at https://flowingsoftware.com/ or https://bioscience.fi/services/cell-imaging/flowing-software/ from Cell Imaging and Cytometry Core, Turku Bioscience Centre, Turku, Finland). The fibroblasts were identified by side-scattered (SSC) and forward-scattered (FSC) light. The GlcCer and GM1 were quantified by the median fluorescence intensity (MFI) of the cellular population labelled with the corresponding markers. For the treatment with CV82, fibroblasts from GD patients were plated in 12-well plates at a 20,000 cells/well density. Twenty-four hours after plating, the cells were washed with PBS and incubated with three concentrations of CV82 (10 µM, 1 µM, and 100 nM), previously solubilized in distilled H2O. After 4 days, cells were harvested, washed with PBS, fixed, and permeabilized as reported above and analysed with flow cytometry."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76,
+        "minX": 166.4,
+        "maxY": 148.9,
+        "maxX": 561,
+        "page": 10
+      },
+      {
+        "minY": 729.7,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 11
+      }
+    ],
+    "text": "The confocal-microscopy data were expressed as mean ± standard deviation (S.D.). Statistical significance was evaluated using Student's test for both confocal-microscopy and flow-cytometry data, as we were interested in finding whether our method could discern unaffected and affected patients. A p-value lower than 0.05 was considered to be statistically significant. The single (*), double (**), and triple (***) asterisks refer to p-values lower than 0.05, 0.01, and 0.001, respectively. Statistical analysis was performed using the KaleidaGraph software (version 4.4.1). The minimum numbers of cells analysed are indicated in their respective legends."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 11
+    }],
+    "text": "Molecules 2024, 29, 453 11 of 12"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.6,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 12
+    }],
+    "text": "Molecules 2024, 29, 453 12 of 12"
+  }}
+]}

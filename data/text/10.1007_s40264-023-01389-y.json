@@ -1,0 +1,1100 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 632.9,
+      "minX": 51,
+      "maxY": 683.7,
+      "maxX": 499.4,
+      "page": 1
+    }],
+    "text": "Validation of a Novel Method to Assess the Clinical Quality of Information in Pregnancy\u2011Related Pharmacovigilance Case Reports: A ConcePTION Project"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 591.9,
+      "minX": 51,
+      "maxY": 615.1,
+      "maxX": 516,
+      "page": 1
+    }],
+    "text": "Yrea R. J. van Rijt\u2011Weetink1,2 · Toine C. G. Egberts3,4 · Florence P. A. M. van Hunsel1,2 · David J. Lewis5,6 · Laura M. Yates7,8 · Ursula Winterfeld9 · Eugène P. van Puijenbroek1,2"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 526,
+      "minX": 51,
+      "maxY": 533.2,
+      "maxX": 89.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 236.5,
+      "minX": 51,
+      "maxY": 520.7,
+      "maxX": 544.8,
+      "page": 1
+    }],
+    "text": "Background To assess the causal relationship between a medicinal product and a reported event, relevant information needs to be present. Information elements for assessing cases of exposure to medicinal products during pregnancy were predefined and used in a new tool to assess the quality of information. However, the extent in which the presence or absence of these predefined information elements is associated with the overall clinical quality of these cases, as evaluated by pharmacovigilance experts, remains uncertain. Objective We aimed to validate a novel method to assess the clinical quality of information in real-world pregnancy pharmacovigilance case reports. Methods The clinical quality of case reports regarding medicinal product exposure and pregnancy-related outcomes was appraised from spontaneous reports, literature, Teratology Information Services (UK and Switzerland), The Dutch Pregnancy Drug Register, the Gilenya pregnancy registry and the Enhanced PV programme of Novartis. Assessment was done by means of the novel standardised tool based on the presence and relevance of information, and by expert judgement. The novel tool was validated compared to the expert assessment as the gold standard expressed as the area under the receiver operating characteristic curves, after which the sensitivity and specificity were calculated using cross-tabulations. Inter-rater variability was determined by means of weighted Cohen's kappa. Results One hundred and eighty-six case reports were included. The clinical quality score as assessed by the novel method was divided into three categories with cut-off values of 45% (poor to intermediate) and 65% (intermediate to excellent). Sensitivity was 0.93 and 0.96 for poor to intermediate and intermediate to excellent, respectively. Specificity was respectively 0.52 and 0.73. Inter-rater variability was 0.65 (95% confidence interval 0.53\u20130.78) for the newly developed approach, and 0.40 (95% confidence interval 0.28\u20130.52) for the gold standard assessment. Conclusions The tool described in this study using the presence and relevance of elements of information is the first designed, validated and standardised method for the assessment of the quality of information of case reports in pregnancy pharmacovigilance data. This method confers less inter-rater variability compared with a quality assessment by experts of pregnancy-related pharmacovigilance data."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 193.4,
+      "minX": 312.5,
+      "maxY": 202.7,
+      "maxX": 359.1,
+      "page": 1
+    }],
+    "text": "Key Points"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 156.4,
+      "minX": 312.9,
+      "maxY": 177.9,
+      "maxX": 530.1,
+      "page": 1
+    }],
+    "text": "We validated a novel method for the assessment of the quality of pregnancy pharmacovigilance data."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 125.7,
+      "minX": 312.9,
+      "maxY": 147.3,
+      "maxX": 541.8,
+      "page": 1
+    }],
+    "text": "This approach shows less inter-rater variability compared with a quality assessment by experts."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 63.1,
+      "page": 2
+    }],
+    "text": "262"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 724,
+      "minX": 51,
+      "maxY": 732.6,
+      "maxX": 131.3,
+      "page": 2
+    }],
+    "text": "1 Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 409.4,
+      "minX": 51,
+      "maxY": 705.9,
+      "maxX": 289.3,
+      "page": 2
+    }],
+    "text": "As pregnant women are almost never included in clinical studies, the information regarding the safety of medicinal product exposure during pregnancy is mainly dependent on the reporting of experiences with exposure to these products in the real world. Several different data collection methods specifically aimed at the collection of safety information are currently in use to capture and analyse reports on risks associated with medicinal products used during pregnancy [1]. For example, individual case safety reports (ICSRs) are collected by national pharmacovigilance centres and marketing authorisation holders (MAHs), and then forwarded to the European Medicines Agency and the World Health Organization collaborating centre, the Uppsala Monitoring Centre [2, 3]. In the post-marketing phase, ICSRs can be reported spontaneously, solicited or based on cases published in the literature. Furthermore, Teratology Information Services (TIS), pregnancy registries or MAH-initiated enhanced pharmacovigilance programmes (in which spontaneously reported pregnancies are followed, using amongst others a structured follow-up data collection at set intervals) gather and analyse pregnancy data with the purpose of increasing the knowledge about the safety of medicinal product exposure during pregnancy [4\u20136]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 121.9,
+      "minX": 51,
+      "maxY": 405.9,
+      "maxX": 289.6,
+      "page": 2
+    }],
+    "text": "A significant challenge in pharmacovigilance is to assess the likelihood that the medicinal product caused or contributed to the occurrence of the event experienced by the patient, i.e. causality assessment. In order to assess the possibility of a causal relationship between exposure to a medicinal product during pregnancy and an adverse pregnancy outcome, it is important that the underlying data (raw variables) and information (processing and interpretation of raw data), in individual case reports and case series, are both present and of high quality [7]. Therefore, in order to establish reliably whether there is a causal relationship between a medicinal product and a reported event, relevant information for the causality assessment needs to be present. A case report with many relevant elements of information containing the appropriate meaningful information is considered to have a high clinical quality of information. Whereas a report with only little information present that is relevant to assessing the causal relationship is considered to have a low clinical quality of information, even if other details not relevant to the particular event under assessment are well reported. Which information is relevant is dependent on the reported association of a medicinal product and a pregnancy-related outcome."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 84.4,
+        "minX": 51,
+        "maxY": 118.4,
+        "maxX": 289.1,
+        "page": 2
+      },
+      {
+        "minY": 523.4,
+        "minX": 306.1,
+        "maxY": 732.4,
+        "maxX": 544.3,
+        "page": 2
+      }
+    ],
+    "text": "In the past, various approaches were developed to assess the completeness of ICSRs, including VigiGrade, developed by the Uppsala Monitoring Centre [2]. Unfortunately, these methods do not take the relevance of information into account and base their assessment only on completeness of certain variables. An exception is the instrument designed for the assessment of the clinical quality of the information, developed by Pharmacovigilance Centre Lareb [8]. All aforementioned approaches were however not specifically designed for pregnancy data, which requires information that may differ substantially from the information needed for a non-pregnancy-related causality assessment. In the context of general pharmacovigilance, information concerning the suspected medicinal product, the event, the timing and alternative explanations is generally important. Additionally, in the context of pregnancy-related pharmacovigilance, information concerning both the mother and child needs to be taken into account, and the nature of the medicinal product\u2013event association may differ substantially for various clinical scenarios."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 335.9,
+      "minX": 306.1,
+      "maxY": 519.9,
+      "maxX": 544.8,
+      "page": 2
+    }],
+    "text": "In a previous study, we identified important elements needed to assess the clinical quality of information for a risk assessment of medicinal products used during pregnancy, by means of two surveys and two focus group discussions amongst pregnancy pharmacovigilance experts [9]. However, it is still unknown how the presence or absence of these selected information elements in case reports relate to the overall actual clinical quality of the reports for assessment of the causal relationship of a specific reported association as assessed by pregnancy pharmacovigilance experts. Therefore, the aim of the current study was to validate the previously described method to assess the clinical quality of information in real-life pregnancy pharmacovigilance case reports, based on the presence of elements of information relevant to the particular outcome reported."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 300.5,
+      "minX": 306.1,
+      "maxY": 309.1,
+      "maxX": 366.1,
+      "page": 2
+    }],
+    "text": "2 Methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 273.3,
+      "minX": 306.1,
+      "maxY": 283.4,
+      "maxX": 412.7,
+      "page": 2
+    }],
+    "text": "2.1 Setting and Design"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 125.5,
+      "minX": 306.1,
+      "maxY": 257.4,
+      "maxX": 544.7,
+      "page": 2
+    }],
+    "text": "This study is part of Work Package 2 of the IMI-funded ConcePTION project, in which national pharmacovigilance centres, MAHs and TIS centres collaborated in optimising the collection, analysis and interpretation of reported pregnancy pharmacovigilance data [10]. The clinical quality of case reports regarding medicinal product exposure during pregnancy was assessed by means of the newly developed tool and by expert judgement [9]. In the current study, this tool was trained and subsequently validated in comparison to expert assessment (Fig. 1). All steps are discussed in more detail below."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 3
+    }],
+    "text": "Validation of a Novel Method for Assessing the Clinical Quality of Pregnancy Data 263"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 654.9,
+      "minX": 51,
+      "maxY": 732.6,
+      "maxX": 159.8,
+      "page": 3
+    }],
+    "text": "Fig. 1 Flow chart of the study design in which the novel method was trained and subsequently validated for the quality assessment of information of case reports in pregnancy pharmacovigilance data. ROC receiver operating characteristic"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 489.1,
+      "minX": 51,
+      "maxY": 497,
+      "maxX": 140.4,
+      "page": 3
+    }],
+    "text": "2.2 Data Collection"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 287,
+      "minX": 51,
+      "maxY": 471,
+      "maxX": 289.3,
+      "page": 3
+    }],
+    "text": "The following data sources each provided 30 randomly selected, full case reports: spontaneous reports and case reports from the literature from the Dutch national spontaneous reporting database (the Netherlands Pharmacovigilance Centre Lareb) [11]; TIS reports from both the Swiss TIS centre and the UK TIS centre [4]; pregnancy registry reports from The Dutch Pregnancy Drug Register (Lareb) [6] and the Gilenya (fingolimod) Pregnancy Registry (Novartis) [12]; and enhanced pharmacovigilance programme reports from the global Argus Safety database (Novartis) [5]. All information available in each report was extracted, except personal details or other details that could not be shared because of privacy reasons. These details were blacked out (redacted) in order to distinguish between missing (null) and hidden (masked) information."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 251.6,
+        "minX": 51,
+        "maxY": 283.5,
+        "maxX": 289.3,
+        "page": 3
+      },
+      {
+        "minY": 162,
+        "minX": 51,
+        "maxY": 233.5,
+        "maxX": 259.3,
+        "page": 3
+      }
+    ],
+    "text": "Thirty case reports were randomly selected from each data source, with a minimum of four case reports per clinical scenario. The clinical scenarios were: 1. Pregnancy loss; 2. Congenital anomalies or chromosomal defects; 3. Foetal or neo-natal complications; 4. Infant or child complications; 5. Maternal pregnancy-related complications; and 6. Absence of adverse outcomes or complications."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.5,
+      "minX": 51,
+      "maxY": 146,
+      "maxX": 289.1,
+      "page": 3
+    }],
+    "text": "The same selection of clinical scenarios was used for the development of the elements of information in a previous study [9]. If a data source did not contain at least four case reports from a clinical scenario, substitution with an additional case report from another randomly selected category was possible."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 325.3,
+      "minX": 306.1,
+      "maxY": 496.8,
+      "maxX": 544.4,
+      "page": 3
+    }],
+    "text": "Case reports had to be completed or closed within the timeframe of 1 December, 2019 to 31 December, 2020, and had to be associated with medicinal product exposure during pregnancy. Both prospective (reported prior to the outcome being known) and retrospective case reports (reported after the pregnancy outcome became available) were included, although it was required that a possible pregnancy complication or outcome with a temporal association to a medicinal product was present. Adverse and healthy pregnancy and/or child outcomes were eligible for inclusion. Exclusion criteria included reports related to drug exposure during breast feeding only, paternal drug exposure, non-pregnancy related complications of the mother, and delivery or post-partum complications of the mother only."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 250.3,
+      "minX": 306.1,
+      "maxY": 321.8,
+      "maxX": 544.4,
+      "page": 3
+    }],
+    "text": "All case reports were blinded for the data source, by reformatting the data to a standardised layout, and by replacing any details that may have revealed the origin of the case reports with equivalent anonymised information (e.g. geographical references, non-English terminology). Finally, the order of all case reports was randomised."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 218.4,
+      "minX": 306.1,
+      "maxY": 228.6,
+      "maxX": 450.6,
+      "page": 3
+    }],
+    "text": "2.3 Clinical Quality Assessment"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 156.2,
+      "minX": 305.4,
+      "maxY": 202.7,
+      "maxX": 544.3,
+      "page": 3
+    }],
+    "text": "The clinical quality of the case reports was assessed in two ways: by means of the newly developed method based on the presence and relevance of information, and by expert judgement [9]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 114.1,
+      "minX": 306.1,
+      "maxY": 133.8,
+      "maxX": 538.8,
+      "page": 3
+    }],
+    "text": "2.3.1 Novel Method Based on the Presence and Relevance of Information"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.5,
+        "minX": 306.1,
+        "maxY": 96,
+        "maxX": 544.2,
+        "page": 3
+      },
+      {
+        "minY": 713.9,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.1,
+        "page": 4
+      },
+      {
+        "minY": 437.2,
+        "minX": 51,
+        "maxY": 695.8,
+        "maxX": 289.8,
+        "page": 4
+      },
+      {
+        "minY": 388.9,
+        "minX": 51,
+        "maxY": 433.3,
+        "maxX": 289.2,
+        "page": 4
+      }
+    ],
+    "text": "In a previous study, elements deemed necessary for assessing the quality of information in pregnancy-related pharmacovigilance case reports were determined [9]. A total of 21 elements of information were selected: 1. Association (one element): information on the combination of the medicinal product\u2013event combination. This information is always required to assess the causal relationship. 2. Event details (three elements): information regarding the event under investigation is important to confirm the diagnosis and to provide insight into the development of the event over time. 3. Medicinal product exposure details [4]: variables that provide more details about the timing, route of administration and indication of the suspect product. Additionally, co-medication and supplements are described in this category. 4. Maternal factors (three elements): information on the characteristics of the mother that could affect the event is described in this category. 5. Pregnancy (three elements): information on previous pregnancies and the current pregnancy that could provide more detail or affect the event are included in this category. 6. Labour (three elements): information related to labour is included in this category. 7. Child (four elements): information about the child and characteristics that could affect or (partially) explain the event is described."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 63.1,
+      "page": 4
+    }],
+    "text": "264"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 611.8,
+      "minX": 306.2,
+      "maxY": 733.3,
+      "maxX": 544.8,
+      "page": 4
+    }],
+    "text": "The previously selected elements of information [9] were assessed for both relevance and the presence of meaningful information. The clinical quality was expressed as the number of present and relevant elements divided by the number of relevant elements, ×100 (Table 1). For example, for a specific association, only 16 out of 21 information elements might be relevant, whereafter the presence of the information in those elements is assessed. If 12 out of those 16 relevant information elements is present, the clinical quality is 75%."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 399.3,
+      "minX": 306.2,
+      "maxY": 608.3,
+      "maxX": 544.4,
+      "page": 4
+    }],
+    "text": "For the clinical quality assessment of the case reports, six pregnancy pharmacovigilance experts were recruited within Pharmacovigilance Centre Lareb, over whom the reports were divided. For each case report, the assessors were asked to mark which information elements they considered to be relevant if they were to perform a causality assessment of that specific combination of exposure and outcome, and for which of those elements the required information was available. The assessors did not perform a causality assessment, they marked the elements of information that they considered relevant if they were to perform a causality assessment. The clinical quality was calculated as a percentage of the number of available information elements in relation to the number of considered relevant information elements. Reports were assessed by two different assessors. A final assessment was agreed upon via consultation of the two assessors."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "Validation of a Novel Method for Assessing the Clinical Quality of Pregnancy Data 265"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 724.4,
+      "minX": 51,
+      "maxY": 733.4,
+      "maxX": 216.2,
+      "page": 5
+    }],
+    "text": "2.3.2 Expert Assessment (Gold Standard)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 451.3,
+      "minX": 51,
+      "maxY": 708.2,
+      "maxX": 289.6,
+      "page": 5
+    }],
+    "text": "Eighty-one pregnancy pharmacovigilance experts of Work Package 2 of the IMI-funded ConcePTION project [10] and the ISoP special interest group of women's medicines [13] were asked to participate in the comparative expert assessment of the clinical quality of a set of cases, in a questionnaire performed in the preceding study [9]. Twenty assessors were recruited. Assessors were asked to grade the quality of the case reports for the purpose of assessing the causal relationship between the suspected medicinal product and outcome (clinical quality) on a four-point scale: poor, moderate, good, excellent. They were asked to grade the quality on personal judgement only and thus did not have the quality criteria of the novel method available, but were guided on the definitions in four reference categories of poor, moderate, good, and excellent clinical quality (< 50%, < 75%, < 90%, ≥ 90% of necessary information present, respectively). All reports were assessed by two different assessors from different organisations. In case of divergence, the two assessments were sent to a third assessor who decided on the final assessment."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 411.5,
+      "minX": 51,
+      "maxY": 421.6,
+      "maxX": 132.1,
+      "page": 5
+    }],
+    "text": "2.4 Data Analysis"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 386.8,
+      "minX": 51,
+      "maxY": 395.9,
+      "maxX": 134,
+      "page": 5
+    }],
+    "text": "2.4.1 Training Phase"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 224.2,
+      "minX": 51,
+      "maxY": 370.7,
+      "maxX": 289.3,
+      "page": 5
+    }],
+    "text": "A random subset of half of the included case reports was selected to use for the training of the method. In the training phase, the parameters of a method are tuned, meaning that the cut-off percentages of the categorisation of the clinical quality were determined. For this, receiver operating characteristic (ROC) curves [14] were constructed of our novel standardised tool versus an expert assessment, for the transitions of poor to moderate, moderate to good and good to excellent. The areas under the curve (AUCs) were calculated. Cut-off percentages of the categories were determined subjectively based on the optimal balance between sensitivity and specificity determined by the ROC curves."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 188.8,
+      "minX": 51,
+      "maxY": 195.9,
+      "maxX": 142,
+      "page": 5
+    }],
+    "text": "2.4.2 Validation Phase"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.2,
+        "minX": 51,
+        "maxY": 170.7,
+        "maxX": 289.3,
+        "page": 5
+      },
+      {
+        "minY": 711.8,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.3,
+        "page": 5
+      }
+    ],
+    "text": "In the validation phase, the performance of the fully tuned method was determined using the other half of the included case reports. Therefore, the clinical quality was categorised by the cut-off values as determined. Definitive sensitivity and specificity were calculated using cross-tabulations of the novel method versus the expert assessment. Inter-rater variability was calculated for both methods by Cohen's kappa (weighted) on the total dataset [15]. An overview of cases used in both the training and validation phase can be found in the Electronic Supplementary Material (ESM)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 676.4,
+      "minX": 306.1,
+      "maxY": 685,
+      "maxX": 357.4,
+      "page": 5
+    }],
+    "text": "3 Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 624.7,
+      "minX": 306.1,
+      "maxY": 658.3,
+      "maxX": 544.4,
+      "page": 5
+    }],
+    "text": "In total, 186 case reports were included, of which 93 were included in the training phase and 93 in the validation phase (Table 2)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 599.2,
+      "minX": 306.1,
+      "maxY": 609.2,
+      "maxX": 363.4,
+      "page": 5
+    }],
+    "text": "3.1 Training"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 388.9,
+      "minX": 306.1,
+      "maxY": 583.3,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "Figure 2 shows the ROC curves of the assessment of clinical quality using the novel method versus the expert assessment, in the four reference categories that were provided to the assessors. The blue line represents the transition from poor to moderate, with an AUC of 0.95 (95% CI 0.89\u20131.00). Red represents the transition from moderate to good, with an AUC of 0.92 (95% CI 0.86\u20130.95) and black represents the transition from good to excellent, with an AUC of 0.88 (95% CI 0.80\u20130.95). Based on the sensitivity and specificity as reflected by the curves and the size of the categories, it was determined that three, rather than four categories would suffice. Moderate and good were therefore combined into one category 'intermediate' with cut-off values of 45% (poor to intermediate) and 65% (intermediate to excellent). The tables of the coordinates of the ROC curves can be found in the ESM."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 363.9,
+      "minX": 306.1,
+      "maxY": 371.7,
+      "maxX": 372.6,
+      "page": 5
+    }],
+    "text": "3.2 Validation"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 186.8,
+      "minX": 306.1,
+      "maxY": 345.8,
+      "maxX": 544.4,
+      "page": 5
+    }],
+    "text": "During the validation phase, the three established categories of poor, intermediate and excellent were used. Sensitivity and specificity were calculated on the second half of the assessed case reports (Table 3). Sensitivity (true positive rate) was 0.93 and 0.96 for poor to intermediate and intermediate to excellent, respectively. Specificity (true negative rate) was respectively 0.52 and 0.73. Inter-rater variability was calculated by means of the weighted Cohen's kappa, with 0 indicating no agreement and 1 indicating perfect agreement, and was 0.65 (95% CI 0.53\u20130.78) for the novel method (after division into final categories), and 0.40 (95% CI 0.28\u20130.52) for the expert assessment (after combining 'moderate' and 'good' into one category 'intermediate')."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 151.4,
+      "minX": 306.1,
+      "maxY": 159.9,
+      "maxX": 375.8,
+      "page": 5
+    }],
+    "text": "4 Discussion"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 126.4,
+      "minX": 306.1,
+      "maxY": 134.4,
+      "maxX": 479.8,
+      "page": 5
+    }],
+    "text": "4.1 Performance of the Novel Method"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 108.3,
+        "maxX": 544.4,
+        "page": 5
+      },
+      {
+        "minY": 174.4,
+        "minX": 306.1,
+        "maxY": 395.9,
+        "maxX": 544.5,
+        "page": 6
+      }
+    ],
+    "text": "This study provides a novel validated and standardised method for the assessment of information in case reports in pregnancy-related pharmacovigilance data, with a sensitivity of 0.93 (poor to intermediate) and 0.96 (intermediate to excellent) and a specificity of 0.52 (poor to intermediate) and 0.73 (intermediate to excellent). A requirement for the use of this method is that the medicinal product\u2013event association is present in the case report. In the case of absence of the association, for example, in the case where no medicinal product or pregnancy outcome is reported, the case report is unusable for a causality assessment, independent of the presence and relevance of the other elements of information. Individual case safety reports should not be submitted to the competent authorities if the association is missing [16], but TIS centres, MAHs and registries collect reports without a known adverse pregnancy outcome or complication. In the training and validation phase of this study, the medicinal product name and the outcome or complication of interest were present in all included reports. In reports used in practice, the information described may be unclear or ambiguous."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 63.1,
+      "page": 6
+    }],
+    "text": "266"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 75.3,
+      "minX": 51,
+      "maxY": 111.2,
+      "maxX": 289.1,
+      "page": 6
+    }],
+    "text": "Fig. 2 Receiver operating characteristic (ROC) curves of clinical quality assessments versus expert assessment, in four categories. Blue = poor to moderate, red = moderate to good, black = good to excellent."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 306.1,
+        "maxY": 171.1,
+        "maxX": 544.4,
+        "page": 6
+      },
+      {
+        "minY": 513.9,
+        "minX": 51,
+        "maxY": 533.6,
+        "maxX": 289.1,
+        "page": 7
+      }
+    ],
+    "text": "Of all items mentioned in Table 1, 73.7% were considered relevant and included in the calculation of the scores. In the training set, 23.9 % of the items were considered relevant but were not present; 46.1% of the items were considered relevant and were also present, and 30.0 % of the items were considered irrelevant. This is comparable to the validation set, in which 29.5 % of the items were considered relevant but were not present; 44.1% of the items were considered relevant and were also present, and 26.3 % of the items were considered irrelevant."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 7
+    }],
+    "text": "Validation of a Novel Method for Assessing the Clinical Quality of Pregnancy Data 267"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 351.5,
+      "minX": 51,
+      "maxY": 508.4,
+      "maxX": 289.3,
+      "page": 7
+    }],
+    "text": "Compared with a pregnancy pharmacovigilance expert assessment, the inter-rater variability is increased from 0.40 (fair) to 0.65 (substantial) by using the novel method based on the presence and relevance of information [15]. In general, at least substantial agreement (κ > 0.6) is considered to be necessary for acceptable reliability [17]. This desired level of agreement is achieved with the novel method, wherein the two assessors scored 66.7% of case reports in the same category, with only 2.0% of case reports rated as poor by one assessor and excellent by the other. For the expert assessment, these numbers were 50.5% for the same category, and 2.7% for poor by one, and excellent by the other."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 326.5,
+      "minX": 51,
+      "maxY": 334.3,
+      "maxX": 128.9,
+      "page": 7
+    }],
+    "text": "4.2 Practical Use"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 236.9,
+      "minX": 51,
+      "maxY": 308.4,
+      "maxX": 289.2,
+      "page": 7
+    }],
+    "text": "High-quality data collection leads to a more reliable risk assessment, and thereby to improved signal detection and characterisation [8, 18]. A standardised method of assessing the quality contributes to the transparency and reproducibility and ensures a uniform method of assessing a problem, considering all relevant aspects."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.4,
+      "minX": 51,
+      "maxY": 233.4,
+      "maxX": 289.6,
+      "page": 7
+    }],
+    "text": "In order to improve the clinical quality of information that is collected, it is important to understand the characteristics of the current data, and the most important data elements required for a clinical assessment (i.e. the clinical context). Knowledge of the clinical quality of reports included in any signal detected would provide insight into the reliability of the assessment of the causal relationship of that signal. A signal consisting of fewer case reports with excellent clinical quality could be of more value and weight when compared with a signal consisting of more case reports with poor clinical quality. Furthermore, this method could be implemented to identify points of improvement for clinical quality, both in research settings and as good pharmacovigilance practice."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 361.9,
+      "minX": 306.1,
+      "maxY": 533.4,
+      "maxX": 544.8,
+      "page": 7
+    }],
+    "text": "When reports from a specific data source consistently lack a certain relevant information element, while reports from another source consistently collect that element, knowledge gained from the one source can be used to improve the collection of the other source. In other words, if one source collects an information element very well, their method of collection might be implemented in a source that has more difficulty collecting that information element. This of course also applies to comparisons for reporters and reports regarding different clinical scenarios. In the process of general pharmacovigilance, the clinical quality of reports could be optimised by identifying which additional information should be collected in the process of collecting follow-up data from the reporters."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 286.9,
+      "minX": 306.1,
+      "maxY": 358.4,
+      "maxX": 544.3,
+      "page": 7
+    }],
+    "text": "The number of ICSRs analysed in this study is too small to draw firm conclusion on differences between the various sources in the score for clinical scenarios, although it is likely that some differences might exist. In the next study, we aim to study differences among various sources and will highlight these differences in more detail."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 76.4,
+      "minX": 306.1,
+      "maxY": 283.4,
+      "maxX": 544.6,
+      "page": 7
+    }],
+    "text": "In the majority of cases, the goal of reporting ICSRs is to assess the causal relationship between an adverse drug reaction and the exposed drug. In pregnancy pharmacovigilance, however, information on cases without an adverse outcome also contributes to the knowledge of a drug's safety. A sufficient number of cases without an adverse outcome will make the absence of a detrimental effect more likely. This category substantially differs from the other categories of ICSRs related to exposure during pregnancy. It should be noted that, similar to cases with adverse outcomes, factors such as (occupational) exposure to other potential teratogens, pregnancy, labour and development of the child contribute to a better understanding of the circumstance under which the exposure took place. The advantage of this novel method is its versatile character, which allows a tailor-made assessment for various clinical scenarios, including cases without adverse outcomes."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 63.1,
+      "page": 8
+    }],
+    "text": "268"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 723.4,
+      "minX": 51,
+      "maxY": 733.4,
+      "maxX": 104.2,
+      "page": 8
+    }],
+    "text": "4.3 Setting"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 575.6,
+      "minX": 51,
+      "maxY": 707.5,
+      "maxX": 289.3,
+      "page": 8
+    }],
+    "text": "Previous methods designed to assess the completeness or quality of case reports did not fulfil the requirements to quantify the clinical quality of pregnancy data specifically [2, 8]. First, because these methods were only validated on ICSRs, while ICSRs are only one of the many pregnancy pharmacovigilance data collection sources that are used in daily practice [1]. Second, and more importantly, because these methods were designed for adverse drug reactions in general, while reports on pregnancy data differ greatly from general reports in the type of information needed for a risk assessment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 348.5,
+      "minX": 51,
+      "maxY": 570,
+      "maxX": 289.5,
+      "page": 8
+    }],
+    "text": "This novel method based on the presence and relevance of information was designed to account for important information for a causality assessment, namely relevance, completeness and precision [8, 19]. The first step is to assess which information is relevant for the evaluation of a possible causal relationship between the medicinal product and the reported event. In this way, redundant information in the assessment will not result in an overestimation of the clinical quality. In the second step, all relevant information is assessed on its presence, consisting of both completeness and preciseness. This prevents the overestimation of the clinical quality due to irrelevant, ambiguous or unclear information. A characteristic of this tool is that the assessment of the clinical quality using this method requires expertise in the field of pregnancy pharmacovigilance. For example, an assessor should have the knowledge to determine relevant risk factors for a specific association, in order to assess whether all necessary information is present."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 323.4,
+      "minX": 51,
+      "maxY": 333.5,
+      "maxX": 189.1,
+      "page": 8
+    }],
+    "text": "4.4 Strengths and Limitations"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.5,
+        "minX": 51,
+        "maxY": 307.5,
+        "maxX": 289.3,
+        "page": 8
+      },
+      {
+        "minY": 499.3,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.4,
+        "page": 8
+      }
+    ],
+    "text": "The designed method was validated in a multitude of relevant data sources and clinical scenarios. Seven pregnancy pharmacovigilance data collection sources were selected, which include most of the available primary data sources for this purpose. For data sources that were believed to possibly differ between centres or study designs, such as TIS centres and pregnancy or drug registries, multiple centres or studies were included. The included clinical scenarios (pregnancy loss, congenital anomalies or chromosomal defects, foetal or neo-natal complications, infant or child complications, maternal pregnancy-related complications, and no adverse outcomes or complications) were based on the similarity between the profiles of information elements that are necessary for a risk assessment. This method was not validated for the assessment of the clinical quality of reports regarding, for example delivery complications, clinical scenarios related to paternal medicinal product exposure during the periconceptional period, clinical scenarios related to the use of medicinal products during breastfeeding, and maternal non-pregnancy-related complications. The latter scenario could be assessed using the instrument for the assessment of the clinical quality of information designed by Pharmacovigilance Centre Lareb, which was not designed for pregnancy data specifically, while for the other three scenarios an adapted version of the method described in this study would have to be designed [8]. For the clinical scenarios related to paternal medicinal product exposure during the periconceptional period, the proportion of cases related to paternal exposure is rather low. Currently, the selection and assessment of cases of paternal exposure are complicated, as both maternal and paternal factors play a role. Developing an extensive list of additional elements related to paternal exposure would be necessary. For this reason, this category was not taken into account. Additionally, the scenario 'infant or child complications' was vastly under-represented in the current dataset (Table 2). This was owing to the fact that these events are often more difficult to capture because of a limited follow-up period."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 361.8,
+      "minX": 306.1,
+      "maxY": 495.8,
+      "maxX": 544.3,
+      "page": 8
+    }],
+    "text": "All cases were randomised and blinded for assessment, so that it was as difficult as possible to determine from which data source the data were extracted. However, the medicinal product could (non-definitively) be associated with specific data sources (e.g. all cases from the Gilenya Pregnancy Registry [Novartis] and the enhanced pharmacovigilance programme [Novartis] were associated with fingolimod). Even though it is possible that other sources provided fingolimod cases, assessors most likely associated these cases with the Gilenya Pregnancy Registry and the enhanced pharmacovigilance programme."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 249.3,
+      "minX": 306.1,
+      "maxY": 358.3,
+      "maxX": 544.4,
+      "page": 8
+    }],
+    "text": "The gold standard in this study was the expert assessment. Although this method is subjective and lacks standardisation, it is the most commonly used method for a causality assessment [20]. The limitations of an expert assessment, as demonstrated by the high inter-rater variability, can be minimised by using a Delphi method [21]. In this study, a modified Delphi method was used, in which multiple experts assessed each case report, and a third expert decided on the final assessment in the case of disagreement."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 201.4,
+      "minX": 306.1,
+      "maxY": 210,
+      "maxX": 383,
+      "page": 8
+    }],
+    "text": "5 Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 183.3,
+        "maxX": 544.8,
+        "page": 8
+      },
+      {
+        "minY": 711.8,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.1,
+        "page": 9
+      }
+    ],
+    "text": "The method described in this study using the presence and relevance of elements of information is the first designed, validated and standardised method for the assessment of the quality of information of case reports in pregnancy pharmacovigilance data. It provides a method with less inter-rater variability compared with a quality assessment by experts of pregnancy-related pharmacovigilance data. In future studies, this method can be used for the comparison of the clinical quality of different pregnancy data collection sources, which may facilitate the improvement of pregnancy pharmacovigilance data collection in general."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 9
+    }],
+    "text": "Validation of a Novel Method for Assessing the Clinical Quality of Pregnancy Data 269"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 601.4,
+      "minX": 51,
+      "maxY": 609.2,
+      "maxX": 108.9,
+      "page": 9
+    }],
+    "text": "Declarations"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 634.4,
+      "minX": 306.1,
+      "maxY": 643.2,
+      "maxX": 365,
+      "page": 9
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 520.2,
+      "minX": 309.7,
+      "maxY": 617.8,
+      "maxX": 544.3,
+      "page": 9
+    }],
+    "text": "1. Benevent J, Montastruc F, Damase-Michel C. The importance of pharmacoepidemiology in pregnancy-implications for safety. Expert Opin Drug Saf. 2017;16(10):1181\u201390. 2. Bergvall T, Norén GN, Lindquist M. VigiGrade: a tool to identify well-documented individual case reports and highlight systematic data quality issues. Drug Saf. 2014;37(1):65\u201377. 3. European Medicines Agency. EudraVigilance. https://www.ema. europa.eu/en/human-regulatory/research-development/pharm acovigilance/eudravigilance. Accessed 15 Nov 2023. 4. European Network of Teratology Information Services. ENTIS."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 310.3,
+      "minX": 306.1,
+      "maxY": 517.9,
+      "maxX": 544.4,
+      "page": 9
+    }],
+    "text": "https://www.entis-org.eu/. Accessed 15 Nov 2023. 5. Geissbühler Y, Rezaallah B, Moore A. An alternative to product-specific pregnancy registries? PRIM PRegnancy outcomes Intensive Monitoring. Reprod Toxicol. 2020;94:13\u201321. 6. Vorstenbosch S, Te Winkel B, van Gelder M, Kant A, Roeleveld N, van Puijenbroek E. Aim and design of pREGnant, the Dutch Pregnancy Drug Register. Drug Saf. 2019;42(1):1\u201312. 7. Alla F, Rosilio M, Funck-Brentano C, Barthélémy P, Brisset S, Cellier D, et al. How can the quality of medical data in pharmacovigilance, pharmacoepidemiology and clinical studies be guaranteed? Therapie. 2013;68(4):209\u201323. 8. Oosterhuis I, Rolfes L, Ekhart C, Muller-Hansma A, Härmark L. First experiences with a tool to measure the level of clinical information present in adverse drug reaction reports. Expert Opin Drug Saf. 2018;17(2):111\u20135. 9. van Rijt-Weetink YRJ, Chamani K, Egberts ACG, van Hunsel FPAM, Lewis DJ, Yates LM, et al. Elements to assess the quality of information of case reports in pregnancy pharmacovigilance data: a ConcePTION project. Front Drug Saf Regul. 2023;3:1187888. 10. ConcePTION. https://www.imi-conception.eu/. Accessed 15"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 290.3,
+      "minX": 306.1,
+      "maxY": 307.9,
+      "maxX": 544.1,
+      "page": 9
+    }],
+    "text": "Nov 2023. 11. Pharmcovigilance centre Lareb. https://lareb.nl/en/pages/about-"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 200.3,
+      "minX": 306.1,
+      "maxY": 288,
+      "maxX": 544.4,
+      "page": 9
+    }],
+    "text": "lareb/. Assessed 2 Jan 2024. 12. Geissbühler Y, Vile J, Koren G, Guennec M, Butzkueven H, Tilson H, et al. Evaluation of pregnancy outcomes in patients with multiple sclerosis after fingolimod exposure. Ther Adv Neurol Disord. 2018;11:1756286418804760. 13. The ISoP Special Interest Group on Women's Medicines. https:// isoponline.org/special-interest-groups/womens-medicinesgroup/. Accessed 15 Nov 2023. 14. Hoo ZH, Candlish J, Teare D. What is an ROC curve? Emerg"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 180.4,
+      "minX": 306.1,
+      "maxY": 198.1,
+      "maxX": 544.4,
+      "page": 9
+    }],
+    "text": "Med J. 2017;34(6):357\u20139. 15. Landis JR, Koch GG. The measurement of observer agreement"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 80.4,
+      "minX": 306.1,
+      "maxY": 178.1,
+      "maxX": 544.4,
+      "page": 9
+    }],
+    "text": "for categorical data. Biometrics. 1977;33(1):159\u201374. 16. European Medicines Agency. Guideline on good pharmacovigilance practices (GVP). Module VI: collection, management and submission of reports of suspected adverse reactions to medicinal products (Rev 2). 2017. https://www.ema.europa.eu/ en/documents/regulatory-procedural-guideline/guideline-goodpharmacovigilance-practices-gvp-module-vi-collection-manag ement-submission-reports_en.pdf. Accessed 15 Nov 2023. 17. McHugh ML. Interrater reliability: the kappa statistic. Biochem Med (Zagreb). 2012;22(3):276\u201382."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 51,
+      "maxY": 757.6,
+      "maxX": 544.3,
+      "page": 10
+    }],
+    "text": "270 Y. R. J. van Rijt-Weetink et al."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 695.6,
+      "minX": 51,
+      "maxY": 733.3,
+      "maxX": 289.2,
+      "page": 10
+    }],
+    "text": "18. Meyboom RH, Hekster YA, Egberts AC, Gribnau FW, Edwards IR. Causal or casual? The role of causality assessment in pharmacovigilance. Drug Saf. 1997;17(6):374\u201389. 19. Lindquist M. Data quality management in pharmacovigilance."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 655.7,
+      "minX": 51,
+      "maxY": 693.3,
+      "maxX": 289.3,
+      "page": 10
+    }],
+    "text": "Drug Saf. 2004;27(12):857\u201370. 20. Théophile H, Arimone Y, Miremont-Salamé G, Moore N, Four-rier-Réglat A, Haramburu F, et al. Comparison of three methods (consensual expert judgement, algorithmic and probabilistic"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 633.3,
+      "minX": 51,
+      "maxY": 642.1,
+      "maxX": 177.4,
+      "page": 10
+    }],
+    "text": "Authors and Affiliations"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 593.8,
+      "minX": 51,
+      "maxY": 617.1,
+      "maxX": 516,
+      "page": 10
+    }],
+    "text": "Yrea R. J. van Rijt\u2011Weetink1,2 · Toine C. G. Egberts3,4 · Florence P. A. M. van Hunsel1,2 · David J. Lewis5,6 · Laura M. Yates7,8 · Ursula Winterfeld9 · Eugène P. van Puijenbroek1,2"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 378.8,
+      "minX": 51,
+      "maxY": 398,
+      "maxX": 253.5,
+      "page": 10
+    }],
+    "text": "1 Pharmacovigilance Centre Lareb, Goudsbloemvallei 7, 5237 MH s-Hertogenbosch, The Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 343.7,
+      "minX": 51,
+      "maxY": 373,
+      "maxX": 249.1,
+      "page": 10
+    }],
+    "text": "2 Groningen Research Institute of Pharmacy, PharmacoTherapy, -Epidemiology and -Economics, University of Groningen, Groningen, The Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 540.8,
+      "minX": 306.1,
+      "maxY": 578.3,
+      "maxX": 511.6,
+      "page": 10
+    }],
+    "text": "3 Division of Pharmacoepidemiology and Clinical Pharmacology, Department of Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 514.6,
+      "minX": 306.1,
+      "maxY": 533.3,
+      "maxX": 529.2,
+      "page": 10
+    }],
+    "text": "4 Department of Clinical Pharmacy, University Medical Centre Utrecht, Utrecht, The Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 488.9,
+      "minX": 306.1,
+      "maxY": 508.3,
+      "maxX": 522.1,
+      "page": 10
+    }],
+    "text": "5 Global Drug Development, Novartis Pharma GmbH, Wehr, Germany"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 464.6,
+      "minX": 306.1,
+      "maxY": 483.2,
+      "maxX": 485,
+      "page": 10
+    }],
+    "text": "6 School of Life and Medical Sciences, University of Hertfordshire, Hatfield, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 448.9,
+      "minX": 306.1,
+      "maxY": 458.1,
+      "maxX": 524.5,
+      "page": 10
+    }],
+    "text": "7 University of Kwazulu-Natal, KRISP, Durban, South Africa"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 433.9,
+      "minX": 306.1,
+      "maxY": 443.1,
+      "maxX": 505.6,
+      "page": 10
+    }],
+    "text": "8 Northern Genetics Service, Newcastle-upon-Tyne, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 390.6,
+      "minX": 306.1,
+      "maxY": 428.1,
+      "maxX": 514.7,
+      "page": 10
+    }],
+    "text": "9 Swiss Teratogen Information Service and Clinical Pharmacology Service, Centre Hospitalier Universitaire Vaudois (CHUV) and University of Lausanne, Lausanne, Switzerland"
+  }}
+]}

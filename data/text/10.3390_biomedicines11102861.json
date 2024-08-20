@@ -1,0 +1,687 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 766.9,
+      "minX": 74.4,
+      "maxY": 782.6,
+      "maxX": 196.6,
+      "page": 1
+    }],
+    "text": "biomedicines"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 667.7,
+      "minX": 35,
+      "maxY": 723,
+      "maxX": 530.9,
+      "page": 1
+    }],
+    "text": "Clinical Outcomes of Patients with Chronic Neuropathic Form of Gaucher Disease in the Spanish Real-World Setting: A Retrospective Study"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 574.7,
+      "minX": 166.4,
+      "maxY": 584,
+      "maxX": 551.3,
+      "page": 1
+    }],
+    "text": "1 Pediatric Metabolic Unit, Hospital Universitario Ramón y Cajal, European Reference Center (MetabERN),"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.7,
+      "minX": 35.5,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Biomedicines 2023, 11, 2861 2 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 605.7,
+      "minX": 166.1,
+      "maxY": 728.8,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD) is a rare disease resulting from a deficiency in the lysosomal enzyme glucocerebrosidase (GCase) due to bi-allelic mutations in the GBA1 gene [1\u20133]. This deficiency leads to the accumulation of glucocerebroside lipids in one or more organs, resulting in different symptoms [4]. Complex mechanisms such as inflammation, regional cell interaction, and GCase substrate preferences have also been proposed to explain the pathobiology of specific organ involvement and potentially the therapeutic efficacy [1]. The pathophysiological mechanisms of neurological involvement are still not well explained; the process of substrate accumulation in neurons is apparently low, and there is only significant accumulation when the residual GCase activity is extremely low, which happens in some types of GBA1 mutations [5]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 354.7,
+      "minX": 166,
+      "maxY": 603.2,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "GD is the most common lysosomal storage disease and is classified into three types, depending on the presence and rate of progression of neurologic manifestations [2,3]. The three types are genotypically and phenotypically diverse and differential diagnosis is challenging [6,7]. The most prevalent form of GD is type 1 (OMIM #230800), the non-neuronopathic form. The clinical manifestations are mainly in the hematopoietic system, skeletal system, and visceral organs. The other two types (2 and 3) have early involvement of the central nervous system, with different rates of neurological deterioration. Patients with GD type 2 (OMIM #230900) present with an acute neuronopathic form, with symptoms manifesting either prenatally or during infancy, ultimately resulting in death within the first two years of life. In contrast, GD type 3 (GD3, OMIM #231000) follows a more protracted course and is considered the subacute/chronic neuronopathic form. The incidence of GD3 in the general population is estimated to be less than 1 in 100,000 [8]. Based on the clinical manifestations, GD3 may be subdivided into three subtypes, characterized by predominant neurological involvement (GD3a), internal organ and skeletal involvement (GD3b), and aortic and cardiac valve calcifications (GD3c; cardiovascular type) [9,10]. However, the clinical manifestations often overlap, and this classification is underused in clinical practice. The phenotypic\u2013genotypic heterogeneity in the three types of Gaucher disease is well known; the only indicator that separates neurological from non-neurological forms is the presence of the p.Asn409Ser allele (formerly known as N370S), which excludes the diagnosis of type 2 or type 3 [11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 178.9,
+      "minX": 166,
+      "maxY": 352.2,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Comprehensive patient management protocols would be useful to delineate the full phenotypic spectrum of this rare disease, to discern the true characteristics of GD3 patients, and to identify the best clinical and treatment options, to ultimately provide the best possible care to patients with this rare condition. In this regard, different dosages of enzyme replacement and chaperone treatments have been tested, but a consensus on the pharmacological treatment pathways is missing. An international registry of GD patients serves as a reference regarding patient characteristics, treatments, and outcomes [12]. Patients with GD often experience delays in diagnosis, frequent hospitalization and regular follow-up testing, complications of GD, and co-morbidities. Many GD patients all over the world have limited access to medical care and treatment due to their location or inability to pay [13,14]. However, given the particularity of GD3 and the differences in patient management protocols between different healthcare systems, country-specific studies on this population are required. This study aimed to report the characteristics of GD3 patients in Spain, including the genotype, phenotype, therapeutic options, and treatment responses."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64.8,
+        "minX": 166.1,
+        "maxY": 137.6,
+        "maxX": 560.5,
+        "page": 2
+      },
+      {
+        "minY": 658.9,
+        "minX": 166.4,
+        "maxY": 744.3,
+        "maxX": 559.7,
+        "page": 3
+      }
+    ],
+    "text": "This was a retrospective, multicenter study including all patients diagnosed with GD3, followed up at 10 participating centers in Spain. All patients were included in the study after obtaining written informed consent. The patients were diagnosed, treated, and followed according to standard clinical practice in Spain [15]. Patients' data were collected from the patients' medical records in an electronic data collection sheet in a pseudonymized fashion between May 2021 and May 2022. Patients were retrospectively followed up from their first medical record since the appearance of the first symptoms (i.e., disease onset) and diagnosis until data collection, defined as the end of the follow-up period. All patients or adult representatives of patients aged <18 years gave written informed consent before any data were collected. This study was conducted according to the local legislation regulations for biomedical research (Law 14/2007), the Helsinki Declaration, and the local Personal Data Protection Law (LOPD 15/1999). The Ethics Committee (CEIC) of the Hospital Sant Joan de Déu (Barcelona, Spain) approved the study protocol (registration number EOM 08-22)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.7,
+      "minX": 35.5,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Biomedicines 2023, 11, 2861 3 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 608.4,
+      "minX": 166.4,
+      "maxY": 631,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "The primary objective of this study was to describe the clinical outcome and treatment characteristics of patients with GD3."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 545.7,
+      "minX": 166.4,
+      "maxY": 605.9,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "All data were collected at diagnosis and during follow-up. At baseline, clinical and demographic variables included age, sex, normal pregnancy, and perinatal period (defined as no unexpected event, treatment, or need for hospitalization); family history, including dementias, familial Parkinson's, and consanguinity, was also considered. Age at disease onset (i.e., the appearance of first symptoms) and at diagnosis were also collected."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 445.2,
+      "minX": 166.1,
+      "maxY": 543.2,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Organ manifestations considered variables obtained through clinical examination (hepatomegaly, splenomegaly, characteristic facies, anthropometry, kyphoscoliosis, keeled thorax) or additional tests (hematological, hepatic and bone involvement, cardiopathies, and pulmonary disease). Bone involvement was determined by the presence of bone pain or abnormal radiological findings (X-ray or magnetic resonance (MRI)). Hepatic dysfunction was defined by elevated hepatic transaminase as increased AST/ALT > 1.5 normal values. Hematological disease considered the presence of thrombocytopenia (platelets < 120,000 units/µL) and anemia (hemoglobin (Hb) < 11.5 g/dL)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 369.9,
+      "minX": 166,
+      "maxY": 442.7,
+      "maxX": 560.5,
+      "page": 3
+    }],
+    "text": "The neurological phenotype was determined by the age at onset and neurological manifestations at diagnosis and during follow-up: psychomotor delay, epilepsy, pyramidal (spasticity, increased deep tendon reflexes) and extrapyramidal assessment, ataxia, tremor extraocular movements (slow saccades), and other cranial nerve symptoms (dysphagia, stridor, altered brain stem evoked potentials). A complete ophthalmological examination was performed by an ophthalmologist."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 319.7,
+      "minX": 166.4,
+      "maxY": 367.4,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Treatment variables considered were specific GD medications, including enzyme replacement therapy (ERT), substrate reduction therapy, or chaperone (ambroxol). In addition, other treatments considered were neurologic symptomatic therapies and procedures, including gastrostomy and tracheostomy, walking splints, or a wheelchair."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 219.7,
+      "minX": 166,
+      "maxY": 291.8,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "This study included all patients diagnosed with chronic neuronopathic GD3 in Spain with active follow-up at the beginning of the study, and no sample size calculation was applicable. We performed descriptive analyses. Quantitative variables were presented as the mean and standard deviation (SD), whereas categorical variables were presented as percentages. Statistical analyses were performed using the SAS statistical software, version 9.3 (SAS Institute Inc., Cari, NC, USA)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 104.8,
+      "minX": 166.1,
+      "maxY": 177.6,
+      "maxX": 559.7,
+      "page": 3
+    }],
+    "text": "Supplementary Table S1 summarizes the demographic data of this patient series. A total of 19 patients with GD3 were enrolled in the study, 14 men and 5 women. The mean age of the patients at the end of the follow-up was 12.37 years (range 1\u201325 years). The median age at disease onset was 1 year (min 0.5, max 20 years), with a median age at diagnosis of 1.2 years. Disease onset and diagnosis occurred during the early years of life (<3 years) in all patients except one, aged 20 years at diagnosis."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 67.1,
+        "minX": 166.4,
+        "maxY": 102.3,
+        "maxX": 560.9,
+        "page": 3
+      },
+      {
+        "minY": 684,
+        "minX": 166.1,
+        "maxY": 744.3,
+        "maxX": 561,
+        "page": 4
+      }
+    ],
+    "text": "Regarding pregnancy history, a significant proportion of patients had a normal pregnancy (14/19 patients; Supplementary Table S2); an abnormal course of pregnancy was determined by the abortion risk (one patient), maternal bleeding (one patient) and maternal perinatal fever (two patients). Four patients had a family history of consanguinity and three had other relatives affected by GD3 (one affected brother, three affected cousins). Regarding the familiar background, one patient had a history of Parkinson's disease and no dementia was recorded. No significant perinatal history was observed, except in one patient who was admitted with vomiting and hypotonia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 445.2,
+      "minX": 166,
+      "maxY": 656.2,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "Table 1 outlines the various organ manifestations observed in this series of patients. Most patients exhibited splenomegaly (HP:0001744) (18/19) and hepatomegaly (HP:0002240) (17/19) at the time of diagnosis, while 8/19 patients presented hepatic dysfunction (HP:0002910). Splenectomy was not performed in any of the present patients. Hematological disease was detected at diagnosis, with 9/19 patients presenting thrombocytopenia (HP:0001873) and 11/19 anemia (HP:0001903). The hematological alteration and the hepatic function normalized during the follow-up. Regarding bone involvement, no patient presented bone crisis (HP:0001903). Globally, 5/19 patients (26%) presented bone alteration detected by X-ray or MRI. Bone X-ray was mainly performed at diagnosis (12/19) and detected Erlenmeyer flask bone deformity in two patients. However, MRI was performed at diagnosis in 7/19 patients and detected abnormalities in three cases (bony lytic lesions in one patient and diffuse signal increase at intramedullary level in all long bones in two). During the follow-up, bone MRI was performed in 16/19 patients and detected femoral abnormalities such as slight distal widening in four patients. Bone densitometry was performed in 11/19 patients at the end of the follow-up and detected osteopenia in two cases (z-score lower than −2). At diagnosis, 5/19 (26%) and 3/19 (16%) of patients presented with pectus carinatum (HP:0000768) and kyphoscoliosis (HP:0002751), respectively."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 420.8,
+      "minX": 166.1,
+      "maxY": 429.8,
+      "maxX": 288,
+      "page": 4
+    }],
+    "text": "Table 1. Organ manifestations."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 82.9,
+      "minX": 166.1,
+      "maxY": 130.1,
+      "maxX": 560.7,
+      "page": 4
+    }],
+    "text": "1 Males aged 5\u201312 years liver >3.5%, and when >12 years, liver >2.5% of body weight; females aged 5\u201312 years liver >3.2%, and when >12 years, liver >2.9% of body weight. The equivalence is 1 g/mL of hepatic volume. 2 Spleen 0.2% of body weight. Equivalence is 0.45\u20130.6 g/mL. 3 PLT < 120,000/µL. 4 Hb < 11.5 g/dL. 5 AST/ALT > 1.5 NV. 6 Calcifications. 7 Calcifications (n = 2), mild dilated cardiomyopathy (n = 1), and mild hypertrophic cardiomyopathy (n = 1). HC, head circumference; MRI, magnetic resonance imaging."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.7,
+      "minX": 35.5,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Biomedicines 2023, 11, 2861 5 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 658.9,
+      "minX": 166.4,
+      "maxY": 744.3,
+      "maxX": 560.9,
+      "page": 5
+    }],
+    "text": "Severe cardiac involvement consisting of aortic (HP:0004380) and mitral valve calcifications (HP:0004382) was detected in two patients. During the follow-up, an abnormal myocardium morphology (HP:0001637) was found in two more cases, with mild forms of dilated cardiomyopathy in one patient and hypertrophic left ventricle in another. Pulmonary disease was presented in six patients at the end of the follow-up and was mainly conditioned by interstitial involvement (HP:0006530) and restricted pulmonary capacity determined by severe kyphoscoliosis."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 608.7,
+      "minX": 166.1,
+      "maxY": 656.4,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "At diagnosis, GD3 patients presented physical features such as short stature (height z-score < −2) (HP:0004322) in 5/19 and microcephaly (head circumference z-score < −2) (HP:0000252) in 2/19. Additionally, at the end of follow-up, 6/19 had characteristic facies, including retro micrognathia (HP:0000308) and low-set pinnae (HP:0000369)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 458.5,
+      "minX": 166.1,
+      "maxY": 580.8,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "Table 2 displays the neurological manifestations observed in this series of GD3 patients. The most common neurological manifestations were abnormalities of horizontal ocular movement, detected in 11/19 at diagnosis and in 14/19 patients at the end of the follow-up; 5/19 patients presented a convergent squint (HP:0000486) and 9/19 ophthalmoplegia (HP:0000602) at diagnosis. Significantly, a psychomotor delay (HP:0001263) was present in 68% (13/19) of the patients at diagnosis, with progression to severe forms during the follow-up. Pyramidal signs such as spasticity and exalted deep tendon reflexes were detected in 5/19 of patients. Extrapyramidal features (parkinsonism, HP:0001300) were detected mainly at the end of the follow-up in three cases. Three of 19 patients presented gait ataxia (HP:0002066), while 5/19 had a tremor (HP:0001337)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 434.1,
+      "minX": 166.1,
+      "maxY": 443.1,
+      "maxX": 314.5,
+      "page": 5
+    }],
+    "text": "Table 2. Neurological manifestations."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 108.1,
+      "minX": 436.5,
+      "maxY": 116.3,
+      "maxX": 560.3,
+      "page": 5
+    }],
+    "text": "1 Other than extraocular muscles;"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.7,
+      "minX": 35.5,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Biomedicines 2023, 11, 2861 6 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 696.6,
+      "minX": 166.1,
+      "maxY": 744.3,
+      "maxX": 559.6,
+      "page": 6
+    }],
+    "text": "Regarding epilepsy (HP:0001250), another common neurological manifestation, 4/19 (21%) of patients were affected at the time of diagnosis and 6/19 (32%) during the follow-up period. Conversely, myoclonus (HP:0001336) was only observed at the end of the study in 5/19 of patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 646.4,
+      "minX": 166.4,
+      "maxY": 694.1,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "Cranial nerve manifestations other than abnormal extraocular movement were also significant and were mainly detected at the end of the follow-up, indicating disease progression; 3/19 presented dysphagia (HP:0002015) and 5/19 presented abnormal brainstem auditory evoked potentials (HP:0006958); one patient had severe stridor (HP:0010307)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 571.1,
+      "minX": 166,
+      "maxY": 643.9,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "Hydrocephalus (HP:0000238) and aggressiveness were additional complications that were documented. Lastly, three deaths were recorded in patients with early onset of symptoms in the first year of life and severe neurological progression; two siblings with the [c.1342G>C]; [c.1263del + RecTL] genotype developed parkinsonism during the follow-up and experienced sudden death during sleep; another patient with the [c.1448T>C]; [c.1505G>A] genotype died at the age of 4 years from severe laryngomalacia and apnea crisis."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 470.3,
+      "minX": 166.1,
+      "maxY": 543.2,
+      "maxX": 560.5,
+      "page": 6
+    }],
+    "text": "Two genetic variants (c.1448T>C and c.1342G>C) accounted for over 70% of the pathogenic alleles (27/38) and appeared both in the homozygous and the compound heterozygous states with one of the remaining nine variants (Tables 3 and 4). All the pathogenic alleles observed in our cohort corresponded to missense variants, with only one complete loss-of-function variant, c.1263_1317del55 (previously described as del55bp), appearing twice."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 357.1,
+      "minX": 165.9,
+      "maxY": 442.4,
+      "maxX": 561,
+      "page": 6
+    }],
+    "text": "All patients received enzyme replacement therapy (ERT) treatment at diagnosis and during the study. The dosing regimens of ERT varied between 60 and 120 UI/kg/2 weeks. Miglustat was administered to a maximum of 11/19 patients during the follow-up, but it was suspended in four of them due to disease progression and/or intolerance. Nine of 19 patients were receiving the chaperone (ambroxol) at the end of the study. Many patients who had been on miglustat were switched to high doses of ambroxol, and this overlapping of treatments made it difficult to determine the efficacy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 284.4,
+      "minX": 166,
+      "maxY": 354.6,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "The hematological alterations, hepatic dysfunction, and organomegaly were the clinical manifestations that best responded to ERT, as suggested by the significant improvement when starting the treatment after the diagnosis was confirmed. However, neurological manifestations as well as kyphoscoliosis and valvular calcifications did not seem affected and continued their progression during ERT. The miglustat and ambroxol response did not seem to have an evident clinical correlation and was more difficult to assess."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 256.6,
+      "minX": 166.1,
+      "maxY": 279.2,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Symptomatic medication (antiepileptic drugs, cardiovascular disease) was used. One patient required gastrostomy and tracheostomy during the follow-up."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 496.9,
+      "minX": 166.1,
+      "maxY": 505.9,
+      "maxX": 568.2,
+      "page": 7
+    }],
+    "text": "Table 3. Genotype and phenotype correlation. M: male; F: female; HS: hepatosplenomegaly; \u2020: exitus."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 260,
+      "minX": 237.5,
+      "maxY": 279.8,
+      "maxX": 400.6,
+      "page": 7
+    }],
+    "text": "H1S1 tAhnroemmbiao,cytopenia"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 493.3,
+      "minX": 166.1,
+      "maxY": 499.9,
+      "maxX": 220.4,
+      "page": 8
+    }],
+    "text": "Table 3. Cont."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Biomedicines 2023, 11, 2861 9 of 15"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 743.5,
+      "minX": 166.1,
+      "maxY": 752.5,
+      "maxX": 245.1,
+      "page": 9
+    }],
+    "text": "Table 4. Genotypes."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 450.4,
+      "minX": 166.4,
+      "maxY": 498.1,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "This retrospective study collected data from all individuals diagnosed with GD3 with active follow-up in Spain and summarized the characteristics of this population, including demographic data, genotype and phenotype profiles, therapeutic interventions, and the evolution of disease-related organ and neurological manifestations."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 324.8,
+      "minX": 166.4,
+      "maxY": 447.9,
+      "maxX": 561,
+      "page": 9
+    }],
+    "text": "Overall, most patients were diagnosed with GD3 during the early years of life, with a representation of both sexes, although male patients were more frequently affected. GD3 was diagnosed early after onset, likely due to the prompt access of patients to the Spanish public healthcare system. However, other studies have reported the delayed diagnosis of GD patients due to different factors [27,28]. Among these factors, the most relevant are the rarity of the disease and its presentation, with non-specific symptoms overlapping with those of more common diseases in childhood, such as hematologic malignancy and infectious diseases [6]. Additionally, disseminating knowledge about GD3 to other healthcare professionals is crucial, given that neuropediatricians, ophthalmologists, orthopedic/traumatologists, and hematologists may be the first to care for these patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.8,
+        "minX": 166.1,
+        "maxY": 322.4,
+        "maxX": 561,
+        "page": 9
+      },
+      {
+        "minY": 698.6,
+        "minX": 166,
+        "maxY": 746.3,
+        "maxX": 559.3,
+        "page": 10
+      }
+    ],
+    "text": "The clinical heterogeneity of GD3, with no specific clinical signs/symptoms and wide clinical manifestation variation, poses challenges in recognizing the disease, especially in its later forms, and distinguishing between different phenotypes [28]. Notably, discriminating between GD1 and late GD3 or between late GD2 and early GD3 is not straightforward [2,29,30]. To address these challenges, diagnostic algorithms may improve the early diagnosis of patients with GD3, enabling the initiation of targeted treatments as early as possible [7,31,32]. Currently, there are several diagnostic algorithms available for GD that are based on the assessment of clinical symptoms, laboratory analysis, and genetic evaluation [31]. These algorithms have proven useful in identifying patients with GD, and some studies have suggested that they may improve the rate of diagnosis [7,33]. However, it is important to keep in mind that GD is a rare and complex disease, and early and accurate identification may be difficult given the variability of symptoms and lack of disease awareness among physicians and other healthcare professionals. Therefore, while diagnostic algorithms can be helpful in increasing the rate of diagnosis or shortening the delay in diagnosis, it is also important for physicians to have a thorough understanding of the disease and to be alert to possible symptoms in at-risk patients. To this end, monitoring neurological signs and symptoms during childhood is imperative for all types of GD. Neurodiagnostic techniques, such as computed tomography (CT), magnetic resonance imaging (MRI), and electrophysiology, reveal alterations that are secondary to advanced neurological damage but are not useful in making a differential diagnosis at the early disease stages [34]. In this regard, a genetic diagnosis is helpful, as some genotypes are more commonly associated with a particular clinical form [8]. However, patients with the same genotype, including siblings and identical twins, such as some of the patients in this series, may have different clinical presentations and outcomes due to various factors [35,36]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Biomedicines 2023, 11, 2861 10 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 485.2,
+      "minX": 166,
+      "maxY": 696.1,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "Visceral manifestations were mostly detected at diagnosis and were controlled with ERT, particularly organomegaly and hematological and hepatic manifestations. However, other peripheral manifestations, such as those described within the D409H (c.1342G>C) genotype in homozygosis (cardiovascular calcifications or corneal opacities), appeared during follow-up. These manifestations progressed and had an unclear relationship with the treatment administered, as previously reported by Kurolap et al. [37]. Bone involvement was mild in GD3 patients, unlike the GD1 phenotype, which classically presents severe pain crisis at diagnosis. Regarding kyphosis, it had severe progression in our study and apparently was not related to the ERT, leading to impaired pulmonary capacity secondary to the important restriction; thus, many authors consider kyphosis one of the neurological manifestations in GD3 patients due to its severity and poor evolution [34] and one of the signs that can help to diagnose GD3 [38,39]. Moreover, this manifestation is associated with the Norrbottnian clinical variant of GD [33,39]. Growth retardation and microcephaly were also observed. In some cases, growth retardation may persist even after several years of treatment [30]. Long-term studies are needed to evaluate the long-term efficacy and safety of bone therapy in patients with GD3. In summary, although some of the various organ manifestations of GD3 may be controlled with ERT, others may be progressive and severe."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 347.1,
+      "minX": 166,
+      "maxY": 482.7,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "In this patient series, the most frequent neurological abnormalities were psychomotor retardation (14/19) and extrinsic muscle disorders (11/19), including oculomotor apraxia, supranuclear palsy, and strabismus. As expected, psychomotor retardation symptoms worsened throughout the follow-up period. The involvement of extraocular muscles (EOM) was the most frequent neurological sign at diagnosis, in line with previous studies [12]. Although neurosensorial deafness, defined as abnormal BAEP, is not a common manifestation in the neuropathic forms of GD, it was frequent in our series. Sensorineural hearing loss in GD3 is attributed to a build-up of glucocerebroside in the nerve cells of the inner ear and in the auditory nerves that transmit auditory impulses to the brain [40,41]. Importantly, sensorineural deafness in GD3 may be progressive and, therefore, regular audiological assessments are essential to monitor hearing [41]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 196.5,
+      "minX": 166.1,
+      "maxY": 344.6,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "However, in some cases, neurological abnormalities may appear later in the disease course, after hematologic and visceral manifestations [30]. In our series, patients with neurological symptoms at baseline had more severe involvement and an earlier diagnosis, highlighting the wide clinical variability of GD3 manifestations. Regarding the progression of symptoms, while hematological and visceral manifestations are common at the time of diagnosis, neurological abnormalities may appear within the first 1\u20132 years in most registries [12,42,43]. In summary, the classic phenotype of GD3 is characterized by a combination of neurological and visceral symptoms, the former being the most evident [31]. Patients may have wide variability in the severity and progression of symptoms, and the onset of symptoms may be in childhood, adolescence, or adulthood. Neurological variability in GD3 is an important aspect as it can influence the course of the disease in individual patients, their prognosis, and their response to treatment [44]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 133.7,
+      "minX": 166.4,
+      "maxY": 194,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Regarding mortality, three cases in our series corresponded to patients with a severe neurological disease who presented epilepsy and moderate psychomotor delay at diagnosis and who developed parkinsonism, myoclonus, and bulbar involvement early on. Two of these cases responded well to treatment with L-Dopa, with improved extrapyramidal symptoms, as previously reported by Darling and collaborators [45]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.9,
+        "minX": 166.1,
+        "maxY": 131.2,
+        "maxX": 560.9,
+        "page": 10
+      },
+      {
+        "minY": 384.8,
+        "minX": 164.9,
+        "maxY": 746.3,
+        "maxX": 561,
+        "page": 11
+      }
+    ],
+    "text": "Not surprisingly, two well-known variants associated with neurological symptoms in GD (c.1448T>C and c.1342G>C) constituted more than 70% of the disease-causing alleles (27/38). Of note, all the observed disease-causing alleles in our study were missense variants, except for one complete loss-of-function variant (c.1263_1317del55), which appeared in two siblings with a severe form [45]. This may be in accordance with one of the molecular models for neuronopathic GD, which posits that neurological symptoms arise from likely gain-of-function mechanisms caused by amino acid substitutions at critical glucocerebrosidase residues [46]. Previous studies have linked the [c.1448T>C]; [c.1448T>C] homozygous genotype to severe neurological symptoms in Japanese and Egyptian patients [30,47,48]. However, in our series of patients, this genotype, observed in 7/19 patients, was primarily associated with visceral manifestations such as hepato-splenomegaly and anemia/thrombocytopenia, with minimal neurological or ocular muscle involvement, with a median follow-up of 8 years. This raises the question of whether disease modification could be achieved through treatments during this time lag between visceral and neurological symptoms. The phenotype of the two [c.1342G>C]; [c.1342G>C] homozygotes is characterized by corneal opacities, hydrocephalus, valvular calcifications (aortic/mitral), and hepatosplenomegaly, but minimal or no primary hematologic or neurologic manifestations, and was first described in a Spanish family [49]. The prognosis of these patients seems determined by the cardiovascular involvement, which required valvular replacement in both patients. In contrast, c.1342G>C compound heterozygotes lack valvular calcifications or corneal opacities, with a phenotype likely determined by the clinical impact of the other allele [50]. Hence, we observed very severe neurologic involvement in the two [c.1483G>C] + [c.1497G>C] + [c.1263_1317del55] + [c.1342G>C] compound heterozygotes, which led to early deaths. Conversely, the only [c.1448T>C]; [c.1342G>C] compound heterozygote had a milder neurological phenotype and more hematologic and skeletal involvement. Interestingly, the genotype [c.475C>T]; [c.680A>G] was associated with a peculiar phenotype of organomegaly and persistent absent seizure, with good control with chaperone (ambroxol) treatment. Despite efforts to unify the criteria for the clinical and prognostic evaluation of patients with neuropathic forms of GD, phenotype\u2013genotype correlation is still considerably heterogeneous [1]. Indeed, the better genetic characterization of patients, including at least a complete analysis of the GBA1-GBAP1 locus at chromosome 1 and screening for variants at genes encoding proteins that modify glucocerebroside activity, such as PSAP and GRN, should help to establish better correlations in the future in these patients [50,51]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 11
+    }],
+    "text": "Biomedicines 2023, 11, 2861 11 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 221.6,
+      "minX": 166,
+      "maxY": 382.3,
+      "maxX": 561,
+      "page": 11
+    }],
+    "text": "ERT is currently the only approved specific treatment for the pediatric population [50]. All patients in this series received ERT therapy (imiglucerase) at variable doses, ranging from 60 to 120 U/kg/2 weeks. ERT is not able to cross the blood\u2013brain barrier, precluding a direct impact on CNS manifestations [52]. However, it may reduce neuroinflammation by reducing the excessive microglial response to proinflammatory cytokines and chemokines, although confirmatory studies are required [1]. As expected, hematological manifestations, organomegaly, and hepatic dysfunction responded very well to ERT in this series of GD3 patients [15,28,53,54]. However, ERT had no effect on the progression of severe kyphoscoliosis or interstitial pulmonary involvement. Other visceral manifestations that remained unmodified by treatment in our series were the valvular calcifications and corneal opacities detected in c.1342G>C homozygous patients. Moreover, patients with valvular calcifications required valve replacement techniques, and hydrocephalus required ventriculoperitoneal shunt placement."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 108.6,
+      "minX": 166.4,
+      "maxY": 219.1,
+      "maxX": 559.7,
+      "page": 11
+    }],
+    "text": "Patients with GD3 can show a wide degree of variation in the neurological progression and severity of the systemic disease, making the assessment of outcomes with available therapies difficult. Although the results of the clinical trial with miglustat did not show the expected efficacy, we must be aware that neurological damage is irreversible and the objective in these patients is to prevent further damage [55]. Oral ambroxol at high doses had good safety and tolerability, significantly increased lymphocyte glucocerebrosidase activity, permeated the blood\u2013brain barrier, and decreased glucosylsphingosine levels in cerebrospinal fluid, producing a slowing in the progression of neurological symptoms in some chaperone-sensitive mutants [56]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 73.6,
+      "minX": 166.4,
+      "maxY": 106.1,
+      "maxX": 559.3,
+      "page": 11
+    }],
+    "text": "All of the available evidence suggests that there are still therapeutic targets to be achieved in patients with GD3, a finding that underscores the need for continued research in this area."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 12
+    }],
+    "text": "Biomedicines 2023, 11, 2861 12 of 15"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 623.3,
+      "minX": 166.1,
+      "maxY": 746.3,
+      "maxX": 560.9,
+      "page": 12
+    }],
+    "text": "This study has several limitations, of which the most relevant are associated with the nature of the disease, with low prevalence and high genotypic and phenotypic disparity. However, despite the disease's low prevalence, we included a total of 19 GD3 patients from different regions of Spain in the study. Another limitation is the use of a retrospective registry, based on medical records that were not originally designed to collect data for research, resulting in some missing information. However, the databases were controlled, and data collection was monitored with the aim of minimizing the impact of this limitation. Finally, the study was not entirely comprehensive as it did not evaluate the patient/caregiver burden and quality of life, an essential aspect highlighted by recent findings [57]. Upcoming research is anticipated to address this omission."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 484.9,
+      "minX": 166.4,
+      "maxY": 595.4,
+      "maxX": 560.5,
+      "page": 12
+    }],
+    "text": "To our knowledge, this registry of GD3 patients is the most detailed series in terms of the clinical and neurological characteristics in Spain. The study considered various aspects of the disease, such as demographic attributes, genotype and phenotype profiles, therapeutic options, and treatment outcomes. The neurological variability in GD3 is in part due to genetic heterogeneity and the complexity of the molecular mechanisms underlying the disease. Epigenetic and environmental factors may also play a role, making the presentation of the disease unique to each patient. The data from this study may be compared to other GD3 registries, helping to increase the body of evidence on this rare disease and contributing to improving the clinical management of GD3 patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 446.9,
+      "minX": 187.7,
+      "maxY": 457,
+      "maxX": 256,
+      "page": 12
+    }],
+    "text": "Does not apply."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 13
+    }],
+    "text": "Biomedicines 2023, 11, 2861 13 of 15"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 14
+    }],
+    "text": "Biomedicines 2023, 11, 2861 14 of 15"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.7,
+      "minX": 35.5,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 15
+    }],
+    "text": "Biomedicines 2023, 11, 2861 15 of 15"
+  }}
+]}

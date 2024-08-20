@@ -1,0 +1,45 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","### Molecular Sciences
+
+#### Title
+A Brazilian Rare-Disease Center's Experience with Glucosylsphingosine (lyso-Gb1) in Patients with Gaucher Disease: Exploring a Novel Correlation with IgG Levels in Plasma and a Biomarker Measurement in CSF
+
+#### Body
+
+**Gaucher Disease Overview**
+- Gaucher disease (GD, OMIM 230800) is a common lysosomal disorder with an incidence of 50,000 to 100,000 live births globally.
+- GD has three clinical forms: type 1 (GD1, non-neuronopathic), type 2 (GD2), and type 3 (GD3, both neuronopathic).
+- GD1 patients are at higher risk of developing Parkinson's disease (PD).
+- Treatments include enzyme-replacement therapy (ERT) and substrate-reduction therapy (SRT), which improve most clinical parameters except neurological impairment.
+
+**Pathogenesis and Biomarkers**
+- GD is caused by deficient β-glucocerebrosidase (GCase) activity due to GBA1 gene mutations.
+- GCase converts glucosylceramide (GlcCer) into ceramide and glucose. Accumulated GlcCer is deacetylated to glycosylsphingosine (lyso-Gb1).
+- Biomarkers for GD include CCL18 and chitotriosidase (Cht), though Cht has limitations due to its activity in various inflammatory processes and null alleles in CHIT1.
+- Lyso-Gb1 is a reliable diagnostic tool and indicator of therapeutic response.
+
+**Study Overview**
+- The study involved 31 treated patients (28 GD1, 3 GD3) and 3 untreated patients (1 GD1, 1 GD2, 1 GD3).
+- Lyso-Gb1 levels were measured in dried blood spots (DBS) and cerebrospinal fluid (CSF).
+- Treated patients showed significant reductions in lyso-Gb1 levels compared to untreated patients.
+
+**Key Findings**
+- Significant correlation between lyso-Gb1 and age, Cht, and IgG levels in treated GD1 patients.
+- No significant differences between lyso-Gb1 values and severity scores, hemoglobin levels, and years of treatment.
+- Five GD1 patients had CSF lyso-Gb1 measurements, with an average of 94 pmol/L.
+- Lyso-Gb1 levels in CSF could predict PD development in GD1 patients, though further studies are needed.
+
+**Clinical Implications**
+- Lyso-Gb1 levels correlated with IgG levels, suggesting a role in chronic B cell activation and potential risk for multiple myeloma (MM) and monoclonal gammopathy of undetermined significance (MGUS).
+- Routine measurement of immunoglobulins is recommended for GD patients.
+- Further studies are needed to confirm the correlation between lyso-Gb1 and IgG levels and their role in MM or MGUS development.
+
+**Methodology**
+- Lyso-Gb1 was extracted from DBS and CSF samples and measured using mass spectrometry.
+- Statistical analyses included Mann–Whitney tests, Shapiro–Wilk normality tests, Levene tests, and Spearman correlation analyses.
+
+**Conclusion**
+- This study reports the first positive correlation between lyso-Gb1 and IgG levels in GD1 patients.
+- Elevated CSF lyso-Gb1 levels in GD1 patients without neuronal symptoms suggest a risk for MM and PD.
+- Further studies are required to substantiate these findings."

@@ -1,0 +1,138 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","# International Journal of Molecular Sciences
+
+## Review
+
+### Title: Green Biologics: Harnessing the Power of Plants to Produce Pharmaceuticals
+
+#### Authors: Gergana Zahmanova, Alaa A. A. Aljabali, Ivan Minkov, George P. Lomonossoff, Katerina Takova, George Minkov, Murtaza M. Tambuwala
+
+---
+
+### Abstract
+Plants are increasingly used to produce high-quality biological molecules for pharmaceuticals and biomaterials. They can produce therapeutic proteins like Elelyso™, ZMapp™, and Covifenz™. However, market challenges exist. This review explores plant-derived biologics (PDB), advancements in plant-based expression systems, and regulatory considerations.
+
+### Keywords
+Plant-derived biologics, plant-based expression systems, plant molecular farming, synthetic biology, genome editing, vaccines, antibodies, therapeutic enzymes, virus-like particles.
+
+---
+
+### 1. Introduction
+Protein-based biologics are the fastest-growing pharmaceutical products. Plants can produce various biologics, including antibodies, vaccines, and enzymes, through plant molecular farming (PMF). PMF offers safe, cost-effective, and scalable production, making plants an efficient alternative to traditional systems.
+
+### 2. Types of Plant-Derived Biologics
+Plant-derived biologics include monoclonal antibodies, vaccines, enzymes, receptor modulators, and bioactive small molecules. Examples include Elelyso™ and Covifenz™.
+
+#### 2.1. Antibodies and Antibody Fragments
+Plant-based systems produce monoclonal antibodies and fragments, known as ""plantibodies,"" for therapeutics, diagnostics, and research.
+
+#### 2.2. Vaccines and VLPs
+Plants can express immunogenic antigens and virus-like particles (VLPs) for vaccines. Plant-derived vaccines offer benefits like reduced costs and improved stability.
+
+#### 2.3. Therapeutic Enzymes
+Plants produce recombinant enzymes with improved profiles, such as Elelyso™ for Gaucher's disease.
+
+#### 2.4. Receptor Modulators
+Plants produce small polypeptides and glycoproteins like cytokines and hormones for therapeutic use.
+
+#### 2.5. Small Molecules
+Plants synthesize medicinal compounds through multi-step biosynthetic pathways. Examples include artemisinin for malaria.
+
+#### 2.6. Bioactive Proteins from Plants
+Plant-derived biologics include bioactive molecules like lectins with antimicrobial and antitumor activities.
+
+### 3. Strengths, Weaknesses, Opportunities, and Threats (SWOT) Analysis of Biologics
+#### Strengths
+- Low cost
+- Scalability
+- Complex molecules
+- Safety
+
+#### Opportunities
+- Alternative to traditional systems
+- Address unmet medical needs
+- Diversification
+
+#### Weaknesses
+- Time-consuming production
+- Variable yields
+- Regulatory considerations
+- Protein degradation
+
+#### Threats
+- Intellectual property barriers
+- Competition
+- Public perception
+
+### 4. Manufacturing of Plant-Based Production Systems
+Technologies like stable plastid transformation, plant cell cultures, and transient expression improve PMF. Figure 1 presents the main steps in PDB development.
+
+### 5. Challenges in Producing and Using Plant-Derived Biologics
+#### 5.1. Complex Protein Expression
+Achieving high-level expression of complex proteins in plants is challenging.
+
+#### 5.2. Post-Translational Modifications
+PTMs in plants may differ from mammalian systems, affecting biologic functionality.
+
+#### 5.3. Post-Translational Gene Silencing (PTGS)
+Repression of RNA silencing pathways can improve recombinant protein expression.
+
+#### 5.4. Proteolytic Degradation of Recombinant Proteins
+Endogenous proteases in plants degrade recombinant proteins.
+
+#### 5.5. Downstream Processing
+Purification of plant-derived biologics is challenging due to plant-specific contaminants.
+
+### 6. Novel Strategies for Improving Production and Efficacy
+#### 6.1. Protein Engineering
+Techniques like codon optimization and gene fusion enhance expression and stability.
+
+#### 6.2. Synthetic Biology Approaches
+Synthetic biology designs customized plant expression systems for precise control.
+
+#### 6.3. Metabolic Engineering
+Modifying metabolic pathways improves yields and redirects flux toward desired products.
+
+#### 6.4. Advancing Plant Molecular Biology
+Understanding plant molecular biology aids in developing efficient expression systems.
+
+#### 6.5. Field Scale-Up and Commercialization
+Scaling up production and achieving commercial viability are critical for plant-derived biologics.
+
+### 7. Applications of Plant-Derived Recombinant Proteins
+#### 7.1. Therapeutic Applications
+Plant-derived biologics treat conditions like cancer and genetic disorders. They also produce vaccines and diagnostic reagents.
+
+#### 7.2. Biologics Produced in Space
+Plant molecular farming can support therapeutic protein production in space missions.
+
+#### 7.3. Industrial and Agricultural Applications
+Plants produce enzymes and proteins for industrial applications like biofuel production and biodegradable plastics.
+
+### 8. Regulatory Considerations for Plant-Derived Biologics
+#### 8.1. Current Regulatory Landscape
+Regulatory agencies ensure the safety and efficacy of plant-derived biologics. They scrutinize plant species, genetic modifications, and expression vectors.
+
+#### 8.2. Future Regulatory Requirements
+Future regulations will focus on tailored evaluations, global harmonization, and comprehensive safety assessments.
+
+### 9. Conclusions
+Plant-based expression systems offer practical advantages for biologics production. Addressing challenges in expression, PTMs, and downstream processing is crucial. Regulatory considerations demand a nuanced understanding. Plant-derived biologics have the potential to transform medicine, industry, and agriculture.
+
+---
+
+### Author Contributions
+Conceptualization: A.A.A.A., G.Z.; Writing—original draft: A.A.A.A., M.M.T., K.T.; Writing—review and editing: G.Z., G.P.L.; Visualization: K.T., G.M.; Supervision: I.M.; Funding acquisition: I.M., G.Z., G.P.L.
+
+### Funding
+This research was funded by the University of Plovdiv, European Union's Horizon 2020, and the Bulgarian ""Science and Education for Smart Growth"" Operational Program.
+
+### Acknowledgments
+Support from the Bulgarian Ministry of Education and Science and L'Oréal and UNESCO initiative ""For Women in Science 2022.""
+
+### Conflicts of Interest
+The authors declare no conflict of interest.
+
+### References
+(References are listed in the original document)"

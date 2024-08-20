@@ -1,0 +1,67 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","## Orphanet Journal of Rare Diseases
+
+### RESEARCH Open Access
+
+## Assessing the diagnostic utility of the Gaucher Earlier Diagnosis Consensus (GED‑C) scoring system using real‑world data
+
+### Shoshana Revel‑Vilk, Varda Shalev, Aidan Gill, Ora Paltiel, Orly Manor, Avraham Tenenbaum, Liat Azani, Gabriel Chodick
+
+### Abstract
+
+**Background:** Gaucher disease (GD) is a rare autosomal recessive condition with clinical features like splenomegaly, hepatomegaly, anemia, thrombocytopenia, and bone abnormalities. Three clinical forms exist: type 1 (GD1) without neurological signs, and types 2 and 3 with neurological signs. Early diagnosis can prevent severe complications. This study aimed to validate the GED‑C scoring system's ability to distinguish GD1 patients from controls using real-world data from Maccabi Healthcare Services, Israel.
+
+**Methods:** The GED‑C scoring system was applied to 265 confirmed GD cases and 3445 non-GD controls matched for birth year, sex, and socioeconomic status from 1998 to 2022. Data were analyzed from two databases: one with all available data and one excluding free-text notes. Features from the GED‑C scoring system were extracted for each individual. Decision tree and random forest models identified key features distinguishing GD from non-GD controls.
+
+**Results:** The GED‑C scoring system distinguished GD patients from controls in both databases. Decision tree models showed good accuracy (0.96 for Database 1; 0.95 for Database 2), high specificity (0.99 for Database 1; 1.0 for Database 2), but low sensitivity (0.53 for Database 1; 0.32 for Database 2). Splenomegaly, thrombocytopenia, and hyperferritinemia were the top classifiers of GD.
+
+**Conclusion:** Certain GED‑C score features more effectively discriminate GD patients from controls than the overall score. An enhanced diagnostic model may lead to earlier, reliable GD diagnoses, minimizing severe complications.
+
+**Keywords:** Gaucher disease, Algorithm, Early diagnosis, Real‑world data, Gaucher earlier diagnosis consensus scoring system
+
+### Background
+
+Gaucher disease (GD) is a rare autosomal recessive condition caused by a deficiency of the lysosomal enzyme beta-glucocerebrosidase (GBA1). This leads to glucosylceramide accumulation in macrophages, causing multisystemic disease manifestations like splenomegaly, hepatomegaly, anemia, thrombocytopenia, and bone abnormalities. Neurological involvement characterizes the more severe types 2 and 3 GD. The estimated prevalence of GD is 0.45–25.0 per 100,000 live births, with type 1 GD more common among Ashkenazi Jews.
+
+Timely GD-specific therapy (enzyme replacement or substrate reduction) improves patient outcomes and prevents irreversible complications. However, delayed diagnosis is common due to the complex clinical presentation and lack of awareness. One in six patients remains undiagnosed for over seven years after first consulting a doctor. Multiple referrals to different specialties are common before a GD diagnosis.
+
+The GED-C scoring system was developed by 22 expert physicians using Delphi methodology to help clinicians identify potential GD cases and reduce diagnostic delays. Preliminary validation showed the GED-C could discriminate between GD patients and those with overlapping disorders in the UK and Finland. This study aimed to assess the GED-C score's ability to discriminate between GD and non-GD individuals using real-world data from Maccabi Healthcare Services (MHS), Israel.
+
+### Methods
+
+Electronic patient medical records from MHS were used. MHS clinical records have been fully computerized for over 20 years, integrated with a central laboratory, digitized imaging, and pharmacy data. The study was approved by the MHS Institutional Review Board. Patient consent was waived due to the use of anonymized data.
+
+All confirmed GD cases in the MHS database were included. Records were screened for GD-specific treatment or medical notes indicating GD. Thirteen controls per GD case, matched for birth year, sex, and socioeconomic status, were extracted from the MHS database.
+
+GED-C items applicable to type 1 GD were extracted, including demographics, diagnosis codes, laboratory values, imaging reports, osteoporosis register, and weight and height measurements. Free-text notes were manually screened for specific terms. Data were extracted from the first record available until one year after GD diagnosis. For controls, data were extracted up to one year after the matched GD diagnosis. GED-C scores were calculated for all available data, including free-text notes (database 1) and excluding free-text notes (database 2).
+
+Individuals with GD were compared with controls using GED-C features. GED-C scores were calculated as described previously. Decision tree and random forest models were constructed using 16 GED-C features to identify key features distinguishing GD from non-GD controls. Model performance was evaluated using ROC curve and f1-score.
+
+### Results
+
+Of 346 individuals with a GD diagnosis code, 265 were confirmed as GD patients. A total of 3445 controls were included. Manual screening of free-text notes revealed significant differences in symptom proportions between GD and control groups.
+
+GED-C summary scores were calculated for each database. For database 1, median GED-C scores were 7.5 for GD patients and 4.0 for controls. GED-C scoring distinguished GD patients from controls with an AUC of 0.81. For database 2, median GED-C scores were 6.5 for GD patients and 4.0 for controls. GED-C scoring distinguished GD patients from controls with an AUC of 0.74.
+
+Decision tree models showed good accuracy, high specificity, but low sensitivity. The AUC was higher for database 1 compared to database 2. A random forest model identified splenomegaly, thrombocytopenia, and hyperferritinemia as the top classifiers of GD.
+
+### Discussion
+
+This study used real-world data to assess the GED-C scoring system's utility for discriminating GD patients from controls. The GED-C scoring system showed good performance with free-text notes and fair performance without them. Splenomegaly, thrombocytopenia, and hyperferritinemia were consistently identified as key features.
+
+The weight given by experts for these features was lower than the actual odds of exposure found in this study. A supervised machine learning classifier could perform better without predefined weights or laboratory cutoffs. The models showed high specificity but low sensitivity, possibly due to missing or incomplete data. Modifying the scoring system may improve early GD diagnosis.
+
+The database with free-text notes showed better performance, as physicians often documented GD-related features in visit notes but failed to code them. This aligns with studies showing under-coding of clinical findings in electronic records. The GED-C's ability to discriminate GD was also shown in other studies from the UK and Finland.
+
+Real-world data confirmed the significance of most GED-C features but have limitations like incomplete information and data entry errors. The small number of GD patients in the database also limits algorithm development. Manual screening of unstructured text notes was necessary due to inadequate Hebrew NLP resources.
+
+The study aimed to extract patient data on GED-C parameters, validated in different geographic cohorts. However, findings may not apply to populations with different ethnic backgrounds and disease severity. Future algorithms should consider other GD manifestations and co-morbidities.
+
+Machine learning for analyzing large clinical data sets can improve GD diagnosis algorithms. This study forms the basis for developing an AI-based algorithm for accurate GD diagnosis, aiming to shorten the diagnostic journey. Future research will refine models using additional parameters and supervised machine-learning methods.
+
+### Conclusion
+
+The GED-C score shows good discrimination between GD patients and controls and could be the basis for future models. The database with physician notes showed the best performance. Machine learning techniques are expected to improve the diagnostic model's sensitivity for screening undiagnosed GD cases.
+
+### Publisher's Note"

@@ -1,0 +1,1183 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 1
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 734,
+      "minX": 145.7,
+      "maxY": 745.7,
+      "maxX": 219.2,
+      "page": 1
+    }],
+    "text": "Original research"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 632.3,
+      "minX": 145.7,
+      "maxY": 723.9,
+      "maxX": 534.4,
+      "page": 1
+    }],
+    "text": "Head-to-head trial of pegunigalsidase alfa versus agalsidase beta in patients with Fabry disease and deteriorating renal function: results from the 2-year randomised phase III BALANCE study"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 486.6,
+      "minX": 145.7,
+      "maxY": 622.6,
+      "maxX": 538.1,
+      "page": 1
+    }],
+    "text": "Eric L Wallace,1 Ozlem Goker-Alpan,2 William R Wilcox,3 Myrl Holida,4 John Bernat,4 Nicola Longo,5 Aleš Linhart ,6 Derralynn A Hughes ,7 Robert J Hopkin,8 Camilla Tøndel,9,10 Mirjam Langeveld,11 Pilar Giraldo,12,13 Antonio Pisani,14 Dominique Paul Germain ,15 Ankit Mehta,16 Patrick B Deegan,17 Maria Judit Molnar,18 Damara Ortiz,19 Ana Jovanovic,20 Michael Muriello,21 Bruce A Barshop,22 Virginia Kimonis,23 Bojan Vujkovac,24 Albina Nowak ,25 Tarekegn Geberhiwot,26 Ilkka Kantola,27 Jasmine Knoll,28 Stephen Waldek,29 Khan Nedd,30 Amel Karaa,31 Einat Brill-Almon,32 Sari Alon,33 Raul Chertkoff,32 Rossana Rocco,34 Anat Sakov,35 David G Warnock 1"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 460.7,
+      "minX": 145.7,
+      "maxY": 467.5,
+      "maxX": 188.4,
+      "page": 1
+    }],
+    "text": "ABSTRACT"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 67,
+      "minX": 145.7,
+      "maxY": 456.8,
+      "maxX": 340.6,
+      "page": 1
+    }],
+    "text": "Background Pegunigalsidase alfa is a PEGylated α-galactosidase A enzyme replacement therapy. BALANCE (NCT02795676) assessed non-inferiority of pegunigalsidase alfa versus agalsidase beta in adults with Fabry disease with an annualised estimated glomerular filtration rate (eGFR) slope more negative than −2 mL/min/1.73 m2/year who had received agalsidase beta for ≥1year. Methods Patients were randomly assigned 2:1 to receive 1 mg/kg pegunigalsidase alfa or agalsidase beta every 2 weeks for 2 years. The primary efficacy analysis assessed non-inferiority based on median annualised eGFR slope differences between treatment arms. Results Seventy-seven patients received either pegunigalsidase alfa (n=52) or agalsidase beta (n=25).At baseline, mean (range) age was 44 (18\u201360) years, 47 (61%) patients were male, median eGFR was 74.5mL/min/1.73 m2 and median (range) eGFR slope was −7.3 (−30.5, 6.3) mL/ min/1.73 m2/year.At 2 years, the difference between median eGFR slopes was −0.36mL/min/1.73 m2/year, meeting the prespecified non-inferiority margin. Minimal changes were observed in lyso-Gb3 concentrations in both treatment arms at 2 years. Proportions of patients experiencing treatment-related adverse events and mild or moderate infusion-related reactions were similar in both groups, yet exposure-adjusted rates were 3.6-fold and 7.8-fold higher, respectively, with agalsidase beta than pegunigalsidase alfa.At the end of the study, neutralising antibodies were detected in 7 out of 47 (15%) pegunigalsidase alfa-treated patients and 6 out of 23 (26%) agalsidase beta-treated patients.There were no deaths. Conclusions Based on rate of eGFR decline over 2 years, pegunigalsidase alfa was non-inferior to agalsidase beta. Pegunigalsidase alfa had lower rates of treatment-emergent adverse events and mild or moderate infusion-related reactions."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 53.7,
+      "minX": 145.7,
+      "maxY": 63,
+      "maxX": 302.8,
+      "page": 1
+    }],
+    "text": "Trial registration number NCT02795676."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.2,
+      "minX": 362.2,
+      "maxY": 461,
+      "maxX": 527.9,
+      "page": 1
+    }],
+    "text": "WHAT IS ALREADY KNOWN ON THIS TOPIC"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 352.2,
+      "minX": 362.2,
+      "maxY": 447.4,
+      "maxX": 543.6,
+      "page": 1
+    }],
+    "text": "⇒ Currently available enzyme replacement therapies (ERTs) benefit patients with Fabry disease (FD) but are associated with infusion-related reactions and the development of antidrug antibodies. ⇒ Pegunigalsidase alfa is a novel, PEGylated α-galactosidase A ERT with prolonged half-life, improved tolerability and lower incidence of infusion-related reactions."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 335.2,
+      "minX": 362.2,
+      "maxY": 342,
+      "maxX": 458.3,
+      "page": 1
+    }],
+    "text": "WHAT THIS STUDY ADDS"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 211.2,
+      "minX": 362.2,
+      "maxY": 328.5,
+      "maxX": 545.9,
+      "page": 1
+    }],
+    "text": "⇒ This was the first randomised, double-blind, head-to-head clinical trial of ERTs in FD and demonstrated comparable renal efficacy on estimated glomerular filtration rate slope of 2 years of treatment with pegunigalsidase alfa compared with agalsidase beta in adults with deteriorating renal function and history of long-term agalsidase beta treatment. ⇒ Pegunigalsidase alfa-treated patients experienced a lower rate of mild or moderate infusion-related reactions."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 183.2,
+      "minX": 362.2,
+      "maxY": 201,
+      "maxX": 537.2,
+      "page": 1
+    }],
+    "text": "HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 156.2,
+      "minX": 362.2,
+      "maxY": 176.5,
+      "maxX": 541.3,
+      "page": 1
+    }],
+    "text": "⇒ Pegunigalsidase alfa provides patients with an additional treatment option for FD."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 122.8,
+      "minX": 355.7,
+      "maxY": 129.6,
+      "maxX": 419.7,
+      "page": 1
+    }],
+    "text": "INTRODUCTION"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 355.7,
+        "maxY": 117.3,
+        "maxX": 553.3,
+        "page": 1
+      },
+      {
+        "minY": 716.8,
+        "minX": 42,
+        "maxY": 746.5,
+        "maxX": 288.6,
+        "page": 2
+      },
+      {
+        "minY": 485.4,
+        "minX": 42,
+        "maxY": 711.2,
+        "maxX": 288.6,
+        "page": 2
+      },
+      {
+        "minY": 276,
+        "minX": 42,
+        "maxY": 479.8,
+        "maxX": 288.6,
+        "page": 2
+      },
+      {
+        "minY": 209.9,
+        "minX": 42,
+        "maxY": 270.4,
+        "maxX": 288.6,
+        "page": 2
+      }
+    ],
+    "text": "Fabry disease (FD; OMIM #301500) is a rare, progressive X-linked lysosomal disorder caused by pathogenic variants in the GLA gene leading to deficiency of α-galactosidase A (α-Gal A) and associated accumulation of globotriaosylceramide (Gb3) and globotriaosylsphingosine (lyso-Gb3).1\u20135 FD involves many systems, including renal, cardiac, neurologic and cerebrovascular.6 Phenotypic variation is marked in heterozygous females with higher plasma α-Gal A activity, random X-linked inactivation and deficient cross-correction.7\u201311 At the time the BALANCE study was conducted, three FD treatment options were approved with varying availability by country, including two enzyme replacement therapies (ERTs; agalsidase alfa and agalsidase beta) and one oral pharmacological chaperone therapy (migalastat).12 13 Agalsidase alfa and agalsidase beta are ERT preparations with engineered α-Gal A, administered via intravenous infusion every 2 weeks (E2W) at 0.2 and 1mg/kg doses, respectively.12 In clinical trials, ERT reduced the rate of kidney function decline, improved cardiac structure, reduced neuropathic pain severity and improved gastrointestinal symptoms.14 15 Patients receiving agalsidase beta who initiated treatment at a younger age and with higher estimated glomerular filtration rate (eGFR) benefited most; baseline glomerular sclerosis and uncontrolled proteinuria were indicators for poor prognosis.16 ERTs can lead to clinically relevant improvements in natural disease course, although disease progression occurs in some cases.17 Antidrug antibodies (ADAs) occur in up to 83% of patients with FD receiving agalsidase beta in clinical trials18 and are more common in males.19 In real-world studies, ADAs negatively impact biomarker response to ERT (less robust lyso-Gb3 reduction) and clinical outcomes12 19\u201322 and are associated with infusion-related reactions.23\u201327 Pegunigalsidase alfa, approved in the EU and the USA, is a novel PEGylated α-Gal A ERT with prolonged half-life, and designed to have reduced immunogenicity and potentially improved tolerability.13 28\u201330 It is chemically modified with 2 kDa homo-bifunctional polyethylene glycol (PEG) molecules cross-linking two plant cell\u2013derived subunits of α-Gal A or bound to surface lysine residues by one end only,29 resulting in PEGylated, covalently bound 114 kDa homodimer enzyme. Potential masking of some immune epitopes by PEGylation29 may explain the lower immunogenicity.30 31 Comparing in vitro and in vivo properties of pegunigalsidase alfa versus agalsidase alfa and agalsidase beta demonstrated equivalent activity with longer in vivo plasma half-life, in vitro stability with plasma-like and lysosomal-like conditions, and different cellular uptake routes.29 Elimination plasma half-life is approximately 90\u2013110 min for agalsidase alfa and 80\u2013120 min for agalsidase beta.18 32 Pegunigalsidase alfa has an elimination half-life of ~80 hours, effective Gb3 clearance from renal tissue and a favourable safety profile up to 12 months.30 33 The phase III BALANCE study (NCT02795676) is the first randomised, double-blind, active-control, head-to-head clinical trial of ERTs in FD and is the first study to directly evaluate efficacy, safety and tolerability of pegunigalsidase alfa versus agalsidase beta in adult patients with previous agalsidase beta treatment and deteriorating renal function."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 45.8,
+      "maxY": 768.8,
+      "maxX": 111.3,
+      "page": 2
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 165.6,
+      "minX": 42,
+      "maxY": 185.9,
+      "maxX": 93.2,
+      "page": 2
+    }],
+    "text": "METHODS Study design"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 46.5,
+        "minX": 42,
+        "maxY": 162.1,
+        "maxX": 288.6,
+        "page": 2
+      },
+      {
+        "minY": 705.9,
+        "minX": 306.7,
+        "maxY": 744.3,
+        "maxX": 553.3,
+        "page": 2
+      }
+    ],
+    "text": "BALANCE was conducted at 29 study centres in 12 countries from 22 August 2016 to 12 October 2021. Patients were randomly assigned 2:1 to receive pegunigalsidase alfa or agalsidase beta, 1 mg/kg intravenously E2W for 24 months. Randomisation was stratified by screening urine protein-to-creatinine ratio (UPCR) <1 or ≥1 g/g. The primary objective was to evaluate efficacy of pegunigalsidase alfa versus agalsidase beta; the primary analysis was to demonstrate non-inferiority of pegunigalsidase alfa with respect to annualised change in eGFR slope, based on a prespecified margin of median annualised eGFR slope difference and its CI between groups. The secondary efficacy endpoint reported here is change in plasma lyso-Gb3 concentration. Safety endpoints included treatment-emergent adverse events (TEAEs), infusion-related reactions, premedication use, and pre-existing and on-study ADA status."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 595.9,
+      "minX": 306.7,
+      "maxY": 700.3,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Pegunigalsidase alfa and agalsidase beta infusions were planned to be initially administered over 3 hours at the study centre. If well tolerated, infusion duration was gradually reduced to 1.5 hours, and patients could receive home infusions. If previously used, premedication was continued but gradually decreased over 3 months at investigator's discretion based on patient tolerability. After study completion, patients were invited to participate in an open-label extension of pegunigalsidase alfa (PB-102-F60; BRILLIANCE; NCT03566017)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 565.5,
+      "minX": 306.7,
+      "maxY": 572.6,
+      "maxX": 338.6,
+      "page": 2
+    }],
+    "text": "Patients"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 433.6,
+      "minX": 306.7,
+      "maxY": 560,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Patients were symptomatic, aged 18\u201360 years, with ≥1 characteristic FD feature (neuropathic pain, cornea verticillata, clustered angiokeratomas), screening eGFR of 40\u2013120 mL/min/ 1.73 m2 calculated via 2009 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation,34 deteriorating renal function (linear eGFR slope more negative than −2 mL/min/ 1.73 m2/year based on ≥3 creatinine values over 9\u201318 months), and ≥1 year agalsidase beta treatment (1 mg/kg E2W). FD was confirmed in males by decreased plasma and/or leucocyte α-Gal A activity to <30% of mean normal levels and in females historically confirmed based on known pathogenic GLA variants or novel variants shared by a first-degree male relative with FD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 345.6,
+      "minX": 306.7,
+      "maxY": 428,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Key exclusion criteria included the following: anaphylaxis or type I hypersensitivity reactions to agalsidase beta; historical eGFR >120 mL/min/1.73 m2 for 9\u201318 months prior; renal dialysis or transplantation; acute kidney injury within the last 12 months; angiotensin-converting enzyme inhibitor (ACEi) or angiotensin II receptor blocker (ARB) initiation or dose change within 4 weeks prior; UPCR >0.5 g/g and not ACEi/ARB-treated.35"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 313.3,
+      "minX": 306.7,
+      "maxY": 322.6,
+      "maxX": 448.7,
+      "page": 2
+    }],
+    "text": "Estimated glomerular filtration rate"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 260.4,
+      "minX": 306.7,
+      "maxY": 309.8,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Patients provided pre-infusion blood samples for creatinine assessment. Analysis was performed centrally using an enzymatic assay; eGFR (2009 CKD-EPI equation34) was calculated at screening and at least monthly for 30 visits during treatment (including baseline)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 228,
+      "minX": 306.7,
+      "maxY": 237.3,
+      "maxX": 372.3,
+      "page": 2
+    }],
+    "text": "Plasma lyso-Gb3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 164.2,
+      "minX": 306.7,
+      "maxY": 224.5,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Patients provided pre-infusion blood samples for plasma lyso-Gb3 assessment at baseline, 1.5 months, every 3 months the first year and every 6 months the second year. Quantification was performed centrally, including matrix lipid extraction and ultra-performance liquid chromatography\u2013tandem mass spectrometry.36 37"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 131.8,
+      "minX": 306.7,
+      "maxY": 141.1,
+      "maxX": 331.8,
+      "page": 2
+    }],
+    "text": "Safety"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 45.9,
+      "minX": 306.7,
+      "maxY": 128.3,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "TEAEs were adverse events (AEs) occurring between treatment initiation and final infusion. TEAEs included new medical conditions and pre-existing ones that worsened during treatment. Infusion-related reactions were defined as TEAEs beginning during or within 2 hours of infusion whose causality was assessed as definitely, probably or possibly treatment-related; these excluded injection site reactions, which were considered procedure-related."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 329.3,
+      "maxY": 34.9,
+      "maxX": 553.3,
+      "page": 2
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 736.5,
+      "minX": 42,
+      "maxY": 745.7,
+      "maxX": 121.4,
+      "page": 3
+    }],
+    "text": "Antidrug antibodies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 705.6,
+      "minX": 42,
+      "maxY": 733,
+      "maxX": 288.6,
+      "page": 3
+    }],
+    "text": "ADA assessment was performed using a multi-tiered approach based on a solid-phase ELISA using pegunigalsidase alfa or agalsidase beta for antibody capture."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 680.1,
+      "minX": 42,
+      "maxY": 687.3,
+      "maxX": 118.6,
+      "page": 3
+    }],
+    "text": "Statistical methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 537.2,
+      "minX": 42,
+      "maxY": 674.6,
+      "maxX": 288.6,
+      "page": 3
+    }],
+    "text": "Intent-to-treat (ITT) population was the main set for efficacy analyses and included all randomly assigned patients who received at least one dose (including partial doses). Per protocol (PP) population included ITT patients who completed 24 months of treatment, with ≥80% compliance and no major protocol violations potentially affecting the primary endpoint. In a non-inferiority study, PP and ITT analysis sets should be considered together for interpretation. Safety population included all randomly assigned patients who received any treatment dose (including partial doses). Treatment arm differences in rates of TEAEs and infusion-related reactions were analysed post hoc via Poisson regression with offset of treatment duration and number of infusions, respectively."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 438.2,
+        "minX": 42,
+        "maxY": 531.6,
+        "maxX": 288.6,
+        "page": 3
+      },
+      {
+        "minY": 383.2,
+        "minX": 42,
+        "maxY": 432.6,
+        "maxX": 288.6,
+        "page": 3
+      }
+    ],
+    "text": "The primary efficacy endpoint was annualised eGFR slope. To determine non-inferiority, the lower limit of a 95% CI for the difference of median annualised eGFR slopes was prespecified to be −3 mL/min/1.73 m2/year. Comparison of eGFR slopes was performed using quantile regression for the median, where individual slopes were estimated in the first stage using linear regression based on all eGFR assessments of each patient. In the second stage, quantile regression was used with treatment arm as the covariate.38 A post hoc analysis adjusting for sex was performed for the primary endpoint. Lyso-Gb3 concentrations and change from baseline over time were compared between arms and stratified by sex using post hoc Wilcoxon rank test. Additional post hoc analyses were descriptive."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 350.2,
+      "minX": 42,
+      "maxY": 377.6,
+      "maxX": 288.6,
+      "page": 3
+    }],
+    "text": "Refer to online supplemental material 1 for additional methods and CONSORT (Consolidated Standards of Reporting Trials) reporting guidelines."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 313.2,
+      "minX": 42,
+      "maxY": 331.5,
+      "maxX": 76.6,
+      "page": 3
+    }],
+    "text": "RESULTS Patients"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 247.3,
+      "minX": 42,
+      "maxY": 307.7,
+      "maxX": 288.6,
+      "page": 3
+    }],
+    "text": "Of the 127 screened patients, 49 failed screening and 78 met inclusion criteria and were randomly assigned (53 to pegunigalsidase alfa, 25 to agalsidase beta) (online supplemental figure 1). Of the 57 genetic variants identified, GLA c.679C>T (p.(Arg227Ter)) and c.680G>A (p.(Arg227Gln)) were the most common (online supplemental table 1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 115.3,
+      "minX": 42,
+      "maxY": 241.7,
+      "maxX": 288.6,
+      "page": 3
+    }],
+    "text": "Seventy-seven patients received either pegunigalsidase alfa (n=52) or agalsidase beta (n=25); one patient randomly assigned to pegunigalsidase alfa withdrew consent before receiving treatment (online supplemental figure 1). Forty-eight (90.6%) patients receiving pegunigalsidase alfa and 24 (96.0%) receiving agalsidase beta completed 24 months of treatment. Three patients on pegunigalsidase alfa (including the patient who did not receive treatment) and one patient on agalsidase beta voluntarily withdrew consent. Two patients on pegunigalsidase alfa discontinued due to AEs within the first year. In the ITT population (n=77), baseline characteristics were not significantly different between arms (table 1)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 87.8,
+      "minX": 42,
+      "maxY": 97.1,
+      "maxX": 184,
+      "page": 3
+    }],
+    "text": "Estimated glomerular filtration rate"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 42,
+        "maxY": 84.3,
+        "maxX": 288.6,
+        "page": 3
+      },
+      {
+        "minY": 672.7,
+        "minX": 306.7,
+        "maxY": 744.3,
+        "maxX": 553.3,
+        "page": 3
+      }
+    ],
+    "text": "Median eGFR at baseline was nearly identical for patients on pegunigalsidase alfa (73.5 mL/min/1.73 m2) and agalsidase beta (74.9 mL/min/1.73 m2; p=0.82) (table 1 and figure 1). Ranges were broad: 30\u2013126 and 34\u2013108 mL/min/1.73 m2, respectively, and changes were observed for individual patient values from screening to baseline. eGFR change from baseline showed a similar decline at 24 months in the two arms with a median change of −2.39 mL/min/1.73 m2 for pegunigalsidase alfa and −3.20 mL/min/1.73 m2 for agalsidase beta. Refer to online supplemental figure 2 for eGFR and eGFR change from baseline stratified by baseline eGFR."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 42,
+      "maxY": 34.9,
+      "maxX": 266,
+      "page": 3
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 3
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 474.1,
+      "minX": 306.7,
+      "maxY": 667,
+      "maxX": 553.4,
+      "page": 3
+    }],
+    "text": "Baseline median eGFR slope for the ITT population, based on historical patient data, was approximately −7mL/min/ 1.73 m2/year overall and was similar between arms (p=0.37) (table 1). In males, baseline eGFR slope ranged from −30.5 to 6.3mL/min/1.73 m2/year with pegunigalsidase alfa and −20.3 to −2.8mL/min/1.73 m2/year with agalsidase beta; in females, ranges were −19.2 to −1.6mL/min/1.73 m2/year and −13.9 to −6.9mL/min/1.73 m2/year, respectively. Median (95%CI limits) eGFR slopes after 24 months of treatment were −2.51 (−3.79, \u20131.24) mL/min/1.73 m2/year with pegunigalsidase alfa and −2.16 (−3.81, \u20130.51) mL/min/1.73 m2/year with agalsidase beta (table 2). Difference in median eGFR slope for the ITT population between arms was −0.36mL/min/1.73 m2/ year (95%CI −2.44, 1.73). The lower limit of the CI was above the prespecified non-inferiority margin; hence, non-inferiority was achieved. The 95%CI included 0, with extensive overlap between individual CIs, indicating no significant difference between arms."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 396.9,
+      "minX": 306.7,
+      "maxY": 468.5,
+      "maxX": 553.3,
+      "page": 3
+    }],
+    "text": "Subgroup analysis of eGFR slope showed median (95% CI) eGFR slope overlapped across arms for males: −3.44 (−5.38, \u20131.50) mL/min/1.73 m2/year with pegunigalsidase alfa and −2.01 (−3.98, \u20130.04) mL/min/1.73 m2/year with agalsidase beta, with a difference of −1.43 (−3.96, 1.10) mL/min/1.73 m2/year (table 2). High overlap was also observed across arms for females."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 264.6,
+      "minX": 306.7,
+      "maxY": 391.3,
+      "maxX": 553.3,
+      "page": 3
+    }],
+    "text": "All ADA-positive patients at baseline were male (table 1). Median (95% CI) eGFR slope in ADA-positive males was similar between arms: −2.51 (−5.28, 0.25) mL/min/ 1.73 m2/year with pegunigalsidase alfa (n=18) and −2.16 (−6.25, 1.93) mL/min/1.73 m2/year with agalsidase beta (n=8), with a difference (95% CI) of −0.36 (−5.16, 4.45) mL/ min/1.73 m2/year between arms (table 2). Median (95% CI) eGFR slope in ADA-negative patients in both treatment arms was similar: −2.22 (−4.02, \u20130.43) mL/min/1.73 m2/ year with pegunigalsidase alfa and −2.16 (−4.06, \u20130.26) mL/ min/1.73 m2/year with agalsidase beta; difference (95% CI) of −0.07 (−2.41, 2.27) mL/min/1.73 m2/year."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 231.8,
+      "minX": 306.7,
+      "maxY": 241,
+      "maxX": 372.3,
+      "page": 3
+    }],
+    "text": "Plasma lyso-Gb3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 46.3,
+      "minX": 306.7,
+      "maxY": 228.3,
+      "maxX": 553.3,
+      "page": 3
+    }],
+    "text": "As expected, males had higher plasma lyso-Gb3 concentrations throughout the study compared with females for both arms (figure 2). At 24 months, median (range) plasma lyso-Gb3 change from baseline in males was 5.30 (−32.2 to 32.7) nM with pegunigalsidase alfa and −2.40 (−102.3 to 2.4) nM with agalsidase beta; (p=0.0001); in females, the change was minimal: 0.10 (−4.0 to 5.8) nM with pegunigalsidase alfa and −0.30 (−0.7 to 0.9) nM with agalsidase beta (table 3, online supplemental figure 3) (p=0.54). In the overall population, median plasma lyso-Gb3 remained relatively stable in each arm with <2 nM change from baseline to 24 months (1.15 nM for pegunigalsidase alfa and −1.50 nM for agalsidase beta). In a post hoc assessment of lyso-Gb3 dynamics over study duration, individual patient profiles were analysed for plasma lyso-Gb3 increases from baseline exceeding 20% and 10 nM. Results indicated that lyso-Gb3 increases of this magnitude likely occur in patients with baseline UPCR ≥1 g/g and ADA positive status."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 45.8,
+      "maxY": 768.8,
+      "maxX": 111.3,
+      "page": 4
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 256.9,
+      "minX": 42,
+      "maxY": 306.3,
+      "maxX": 288.6,
+      "page": 4
+    }],
+    "text": "Patients with baseline UPCR ≥1 g/g and ADA positive status were all male and more frequently assigned to the pegunigalsidase alfa arm (of 18 ADA-positive patients, 6 had UPCR ≥1 g/g) than agalsidase beta (of 8 ADA-positive patients, 1 had UPCR ≥1 g/g) (data not shown)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 231.3,
+      "minX": 42,
+      "maxY": 240.6,
+      "maxX": 67.2,
+      "page": 4
+    }],
+    "text": "Safety"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 67.9,
+      "minX": 42,
+      "maxY": 229,
+      "maxX": 288.6,
+      "page": 4
+    }],
+    "text": "Treatment-emergent adverse events Most patients (90.4% of pegunigalsidase alfa-treated and 96.0% of agalsidase beta-treated) experienced ≥1 TEAE (table 4). The TEAE rate (events/100 exposure-years) was significantly lower with pegunigalsidase alfa (572) than agalsidase beta (817) (rate ratio (95% CI) of 0.70 (0.62, 0.80), p<0.0001). Among males, rates were significantly lower with pegunigalsidase alfa (545) than agalsidase beta (922) (rate ratio (95% CI) of 0.59 (0.51, 0.69), p<0.0001), but there was no significant difference among females (605 vs 549; rate ratio (95% CI) of 1.10 (0.86, 1.42), p=0.45). Proportions of patients experiencing treatment-related TEAEs were similar (40% with pegunigalsidase alfa and 44% with agalsidase beta). Treatment-related TEAE rate (events/100 exposure-years) was 3.6-fold lower with pegunigalsidase alfa (43) than agalsidase beta (153)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 42,
+        "maxY": 62.3,
+        "maxX": 288.6,
+        "page": 4
+      },
+      {
+        "minY": 212.3,
+        "minX": 306.7,
+        "maxY": 306.3,
+        "maxX": 553.3,
+        "page": 4
+      }
+    ],
+    "text": "On exploring whether all patients experienced relatively equal numbers of treatment-related TEAEs, it was observed that 2 patients per treatment arm with the most treatment-related TEAEs constituted 26% (11 events) for pegunigalsidase alfa and 57% (43 events) for agalsidase beta. A male receiving pegunigalsidase alfa reported 6 related TEAEs and another male reported 5; the remaining 19 patients reported 1\u20134 events each (13 males, 6 females); one female receiving agalsidase beta reported 18 related TEAEs, and a male reported 25; the remaining 9 (8 males, 1 female) patients reported 1\u20138 events each."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 46.1,
+      "minX": 306.7,
+      "maxY": 206.6,
+      "maxX": 553.3,
+      "page": 4
+    }],
+    "text": "Two pegunigalsidase alfa-treated patients experienced TEAEs leading to withdrawal. One experienced a hypersensitivity reaction during the first infusion which resolved that day; defined as an infusion-related reaction, and considered as serious, severe and treatment-related. This patient experienced another hypersensitivity reaction on rechallenge and withdrew. At first infusion, the patient was positive for anti-pegunigalsidase alfa IgE and IgG. Another patient was diagnosed with FD-related end-stage renal disease necessitating kidney transplant and withdrew. An additional pegunigalsidase alfa-treated patient had treatment-related immune complexmediated membranoproliferative glomerulonephritis leading to cessation of treatment but not withdrawal from the study. A kidney biopsy confirmed the presence of 1+IgG subendothelial deposits and 1+kappa and lambda deposits; c3 was negative."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 329.3,
+      "maxY": 34.9,
+      "maxX": 553.3,
+      "page": 4
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 5
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 202.7,
+      "minX": 42,
+      "maxY": 233.5,
+      "maxX": 529.9,
+      "page": 5
+    }],
+    "text": "Figure 1 Median eGFR over time in (A) all patients and (B) by sex. (B) Number of female and male patients: pegunigalsidase alfa, n=23 and n=29, respectively; agalsidase beta, n=7 and n=18, respectively. aNumber of patients at baseline and 24 months: n=52 and n=47, respectively. bNumber of patients at baseline and 24 months: n=25 and n=24, respectively. eGFR, estimated glomerular filtration rate; ITT, intent-to-treat."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 135.4,
+      "minX": 42,
+      "maxY": 184.8,
+      "maxX": 288.6,
+      "page": 5
+    }],
+    "text": "There were continued capillary cell and endothelial cell inclusions and numerous podocyte inclusions. Immunohistochemistry confirmed immune complexes collocated with α-Gal. TEAEs by system are presented in online supplemental table 2. There were no deaths."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 42,
+        "maxY": 119.1,
+        "maxX": 288.6,
+        "page": 5
+      },
+      {
+        "minY": 68.1,
+        "minX": 306.7,
+        "maxY": 184.8,
+        "maxX": 553.3,
+        "page": 5
+      }
+    ],
+    "text": "Infusion-related reactions With pegunigalsidase alfa, infusion-related reaction rate was 0.5 event/100 infusions, with 11 (21%) patients reporting 13 infusion-related reactions (table 4). Infusion-related reaction rate with agalsidase beta was significantly higher (3.9 events/100 infusions; rate ratio (95% CI) of 0.13 (0.07, 0.24), p<0.0001), with six (24%) patients experiencing 51 infusion-related reactions. The proportion of males reporting infusion-related reactions was numerically higher (31% with pegunigalsidase alfa and 28% with agalsidase beta) than that of females (9% with pegunigalsidase alfa and 14% with agalsidase beta) (difference between arms not significant). Infusion-related reaction rate was significantly lower in both males and females on pegunigalsidase alfa compared with males and females on agalsidase beta (males: 0.8 vs 3.5 events/100 infusion, respectively; rate ratio (95% CI) of 0.22 (0.11, 0.44); p<0.0001) (females: 0.2 vs 4.9 events/100 infusions, respectively; rate ratio (95% CI) of 0.04 (0.01, 0.15); p<0.0001)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 42,
+      "maxY": 34.9,
+      "maxX": 266,
+      "page": 5
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 306.7,
+        "maxY": 62.4,
+        "maxX": 553.3,
+        "page": 5
+      },
+      {
+        "minY": 397.6,
+        "minX": 42,
+        "maxY": 458,
+        "maxX": 288.6,
+        "page": 6
+      }
+    ],
+    "text": "In both arms, the proportion of ADA-positive patients reporting infusion-related reactions was higher (33% with pegunigalsidase alfa and 50% with agalsidase beta) than ADA-negative patients (15% and 12%, respectively). Infusion-related reaction rate was lower with pegunigalsidase alfa than agalsidase beta among ADA-positive patients (0.9 and 7.5 events/100 infusions, respectively) and ADA-negative patients (0.3 and 2.2 events/100 infusions, respectively)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 45.8,
+      "maxY": 768.8,
+      "maxX": 111.3,
+      "page": 6
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 304.3,
+      "minX": 42,
+      "maxY": 377.4,
+      "maxX": 288.6,
+      "page": 6
+    }],
+    "text": "Premedications Most patients who initially received premedications (based on prior agalsidase beta treatment regimen) successfully reduced premedication use. There was a notable drop in premedication use from baseline to 24 months, from 21 (40.4%) to 3 (6.4%) patients receiving pegunigalsidase alfa and from 16 (64.0%) to 3 (12.5%) patients receiving agalsidase beta."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 274.8,
+      "minX": 42,
+      "maxY": 284,
+      "maxX": 121.4,
+      "page": 6
+    }],
+    "text": "Antidrug antibodies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.9,
+      "minX": 42,
+      "maxY": 271.3,
+      "maxX": 288.6,
+      "page": 6
+    }],
+    "text": "For males receiving pegunigalsidase alfa, 18 out of 29 (62%) were ADA-positive at baseline, and 10 out of 25 (40%) were ADA-positive at study end. For females, none were ADA-positive at baseline, and 1 out of 22 (5%) females was ADA-positive at study end (with treatment-emergent ADA). Neutralising antibodies were present in 17 out of 52 (33%) patients at baseline, and 7 out of 47 (15%) patients at study end. Treatment-emergent ADAs were present in 6 out of 52 (12%) patients (3 ADA-negative at baseline who became positive during treatment, and three titre boosted by more than fourfold during treatment). All IgG-positive patients tested negative for antibodies recognising the plant glycans, and three patients tested positive for antibodies to the PEG moieties of pegunigalsidase alfa (transitory response) throughout the study."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 46,
+      "minX": 42,
+      "maxY": 117.3,
+      "maxX": 288.6,
+      "page": 6
+    }],
+    "text": "With agalsidase beta, 8 out of 18 (44%) males were ADA-positive at baseline, and 6 out of 16 (38%) were ADA-positive at study end. Neutralising antibodies were present in 7 out of 25 (28%) patients at baseline, and 6 out of 23 (26%) patients at study end. Treatment-emergent ADAs were present in 5 out of 25 (20%) patients, 3 of whom had treatment-induced ADAs, and two titre boosted."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 450.2,
+      "minX": 306.7,
+      "maxY": 459.5,
+      "maxX": 422.6,
+      "page": 6
+    }],
+    "text": "Infusion setting and duration"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 363.9,
+      "minX": 306.7,
+      "maxY": 446.6,
+      "maxX": 553.3,
+      "page": 6
+    }],
+    "text": "A mean (SD; median) of 22.8 (17.0; 30.0) pegunigalsidase alfa infusions/patient were administered at home (46.0% of total infusions). With pegunigalsidase alfa, mean (range) infusion duration of completed infusions decreased from 3.1 (2.04.9) hours at first infusion to 1.6 (1.4\u20132.1) hours at 24 months; with agalsidase beta, means were 3.0 (2.6\u20133.3) hours at first infusion and 1.7 (1.4\u20133.2) hours at 24 months (no significant difference between groups at 24 months)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 333.1,
+      "minX": 306.7,
+      "maxY": 339.9,
+      "maxX": 357.7,
+      "page": 6
+    }],
+    "text": "DISCUSSION"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 189.5,
+        "minX": 306.7,
+        "maxY": 327.5,
+        "maxX": 553.3,
+        "page": 6
+      },
+      {
+        "minY": 90.1,
+        "minX": 306.7,
+        "maxY": 183.9,
+        "maxX": 553.3,
+        "page": 6
+      }
+    ],
+    "text": "BALANCE demonstrated non-inferior renal efficacy and the potential for improved tolerability with pegunigalsidase alfa compared with agalsidase beta in patients with FD and deteriorating renal function. Clinically, patients were heterogeneous with multisystem involvement (median (range) of 5 (2\u20137) organs; >83% had cardiac involvement, and >97% had neurological involvement, based on FD medical history). The study population had received agalsidase beta for 1 year at minimum and for 6 years on average. Importantly, these patients had severe disease relative to previous agalsidase beta trials, which included patients with either low or high renal involvement16 or ERT-naïve patients with decreased creatinine clearance and without advanced, serious cardiac and neurological problems.39 The primary endpoint was achieved, showing pegunigalsidase alfa was comparable to agalsidase beta. The non-inferiority margin was based on natural history information available at study development,40 41 type of population enrolled (ie, progressive renal impairment based on historical eGFR slope), inherent variability of eGFR as an outcome and limited sample size with rare disease. Post hoc analysis indicated that the imbalance in sex distribution at randomisation (not statistically significant) did not influence the final results."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 306.7,
+        "maxY": 84.4,
+        "maxX": 553.3,
+        "page": 6
+      },
+      {
+        "minY": 45.9,
+        "minX": 42,
+        "maxY": 216.3,
+        "maxX": 288.6,
+        "page": 7
+      },
+      {
+        "minY": 133.9,
+        "minX": 306.7,
+        "maxY": 216.3,
+        "maxX": 553.3,
+        "page": 7
+      }
+    ],
+    "text": "Median eGFR slope improved in both study arms: from −6.7 and −7.8 mL/min/1.73 m2/year at baseline with pegunigalsidase alfa and agalsidase beta, respectively, to −2.5 and −2.2 mL/min/ 1.73 m2/year, respectively, at 2 years. This difference in pre-enrolment and on-study slope could have resulted from differences in how historical and on-study creatinine values were derived (site-specific vs centralised, non-uniform vs predefined time intervals, variable vs predefined number of assessments, different vs same laboratory methodology). Of note, patients were managed before enrolment by standards of care that may have varied across the 29 study centres in 12 countries. Renal function in both arms stabilised, despite declining renal function at baseline and the unchanged agalsidase beta regimen. Nonetheless, baseline kidney function was equivalent between arms, supporting the validity of the randomisation. Medication adjustments would likely not affect results, because the use of ACEi/ ARBs remained stable in both arms. Another possible explanation for this observation is the Hawthorne effect, a known phenomenon whereby clinical study participants benefit by being more closely observed than with standard care.42 Median plasma lyso-Gb3 remained stable over the 2-year study in both treatment arms. As expected, sex stratification revealed that lyso-Gb3 concentrations were higher in males. Further post hoc analysis of outliers suggests baseline ADAs and UPCR >1 g/g may relate to changes in lyso-Gb3; these patients were slightly over-represented in the pegunigalsidase alfa arm. Generally, the clinical significance of the magnitude of lyso-Gb3 changes in both groups should be interpreted with caution."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 329.3,
+      "maxY": 34.9,
+      "maxX": 553.3,
+      "page": 6
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 7
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 234.8,
+      "minX": 42,
+      "maxY": 254.6,
+      "maxX": 535,
+      "page": 7
+    }],
+    "text": "Figure 2 Plasma lyso-Gb3 over time in (A) males and (B) females. Boxes and whiskers represent the median and quartiles, with outliers as circles; 'X' represents the mean. Lyso-Gb3, globotriaosylsphingosine."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 42,
+      "maxY": 34.9,
+      "maxX": 266,
+      "page": 7
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 45.9,
+        "minX": 306.7,
+        "maxY": 128.3,
+        "maxX": 553.3,
+        "page": 7
+      },
+      {
+        "minY": 397.6,
+        "minX": 42,
+        "maxY": 524,
+        "maxX": 288.6,
+        "page": 8
+      }
+    ],
+    "text": "Overall, pegunigalsidase alfa was well tolerated, aligning with previous findings in ERT-naïve and other switch patients.30 There were substantially fewer infusion-related reactions with pegunigalsidase alfa than agalsidase beta, with a 7.8-fold difference in rate of infusion-related reactions (0.5/100 vs 3.9/100 infusions), and most were mild or moderate. There was one serious infusion-related reaction, a hypersensitivity event in one pegunigalsidase alfa IgE-positive patient. In other studies, 59% of agalsidase beta-treated patients experienced infusion-related reactions (adverse reactions occurring on the infusion day), some of which were severe.18 The lower proportion of patients reporting infusion-related reactions in BALANCE (21% with pegunigalsidase alfa; 24% with agalsidase beta) relative to what is reported in agalsidase beta's prescribing information18 may be due to the selection of patients who received long-term treatment with agalsidase beta (vs initial 2 years from ERT initiation) and/ or exclusion of patients who might have discontinued agalsidase beta due to infusion-related reactions. No deaths were reported. Two patients on pegunigalsidase alfa withdrew due to AEs; one hypersensitivity reaction and the other not treatment-related."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 45.8,
+      "maxY": 768.8,
+      "maxX": 111.3,
+      "page": 8
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 474.6,
+      "minX": 306.7,
+      "maxY": 524,
+      "maxX": 553.3,
+      "page": 8
+    }],
+    "text": "The overall rate of TEAEs was lower with pegunigalsidase alfa than agalsidase beta (572 vs 817 events/100 exposure-years). The only serious AE was the above-reported infusion-related reaction of hypersensitivity with the first pegunigalsidase alfa treatment which resolved the same day."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 397.6,
+        "minX": 306.7,
+        "maxY": 469,
+        "maxX": 553.3,
+        "page": 8
+      },
+      {
+        "minY": 528.5,
+        "minX": 42,
+        "maxY": 744.3,
+        "maxX": 288.6,
+        "page": 9
+      }
+    ],
+    "text": "At baseline, 26 patients had pre-existing ADAs. The proportion of ADA-positive patients decreased slightly in both arms, from 35% at baseline to 23% at study end with pegunigalsidase alfa and from 32% to 26% with agalsidase beta. The proportion of patients with neutralising antibodies declined with pegunigalsidase alfa, from 33% to 15% compared with a change from 28% to 26% with agalsidase beta. Baseline reactivity to pegunigalsidase alfa is explained by cross-reactivity to the enzyme components of the amino acid sequence shared between pegunigalsidase alfa and agalsidase beta.31 Recent studies show that in some patients, pre-existing ADAs against agalsidase alfa and agalsidase beta have less affinity and enzymatic inhibitory effects against pegunigalsidase alfa31; however, it is currently not possible to predict which ADA-positive patients may benefit from ERT switch and additional analysis needs to be performed. In BALANCE, only 3 patients per arm (6% (3/52) with pegunigalsidase alfa; 12% (3/25) with agalsidase beta) showed treatment-induced de novo ADAs, all with long-term agalsidase beta exposure. These rates are lower than what has been described in trials of naïve patients, as de novo ADAs typically occur in the first months of ERT initiation. For example, treatment-induced ADAs developed in 19% of naïve patients treated with pegunigalsidase alfa30 and 83% of naïve patients receiving agalsidase beta.18 Direct comparison of ADA incidence across trials is also challenging due to the use of different ADA assays. Overall, these ADA findings should be interpreted with caution and with consideration of the patients' long-term ERT exposure."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 417.8,
+      "minX": 42,
+      "maxY": 522.9,
+      "maxX": 288.6,
+      "page": 9
+    }],
+    "text": "In many cases, premedications were successfully reduced or discontinued, and mean infusion duration was similar between arms at 24 months with a maximum infusion duration of approximately 2 hours with pegunigalsidase alfa versus over 3 hours with agalsidase beta. This indicates at least one patient required prolonged infusion time with agalsidase beta to achieve good tolerability. Altogether, these findings support the safety of pegunigalsidase alfa, with infusions found to be equally safe for both drugs when administered at home compared with the study site."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 251.8,
+        "minX": 42,
+        "maxY": 412.2,
+        "maxX": 288.6,
+        "page": 9
+      },
+      {
+        "minY": 107.9,
+        "minX": 42,
+        "maxY": 246.1,
+        "maxX": 288.6,
+        "page": 9
+      }
+    ],
+    "text": "BALANCE inclusion criteria selected for advanced disease in both males and females with FD, and as such, the participants represent a relatively homogeneous subgroup of patients affected by the disease. Differences between arms in ADAs and infusion-related reactions could have been underestimated because patients were already treated with agalsidase beta for an average of 6 years, and these occur most commonly in the first years of treatment. Due to the methodological challenges of interpretation, the current analysis does not compare the level of ADAs (titres) between arms and is limited to describing the proportion and trends of patients with ADAs within arms over time. Furthermore, FD is a heterogeneous disease with remaining unmet needs; the availability of new therapies can contribute to personalising patient care and potentially establishing combination regimens.43\u201345 BALANCE is the first clinical trial in FD to be conducted with a double-blind, active-control design. Pegunigalsidase alfa was comparable to agalsidase beta based on annualised eGFR slope, an accepted surrogate for progression to end-stage kidney disease. Results demonstrated the potential for improved tolerability with less infusion-related reactions in some patients. Further detailed analysis of pegunigalsidase alfa immunogenicity is warranted. Most patients who completed the study (96%) enrolled in the open-label extension study for up to 7 years of pegunigalsidase alfa treatment. Pegunigalsidase alfa is approved in the EU and the USA, providing an important new treatment option for patients with FD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 85.7,
+      "minX": 42,
+      "maxY": 102.2,
+      "maxX": 288.6,
+      "page": 9
+    }],
+    "text": "Refer to online supplemental material 2 for a plain language summary of the study results."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 44.7,
+      "minX": 42,
+      "maxY": 62.9,
+      "maxX": 270.4,
+      "page": 9
+    }],
+    "text": "1Department of Medicine, Division of Nephrology, The University of Alabama at Birmingham, Birmingham, Alabama, USA"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 42,
+      "maxY": 34.9,
+      "maxX": 266,
+      "page": 9
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 9
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 719.8,
+      "minX": 306.7,
+      "maxY": 747,
+      "maxX": 549.2,
+      "page": 9
+    }],
+    "text": "2Lysosomal and Rare Disorders Research and Treatment Center, Inc, Fairfax, Virginia, USA 3Department of Human Genetics, Emory University School of Medicine, Atlanta,"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 665.5,
+      "minX": 306.7,
+      "maxY": 682.4,
+      "maxX": 530.1,
+      "page": 9
+    }],
+    "text": "6SDaeltpLaarktmeeCnittyo,UfItnathe,rnUaSlAMedicine, School of Medicine, Charles University and"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 575,
+      "minX": 306.7,
+      "maxY": 620.3,
+      "maxX": 551,
+      "page": 9
+    }],
+    "text": "1910D1DAecepapadaretrmtmmeiesncnthtooMffCePldeinidsicciahatlrCiScecsni,etHnruacmeu,kUeUlnnaiinvvdeerrUssiinttyeiviotefrvsaBinteyrAgHmeonss,tpeBitreadrlag,meBne,,rAgNmeonsr,tweNradoyarwma,yThe Netherlands 12Unidad de Investigación Traslacional. Hospital Universitario Miguel Servet, Instituto"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 556.9,
+      "minX": 306.7,
+      "maxY": 573.8,
+      "maxX": 535.8,
+      "page": 9
+    }],
+    "text": "1d3eCIennvterostidgeacInióvnesStaignaitcaiórina BAiroamgóéndic(IaISeAnraRgeódnd),eZEanrafegromzead,aSdpeasinRaras (CIBERER-"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 502.6,
+      "minX": 306.7,
+      "maxY": 537.6,
+      "maxX": 548.1,
+      "page": 9
+    }],
+    "text": "11I1t657aDLBlyayisvyoilsosimornUalonDifviMesroesriddtiyecraMsleUGdneicinta,eltDiCcesep,naUtretnmrivaeetnrDstiatoylflaoMsf,eVDdeaircslilanaiesll,,eTCse,axGmaasb,rrcUihdSegAse, UFrnainvceersity Hospitals"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 385,
+      "minX": 306.7,
+      "maxY": 465.2,
+      "maxX": 551.1,
+      "page": 9
+    }],
+    "text": "2P0eMnnasrkylvHaonlilaa,nUdSMAetabolic Unit, Northern Care Alliance NHS Foundation Trust, Greater Manchester, UK 21Department of Pediatrics, Medical College of Wisconsin, Milwaukee, Wisconsin, USA 22Department of Pediatrics, University of California San Diego, La Jolla, California, USA 2234DDeeppaarrttmmeenntt ooff IPnetdeirantarilcMs,eUdnicivineers,iGtyeonfeCraallHifoorsnpiiataIlrvSilnoev,eInrvjiGnera,dCeacli,foSrlonviae,nUjGSAradec,"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 45.8,
+      "maxY": 768.8,
+      "maxX": 111.3,
+      "page": 10
+    }],
+    "text": "Therapeutics"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 455.9,
+      "minX": 306.7,
+      "maxY": 462.8,
+      "maxX": 356.8,
+      "page": 10
+    }],
+    "text": "REFERENCES"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 329.3,
+      "maxY": 34.9,
+      "maxX": 553.3,
+      "page": 10
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 27.2,
+      "minX": 42,
+      "maxY": 34.9,
+      "maxX": 266,
+      "page": 11
+    }],
+    "text": "Wallace EL, et al. J Med Genet 2023;0:1\u201311. doi:10.1136/jmg-2023-109445"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 758.2,
+      "minX": 483.9,
+      "maxY": 768.8,
+      "maxX": 549.5,
+      "page": 11
+    }],
+    "text": "Therapeutics"
+  }}
+]}

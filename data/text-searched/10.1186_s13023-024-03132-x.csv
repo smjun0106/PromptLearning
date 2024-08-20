@@ -1,0 +1,47 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","## Orphanet Journal of Rare Diseases
+
+### RESEARCH Open Access
+
+### Title
+GBA1 as a risk gene for osteoporosis in specific populations and its role in the development of Gaucher disease
+
+### Authors
+Chung-Hsing Wang, Yu-Nan Huang, Wen-Ling Liao, Ai-Ru Hsieh, Wei-De Lin, Kai-Wen Liu, Wen-Li Lu, Chieh-Chen Huang, Yin-Hsiu Chien, Ni-Chung Lee, Pen-Hua Su, Fuu-Jen Tsai
+
+### Abstract
+
+#### Background
+Osteoporosis and fragility fractures contribute to global morbidity and mortality. Gaucher disease (GD) is caused by GBA1 deficiency, leading to skeletal complications. This study investigates the impact of the GBA1 gene on osteoporosis progression in GD patients and specific populations.
+
+#### Methods
+We selected 8115 osteoporosis patients and 55,942 healthy individuals from a clinical database. Monocytes from GD patients were evaluated for ER stress, inflammasome activation, and osteoclastogenesis. An in vitro model of GD patient cells treated with AAV9-GBA1 assessed GBA1 enzyme activity, chitotriosidase activity, ER stress, and osteoclast differentiation. Longitudinal DXA data tracked bone density in GD patients undergoing enzyme replacement therapy (ERT).
+
+#### Results
+The GBA1 gene variant rs11264345 was significantly associated with increased bone disease risk. Upregulation of Calnexin, NLRP3, and ASC was associated with osteoclastogenesis in GD patients. AAV9-GBA1 treatment enhanced GBA1 enzyme activity, reduced chitotriosidase activity, diminished ER stress, and decreased osteoclast differentiation. Early ERT initiation led to greater bone density improvements.
+
+#### Conclusions
+Elevated ER stress and inflammasome activation indicate osteoporosis development, suggesting clinical monitoring of GD patients. The GBA1 gene variant may predispose specific populations to osteoporosis.
+
+#### Keywords
+Gaucher disease, GBA1, Osteoclastogenesis, Inflammasome, Endoplasmic reticulum stress, Osteoporosis
+
+### Background
+The human skeleton undergoes continuous remodeling through osteoclasts and osteoblasts. Gaucher disease (GD) is a rare hereditary lysosomal disorder caused by GBA1 deficiency, leading to lipid accumulation and skeletal complications. ER stress and inflammasome activation contribute to various diseases, including bone disorders in GD.
+
+### Materials and Methods
+We analyzed GBA1 variants in the Taiwan Biobank database, including 95,223 individuals. Monocytes from six GD patients were analyzed for ER stress, inflammasome markers, and osteoclast differentiation. DXA assessed bone mineral density. Genotyping was performed using TWB chips and an Axiom Genome-Wide Array Plate System. PheWAS analysis assessed the association of SNP rs11264345 with health outcomes. Blood samples were collected from six GD patients and six healthy volunteers. PBMCs were isolated and analyzed for osteoclast differentiation and ER stress markers. Statistical analysis was performed using GraphPad Prism 9 software.
+
+### Results
+Six SNPs in the GBA1 gene were associated with BMD. The most significant SNP, rs11264345, was associated with decreased BMD and increased osteoporosis risk. Monocytes from GD patients showed higher osteoclast differentiation and ER stress markers. AAV9-GBA1 treatment reduced ER stress and osteoclast differentiation. Early ERT initiation preserved bone density in GD patients.
+
+### Discussion
+GBA1 variants are associated with bone diseases. ER stress and inflammasome activation play critical roles in osteoclast differentiation in GD. Genetic screening for GBA1 variants may identify patients at higher risk for osteoporosis. Early ERT initiation improves bone density outcomes in GD patients.
+
+### Conclusions
+GBA1 variants predispose specific populations to osteoporosis. Early ERT initiation in GD patients preserves bone density. Understanding the mechanisms connecting GBA1 variants to bone disease can guide management and improve patient outcomes.
+
+### Supplementary Information
+
+### Publisher's Note"

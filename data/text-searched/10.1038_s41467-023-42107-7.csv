@@ -1,0 +1,46 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","### Title
+Glucocerebrosidase mutations disrupt the lysosome and now the mitochondria
+
+### Authors
+Andrés D. Klein & Tiago Fleming Outeiro
+
+### Abstract
+β-Glucocerebrosidase (GCase) mutations lead to glucosylceramide build-up in the lysosome, impacting α-synuclein aggregation and autophagy. Recently, Baden and colleagues found GCase in mitochondria, supporting mitochondrial complex I function and energy metabolism. The newly described role of GCase in the mitochondria will inform new Parkinson's and Gaucher's disease therapeutics.
+
+### Introduction
+Parkinson's disease (PD) is a common neurodegenerative condition known for motor symptoms associated with the loss of dopaminergic neurons in the substantia nigra. Early genetics studies on familial forms of PD implicated variants in genes related to intracellular trafficking and mitochondrial biology, including SNCA, LRRK2, DJ-1, PINK1, and PARKIN. Recent large-scale next-generation sequencing studies have identified variants in one allele of the β-glucocerebrosidase (GCase) encoding gene (GBA1) in 5–30% of PD cases, depending on ancestry. Clinically, PD patients harboring GBA1 mutations typically present with early onset, rapid progression of motor impairment and cognitive decline, and reduced survival rates, suggesting that GCase plays a central role in the pathophysiology.
+
+### Gaucher's Disease
+Biallelic GBA1 mutations cause Gaucher's disease (GD), a rare monogenic lysosomal storage disorder (LSD). The lysosomal GCase enzyme breaks down glucosylceramide (GlcCer) into glucose and ceramide. Consequently, GD cells cannot metabolize GlcCer, leading to its intracellular accumulation. Clinically, GD symptoms vary widely, ranging from visceral disease (Type 1) to neuropathic manifestations (Types 2 and 3).
+
+### PD and GD Neurons
+PD and GD neurons exhibit oxidative stress markers and alterations in mitochondrial complex I (CI). Both exhibit the accumulation of α-synuclein (a-syn). Dopaminergic neurons abundantly express GCase. Loss-of-function variants in GBA1 lead to lysosomal dysfunction, causing GlcCer accumulation which fuels a-syn aggregation in human induced pluripotent stem cell (iPSC) neurons. Furthermore, a-syn inhibits the activity of mutated and non-mutated GCase in neurons and idiopathic PD brains, creating a bidirectional cycle that contributes to the disease process. Dopaminergic iPSC neurons carrying GBA1 mutations display elevated cytoplasmic calcium levels and impaired macroautophagy flux, but these phenotypes could be reversed after zinc-finger nuclease (ZFN)-mediated gene corrections. Mutated GCase (mGCase) also impairs chaperone mediated autophagy (CMA), causing the accumulation of CMA substrates, including α-syn.
+
+### GCase in Mitochondria
+Several lines of investigation suggested that GCase could play a role in mitochondria. A mouse model of neuropathic GD showed dysfunctional and fragmented mitochondria with impaired respiration, reduced respiratory chain complex activities, and a decreased potential maintained by reversal of the ATP synthase. Reduction in mitochondrial calcium uptake due to decreased levels of the mitochondrial calcium uniporter is also observed in Gba1 deficient cells. Inhibition of GCase activity with Conduritol B-Epoxide and mitochondrial complex I (CI) with rotenone leads to similar results in terms of increased secretion of dopamine and serotonin metabolites to the extracellular medium, suggesting that GCase and mitochondrial CI participate in a common pathway related to the dopamine/serotonin deficiency seen in PD.
+
+### Recent Study by Baden et al.
+A recent study published in Nature Communications by Baden and colleagues explored the interactome of wild type (WT) and mutant GCase (mGCase) proteins using a quantitative unbiased proteomics approach in HEK cells, iPSC-derived neurons, and midbrain organoids. Interestingly, 19 of the top 100 binding partners of WT-GCase were mitochondria-associated proteins. The authors validated the physical interaction of GCase with a cytosolic chaperone involved in protein folding prior to mitochondrial import (HSC70), a mitochondrial outer membrane (TOM70), inner membrane (TIM23 and ATP5B), and mitochondrial matrix (HSP60 and LONP1) proteins through immunoprecipitation.
+
+### mGCase Interactome
+Analysis of the interactome of mGCase showed an enriched interaction with proteins involved in mitochondrial protein quality control, including LONP1, and a decreased interaction with TIMMDC1, the mitochondrial CI assembly factor. To demonstrate that both WT and mGCase can locate in mitochondria, the authors performed subcellular fractionation and super-resolution imaging. Using bioinformatics analysis, they predicted that GCase possesses an internal (non-canonical) mitochondrial targeting signal, which was experimentally validated. Baden and colleagues also showed that GCase, both WT and mutant, interact with HSC70, mediating their transport into mitochondria. Interestingly, LONP1 interacts with mGCase, a mitochondrial protease that can degrade it and participates in a-syn aggregation. This study is consistent with our own work implicating another chaperonin protein, HSP10, as a protein that can be trapped by a-syn in the cytosol, thereby affecting mitochondrial function.
+
+### GCase Function in Mitochondria
+The authors identified that mGCase showed reduced interactions with TIMMDC1 and NDUFA10, two proteins responsible for CI maintenance. They hypothesized that inside mitochondria, GCase plays a role in ensuring proper mitochondrial CI function. To evaluate the higher order of CI integrity and its supercomplexes (also known as respirasomes), they utilized several complementary biochemical techniques. The amount of respirasomes was decreased in GBA1 null and GBA1 mutant neural progenitor cells and dopaminergic neurons compared to the WT protein, suggesting an unexpected role for GCase in the structural maintenance of CI.
+
+### Impact on CI Activity
+The authors investigated the impact of GCase on CI activity measured as the ratio of NADH oxidase/coenzyme Q reductase and oxygen consumption rates activities (OCR). Mutant GCase leads to decreased OCR and CI activity compared to WT GCase, but not in complexes II-IV, demonstrating a role for GCase in CI function. Additionally, dysfunction of respiration caused by GCase deficiency leads to an increase in reactive oxygen species (ROS) which triggers dopamine oxidation in mitochondria in a non-enzymatic reaction. Dopamine adducts further inhibit GCase function, exacerbating the pathology.
+
+### Mitochondria and Lysosomes Interaction
+Mitochondria and lysosomes interact through specialized contact-sites. PD-GBA1 patient-derived dopaminergic neurons exhibit prolonged mitochondria-lysosome contacts due to defective modulation of the untethering protein TBC1D15, which mediates Rab7 GTP hydrolysis for contact untethering. Increasing GCase activity with S-181, a GCase small molecule chaperone, restored lysosome-mitochondria contact sites to normal, suggesting a role for lysosome-mitochondria contact sites in PD pathology.
+
+### Concluding Remarks and Outlook
+The mechanistic link between GBA1 variants and PD may lie in the interplay between GCase functions in the lysosome and mitochondria. GCase mutations that affect function in the lysosome lead to the intracellular accumulation of glycolipids, disrupting normal lysosomal function and autophagy, and leading to a-syn accumulation. Additionally, a-syn buildup impairs GCase activity, creating a self-perpetuating cycle of lysosomal dysfunction and a-syn accumulation, which may trap mitochondrial proteins in the cytosol, exacerbating both mitochondrial and lysosomal dysfunction. GCase is also imported into the mitochondria via HSC70, where it promotes the integrity and function of mitochondrial CI. GCase mutations increase its interaction with LONP1, degrading GCase in mitochondria and promoting a-syn aggregation. Thus, mGCase increases ROS in mitochondria, oxidizing dopamine. The accumulation of oxidized dopamine-adducts further impairs GCase activity, creating a second cycle of GCase dysfunction.
+
+### Future Directions
+The study by Baden et al. further supports developing and testing GCase-based therapeutics in addition to the modulation of the mitochondrial quality control system for diseases with GCase dysfunction. We expect to observe novel brain-penetrant GCase therapeutics, which in combination with other ongoing efforts such as dopamine replacement or stem cell approaches, may lead to urgently needed disease-modifying therapies.
+
+### Publication Details
+Received: 27 July 2023; Accepted: 26 September 2023; Published in Nature Communications"

@@ -1,0 +1,515 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 765.5,
+      "minX": 74.4,
+      "maxY": 774.2,
+      "maxX": 167.2,
+      "page": 1
+    }],
+    "text": "Clinical Medicine"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 691.4,
+      "minX": 35.7,
+      "maxY": 723.5,
+      "maxX": 559.2,
+      "page": 1
+    }],
+    "text": "High-Oxygen-Affinity Hemoglobins\u2014Case Series and Review of the Literature"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 591.1,
+      "minX": 166.4,
+      "maxY": 632.7,
+      "maxX": 550.7,
+      "page": 1
+    }],
+    "text": "1 Centre of Excellence in Rare Haematological (Haemoglobinopathies) & Rare Metabolic (Gaucher Disease) Diseases, Laiko General Hospital, 11527 Athens, Greece; verkomnin@gmail.com (V.K.); fpagona@yahoo.gr (P.F.); delaki@yahoo.com (E.-E.N.); elenifad@gmail.com (E.Y.) 2 Department of Pathophysiology, Medical School, National and Kapodistrian University of Athens,"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 191.8,
+      "minX": 166.4,
+      "maxY": 302.3,
+      "maxX": 559.7,
+      "page": 1
+    }],
+    "text": "Hemoglobinopathies are a group of monogenic inherited disorders characterized by altered or absent/reduced hemoglobin (Hb) α or β chain synthesis, leading to thalassemia syndromes and structural hemoglobin variants. Abnormal hemoglobins caused by genetic mutations affecting the globin chains structure are called Hb variants. The modifications of the Hb structure in regions involving the regulation of oxygen (O2) transport may lead to an increased or reduced oxygen affinity for the Hb molecule and a subsequent impaired oxygen delivery to the tissues [1]. Low oxygen affinity hemoglobins deliver more oxygen to the tissues, reducing the erythropoietin production, and are sometimes associated with a right-shifted oxygen dissociation curve with increased P50."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 117.2,
+      "minX": 166,
+      "maxY": 189.3,
+      "maxX": 560.5,
+      "page": 1
+    }],
+    "text": "High-oxygen-affinity variants are characterized by lower release of oxygen, leading to tissue hypoxia that, in turn, enhances erythropoietin production at the renal level, stimulating erythropoiesis. These variants may cause erythrocytosis (red cell mass greater than 125% above the expected value for sex and body mass) [2] and/or polycythemia (Hb > 16.5 g/dL − hematocrit (Hct) > 49% for men and Hb > 16.0 g/dL − Hct > 48% for women) [3]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 66.3,
+      "minX": 166.4,
+      "maxY": 114,
+      "maxX": 559.7,
+      "page": 1
+    }],
+    "text": "The first case study of a high-oxygen-affinity hemoglobin variant was published by Charache et al. at 1966 [4]. To date, nearly 224 Hb variants with high oxygen affinity are known (see http://globin.bx.psu.edu/hbvar, HbVar database, accessed on 1 September 2023) [5], and one-third of them result in erythrocytosis [6]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "J. Clin. Med. 2024, 13, 458 2 of 8"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 663.9,
+      "minX": 166.4,
+      "maxY": 736.7,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "In this case-based review, we present six patients with high-oxygen-affinity Hb variants in order to demonstrate their hematological and clinical features; to emphasize the need for prompt and accurate diagnosis; and to enrich the limited literature due to the rarity of such cases, commenting in parallel on the relevant literature. The study was approved by the institutional review committee of Laikon General Hospital (E15/∆ΓN02/9 September 2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 475.3,
+      "minX": 166.1,
+      "maxY": 636,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "An 81-year-old female patient was referred to us for further investigation. The patient had been under previous hydroxyurea treatment for several years due to an incorrect diagnosis of myeloproliferative syndrome (although she was negative for the mutations of JAK2V617F and bcr/abl genes and did not meet WHO criteria for polycythemia vera). The complete blood count (CBC) revealed Hct 49.6%, Hb 16.2 g/dL, red blood cells (RBC) 6.84 M/µL, mean corpuscular volume (MCV) 72.5 fl, mean hemoglobin concentration (MCH) 23.7 pg, white blood cell count (WBC) 7.55 × 109/L, and platelets (PLT) 226 × 109/L. High-performance liquid chromatography (HPLC) analysis of Hb indicated the following fractions: Hb A 81.6%, Hb A2 3.8%, and Hb F 3.7%, with no other variants being detected. The subsequent DNA analysis identified heterozygosity for the Hb Crete mutation CD129 G>C (Ala>Pro) (HGVS name: HBB:c.388G>C), a known high-oxygen-affinity Hb variant. The patient had no splenomegaly, no history of thrombosis, and reported no clinical symptoms."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 362,
+        "minX": 166.4,
+        "maxY": 447.4,
+        "maxX": 560.5,
+        "page": 2
+      },
+      {
+        "minY": 651.4,
+        "minX": 166.4,
+        "maxY": 736.7,
+        "maxX": 560.5,
+        "page": 3
+      }
+    ],
+    "text": "The daughter of case 1, a 50-year-old female, was also investigated due to the relevant family history and was diagnosed with compound heterozygoty for β thalassemia (β thal) and Hb Crete. The patient's father was diagnosed with heterozygoty of β thal. The CBC revealed Hct 45.4%, Hb 15 g/dL, RBC 7.23 M/µL, MCV 62.8 fl, MCH 20.7 pg, WBC 9.49 × 109/L, and PLT 308 × 109/L. HPLC analysis of Hb indicated the following fractions: Hb A 59.3%, Hb A2 4.3%, and Hb F 5.1%, with no other variants present (Figure 1). The subsequent DNA analysis identified the compound heterozygosity for Hb Crete and β thal A 15-year-old male was referred to us due to elevated RBC values. The CBC revealed Hct 41.6%, Hb 13.8 g/dL, RBC 6.48 M/µL, MCV 64.2fl, MCH 21.3 pg, WBC 5.59 × 109/L, and PLT 195 × 109/L. HPLC analysis of Hb indicated the following fractions: Hb A 65.1%, Hb A2 2.1%, and Hb F 27.1%, with no other variant present. The DNA analysis identified compound heterozygosity for the Hb Crete and δβ thal mutations (CD129 (G>C)/δβ Sic). The patient had normal growth, reported no restrictions at activities, and had no splenomegaly or history of thrombosis."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 324.4,
+      "minX": 45.7,
+      "maxY": 359.5,
+      "maxX": 560.5,
+      "page": 2
+    }],
+    "text": "J. Clin. Med. 2024, 13, x FOR PEER RE(aVCnIEDdW1n2o9h(iGst>oCry)/oIfVtSh-rIo-m6(bTo-s>iCs.)M).Torheeopveart,iesnhtehreapdonrotecdlianpicraelgsnyamncpytowmitsh,onuotscpolme3npooflimc9aetgioanlys, and the birth of a healthy child through caesarian section."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 70,
+      "minX": 166.4,
+      "maxY": 79,
+      "maxX": 479.4,
+      "page": 2
+    }],
+    "text": "Figure 1. Case 2 HPLC results. Fractions in the vertical axis are expressed in %."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 63.4,
+      "minX": 166.9,
+      "maxY": 69.1,
+      "maxX": 458.5,
+      "page": 2
+    }],
+    "text": "Figure 1. Case 2 HPLC results. Fractions in the vertical axis are expressed in %."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "J. Clin. Med. 2024, 13, 458 3 of 8"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 538.1,
+      "minX": 166.1,
+      "maxY": 623.5,
+      "maxX": 559.6,
+      "page": 3
+    }],
+    "text": "The sister of case 3, a 17-year-old female, was subsequently investigated due to the relevant family history. The CBC revealed Hct 39.4%, Hb 13.1 g/dL, RBC 5.64 M/µL, MCV 69.9 fl, MCH 23.2 pg, WBC 6.42 × 109/L, and PLT 210 × 109/L. HPLC analysis of Hb indicated the following fractions: Hb A 63.4%, Hb A2 2.5%, and Hb F 29.2%, with no other variants present. DNA analysis identified compound heterozygosity for the Hb Crete and δβ thal mutations (CD129 (G>C)/δβ Sic). The patient had no splenomegaly, no history of thrombosis, and had normal growth and normal daily activities."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 462.8,
+      "minX": 16.2,
+      "maxY": 535.6,
+      "maxX": 591.8,
+      "page": 3
+    }],
+    "text": "Cases 3 and 4 had another healthy sibling, while their parents were diagnosed with the traits of δβ thal and Hb Crete. The family pedigree of cases 3 and 4 is demonstrated in Figure 2. Cases 3 and 4 are marked by the arrows. Circles represent females and squares J. Clin. Med. 2024, 13, x FOR PEER REVrIeEpWresent males. Semi-filled shapes indicate family members who were heterozygous for 4 of 9 Hb Crete and δβ thal, while fully filled shapes indicate affected individuals. Unfilled shapes indicate normal (NI) individuals."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 241.4,
+      "minX": 159.6,
+      "maxY": 256.4,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "2.5. CaAse254-year-old female patient was referred to us due to eryhtrocytosis. The CBC"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 203.4,
+      "minX": 159.6,
+      "maxY": 239,
+      "maxX": 592.5,
+      "page": 3
+    }],
+    "text": "reveAale2d4-Hyecatr4-o6.l3d%f,emHba1le6 pga/tdieLn,tRwBCas5r.1e8feMrre/dµLto,MusCVdu8e9.t4ofle,ryMhCtrHoc3y0t.o9sipsg.,TWheBCCBC reve9a.0l3ed×H10c9t/4L6,.a3n%d,PHLTb21669g×/d1L09,/RLB.HCP5L.C18anMal/yμsLis,oMfHCbVin8d9i.c4atfeld, tMheCfHollo3w0.i9ngpfgr,acWtioBnCs: 9.03 × 10H9/bLA,a4n4.d3%P;LHTb2A6292×.61%0;9H/Lb. FH1P.3L%C;aanndaalynsuisnkonfoHwbn vinadriiacnatt,eHdbtXhe47f.o3%llo(wFiginugref3r,aacrtrioowns).: Hb A"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 189.4,
+      "minX": 159.6,
+      "maxY": 201.2,
+      "maxX": 591.9,
+      "page": 3
+    }],
+    "text": "44T.h3e%D;NHAb aAna2l2y.s6is%id;eHnbtifiFed1.h3e%te;roaznydgoasnityufnokrnHobwHnirvoashriiamnat,CHDb14X6H4i7s.>3A%sp(F(HigBuBr:ec.343,9arrow)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 147.1,
+      "minX": 159.6,
+      "maxY": 188.7,
+      "maxX": 591.9,
+      "page": 3
+    }],
+    "text": "(THhhCeBe>aBGd:D)ac,c.Na4h3keA9sn,oCbwau>nntGahhl)ay,igdsahinsk-oonxisoydpwgeleennnnto-ihafmiifegfiednhgi-atolyhyxHeyatngbedervonanz-roayiafhgfniiotsn.stioiTttryhyyeHopffboattrhvireaonHrmtibaebxnoptsH.eisrTi.irehoneschepidamtoiacecnatCsieDoxn1pa4el6rmieiHlndcise>dAoscpcasional mild headaches, but had no splenomegaly and no history of thrombosis."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": -161.3,
+      "minX": 159.6,
+      "maxY": -154.6,
+      "maxX": 293.4,
+      "page": 3
+    }],
+    "text": "Figure 3. Case 5 HPLC results."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -188.3,
+      "minX": 159.6,
+      "maxY": -180.9,
+      "maxX": 207.9,
+      "page": 3
+    }],
+    "text": "2.6. Case 6"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -304.4,
+      "minX": 159.6,
+      "maxY": -198.3,
+      "maxX": 591.9,
+      "page": 3
+    }],
+    "text": "A 70-year-old male patient, who had already been diagnosed with heterozygoty for Hb Köln due to erythrocytosis, was referred to us for monitoring. The CBC revealed Hct 51.7%, Hb 15.2 g/dL, RBC 5.64 M/μL, MCV 91.7 fl, MCH 27 pg, WBC 9.37 × 109/L, and PLT 140 × 109/L. HPLC analysis of Hb indicated the following fractions: Hb A 80.2%; Hb A2 3.3%; Hb F 0.9%; and an unknown variant, Hb X 7.3% (Figure 4, arrow). The DNA analysis identified heterozygosity for Hb Köln CD98 (G>A) (Val>Met) (HGVS name: HBB:c.295G>A), a known high-oxygen-affinity Hb variant. The patient reported occasional headaches, had splenomegaly, and had no history of thrombosis."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 886.7,
+      "minX": 229.9,
+      "maxY": 892.6,
+      "maxX": 594.5,
+      "page": 4
+    }],
+    "text": "Figure 2. Family pedigree of cases 3 and 4 (arrows). (I) first generation, (II) second generation"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 496.9,
+      "minX": 166.4,
+      "maxY": 505.8,
+      "maxX": 349.1,
+      "page": 4
+    }],
+    "text": "Figure 3. Case 5FHigPuLrCe 3r.eCsualstes.5 HPLC results."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 104.4,
+      "minX": 183,
+      "maxY": 119.2,
+      "maxX": 556.4,
+      "page": 4
+    }],
+    "text": "TTaabblele11ssuummmmaarriizzeess tthhee llaabboorraattoorryyaannddclcilniniciacladladtaatoafotfhtehaefoarfeomreemnteinontieodnecdasceas.ses."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 79.4,
+      "minX": 160.7,
+      "maxY": 85.8,
+      "maxX": 435.1,
+      "page": 4
+    }],
+    "text": "Table 1. Laboratory and clinical data of the aforementioned cases."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 743.5,
+      "minX": 166.1,
+      "maxY": 752.6,
+      "maxX": 426.6,
+      "page": 5
+    }],
+    "text": "Table 1. Laboratory and clinical data of the aforementioned cases."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 218.6,
+      "minX": 166.1,
+      "maxY": 304,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Adult hemoglobin (Hb A) is a tetramer that binds oxygen tightly in the high-oxygen environment of the lungs and releases it to the tissues. This is demonstrated by the sigmoidal curve of the oxygen\u2013hemoglobin dissociation curve. The p50 value is the partial pressure of oxygen at which the Hb molecule is half-saturated with oxygen. It is considered as a marker of changes at the oxygen\u2013hemoglobin dissociation curve and should be used as a diagnostic tool for high-oxygen-affinity hemoglobins when available. A low p50 value is consistent with an Hb variant with increased oxygen affinity [6]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 168.4,
+      "minX": 166.1,
+      "maxY": 216.1,
+      "maxX": 560.9,
+      "page": 5
+    }],
+    "text": "Most hemoglobinopathies show recessive inheritance, and high-oxygen-affinity Hb variants are inherited exceptionally by an autosomal-dominant pattern. Most reported patients are heterozygous (mutations in a single globin gene, Cases 1, 5, and 6). Homozygous patients have rarely been described and represent a more severe form of disease."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68,
+        "minX": 166.1,
+        "maxY": 165.9,
+        "maxX": 561,
+        "page": 5
+      },
+      {
+        "minY": 641.8,
+        "minX": 166.1,
+        "maxY": 752.3,
+        "maxX": 559.4,
+        "page": 6
+      }
+    ],
+    "text": "The clinical presentation of patients with high-oxygen-affinity hemoglobins varies. Most of them are usually asymptomatic, with isolated and well-tolerated erythrocytosis on the hematology tests, or present a mild phenotype (Table 2) [7]. At times, the clinical course may be complicated by symptoms of hyperviscosity, such as mucosal erythema; headaches; vertigo; tinnitus; paresthesia in the extremities; and even, rarely, thrombotic events [6,8\u201310]. Our reported cases 1, 2, 3, and 4 had no symptoms, while cases 5 and 6 experienced mild, occasional headaches. Concomitant thalassemia may worsen the phenotype, as it decreases the amount of Hb A (cases 2, 3 and 4) and in turn increases the proportion of the high-oxygen-affinity Hb. In addition, compound heterozygotes for a high-affinity Hb variant and a thalassemic gene can present with severe erythrocytosis. The proportion of Hb F of case 2 (5.1%) was slightly higher for a β+ thalassemia trait, as were the Hb F proportions in cases 3 and 4 (27.1% and 29.2% respectively), who bore a Hb Crete gene and a δβ0-thalassemia gene. In both cases, the high Hb F values could have derived from the simultaneous presence of the Hb variant and thalassemia. Erythrocytosis is a result of the concurrent presence of a high Hb Crete percentage. It is possible that the type of thalassemia trait (β0, β+, δβ) could be the basic factor that modifies the phenotypes of patients with such compound heterozygosity."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "J. Clin. Med. 2024, 13, 458 6 of 8"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 617.3,
+      "minX": 166.1,
+      "maxY": 626.4,
+      "maxX": 493.9,
+      "page": 6
+    }],
+    "text": "Table 2. Laboratory and clinical features of Hb Crete, Hb Hiroshima, and Hb Köln."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 344.2,
+      "minX": 166.1,
+      "maxY": 454.7,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "Nevertheless, we have to note that two-thirds of high-oxygen-affinity hemoglobins are not associated with erythrocytosis due to low-level expression of the Hb variant (e.g., presence of α globin chain mutation) or due to concomitant chronic hemolysis in the case of an unstable Hb variant. In approximately one-third of high-oxygen-affinity variants, the mutation may result in the production of an unstable hemoglobin molecule, and half of them are complicated by hemolysis, anemia, jaundice, and splenomegaly, covering erythrocytosis [11]. Due to the rarity of high-oxygen-affinity hemoglobins in compound heterozygosity with thalassemia, the underlying mechanisms that determine the phenotypes of the patients have yet to be fully understood."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 243.8,
+      "minX": 166.1,
+      "maxY": 341.7,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "It is important to make an early and correct diagnosis in order to avoid costly and unnecessary invasive diagnostic procedures, as well as inappropriate therapeutic interventions, and secondly, to provide diagnostic information and genetic counseling to the involved families. Case 1 was misdiagnosed with a myeloproliferative syndrome when referred to us, although the diagnosis of polycythemia vera did not meet the WHO criteria. As a result the patient underwent hydroxyurea treatment for several years due to erythrocytosis, a treatment which was not needed after the establishment of the Hb Crete heterozygoty diagnosis."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.1,
+      "minX": 166.1,
+      "maxY": 241.3,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "The diagnostic workup includes: history, exclusion of other causes of erythrocytosis (cardiopulmonary disease, carbon monoxide poisoning, a myeloproliferative neoplasm, erythropoietin-producing tumor), pulse oxymetry measurement, hematology and biochemistry blood tests, normal or high serum erythropoietin (EPO) levels, low p50 value, HPLC electrophoresis, and genetic testing."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 80.6,
+      "minX": 166.4,
+      "maxY": 178.6,
+      "maxX": 560.5,
+      "page": 6
+    }],
+    "text": "There are high-oxygen-affinity Hb variants that are detected with a clear separation from Hb A in HPLC, while there are also some electrophoretically silent variants due to their neutral charge (such as Hb Crete, Figure 1). Capillary electrophoresis using the glycated hemoglobin (HbA1C) program may improve the separation of some Hb variants from Hb A, so it is better if both methods are performed in parallel. The final diagnosis is documented by gene testing. The diagnosis should also be suspected in patients with elevated HbA1c values if they have normal serum glucose measurements. In such cases, the only laboratory-significant anomaly is that of an unusually high HbA1c value [12]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 7
+    }],
+    "text": "J. Clin. Med. 2024, 13, 458 7 of 8"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 705.5,
+      "minX": 166.4,
+      "maxY": 752.3,
+      "maxX": 560.9,
+      "page": 7
+    }],
+    "text": "Patients with high-oxygen-affinity hemoglobins accompanied by erythrocytosis usually have benign clinical courses without complications. Current management recommendations lack supporting evidence regarding the optimal management, so it should be individualized [7,11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 629.2,
+      "minX": 166.2,
+      "maxY": 702.1,
+      "maxX": 560.9,
+      "page": 7
+    }],
+    "text": "Smoking discontinuation [13] and physical activity should be encouraged. Regarding asymptomatic individuals, the preemptive phlebotomy practice lacks supportive evidence-based recommendations [6]. The use of phlebotomy should be individualized and only utilized in the case of the presence of hyperviscosity symptoms, since the resulting hematocrit and blood viscosity reduction may relieve headache, dizziness, and paresthesia and improve quality of life [7,14,15]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 566.5,
+      "minX": 166.4,
+      "maxY": 626.8,
+      "maxX": 559.3,
+      "page": 7
+    }],
+    "text": "Administration of low-dose aspirin is also individualized depending on the thrombotic risk assessment [16]. It could be used for the prevention of thromboembolic complications in some patients with high-affinity variant Hbs under the same terms that it is administered to patients with polycythemia vera [6]. Patients with acute thromboembolic complications should be treated with antithrombotic agents according to the relevant guidelines."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 544,
+      "minX": 166.4,
+      "maxY": 564,
+      "maxX": 559.6,
+      "page": 7
+    }],
+    "text": "Regarding our patients, none of them have required any therapeutic intervention up to now."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 491.2,
+      "minX": 166.4,
+      "maxY": 538.9,
+      "maxX": 561,
+      "page": 7
+    }],
+    "text": "Increased morbidity or mortality have not been observed during pregnancy [17,18]. Case 2 corresponds to the data in the literature, as she gave birth to a living, healthy child and had an uncomplicated pregnancy. High-affinity hemoglobin variants identified on newborn screening are often asymptomatic in the newborn period [18]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 340.2,
+      "minX": 166.1,
+      "maxY": 463.3,
+      "maxX": 561,
+      "page": 7
+    }],
+    "text": "High-oxygen-affinity hemoglobins are caused by rare β globin mutations; they are inherited in a dominant autosomal manner and may have variable clinical presentation. Understanding the pathophysiology of high-oxygen-affinity hemoglobins and being aware of their clinical and laboratory features may help clinicians in the differential diagnosis of erythrocytosis when no other underlying cause is identified, such as with myeloproliferative syndrome or other secondary causes. Their management should be based on an individualized assessment of the risk of complications, the medical history, concomitant symptoms, and quality of life. Our observations point out the need for continuous monitoring of such rare cases in order to produce evidence-based recommendations for patient management."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "J. Clin. Med. 2024, 13, 458 8 of 8"
+  }}
+]}

@@ -1,0 +1,1731 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.2,
+      "minX": 442.3,
+      "maxY": 758.3,
+      "maxX": 546,
+      "page": 1
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 650.2,
+      "minX": 154.7,
+      "maxY": 718.3,
+      "maxX": 530,
+      "page": 1
+    }],
+    "text": "Inhibition of cysteine protease cathepsin L increases the level and activity of lysosomal glucocerebrosidase"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 628.8,
+      "minX": 154.7,
+      "maxY": 637.5,
+      "maxX": 435.6,
+      "page": 1
+    }],
+    "text": "Myung Jong Kim,1 Soojin Kim,1 Thomas Reinheckel,2 and Dimitri Krainc1"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 587.1,
+      "minX": 154.7,
+      "maxY": 620.4,
+      "maxX": 526.3,
+      "page": 1
+    }],
+    "text": "1Department of Neurology, Northwestern University Feinberg School of Medicine, Chicago, Illinois, USA. 2Institute of Molecular Medicine and Cell Research, Medical Faculty and BIOSS Centre for Biological Signaling Studies, AlbertLudwigs-University Freiburg, Freiburg, Germany."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 319.2,
+      "minX": 154.7,
+      "maxY": 327.7,
+      "maxX": 219.3,
+      "page": 1
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 242.4,
+      "minX": 154.7,
+      "maxY": 313,
+      "maxX": 546.1,
+      "page": 1
+    }],
+    "text": "Parkinson's disease (PD) is the second most common neurodegenerative disease and is characterized by multiple motor and nonmotor symptoms. PD causes the progressive loss of dopaminergic neurons in the substantia nigra pars compacta (SNpc). The pathological hallmarks of PD are aggregated, misfolded α-synuclein protein deposits in the form of Lewy bodies and Lewy neurites (1, 2). Several cellular pathways involving impaired mitochondrial quality control, endosomal-lysosomal dysfunction, immune dysfunction, and impaired lysosomal sphingolipid metabolism have been implicated in the pathogenesis of PD (3, 4)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 104.9,
+      "minX": 154.7,
+      "maxY": 238,
+      "maxX": 546.1,
+      "page": 1
+    }],
+    "text": "GBA1 encodes the lysosomal enzyme glucocerebrosidase (GCase), which hydrolyses glucosylceramide (GluCer) to glucose and ceramide in lysosomes. Variations in GBA1 are considered as one of the most important risk factors for PD, with approximately 5%\u201310% of patients with PD carrying a GBA1 variation (5\u20138). Several studies have found reduced GCase activity in idiopathic PD cases in individuals not carrying GBA1 variations (9\u201313), suggesting an important role for GCase activity in the pathogenesis of PD. Clinically, patients with PD with GBA1 variants show an earlier age at onset, more rapid disease progression, and higher rates of nonmotor symptoms, such as rapid eye movement sleep behavior disorder (RBD) and cognitive impairment, compared with those with non-GBA1\u2013associated PD (14\u201316). Moreover, variants of GBA1 are also known to increase the risk of dementia with Lewy bodies (DLB) (17\u201320). Homozygous or compound heterozygous GBA1 mutations cause the lysosomal storage disease Gaucher disease (GD), due to severe loss of GCase activity (21, 22)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.4,
+        "minX": 154.7,
+        "maxY": 100.5,
+        "maxX": 546,
+        "page": 1
+      },
+      {
+        "minY": 494,
+        "minX": 154.5,
+        "maxY": 713,
+        "maxX": 546.1,
+        "page": 2
+      }
+    ],
+    "text": "Supporting the strong genetic involvement of the GBA1 in PD, impaired GCase activity has been shown to cause α-synuclein aggregates in animal and in vitro cell culture models (12, 23\u201326). Several cellular pathways involving altered sphingolipid profile, autophagy-lysosomal dysfunction, mitochondrial dysfunction, neuroinflammation or endoplasmic reticulum (ER) stress have been suggested as pathogenic mechanisms of GBA1-PD (12, 27\u201333). Most of PD-associated GBA1 variations lead to a reduction in GCase activity in lysosomes, due to impaired GCase transport from the ER to the lysosome, reduced intrinsic enzymatic activity of the GCase, or a haplo-insufficiency of GBA1 gene (34\u201336). Thus, restoring the reduced GCase activity in the lysosome is crucial to combatting GBA1-associated diseases, and multiple therapeutic approaches have been developed. Misfolded GCase proteins with pathogenic genetic variations are retained in the ER and undergo ER-associated degradation (ERAD), resulting in a reduction in GCase protein levels in lysosomes (36, 37). Ambroxol, a well-known expectorant, has been reported to facilitate lysosomal transport of misfolded GCase proteins by acting as a chemical chaperone of the misfolded GCase protein in the ER. Ambroxol has been reported to increase both the lysosomal fraction and the enzymatic activity of GCase variants in fibroblasts from patients with GD (38, 39). In addition to chemical chaperoning of the misfolded GCase protein, other therapeutic strategies such as adeno-associated virus\u2013mediated (AAV-mediated) recombinant WT GCase transport or chemical GCase activators have recently been developed (40\u201343). Since each individual therapeutic strategy has specific strengths and limitations, it will be important to have multiple therapeutic strategies to combat the disease. Here, we present a potentially novel therapeutic strategy that targets GCase stability in lysosomes. Conceptually, inhibition of GCase degradation in lysosomes should increase GCase protein abundance and activity in lysosomes. However, it is still unknown which proteases are directly involved in GCase degradation in lysosomes. In this study, we show that lysosomal cysteine protease cathepsin L regulated GCase stability and suggest that chemical inhibition of cathepsin L activity represents a potential therapeutic strategy for GBA1-associated PD and related diseases."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 2
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 469.2,
+      "minX": 154.5,
+      "maxY": 477.7,
+      "maxX": 193.4,
+      "page": 2
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 242.3,
+      "minX": 154.4,
+      "maxY": 463,
+      "maxX": 546.1,
+      "page": 2
+    }],
+    "text": "Genetic inhibition of cathepsin L increases GCase protein level. Lysosomal cysteine proteases are critical for protein turnover in the endolysosomal cell compartment (44\u201346). In particular, cathepsin L has been previously implicated in the proteolytic processing of progranulin, suggesting its potential role in the pathogenesis of frontotemporal dementia (47). To explore potentially novel cellular functions of cathepsin L, we generated 4 independent cathepsin L\u2013KO human embryonic kidney 293-FT (HEK293-FT) cell lines by using CRISPR/Cas9 gene editing. Immunoblot analysis using cathepsin L antibody confirmed complete loss of cathepsin L protein in 4 cathepsin L\u2013KO cell lines (Figure 1A and Supplemental Figure 1A; supplemental material available online with this article; https://doi.org/10.1172/jci.insight.169594DS1). Consistent with the previous report demonstrating that cathepsin L degrades lysosomal protease cathepsin D in cells (48), both mature and immature cathepsin D protein levels were elevated in 4 independent cathepsin L\u2013KO cell lines (Figure 1A and Supplemental Figure 1A). Notably, we found that GCase protein levels were significantly elevated in the 4 cathepsin L\u2013KO cell lines, compared with the WT cells (Figure 1A and Supplemental Figure 1A). While the levels of lysosomal associated membrane protein 1 (LAMP1) were not changed, the levels of LIMP-2, a receptor for lysosomal transport of GCase (49), were increased in cathepsin L\u2013KO lines (Figure 1A and Supplemental Figure 1A). Lysosomal GCase activity is regulated by saposin C that acts as a physiological activator of GCase (50\u201353). We found that Saposin C levels and the ratio of Saposin C to prosaposin were increased in cathepsin L\u2013KO cells (Figure 1A and Supplemental Figure 1A), suggesting that cathepsin L may be involved in the degradation of saposin C in lysosomes."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 92.3,
+      "minX": 154.4,
+      "maxY": 237.9,
+      "maxX": 546.1,
+      "page": 2
+    }],
+    "text": "Supporting the immunoblot data, immunofluorescence staining of GCase and LIMP-2 confirmed that both GCase and LIMP-2 protein levels were increased in the cathepsin L\u2013KO cells (Figure 1B). The colocalization of GCase and LIMP-2 was also significantly increased in the cathepsin L\u2013KO cells (KO#1), compared with the WT cells (Figure 1B). The immunostaining of GCase and LIMP-2 proteins in 2 additional cathepsin L\u2013KO cell lines (KO#3 and KO#4) also showed similar results (Supplemental Figure 2). Unlike canonical sorting receptors that cycle between the Golgi and lysosomes, LIMP-2 resides mainly in the lysosomes (49), suggesting that higher colocalization of GCase with LIMP-2 was due to increased GCase abundances in the lysosome. Consistent with the data from the CRISPR cathepsin L\u2013KO cell lines, the transient knockdown of endogenous cathepsin L with 2 independent RNAi constructs also increased the levels of GCase, LIMP-2, and cathepsin D (Supplemental Figure 3). To confirm the finding in vivo, we found that GCase protein levels were significantly increased in the cathepsin L\u2013KO mouse brain lysates, compared with WT mouse lysates (Figure 1C), further indicating that cathepsin L regulates GCase levels."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.3,
+        "minX": 154.5,
+        "maxY": 87.9,
+        "maxX": 546,
+        "page": 2
+      },
+      {
+        "minY": 429.8,
+        "minX": 154.5,
+        "maxY": 663,
+        "maxX": 546,
+        "page": 4
+      }
+    ],
+    "text": "Lysosomal GCase activity is increased in the cathepsin L\u2013KO cells. To determine whether the increased GCase protein level in the cathepsin L\u2013KO cells resulted in an increased GCase activity, we first performed in vitro GCase activity assay by using cell lysates and 4-methylumbelliferyl-β-D-glucopyranoside (4-MUG), an artificial fluorometric GCase substrate. As shown in Figure 2A and Supplemental Figure 1B, the lysates of cathepsin L\u2013KO cells showed higher in vitro GCase activity, compared with the WT cell lysates. However, it is worth pointing out that this in vitro GCase assay using extracted cell lysates and 4-MUG substrate does not account for proper lysosomal targeting of GCase, lysosomal pH, or the presence of cofactor that could influence GCase activity in living cells. To address this concern, we used 2 independent cell penetrant artificial GCase substrates to assay GCase activity in living cells. Using 5-(Pentafluorobenzoylamino) Fluorescein Di-β-D-Glucopyranoside (PFB-FDGlu), a fluorescent quenched probe that yields fluorescein fluorescence upon hydrolysis by GCase (54), we show that GCase activity was significantly increased in the cathepsin L\u2013KO cells, compared with the WT cells (Figure 2B). In order to examine lysosomal GCase activity, we visualized fluorescent cleavage product of lysosome-targeted GCase substrate (GlucGreen), whereby lysosome-targeted GCase substrates become fluorescent only upon GCase enzymatic activity (55). Using this assay, we found that cathepsin L\u2013KO cells displayed a significant increase in fluorescence intensity, compared with the WT cells (Figure 2C). Next, we tested whether GluCer levels were altered in the cathepsin L\u2013KO cells, since GluCer is the primary lipid substrate of GCase enzyme. Indeed, immunofluorescence staining using an anti-GluCer antibody showed that GluCer levels are significantly reduced in the cathepsin L\u2013KO cells, compared with the WT cells (Figure 2D). The lipidomic investigation using mass spectrometry (MS) revealed a significant reduction in the total GluCer levels in the cathepsin L\u2013KO cell line. Notably, GluCer species characterized by very long acyl chains (such as C24, C24:1, C25, C26, and C26:1) showed a more consistent and pronounced decrease in the cathepsin L\u2013KO cell line, while GluCer species with C16 and C22 acyl chains exhibited a modest decrease (Figure 2E)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 2
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 2"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 3
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 43.1,
+      "minX": 39.1,
+      "maxY": 80.9,
+      "maxX": 542.5,
+      "page": 3
+    }],
+    "text": "Figure 1. GCase protein levels are increased in cathepsin L\u2013KO cells. (A) Representative immunoblot data and quantification of indicated proteins in WT and cathepsin L\u2013KO cell lines. Band intensities were normalized to tubulin and compared with the WT cells. Data are mean ± SEM. One-way ANOVA followed by Dunnett's test. n = 4. *P < 0.05; **P < 0.01; ***P < 0.001. (B) Representative immunofluorescence image of GCase and LIMP-2 in WT and cathepsin L\u2013KO cells. Quantitation of mean fluorescence intensity and Pearson's correlation coefficient of GCase and LIMP-2 are shown. n = 11 microscopic"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 3
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 4
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 192.2,
+      "minX": 154.4,
+      "maxY": 425.4,
+      "maxX": 546,
+      "page": 4
+    }],
+    "text": "Cathepsin L cleaves GCase in vitro, and regulates GCase stability in cells. To determine whether GCase can be cleaved by cathepsin L, we first performed in vitro cleavage assay using purified recombinant cathepsin L and GCase proteins. The in vitro cleavage assay showed that GCase proteins are readily degraded by the coincubation with recombinant cathepsin L (Figure 3A). The time-course experiment of in vitro cleavage assay showed that cathepsin L cleaves most of GCase proteins within a minute (Figure 3B). Furthermore, to monitor GCase stability in cells, we utilized cycloheximide, an inhibitor for protein translation (56). Compared with the WT cells, the cathepsin L\u2013KO cells showed a slowed GCase reduction in the presence of cycloheximide, indicating that GCase stability is increased by the loss of cathepsin L in cells (Figure 3C). The increased GCase stability could be due to potentially altered lysosomal proteolysis activity of the cathepsin L\u2013KO cells, since cathepsin L is one of the many lysosomal proteases. To address this, we measured total lysosomal proteolysis by DQ-Red BSA protease activity assay (57). This technique relies on cleavage of the self-quenched DQ-Red BSA protease substrates in lysosomes and other acidic compartments to generate a highly fluorescent product. Using this approach, we found that the proteolysis activity was not impaired in the cathepsin L\u2013KO cells, compared with the WT cells (Figure 3D). Similar to our results, a recent study also found that cathepsin L loss in mouse embryonic fibroblast (MEF) cells impaired neither DQ-BSA degradation nor general protein catabolism (58\u201360). Considering that cathepsin D, a previously known cathepsin L substrate, is significantly increased in the cathepsin L\u2013KO cells (Figure 1A), the increased DQ-Red BSA protease activity could be due to potential compensatory upregulation of other lysosomal proteases, including cathepsin D."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 79.7,
+      "minX": 154.5,
+      "maxY": 187.9,
+      "maxX": 546,
+      "page": 4
+    }],
+    "text": "As an independent strategy to assess lysosomal degradation capacity, we monitored the clearance rate of endogenous cellular proteins upon nutrient starvation that leads to ubiquitination of intracellular proteins and encapsulation into autophagosomes. The ubiquitinated cellular proteins in autophagosomes are delivered to lysosomes and degraded by lysosomal proteases (61). Despite the complete loss of cathepsin L, the clearance rates of both ubiquitinated intracellular proteins and LC3B, an autophagy adaptor, induced by nutrient starvation were not significantly different between the cathepsin L\u2013KO and WT cells (Supplemental Figure 4), suggesting that the loss of cathepsin L did not affect the lysosomal degradation capacity. Thus, these data suggest that the increased GCase stability in the cathepsin L\u2013KO cells is not due to defects in total lysosomal degradation activity, but rather that GCase abundance is directly regulated by cathepsin L."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.2,
+        "minX": 154.5,
+        "maxY": 75.3,
+        "maxX": 546,
+        "page": 4
+      },
+      {
+        "minY": 279.8,
+        "minX": 154.5,
+        "maxY": 600.5,
+        "maxX": 546.1,
+        "page": 6
+      }
+    ],
+    "text": "Chemical inhibition of cathepsin L increases GCase level, in vitro GCase activity, and live cell GCase activity in microglial cells andpatient-derivedfibroblasts. It has been reported that the expression levels of both cathepsin L and GCase are higher in microglia than in other cells of the brain (62). It is conceivable that microglial cells may be affected by GCase deficiency, since macrophages are severely affected in patients with GD (21, 63). Although GCase function in microglia has not been studied at a molecular level, several studies suggest that GCase deficiency causes microglial dysfunction (64\u201368). Hence, we asked whether the cathepsin L\u2013mediated GCase regulation also operates in microglia. As a model system, we utilized the Human Microglia Clone 3 (HMC3) cells, an immortalized human microglia cell line derived from human fetal brain primary microglia culture (69). The HMC3 cell is known to express IBA1, a microglia/macrophage-specific calcium binding protein, and the mRNA expression of microglia-lineage markers (P2RY12 and CSF1R) in HMC3 cells has been previously reported (69). In vitro GCase activity and GCase protein levels in HMC3 cells were approximately a third of those observed in HEK293-FT cells (Supplemental Figure 5). We used a chemical inhibitor of cathepsin L to test whether cathepsin L activity regulates GCase abundance in the microglial HMC3 cells. To avoid potential covalent irreversible inhibition of other related lysosomal cysteine family proteases, we used a reversible cathepsin L inhibitor (SB 412515, a reversible peptidyl aldehyde inhibitor of cathepsin L) (70). SB 412515 exhibits a 30-fold preference for inhibiting cathepsin L over cathepsin K (71). We found that the treatment of the microglial HMC3 cells with SB 412515 increased both GCase and LIMP-2 levels (Figure 4A), whereas neither LAMP1 nor ubiquitinated protein levels were changed (Figure 4A). Consistent with our data that genetic KO of the cathepsin L gene resulted in a significant increase in both immature and mature forms of cathepsin D (Figure 1A and Supplemental Figure 1A), treatment with SB 412515 led to a significant increase in the levels of immature forms of cathepsin D, whereas the levels of mature forms of cathepsin D remained unchanged (Figure 4A). Of note, SB 412515 also increased mature cathepsin L levels (Figure 4A), presumably due to the stabilization of inactive cathepsin L bound to the cathepsin L inhibitor. Supporting the data that the SB 412515 treatment increased GCase protein level, we also found increased GCase activity in HMC3 cell lysates (Figure 4B). The majority of this GCase activity was abolished by CBE, an irreversible inhibitor of GCase (Figure 4B). When we also analyzed live cell GCase activity using the LysoLive GCase activity assay, the HMC3 cells treated with SB 412515 displayed a significant increase in fluorescence intensity (Figure 4C), indicating that lysosomal GCase activity was increased by the chemical inhibition of cathepsin L in microglial cells."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 4
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 4"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 5
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 69.9,
+      "minX": 39.1,
+      "maxY": 77.8,
+      "maxX": 516.8,
+      "page": 5
+    }],
+    "text": "Figure 2. Lysosomal GCase activity is increased and GluCer levels are reduced in cathepsin L\u2013KO cells. (A) In vitro GCase activity in WT HEK293-FT and"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 5
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 5"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 6
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 129.7,
+      "minX": 154.5,
+      "maxY": 275.4,
+      "maxX": 546.1,
+      "page": 6
+    }],
+    "text": "A recent single-nucleus RNA-Seq study using a neuronopathic GD (nGD) mouse brain (64) revealed a significant increase in cathepsin L mRNA levels specifically within the microglia of nGD mouse brains. To further explore the impact of GBA1 deficiency on cathepsin L protein levels, we established a GBA1-KO human microglial cell line 3 (HMC3) and utilized a previously characterized GBA1-KO HEK293-FT cell line (28). Biochemical analysis of these GBA1-KO cell lines revealed significant increases in the mature form of cathepsin L, in comparison with their respective parental WT controls (Supplemental Figure 6 for HMC3 cell line and Supplemental Figure 7 for HEK293-FT cell line). Interestingly, no notable changes were observed in the levels of the immature form of cathepsin L. Additionally, both the GBA1-KO HMC3 and GBA1-KO HEK293-FT cell lines exhibited a substantial decrease in the levels of mature cathepsin D when compared with their parental WT controls (Supplemental Figure 6 for HMC3 cell line and Supplemental Figure 7 for HEK293-FT cell line). This finding aligns with previous research suggesting cathepsin L's involvement in cathepsin D degradation within lysosomes (48)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.2,
+        "minX": 154.5,
+        "maxY": 125.4,
+        "maxX": 546.1,
+        "page": 6
+      },
+      {
+        "minY": 42.4,
+        "minX": 154.5,
+        "maxY": 150.5,
+        "maxX": 546,
+        "page": 7
+      },
+      {
+        "minY": 42.4,
+        "minX": 154.5,
+        "maxY": 125.5,
+        "maxX": 546,
+        "page": 8
+      }
+    ],
+    "text": "Having found that the treatment of cathepsin L inhibitor in the HMC3 cells increased both GCase protein level and lysosomal GCase activity, we asked whether the cathepsin L inhibitor can correct reduced GCase protein level and GCase activity in cellular models of GCase deficiency, such as human fibroblast cells derived from a patient with GD carrying a homozygous L444P mutation (GBA1 L444P/L444P) (72). Indeed, the treatment of GD fibroblast cells with SB 412515 increased both GCase and LIMP-2 levels (Figure 5A). The levels of pro at lower band (not quantified), intermediate, and mature forms of cathepsin L were also increased by SB 412515 treatment (Figure 5A). The levels of lysosomal proton pump subunit ATP6V1D, mature cathepsin D, and LAMP1 remained unchanged following SB 412515 treatment, whereas the levels of immature cathepsin D were increased (Figure 5A). Supporting these data, immunofluorescence staining using GCase antibody or LIMP-2 antibody also showed that both GCase (Figure 5B) and LIMP-2 protein levels (Supplemental Figure 8), as well as GCase activity, were increased by the SB 412515 treatment of GD fibroblasts (Figure 6A). Moreover, both PFB-FDGlu GCase assay (Figure 6B) and LysoLive GCase assay (Figure 6C) showed that the SB 412515 treatment in GD fibroblast cells increased lysosomal GCase activity in living cells. In addition, we found that GluCer levels in GD fibroblasts were significantly reduced by the SB 412515 treatment, as assayed with immunofluorescence staining using an anti-GluCer antibody (Figure 6D). To further examine the effects of SB 412515 in L444P fibroblast cells, we conducted a MS-based lipid analysis (Figure 6E). The lipidomic study revealed that the L444P fibroblast cell line contained 4 major GluCer species (C16-GluCer, C22-GluCer, C24-GluCer, and C24:1-GluCer). Treating the L444P fibroblast cells with SB 412515 for a day did not result in a significant reduction in total GluCer levels. However, upon analyzing individual GluCer species, we found that C16-GluCer exhibited a notable 24% reduction with SB 412515 treatment, whereas C22, C24, and C24:1-GluCer did not exhibit statistically significant changes (Figure 6E). These findings suggest that C16-GluCer may have a shorter half-life in cells compared with other GluCer species with longer acyl chains."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 6
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 6"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 7
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 701.5,
+      "minX": 362.8,
+      "maxY": 718.9,
+      "maxX": 541.9,
+      "page": 7
+    }],
+    "text": "Figure 3. GCase protein stability and lysosomal proteolysis in cathepsin L\u2013KO cells. (A) In vitro cleavage assay"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 7
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 7"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 8
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 249.9,
+      "minX": 39.1,
+      "maxY": 257.8,
+      "maxX": 538.6,
+      "page": 8
+    }],
+    "text": "Figure 4. Chemical inhibition of cathepsin L increases both GCase protein level and GCase activity in microglial cells. (A) Effects of SB 412515, a revers-"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 8
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 8"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 9
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 392.3,
+      "minX": 154.4,
+      "maxY": 713,
+      "maxX": 546.1,
+      "page": 9
+    }],
+    "text": "Chemical inhibition of cathepsin L increases GCase levels and reduces phosphoSer-129-α-synuclein (pS129-α-synuclein) in GBA1-PD dopaminergic neurons. Since our data show that cathepsin L regulates GCase abundance in nonneuronal cells, we next examined whether cathepsin L regulates GCase abundance in dopaminergic neurons derived from a patient with GBA1-PD. Similar to the data obtained from microglia cell line and GD fibroblasts, treatment with SB 412515 in the control induced pluripotent stem cell\u2013dopaminergic (iPSC-dopaminergic) neurons derived from a healthy individual elevated both GCase and LIMP-2 protein levels (Figure 7A). Moreover, the level of pS129-α-synuclein, a modified form of α-synuclein that is associated with PD pathogenesis (73), was significantly reduced by the SB 412515 treatment, whereas the total α-synuclein levels were not significantly changed. Importantly, SB 412515did not significantly alter the levels of tyrosine hydroxylase (TH), β3-tubulin, or total cellular ubiquitinated proteins. As we observed in the HMC3 and GD fibroblast, cathepsin L protein level was increased by SB 412515 in the control iPSC-dopaminergic neurons (Figure 7A). Both intermediate and mature cathepsin L protein levels were increased by SB 412515 in the control iPSC-dopaminergic neurons (Figure 7A). Similar to the observed elevation in GCase protein levels following treatment with the cathepsin L inhibitor in healthy control-dopaminergic neurons (Figure 7A), cathepsin L inhibitor also resulted in a ~1.4-fold increase in in vitro GCase activity in dopaminergic neurons (Figure 7B). Having found that the chemical inhibitor of cathepsin L can increase GCase protein level in the iPSC-dopaminergic neurons, we next asked whether the SB 412515 could correct GCase level in a dopaminergic neuronal PD model of GCase-deficiency. To this end, we used iPSC-derived dopaminergic neurons from a patient with GBA1-PD carrying a heterozygous GBA1-c.84dupG frameshift mutation, resulting in 50% reduction in GCase level (74). Inhibition of cathepsin L by SB 412515 increased both GCase and LIMP-2 levels in these neurons (Figure 7C), and the levels of pS129-α-synuclein were also significantly reduced by the SB 412515 treatment, while total α-synuclein levels were not changed. The levels of TH, β3-tubulin, lysosomal proton pump subunit ATP6V1D, or total cellular ubiquitinated proteins were not affected by the SB 412515 treatment (Figure 7C). Consistent with the observed elevation in GCase protein levels following treatment with the cathepsin L inhibitor in 84gg GBA1-dopaminergic neurons (Figure 7C), we found increased GCase activity upon cathepsin L inhibitor treatment (Figure 7D)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 354.8,
+      "minX": 154.5,
+      "maxY": 387.9,
+      "maxX": 546,
+      "page": 9
+    }],
+    "text": "Based on the data from the GD fibroblast cells and dopaminergic neuronal PD model of GCase deficiency, we propose that inhibition of cathepsin L may represent a potential therapeutic strategy for PD and related disorders that exhibit deficiency in lysosomal GCase activity."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 331.7,
+      "minX": 154.5,
+      "maxY": 340.2,
+      "maxX": 209.3,
+      "page": 9
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 217.4,
+      "minX": 154.4,
+      "maxY": 325.5,
+      "maxX": 546,
+      "page": 9
+    }],
+    "text": "Severe loss of GCase activity causes GD (21, 22), and reduced GCase activity increases the risk of PD (5, 8) and DLB (20). Therefore, restoring GCase activity is expected to benefit patients who carry mutations in GBA1. In attempts to develop treatments for GBA1-associated diseases, several approaches have advanced to clinical trials, including a GCase chaperoning strategy with Ambroxol, which is in phase II clinical trial (NCT05287503), and gene therapy with AAV-WT GBA1 that is in phase 1/2a (NCT04127578). Since each therapeutic strategy has limitations, new approaches for effective treatment of patients with GCase deficiency are still necessary. Our data suggest a previously unexplored approach, to our knowledge, of increasing lysosomal GCase activity by inhibiting its degradation in the lysosome. We found that inhibition of cathepsin L, a lysosomal cysteine protease, leads to increased levels and activity of GCase by partially reducing its degradation in the lysosome."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 42.3,
+      "minX": 154.5,
+      "maxY": 213,
+      "maxX": 546,
+      "page": 9
+    }],
+    "text": "Lysosomal cysteine proteases play an important role in intralysosomal protein degradation (44\u201346). Individual lysosomal cysteine proteases are thought to play redundant and specific functions in cells (44, 45, 75). Here we have shown that cathepsin L is crucial for regulating GCase abundance in the lysosome. Interestingly, although both cathepsin L and cathepsin B are ubiquitously expressed lysosomal cysteine proteases, cathepsin B does not appear to play a significant role in regulating GCase protein levels. Our previous study in cathepsin B\u2013deficient cells revealed no significant change in GCase protein levels (76), suggesting that the regulation of GCase abundance in lysosomes is primarily mediated by cathepsin L. However, our previous study suggested that cathepsin B promotes prosaposin processing to saposin C, an activator of GCase (76). Here, we also found that saposin C levels and the ratio of saposin C/prosaposin were increased in the cathepsin L\u2013KO cells (Figure 1A and Supplemental Figure 1A). While our data suggest that increased GCase activity in cathepsin L\u2013KO cells is primarily due to increased GCase protein levels, it is also possible that increased saposin C levels contribute to the increased activity. It will be of interest to examine the interplay of cathepsins B and L in regulating endogenous lysosomal GCase activity as part of future studies."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 9
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 9"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 10
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 173.1,
+      "minX": 39.1,
+      "maxY": 181,
+      "maxX": 538,
+      "page": 10
+    }],
+    "text": "Figure 5. Chemical inhibition of cathepsin L increases GCase protein level in GD patient fibroblasts (GBA1 L44P/L444P). (A) Effect of cathepsin L inhibitor"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 42.4,
+      "minX": 154.5,
+      "maxY": 88,
+      "maxX": 546,
+      "page": 10
+    }],
+    "text": "Consistent with the data from genetic ablation of cathepsin L, we found that chemical inhibition of cathepsin L increased GCase protein levels, GCase activity in vitro, and GCase activity in living cells. We have further shown that chemical inhibition of cathepsin L in an iPSC dopaminergic neuronal PD model of GBA1 haploinsufficiency partially corrected reduced GCase protein level and led to reduction of pS129-α-synuclein."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 10
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 0"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 11
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 100.2,
+      "minX": 39.1,
+      "maxY": 108,
+      "maxX": 530.4,
+      "page": 11
+    }],
+    "text": "Figure 6. Inhibitor of Cathepsin L increases GCase activity and GluCer levels in GD human fibroblast cells (GBA1 L444P/L444P). (A) GCase activity in"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 1"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 429.8,
+      "minX": 154.5,
+      "maxY": 625.5,
+      "maxX": 546,
+      "page": 12
+    }],
+    "text": "Therefore, targeting cathepsin L\u2013mediated GCase degradation could offer some benefits to GBA1-deficient patients. However, previously reported phenotypes of cathepsin L\u2013KO mice, including hair loss, skin thickening, and bone and heart defects, raise concerns about adverse effects of cathepsin L inhibition (77\u201379). Therefore, it will be important to develop noncovalent and GCase-preferred cathepsin L inhibitors to minimize such adverse effects. Importantly, increasing lysosomal GCase stability using cathepsin L inhibitors could have synergistic effects with other therapeutic strategies, such as chemical chaperoning of GCase, AAV-mediated recombinant GCase delivery, or direct GCase activators. Another potential application of inhibiting GCase degradation would be in enzyme replacement therapy, an effective treatment for type 1 GD. This therapy involves i.v. infusions of recombinant human GCase to correct the GCase deficiency (80). However, the short half-life of the recombinant human GCase enzyme in blood poses a challenge to deliver active recombinant GCase to some target cells and organs, especially the bone (81). We propose that slowing GCase degradation during enzyme replacement therapy could increase the half-life of recombinant GCase and make it more effective. While the feasibility of cathepsin L as a therapeutic target is currently unknown, cathepsin L inhibition has been actively pursued as a potential treatment for COVID-19 (82\u201384). In this context, cathepsin L mediates cleavage of the S1 subunit of the coronavirus surface spike glycoprotein that is required for host entry and replication (85, 86)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 379.8,
+      "minX": 154.5,
+      "maxY": 425.5,
+      "maxX": 546.1,
+      "page": 12
+    }],
+    "text": "Inhibition of cysteine cathepsins as a potential therapeutic approach has been considered in various disorders, but only a subset of cathepsins has been considered for clinical trials (87). In terms of cathepsin L, as is the case with other cathepsins, it will be important to develop more specific inhibitors to address the substrate overlap among different cathepsin family members."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 356.7,
+      "minX": 154.5,
+      "maxY": 365.2,
+      "maxX": 199.3,
+      "page": 12
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 117.3,
+      "minX": 154.2,
+      "maxY": 350.5,
+      "maxX": 546.1,
+      "page": 12
+    }],
+    "text": "Antibodies and reagents. The following antibodies were used in this study: mouse anti\u2013cathepsin L (MilliporeSigma, C4618), mouse anti-GCase (Santa Cruz Biotechnology Inc., sc166407 for immunoblot; Abnova, H00002629-M01 for immunostaining), rabbit anti\u2013LIMP-2 (gift from Michael Schwake), goat anti\u2013cathepsin D (Santa Cruz Biotechnology Inc., sc-6487), mouse anti-LAMP1 (Santa Cruz Biotechnology Inc., sc-20011), mouse anti\u2013α-tubulin (MilliporeSigma, T5168), rabbit anti-prosaposin (Proteintech, 183981-AP), mouse anti-ubiquitin (Santa Cruz Biotechnology Inc., sc-8017), rabbit anti-GluCer (Glycobiotech, RAS_0011), mouse anti-ATP6V1D (Santa Cruz Biotechnology Inc., sc-390384), rabbit anti\u2013pS129-α-synuclein (Cell Signaling Technology, 23706), rabbit anti\u2013α-synuclein (Santa Cruz Biotechnology Inc., sc-7011), rabbit anti-TH (MilliporeSigma, 5346S), rabbit anti\u2013b3 tubulin (BioLegend, 802001), and rabbit anti-LC3B (Cell Signaling Technology, 2775). HRP-conjugated second antibodies were obtained from Jackson ImmunoResearch. Fluorescence-labeled secondary antibodies were obtained from Invitrogen. The following reagents were also used in the study: SB 412515, a reversible cathepsin L inhibitor (Cayman Chemicals, 23249), cycloheximide (Cayman Chemicals, 14126), DQ-RED BSA (Thermo Fisher Scientific, D12051), 4-MUG (4-Methylumbelliferyl β-D-glucopyranoside (MilliporeSigma, M3633), PFB-FDGlu (5-[Pentafluorobenzoylamino]Fluorescein Di-β-D-Glucopyranoside) (Invitrogen, P11947), LysoLive Lysosomal β-Glucosidase Assay Kit (MarkerGene, M2775), protease inhibitor (Roche, 05056489001), and Pierce BCA Protein Assay Kit (Thermo Fisher Scientific, 23225). Recombinant GCase (R&D systems, 7410-GH) and recombinant human cathepsin L (R&D systems, 952-CY) were purchased from R&D Systems. Other chemicals were purchased from MilliporeSigma, unless otherwise stated."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.3,
+        "minX": 154.5,
+        "maxY": 112.9,
+        "maxX": 546,
+        "page": 12
+      },
+      {
+        "minY": 568.4,
+        "minX": 154.5,
+        "maxY": 650.5,
+        "maxX": 546,
+        "page": 14
+      },
+      {
+        "minY": 517.4,
+        "minX": 154.5,
+        "maxY": 564,
+        "maxX": 546,
+        "page": 14
+      }
+    ],
+    "text": "Plasmid, cell culture and transfection. The CRISPR/Cas9 construct targeting human CTSL gene was constructed into pSpCas9(BB)-2A-Puro (PX459) V2.0 (a gift from Feng Zhang, Addgene plasmid, 62988). Target sequences of human CTSL-CRISPR/Cas-9 construct are 5\u2032-AGA TGT TCC GGA AAA CTG GG-3\u2032 for the cathepsin L\u2013KO#1, #2, #3 cell line, and 5\u2032-CAG TAT GTT CAG GAT AAT GG-3\u2032 for the cathepsin L\u2013KO#4 cell line. The target sequence of human GBA1-CRISP/Cas-9 construct is 5\u2032-GCGACGGATGGAGCTGAGTA-3\u2032. RNAi construct CTSL-RNAi #1 (TRCN0000318682), and CTSL-RNAi #2 (TRCN0000318611) were purchased from MilliporeSigma. HEK293-FT cells and KO cell lines were maintained in DMEM supplemented with 10% FBS, 1% penicillin/streptomycin. Cells were transfected with Lipofectamine 2000 Transfection Reagent (Invitrogen, 11668-019), according to the manufacture's instruction. HMC3 cell was purchased from ATCC (catalog CRL3304). HMC3 cells were maintained in EMEM (ATCC) supplemented with 10% FBS and 1% penicillin/treptomycin. Fibroblast cells derived from a from a female patient with Type 3 GD carrying homozygous GBA1 L444P mutation were obtained from Telethon Network of Genetic Biobank (cell line no. 20516), and fibroblast cells were maintained in DMEM with 15% FBS and 1% penicillin/treptomycin. All cells were cultured in a humidified incubator at 37°C and 5% CO2. iPSC cell culture and dopaminergic neuron differentiation were performed as previously described (74). iPSCs (GBA1-c.84dupG, C14 clone) derived from skin fibroblasts of a patient with PD carrying a heterozygous GBA1-c.84dupG mutation has been previously described (74)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 12
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 2"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 119.7,
+      "minX": 39.1,
+      "maxY": 127.1,
+      "maxX": 528,
+      "page": 13
+    }],
+    "text": "Figure 7. Chemical inhibition of cathepsin L increases GCase levels and reduces pS129-α-synuclein in dopaminergic neurons derived from a patient"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 13
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 14
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 292.4,
+      "minX": 154.4,
+      "maxY": 513,
+      "maxX": 546,
+      "page": 14
+    }],
+    "text": "Human iPSC culture and dopaminergic neuron differentiation. Detailed methods for iPSC culture and midbrain dopaminergic neuronal differentiation have been described previously (43). Skin fibroblasts of a patient with PD (male) harboring GBA1 heterozygous 84GG mutation were reprogrammed into iPSCs through Northwestern University Stem Cell Core Facility, using Sendai virus\u2013based (SeV-based) delivery of Oct, Sox2, Klf4, and c-Myc. A healthy control iPSC line was purchased from the NINDS Cell Line Repository at the Coriell Institute for Medical Research (ND34769). The iPSCs were maintained in mTeSR1 media (Stemcell Technologies, 85850) and passaged as small chunks every 6\u20138 days, depending on confluence. All iPSC lines have been tested for mycoplasma on a monthly basis for quality control. Differentiation of iPSCs toward dopaminergic neurons was conducted using a previously established protocol with minor modifications (88). iPSCs were plated as single cells and were treated with small molecules/ factors according to the original protocol. At day 13 of differentiation, cells were passaged en bloc (size of 1\u20132 mm) onto 10 cm culture dishes precoated with poly-d-lysine (PDL) (MilliporeSigma, P1149)/laminin (Invitrogen, 23017-015). At day 25, neurons were passaged onto PDL/laminin-coated culture dishes and were subjected to dopaminergic marker characterization through immunocytochemistry (ICC) using TH (Calbiochem, 657012), FOXA2 (Santa Cruz Biotechnology Inc., sc-101060), LMX1A (MilliporeSigma, 10533) antibodies together with neural-specific marker β-III-tubulin (TUJ1) antibody (BioLegend, 802001 and 801202) at day 30. After day 40, matured neurons were maintained in Neurobasal media (Invitrogen, 21103049) containing Neurocult SM1 (Stemcell Technologies, 5711) without neuralization growth factors."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 229.8,
+      "minX": 154.5,
+      "maxY": 287.9,
+      "maxX": 546.1,
+      "page": 14
+    }],
+    "text": "Generation of KO cell lines. HEK293-FT cells grown in 12-well plates were transfected with the CRISPR/Cas9 construct targeting the human CTSL gene. One day after transfection, cells were trypsinized and reseeded on a new 10 cm dish with low density (~50 cells in 10 cm dish), and cultured until single cells formed cell colonies. Clonal colonies were picked from the 10 cm culture dish and expanded in new culture dishes. KO clones were identified by immunoblot analysis using cathepsin L antibody."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 42.3,
+        "minX": 154.5,
+        "maxY": 225.8,
+        "maxX": 546.1,
+        "page": 14
+      },
+      {
+        "minY": 679.9,
+        "minX": 154.5,
+        "maxY": 713,
+        "maxX": 546.1,
+        "page": 15
+      }
+    ],
+    "text": "Mouse brain lysates, cultured cell lysis, and immunoblotting. CTSL\u2013/\u2013 mice are previously characterized (78). Detailed methods for WT and CTSL\u2013/\u2013 mouse brain lysate preparation are previously described (89). Cortical brain lysates from 5-month-old WT and Ctsl−/− mice were used for immunoblot analysis. HEK293-FT cells were seeded at a density of 100,000\u2013150,000 cells per well in 12-well plates. Two days later, cells were harvested for biochemical assays, unless otherwise stated. Cells were lysed with 2× SDS sample buffer (100 mM Tris-Cl [pH 6.8], 4% [w/v] SDS, 0.05% [w/v] bromophenol blue, 20% [v/v] glycerol, 200 mM dithiothreitol). Cell lysates were subjected to SDS-PAGE. Proteins were then transferred to nitrocellulose membranes using Trans-Blot Turbo Transfer system (Bio-Rad). The membranes were incubated overnight with the indicated primary antibodies. All primary antibodies were diluted in an antibody dilution buffer (25 mM Tris, 0.15M NaCl, 0.05% Tween-20, 5% BSA, 0.05% sodium azide). Primary antibodies were visualized using the appropriate horseradish peroxidase conjugated secondary antibody (anti-mouse (Jackson ImmunoResearch, 115-035-146), anti-rabbit (Jackson ImmunoResearch, 111-035-144), anti-goat (Jackson ImmunoResearch, 805-035-180), and SuperSignal West Femto Maximum Sensitivity Substrate (Thermo Fisher Scientific, 34096). Chemiluminescence signals were taken with the ChemiDoc MP System (Bio-Rad) with a 16-bit CCD camera. Signal accumulation mode was used to take images at progressively longer exposure times. This allowed for acquisition of immunoblot images with band intensities within the linear range of the system. Quantification of protein levels was done using Bio-Rad ImageLab software and ImageJ (NIH) using nonsaturated raw image files."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 14
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 4"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 15
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 617.4,
+      "minX": 154.5,
+      "maxY": 675.5,
+      "maxX": 546.1,
+      "page": 15
+    }],
+    "text": "In vitro GCase cleavage with recombinant human cathepsin L. In total, 200 ng of recombinant human GCase was mixed with 150 ng activated recombinant human cathepsin L in 50 µL assay buffer (50 mM MES, 5 mM DTT, 1 mM EDTA, 0.005% [w/v] Brij-35, pH 6.0) for indicated times at room temperature. After the reaction, 50 µL of 4× SDS sample buffer was added into reaction mixtures to stop the reaction. Samples were then analyzed with immunoblot using GCase antibody or cathepsin L antibody."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 544.1,
+      "minX": 154.5,
+      "maxY": 613,
+      "maxX": 546,
+      "page": 15
+    }],
+    "text": "Cycloheximide treatment. Cells were seeded at a density of ~300,000 cells per 35 mm culture dish. Approximately 30 hours later, culture media were replaced with fresh culture medium with 100 µg/mL cycloheximide. Cells were then collected at indicated time points and lysed with RIPA buffer containing protease inhibitor (Roche, 0469311600). Protein concentrations were measured by the BCA protein assay kit. In total, 20 µg of lysates were subjected to immunoblot analysis. GCase levels were normalized with tubulin levels."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 479.8,
+      "minX": 154.5,
+      "maxY": 538,
+      "maxX": 546,
+      "page": 15
+    }],
+    "text": "DQ-red BSA assay. Cells were seeded at a density of ~150,000 cells per 35 mm glass bottom culture dish. Approximately 30 hours later, cells were washed twice with PBS. Cells were then incubated in OPTIMMEM medium with 10 µg/mL DQ-Red BSA for 4 hours. Cells were then washed with PBS and fixed with 4% formaldehyde in PBS for 15 minutes. After washing with PBS, fluorescent cell images were taken by a widefield epifluorescence microscope system with a red channel filter."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 367.3,
+      "minX": 154.5,
+      "maxY": 475.4,
+      "maxX": 546,
+      "page": 15
+    }],
+    "text": "In vitro GCase activity assay. Cells were lysed with sonication in ice-cold GCase lysis buffer (0.25% Triton X-100, 0.25% Taurocholic acid, 1 mM EDTA in citrate/phosphate buffer [pH 5.4]). Protein concentrations were measured by BCA method. GCase activity in 10 µg of cleared cell lysates were assayed in 50 mL of GCase assay buffer (1 mM 4-MUG, 0.25% Triton X-100, 1% BSA, 0.25% [w/v] taurocholic acid, 1 mM EDTA, in citrate/phosphate buffer [pH 5.4]). Enzyme reaction mixtures were incubated for 30 minutes at 37°C, and the enzyme reaction was stopped by the addition of equal volumes of 1M glycine, pH 12.5. In endpoint mode, 4-methylumbelliferone (4MU) fluorescence (excitation wavelength [EX], 355 nm; emission wavelength [EM], 460 nm) was measured with SpectraMax i3 (Molecular Devices). The fluorescence value of control no-cell lysates was subtracted from 4MU fluorescence values."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 229.7,
+      "minX": 154.5,
+      "maxY": 362.9,
+      "maxX": 546.1,
+      "page": 15
+    }],
+    "text": "LysoLive lysosomal GCase assay. Live-cell lysosomal GCase assay was performed by using LysoLive Lysosomal β-Glucosidase Assay Kit (M2775) from MarkerGene. In brief, cells were seeded onto poly-D-lysine\u2013coated 35 mm glass-bottom dishes with a cell density of ~200,000 cells per dish. One day later, cells were washed with PBS and incubated with LysoLive-GlucGreen with 1:2,500 dilution in 2 mL of OPTI-MEM medium (Invitrogen) for about 16 hours. For imaging, cells were washed twice with PBS, prior to the addition of 2 mL of MakerGene-Opti-Klear Live Cell Imaging Buffer. For the experiment testing the effect of SB 412515 on LysoLive GCase activity, approximately 14 hours before imaging, either 7.5 μM SB 412515 or equivalent volume of DMSO was added in the LysoLive-GlucGreen labeling media. Images were taken by a widefield epifluorescence microscope system equipped with bandpass filters with EX/EM: 490/520 nm. The acquisition settings were kept the same for all imaging when fluorescence intensity was compared."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 142.2,
+      "minX": 154.5,
+      "maxY": 225.4,
+      "maxX": 546.1,
+      "page": 15
+    }],
+    "text": "GCase assay using PFB-FDGlu. Cells were seeded onto 12-well plate with cell density of approximately 150,000 cells per well. One day later, cells were treated with either DMSO or 7.5 μM SB 412515 for approximately 20 hours. Treated cells were washed with PBS twice and incubated in 1 mL of OPTI-MEM medium (Invitrogen) with 100 μM PFB-FDGlu, a selective lysosomal GCase substrate, for 2 hours. Cells were then washed twice with PBS and lysed with 300 µL of RIPA buffer (Pierce). In endpoint mode, fluorescence of 100 µL of cell lysates (EX/EM: 485/530 nm) was measured with SpectraMax i3 (Molecular Devices). Data were normalized with protein concentration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 42.2,
+      "minX": 154.5,
+      "maxY": 137.8,
+      "maxX": 546.1,
+      "page": 15
+    }],
+    "text": "MS-based lipid analysis. HEK293-FT cells (WT and CTSL KO#1) were grown on a 10 cm. Roughly 5 million cells from each 10 cm dish were pelleted with spin at 300g for 5 minutes and frozen at \u201380°C. L444P fibroblast cells were grown on a 15 cm dishes. GBA1 L444P fibroblast cells were treated with either DMSO or 5 μM SB 412515 for about 20 hours. Roughly 3 million cells from each 15cm dish were pelleted with spin at 300g for 5 minutes and frozen at \u201380°C. At the University of South Carolina Medical Lipidomics Center, lipids were extracted from frozen cell pellets as a service provided by their core facilities. Levels of GluCer were measured by a high-performance liquid chromatography/tandem MS (LC-MS/MS) method. Lipid analysis results were normalized with inorganic phosphate (Pi)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 15
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 5"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 16
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 517.3,
+      "minX": 154.4,
+      "maxY": 713,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "Immunostaining and imaging. For the immunostaining of GCase or LIMP-2, cells were fixed with Bouin's solution for 20 minutes at room temperature. After washing with PBS 3 times, cells were incubated in GDB buffer (30 mM phosphate buffer [pH 7.4], containing 1% goat serum, 0.1% gelatin, 0.3% Triton X-100, and 0.45M NaCl) for 30 minutes. Cells were then incubated in GDB buffer containing GCase or LIMP-2 antibodies overnight at 4°C. Primary antibodies were visualized using goat Alexa Fluor\u2013conjugated secondary antibodies against mouse or rabbit. For the GluCer immunostaining, cells were fixed with 4% formaldehyde in PBS for 15 minutes. After washing with PBS, fixed cells were incubated in Tween-20 blocking solution (PBS containing 0.5 % BSA and 0.01% Tween-20 in PBS) for 30 minutes. Cells were then incubated in Tween-20 blocking solution containing rabbit anti-GluCer antibody (Glycobiotech, RAS_0011) for 45 minutes. Primary antibodies were visualized using goat Alexa Fluor\u2013conjugated secondary antibodies against rabbit. Hoechst 33342 was used for staining the nuclei of fixed cells. Immunostaining images were acquired with a Leica confocal microscope with a 63× oil objective. The confocal microscope settings were kept the same for all scans when fluorescence intensity was compared. Fluorescence intensity measurements were performed using ImageJ (NIH) using nonsaturated raw image files. Data were expressed relative to WT levels as indicated. Pearson's correlation coefficient of GCase and LIMP-2 were analyzed using Coloc2 plugin (Fiji)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 467.3,
+      "minX": 154.5,
+      "maxY": 513,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "Statistics. All values in figures and text refer to mean ± SEM unless otherwise stated. Statistics and graphing were performed using Prism (GraphPad) software. Statistical analysis of data was performed with 2-tailed unpaired t test unless otherwise indicated. Data availability. Values for all data points found in graphs are in the Supporting Data Values file."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 444.2,
+      "minX": 154.5,
+      "maxY": 452.7,
+      "maxX": 263,
+      "page": 16
+    }],
+    "text": "Author contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 404.9,
+      "minX": 154.5,
+      "maxY": 438,
+      "maxX": 546.1,
+      "page": 16
+    }],
+    "text": "MJK and DK conceived and designed the experiments. MJK and SK performed the experiments. TR provided brain lysates from WT and CTSL-KO mice. MJK analyzed the data. MJK and DK wrote the manuscript. All authors read and approved the final manuscript."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 379.3,
+      "minX": 154.5,
+      "maxY": 390.2,
+      "maxX": 249.6,
+      "page": 16
+    }],
+    "text": "Acknowledgments"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 317.4,
+      "minX": 154.5,
+      "maxY": 375.5,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "This work was supported by R01NS076054, R37NS96241 (DK), and DFG GRK 2606 \u2014 project ID 423813989 (TR). Lipidomics were supported in part by the Lipidomics Shared Resource, Hollings Cancer Center, Medical University of South Carolina (P30 CA138313 and P30 GM103339). We would like to thank Fenghua Hu at Weill Institute for Cell and Molecular Biology, Cornell University, for the help in getting mouse brain lysates."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 279.9,
+      "minX": 154.5,
+      "maxY": 300.5,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "Address correspondene to: Dimitri Krainc, Department of Neurology, Northwestern University Feinberg School of Medicine, 303 E. Chicago Ave., Chicago, Illinois 60611, USA. Email: dkrainc@nm.org."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 219.3,
+      "minX": 160.2,
+      "maxY": 255.8,
+      "maxX": 545.2,
+      "page": 16
+    }],
+    "text": "1. Kalia LV, Lang AE. Parkinson's disease. Lancet. 2015;386(9996):896\u2013912. 2. Poewe W, et al. Parkinson disease. Nat Rev Dis Primers. 2017;3:17013. 3. Abeliovich A, Gitler AD. Defects in trafficking bridge Parkinson's disease pathology and genetics. Nature. 2016;539(7628):207\u2013216. 4. Senkevich K, Gan-Or Z. Autophagy lysosomal pathway dysfunction in Parkinson's disease; evidence from human genetics."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 199.3,
+      "minX": 160.3,
+      "maxY": 215.7,
+      "maxX": 536.1,
+      "page": 16
+    }],
+    "text": "Parkinsonism Relat Disord. 2020;73:60\u201371. 5. Chang D, et al. A meta-analysis of genome-wide association studies identifies 17 new Parkinson's disease risk loci. Nat Genet."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 179.2,
+      "minX": 160.3,
+      "maxY": 195.7,
+      "maxX": 544,
+      "page": 16
+    }],
+    "text": "2017;49(10):1511\u20131516. 6. Duran R, et al. The glucocerobrosidase E326K variant predisposes to Parkinson's disease, but does not cause Gaucher's disease."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 149.3,
+      "minX": 160.3,
+      "maxY": 175.7,
+      "maxX": 501.1,
+      "page": 16
+    }],
+    "text": "Mov Disord. 2013;28(2):232\u2013236. 7. Schapira AH. Glucocerebrosidase and Parkinson disease: recent advances. Mol Cell Neurosci. 2015;66(pt a):37\u201342. 8. Sidransky E, et al. Multicenter analysis of glucocerebrosidase mutations in Parkinson's disease. NEngl JMed."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 109.2,
+      "minX": 156.7,
+      "maxY": 145.7,
+      "maxX": 538.6,
+      "page": 16
+    }],
+    "text": "2009;361(17):1651\u20131661. 9. Burbulla LF, et al. Dopamine oxidation mediates mitochondrial and lysosomal dysfunction in Parkinson's disease. Science. 2017;357(6357):1255\u20131261. 10. Chiasserini D, et al. Selective loss of glucocerebrosidase activity in sporadic Parkinson's disease and dementia with Lewy bod-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 79.2,
+      "minX": 156.7,
+      "maxY": 105.7,
+      "maxX": 543.8,
+      "page": 16
+    }],
+    "text": "ies. Mol Neurodegener. 2015;10:15. 11. Gegg ME, et al. Glucocerebrosidase deficiency in substantia nigra of parkinson disease brains. Ann Neurol. 2012;72(3):455\u2013463. 12. Mazzulli JR, et al. Gaucher disease glucocerebrosidase and α-synuclein form a bidirectional pathogenic loop in synucleinopa-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 49.2,
+      "minX": 156.7,
+      "maxY": 75.7,
+      "maxX": 538.5,
+      "page": 16
+    }],
+    "text": "thies. Cell. 2011;146(1):37\u201352. 13. Murphy KE, et al. Reduced glucocerebrosidase is associated with increased α-synuclein in sporadic Parkinson's disease. Brain. 2014;137(pt 3):834\u2013848."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 6"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 17
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 712.8,
+      "minX": 156.7,
+      "maxY": 719.3,
+      "maxX": 525.8,
+      "page": 17
+    }],
+    "text": "14. Alcalay RN, et al. Cognitive performance of GBA mutation carriers with early-onset PD: the CORE-PD study. Neurology."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 672.8,
+      "minX": 156.7,
+      "maxY": 709.3,
+      "maxX": 537.9,
+      "page": 17
+    }],
+    "text": "2012;78(18):1434\u20131440. 15. Gan-Or Z, et al. GBA-associated Parkinson's disease and other synucleinopathies. Curr Neurol Neurosci Rep. 2018;18(8):44. 16. Krohn L, et al. GBA variants in REM sleep behavior disorder: a multicenter study. Neurology. 2020;95(8):e1008\u2013e1016. 17. Chia R, et al. Genome sequencing analysis identifies new loci associated with Lewy body dementia and provides insights into"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 652.8,
+      "minX": 156.7,
+      "maxY": 669.3,
+      "maxX": 511.7,
+      "page": 17
+    }],
+    "text": "its genetic architecture. Nat Genet. 2021;53(3):294\u2013303. 18. Goker-Alpan O, et al. Glucocerebrosidase mutations are an important risk factor for Lewy body disorders. Neurology."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 622.8,
+      "minX": 156.7,
+      "maxY": 649.3,
+      "maxX": 528.3,
+      "page": 17
+    }],
+    "text": "2006;67(5):908\u2013910. 19. Mata IF, et al. Glucocerebrosidase gene mutations: a risk factor for Lewy body disorders. Arch Neurol. 2008;65(3):379\u2013382. 20. Nalls MA, et al. A multicenter study of glucocerebrosidase mutations in dementia with Lewy bodies. JAMA Neurol."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 582.7,
+      "minX": 156.7,
+      "maxY": 619.2,
+      "maxX": 541.2,
+      "page": 17
+    }],
+    "text": "2013;70(6):727\u2013735. 21. Beutler E. Gaucher disease: new molecular approaches to diagnosis and treatment. Science. 1992;256(5058):794\u2013799. 22. Mistry PK, et al. Gaucher disease: progress and ongoing challenges. Mol Genet Metab. 2017;120(1\u20132):8\u201321. 23. Mazzulli JR, et al. α-Synuclein-induced lysosomal dysfunction occurs through disruptions in protein trafficking in human mid-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 562.7,
+      "minX": 156.7,
+      "maxY": 579.2,
+      "maxX": 544.5,
+      "page": 17
+    }],
+    "text": "brain synucleinopathy models. Proc Natl Acad Sci US A. 2016;113(7):1931\u20131936. 24. Migdalska-Richards A, et al. The L444P Gba1 mutation enhances alpha-synuclein induced loss of nigral dopaminergic neurons"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 542.7,
+      "minX": 156.7,
+      "maxY": 559.2,
+      "maxX": 536,
+      "page": 17
+    }],
+    "text": "in mice. Brain. 2017;140(10):2706\u20132721. 25. Rocha EM, et al. Glucocerebrosidase gene therapy prevents α-synucleinopathy of midbrain dopamine neurons. Neurobiol Dis."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 522.7,
+      "minX": 156.7,
+      "maxY": 539.1,
+      "maxX": 532.3,
+      "page": 17
+    }],
+    "text": "2015;82:495\u2013503. 26. Sardi SP, et al. CNS expression of glucocerebrosidase corrects alpha-synuclein pathology and memory in a mouse model of"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 502.7,
+      "minX": 156.7,
+      "maxY": 519.2,
+      "maxX": 535.7,
+      "page": 17
+    }],
+    "text": "Gaucher-related synucleinopathy. Proc Natl Acad Sci US A. 2011;108(29):12101\u201312106. 27. Fernandes HJ, et al. ER stress and autophagic perturbations lead to elevated extracellular α-synuclein in GBA-N370S Parkin-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 482.7,
+      "minX": 156.7,
+      "maxY": 499.2,
+      "maxX": 540.3,
+      "page": 17
+    }],
+    "text": "son's iPSC-derived dopamine neurons. Stem Cell Reports. 2016;6(3):342\u2013356. 28. Kim MJ, et al. Acid ceramidase inhibition ameliorates α-synuclein accumulation upon loss of GBA1 function. Hum Mol Genet."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 462.7,
+      "minX": 156.7,
+      "maxY": 479.2,
+      "maxX": 507.4,
+      "page": 17
+    }],
+    "text": "2018;27(11):1972\u20131988. 29. Li H, et al. Mitochondrial dysfunction and mitophagy defect triggered by heterozygous GBA mutations. Autophagy."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 442.7,
+      "minX": 156.7,
+      "maxY": 459.2,
+      "maxX": 534.2,
+      "page": 17
+    }],
+    "text": "2019;15(1):113\u2013130. 30. Osellame LD, et al. Mitochondria and quality control defects in a mouse model of Gaucher disease--links to Parkinson's dis-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 422.7,
+      "minX": 156.7,
+      "maxY": 439.2,
+      "maxX": 534.4,
+      "page": 17
+    }],
+    "text": "ease. Cell Metab. 2013;17(6):941\u2013953. 31. Schondorf DC, et al. iPSC-derived neurons from GBA1-associated Parkinson's disease patients show autophagic defects and"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 402.7,
+      "minX": 156.6,
+      "maxY": 419.2,
+      "maxX": 544.8,
+      "page": 17
+    }],
+    "text": "impaired calcium homeostasis. Nat Commun. 2014;5:4028. 32. Taguchi YV, et al. Glucosylsphingosine promotes α-synuclein pathology in mutant GBA-associated Parkinson's disease. JNeuro-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 382.7,
+      "minX": 156.6,
+      "maxY": 399.2,
+      "maxX": 543.3,
+      "page": 17
+    }],
+    "text": "sci. 2017;37(40):9617\u20139631. 33. Vitner EB, et al. Contribution of brain inflammation to neuronal cell death in neuronopathic forms of Gaucher's disease. Brain."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 362.7,
+      "minX": 156.6,
+      "maxY": 379.2,
+      "maxX": 542,
+      "page": 17
+    }],
+    "text": "2012;135(pt 6):1724\u20131735. 34. Diaz GA, et al. Gaucher disease: the origins of the Ashkenazi Jewish N370S and 84GG acid beta-glucosidase mutations. Am J"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 332.7,
+      "minX": 156.6,
+      "maxY": 359.2,
+      "maxX": 545.9,
+      "page": 17
+    }],
+    "text": "Hum Genet. 2000;66(6):1821\u20131832. 35. Liou B, et al. Analyses of variant acid beta-glucosidases: effects of Gaucher disease mutations. JBiol Chem. 2006;281(7):4242\u20134253. 36. Ron I, Horowitz M. ER retention and degradation as the molecular basis underlying Gaucher disease heterogeneity. Hum Mol"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 312.7,
+      "minX": 156.6,
+      "maxY": 329.2,
+      "maxX": 537.4,
+      "page": 17
+    }],
+    "text": "Genet. 2005;14(16):2387\u20132398. 37. Bendikov-Bar I, et al. Characterization of the ERAD process of the L444P mutant glucocerebrosidase variant. Blood Cells Mol"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 292.7,
+      "minX": 156.3,
+      "maxY": 309.2,
+      "maxX": 545,
+      "page": 17
+    }],
+    "text": "Dis. 2011;46(1):4\u201310. 38. Maegawa GH, et al. Identification and characterization of ambroxol as an enzyme enhancement agent for Gaucher disease."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 272.6,
+      "minX": 156.6,
+      "maxY": 289.1,
+      "maxX": 541.6,
+      "page": 17
+    }],
+    "text": "JBiol Chem. 2009;284(35):23502\u201323516. 39. Mullin S, et al. Ambroxol for the treatment of patients with Parkinson disease with and without glucocerebrosidase gene muta-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 242.6,
+      "minX": 156.6,
+      "maxY": 269.1,
+      "maxX": 543.6,
+      "page": 17
+    }],
+    "text": "tions: a nonrandomized, noncontrolled trial. JAMA Neurol. 2020;77(4):427\u2013434. 40. Abeliovich A, et al. Gene therapy for Parkinson's disease associated with GBA1 mutations. JParkinsons Dis. 2021;11(s2):S183\u2013S188. 41. Den Heijer JM, et al. A randomized single and multiple ascending dose study in healthy volunteers of LTI-291, a centrally pen-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 222.6,
+      "minX": 156.6,
+      "maxY": 239.1,
+      "maxX": 538.1,
+      "page": 17
+    }],
+    "text": "etrant glucocerebrosidase activator. Br JClin Pharmacol. 2021;87(9):3561\u20133573. 42. Morabito G, et al. AAV-PHP.B-mediated global-scale expression in the mouse nervous system enables GBA1 gene therapy for"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 202.6,
+      "minX": 156.6,
+      "maxY": 219.1,
+      "maxX": 532.7,
+      "page": 17
+    }],
+    "text": "wide protection from synucleinopathy. MolTher. 2017;25(12):2727\u20132742. 43. Burbulla LF, et al. A modulator of wild-type glucocerebrosidase improves pathogenic phenotypes in dopaminergic neuronal"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 172.6,
+      "minX": 156.6,
+      "maxY": 199.1,
+      "maxX": 524,
+      "page": 17
+    }],
+    "text": "models of Parkinson's disease. Sci Transl Med. 2019;11(514):eaau6870. 44. Mohamed MM, Sloane BF. Cysteine cathepsins: multifunctional enzymes in cancer. Nat Rev Cancer. 2006;6(10):764\u2013775. 45. Turk V, et al. Cysteine cathepsins: from structure, function and regulation to new frontiers. Biochim Biophys Acta."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 132.6,
+      "minX": 156.6,
+      "maxY": 169.1,
+      "maxX": 538,
+      "page": 17
+    }],
+    "text": "2012;1824(1):68\u201388. 46. Turk V, et al. Lysosomal cysteine proteases: facts and opportunities. EMBO J. 2001;20(17):4629\u20134633. 47. Zhou X, et al. Lysosomal processing of progranulin. Mol Neurodegener. 2017;12(1):62. 48. Zheng X, et al. Role of the proteolytic hierarchy between cathepsin L, cathepsin D and caspase-3 in regulation of cellular sus-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 112.6,
+      "minX": 156.6,
+      "maxY": 129.1,
+      "maxX": 533.3,
+      "page": 17
+    }],
+    "text": "ceptibility to apoptosis and autophagy. Biochim Biophys Acta. 2008;1783(12):2294\u20132300. 49. Reczek D, et al. LIMP-2 is a receptor for lysosomal mannose-6-phosphate-independent targeting of beta-glucocerebrosidase."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 92.6,
+      "minX": 156.6,
+      "maxY": 109.1,
+      "maxX": 532,
+      "page": 17
+    }],
+    "text": "Cell. 2007;131(4):770\u2013783. 50. Schnabel D, et al. Mutation in the sphingolipid activator protein 2 in a patient with a variant of Gaucher disease. FEBS Lett."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 72.6,
+      "minX": 156.6,
+      "maxY": 89.1,
+      "maxX": 532.7,
+      "page": 17
+    }],
+    "text": "1991;284(1):57\u201359. 51. Ho MW, O'Brien JS. Gaucher's disease: deficiency of 'acid' -glucosidase and reconstitution of enzyme activity in vitro. Proc"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 42.6,
+      "minX": 156.5,
+      "maxY": 69.1,
+      "maxX": 542.8,
+      "page": 17
+    }],
+    "text": "NatlAcad Sci US A. 1971;68(11):2810\u20132813. 52. Weiler S, et al. Identification of the binding and activating sites of the sphingolipid activator protein, saposin C, with glucocerebrosidase. Protein Sci. 1995;4(4):756\u2013764."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 17
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 7"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 752.3,
+      "minX": 442,
+      "maxY": 758.5,
+      "maxX": 545.7,
+      "page": 18
+    }],
+    "text": "R E S E A R C H A R T I C L E"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 712.8,
+      "minX": 156.7,
+      "maxY": 719.3,
+      "maxX": 535.5,
+      "page": 18
+    }],
+    "text": "53. Hiraiwa M, et al. Lysosomal proteolysis of prosaposin, the precursor of saposins (sphingolipid activator proteins): its mecha-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 692.8,
+      "minX": 156.7,
+      "maxY": 709.3,
+      "maxX": 529.1,
+      "page": 18
+    }],
+    "text": "nism and inhibition by ganglioside. Arch Biochem Biophys. 1997;341(1):17\u201324. 54. Benz J, et al. Novel β-glucocerebrosidase activators that bind to a new pocket at a dimer interface and induce dimerization."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 662.8,
+      "minX": 156.7,
+      "maxY": 689.3,
+      "maxX": 544.8,
+      "page": 18
+    }],
+    "text": "Angew Chem Int Ed Engl. 2021;60(10):5436\u20135442. 55. Harlan FK, et al. Fluorogenic substrates for visualizing acidic organelle enzyme activities. PLoS One. 2016;11(5):e0156312. 56. Schneider-Poetsch T, et al. Inhibition of eukaryotic translation elongation by cycloheximide and lactimidomycin. Nat Chem Biol."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 642.8,
+      "minX": 156.7,
+      "maxY": 659.3,
+      "maxX": 520.8,
+      "page": 18
+    }],
+    "text": "2010;6(3):209\u2013217. 57. Marwaha R, Sharma M. DQ-red BSA trafficking assay in cultured cells to assess cargo delivery to lysosomes. Bio Protoc."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 622.8,
+      "minX": 156.7,
+      "maxY": 639.3,
+      "maxX": 537.9,
+      "page": 18
+    }],
+    "text": "2017;7(19):e2571. 58. Ratto E, et al. Direct control of lysosomal catabolic activity by mTORC1 through regulation of V-ATPase assembly. Nat Com-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 602.7,
+      "minX": 156.6,
+      "maxY": 619.2,
+      "maxX": 514.1,
+      "page": 18
+    }],
+    "text": "mun. 2022;13(1):4848. 59. Martinez-Fabregas J, et al. Lysosomal protease deficiency or substrate overload induces an oxidative-stress mediated"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 582.7,
+      "minX": 156.7,
+      "maxY": 599.2,
+      "maxX": 543.9,
+      "page": 18
+    }],
+    "text": "STAT3-dependent pathway of lysosomal homeostasis. Nat Commun. 2018;9(1):5343. 60. Parigiani MA, et al. Conditional gene targeting reveals cell type-specific roles of the lysosomal protease cathepsin L in mamma-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 562.7,
+      "minX": 156.7,
+      "maxY": 579.2,
+      "maxX": 524.5,
+      "page": 18
+    }],
+    "text": "ry tumor progression. Cancers (Basel). 2020;12(8):2004. 61. Klionsky DJ, et al. Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition). Autophagy."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 542.7,
+      "minX": 156.7,
+      "maxY": 559.2,
+      "maxX": 543.1,
+      "page": 18
+    }],
+    "text": "2016;12(1):1\u2013222. 62. Zhang Y, et al. An RNA-sequencing transcriptome and splicing database of glia, neurons, and vascular cells of the cerebral cor-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 512.7,
+      "minX": 156.7,
+      "maxY": 539.2,
+      "maxX": 537.3,
+      "page": 18
+    }],
+    "text": "tex. JNeurosci. 2014;34(36):11929\u201311947. 63. Kettenmann H, et al. Physiology of microglia. Physiol Rev. 2011;91(2):461\u2013553. 64. Boddupalli CS, et al. Neuroinflammation in neuronopathic Gaucher disease: role of microglia and NK cells, biomarkers, and"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 492.7,
+      "minX": 156.7,
+      "maxY": 509.2,
+      "maxX": 529.2,
+      "page": 18
+    }],
+    "text": "response to substrate reduction therapy. Elife. 2022;11:e79830. 65. Brunialti E, et al. Inhibition of microglial β-glucocerebrosidase hampers the microglia-mediated antioxidant and protective"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 442.7,
+      "minX": 156.6,
+      "maxY": 489.2,
+      "maxX": 545.1,
+      "page": 18
+    }],
+    "text": "response in neurons. JNeuroinflammation. 2021;18(1):220. 66. Keatinge M, et al. Glucocerebrosidase 1 deficient Danio rerio mirror key pathological aspects of human Gaucher disease and provide evidence of early microglial activation preceding alpha-synuclein-independent neuronal cell death. Hum Mol Genet. 2015;24(23):6640\u20136652. 67. Mullin S, et al. Brain microglial activation increased in glucocerebrosidase (GBA) mutation carriers without Parkinson's disease."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 422.7,
+      "minX": 156.6,
+      "maxY": 439.2,
+      "maxX": 528.8,
+      "page": 18
+    }],
+    "text": "Mov Disord. 2021;36(3):774\u2013779. 68. Vitner EB, et al. Induction of the type I interferon response in neurological forms of Gaucher disease. JNeuroinflammation."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 402.7,
+      "minX": 156.6,
+      "maxY": 419.2,
+      "maxX": 538.5,
+      "page": 18
+    }],
+    "text": "2016;13(1):104. 69. Dello Russo C, et al. The human microglial HMC3 cell line: where do we stand? A systematic literature review. JNeuroinflam-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 382.7,
+      "minX": 156.6,
+      "maxY": 399.2,
+      "maxX": 539.4,
+      "page": 18
+    }],
+    "text": "mation. 2018;15(1):259. 70. Woo JT, et al. Suppressive effect of N-(benzyloxycarbonyl)-L-phenylalanyl-L-tyrosinal on bone resorption in vitro and in vivo."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 352.7,
+      "minX": 156.6,
+      "maxY": 379.2,
+      "maxX": 544.4,
+      "page": 18
+    }],
+    "text": "Eur JPharmacol. 1996;300(1\u20132):131\u2013135. 71. Robichaud J, et al. A novel class of nonpeptidic biaryl inhibitors of human cathepsin K. JMed Chem. 2003;46(17):3709\u20133727. 72. Grace ME, et al. Gaucher disease: heterologous expression of two alleles associated with neuronopathic phenotypes. Am JHum"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 322.7,
+      "minX": 156.6,
+      "maxY": 349.2,
+      "maxX": 543.4,
+      "page": 18
+    }],
+    "text": "Genet. 1991;49(3):646\u2013655. 73. Wang Y, et al. Phosphorylated α-synuclein in Parkinson's disease. Sci Transl Med. 2012;4(121):121ra20. 74. Kim S, et al. Dysregulation of mitochondria-lysosome contacts by GBA1 dysfunction in dopaminergic neuronal models of Par-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 292.6,
+      "minX": 156.6,
+      "maxY": 319.2,
+      "maxX": 533.2,
+      "page": 18
+    }],
+    "text": "kinson's disease. Nat Commun. 2021;12(1):1807. 75. Brix K, et al. Cysteine cathepsins: cellular roadmap to different functions. Biochimie. 2008;90(2):194\u2013207. 76. Kim MJ, et al. Lysosomal ceramides regulate cathepsin B-mediated processing of saposin C and glucocerebrosidase activity."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 272.6,
+      "minX": 156.6,
+      "maxY": 289.1,
+      "maxX": 543.4,
+      "page": 18
+    }],
+    "text": "Hum Mol Genet. 2022;31(14):2424\u20132437. 77. Potts W, et al. Cathepsin L\u2013deficient mice exhibit abnormal skin and bone development and show increased resistance to osteo-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 252.6,
+      "minX": 156.6,
+      "maxY": 269.1,
+      "maxX": 543.3,
+      "page": 18
+    }],
+    "text": "porosis following ovariectomy. Int JExp Pathol. 2004;85(2):85\u201396. 78. Roth W, et al. Cathepsin L deficiency as molecular defect of furless: hyperproliferation of keratinocytes and pertubation of hair"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 222.6,
+      "minX": 156.6,
+      "maxY": 249.1,
+      "maxX": 544.5,
+      "page": 18
+    }],
+    "text": "follicle cycling. FASEB J. 2000;14(13):2075\u20132086. 79. Spira D, et al. Cell type-specific functions of the lysosomal protease cathepsin L in the heart. JBiolChem. 2007;282(51):37045\u201337052. 80. Barton NW, et al. Replacement therapy for inherited enzyme deficiency--macrophage-targeted glucocerebrosidase for Gaucher's"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 202.6,
+      "minX": 156.6,
+      "maxY": 219.1,
+      "maxX": 537.1,
+      "page": 18
+    }],
+    "text": "disease. NEngl JMed. 1991;324(21):1464\u20131470. 81. Tekoah Y, et al. Glycosylation and functionality of recombinant β-glucocerebrosidase from various production systems. Biosci"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 182.6,
+      "minX": 156.6,
+      "maxY": 199.1,
+      "maxX": 497.6,
+      "page": 18
+    }],
+    "text": "Rep. 2013;33(5):e00071. 82. Cui Z, et al. Cas13d knockdown of lung protease Ctsl prevents and treats SARS-CoV-2 infection. Nat Chem Biol."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 162.6,
+      "minX": 156.6,
+      "maxY": 179.1,
+      "maxX": 518.1,
+      "page": 18
+    }],
+    "text": "2022;18(10):1056\u20131064. 83. Liu T, et al. Cathepsin L\u2013selective inhibitors: a potentially promising treatment for COVID-19 patients. PharmacolTher."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 142.6,
+      "minX": 156.6,
+      "maxY": 159,
+      "maxX": 543,
+      "page": 18
+    }],
+    "text": "2020;213:107587. 84. Zhao MM, et al. Cathepsin L plays a key role in SARS-CoV-2 infection in humans and humanized mice and is a promising tar-"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 122.6,
+      "minX": 156.2,
+      "maxY": 139.1,
+      "maxX": 543.4,
+      "page": 18
+    }],
+    "text": "get for new drug development. SignalTransductTargetTher. 2021;6(1):134. 85. Huang IC, et al. SARS coronavirus, but not human coronavirus NL63, utilizes cathepsin L to infect ACE2-expressing cells."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 102.6,
+      "minX": 156.5,
+      "maxY": 119.1,
+      "maxX": 541.7,
+      "page": 18
+    }],
+    "text": "JBiol Chem. 2006;281(6):3198\u20133203. 86. Simmons G, et al. Inhibitors of cathepsin L prevent severe acute respiratory syndrome coronavirus entry. Proc NatlAcad Sci US"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 72.6,
+      "minX": 156.5,
+      "maxY": 99.1,
+      "maxX": 527.3,
+      "page": 18
+    }],
+    "text": "A. 2005;102(33):11876\u201311881. 87. Biasizzo M, et al. Cysteine cathepsins: a long and winding road towards clinics. Mol Aspects Med. 2022;88:101150. 88. Kriks S, et al. Dopamine neurons derived from human ES cells efficiently engraft in animal models of Parkinson's disease."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 52.6,
+      "minX": 156.5,
+      "maxY": 69.1,
+      "maxX": 497.7,
+      "page": 18
+    }],
+    "text": "Nature. 2011;480(7378):547\u2013551. 89. Zhang T, et al. Differential regulation of progranulin derived granulin peptides. Mol Neurodegener. 2022;17(1):15."
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 16.8,
+      "minX": 38.7,
+      "maxY": 24.6,
+      "maxX": 546,
+      "page": 18
+    }],
+    "text": "JCI Insight 2024;9(3):e169594 https://doi.org/10.1172/jci.insight.169594 1 8"
+  }}
+]}

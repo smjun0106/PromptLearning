@@ -1,0 +1,2274 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 778.1,
+      "minX": 74.4,
+      "maxY": 784.8,
+      "maxX": 113.4,
+      "page": 1
+    }],
+    "text": "Journal of"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 764.8,
+      "minX": 74.4,
+      "maxY": 773.5,
+      "maxX": 167.2,
+      "page": 1
+    }],
+    "text": "Clinical Medicine"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 728.5,
+      "minX": 35.2,
+      "maxY": 736,
+      "maxX": 63.2,
+      "page": 1
+    }],
+    "text": "Article"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 686.2,
+      "minX": 35.1,
+      "maxY": 722.7,
+      "maxX": 495.4,
+      "page": 1
+    }],
+    "text": "Gaucher Disease or Acid Sphingomyelinase Deficiency? The Importance of Differential Diagnosis"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 637.6,
+      "minX": 35.3,
+      "maxY": 673.1,
+      "maxX": 516.1,
+      "page": 1
+    }],
+    "text": "Miriam Giacomarra 1, Paolo Colomba 1 , Daniele Francofonte 1, Marcomaria Zora 1, Giovanni Caocci 2 , Daniela Diomede 3, Gaetano Giuffrida 4, Laura Fiori 5, Chiara Montanari 6 , Annamaria Sapuppo 7 , Anna Rita Scortechini 8, Nicola Vitturi 9 , Giovanni Duro 1 and Carmela Zizzo 1,*"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 572.1,
+      "minX": 166.4,
+      "maxY": 613.6,
+      "maxX": 559.1,
+      "page": 1
+    }],
+    "text": "1 Institute for Biomedical Research and Innovation (IRIB), National Research Council (CNR), Via Ugo la Malfa 153, 90146 Palermo, Italy; miriam.giacomarra@irib.cnr.it (M.G.); paolo.colomba@irib.cnr.it (P.C.); daniele.francofonte@irib.cnr.it (D.F.); marcomaria.zora@irib.cnr.it (M.Z.); giovanni.duro@irib.cnr.it (G.D.) 2 Ematologia e Centro Trapianto di Midollo Osseo, Ospedale Businco, Via Jenner, 09124 Cagliari, Italy;"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 322,
+        "minX": 166,
+        "maxY": 383,
+        "maxX": 560.8,
+        "page": 1
+      },
+      {
+        "minY": 296.1,
+        "minX": 166.4,
+        "maxY": 318.1,
+        "maxX": 560.8,
+        "page": 1
+      },
+      {
+        "minY": 270.1,
+        "minX": 166,
+        "maxY": 292.2,
+        "maxX": 559.3,
+        "page": 1
+      },
+      {
+        "minY": 205.3,
+        "minX": 166.1,
+        "maxY": 266.2,
+        "maxX": 560.4,
+        "page": 1
+      },
+      {
+        "minY": 179.3,
+        "minX": 166.4,
+        "maxY": 201.4,
+        "maxX": 559.3,
+        "page": 1
+      },
+      {
+        "minY": 127.4,
+        "minX": 166.4,
+        "maxY": 175.4,
+        "maxX": 560.8,
+        "page": 1
+      },
+      {
+        "minY": 114.5,
+        "minX": 166.1,
+        "maxY": 123.5,
+        "maxX": 424.5,
+        "page": 1
+      }
+    ],
+    "text": "Abstract: Background: Gaucher disease is a lysosomal storage disorder caused by functional glucocerebrosidase enzyme deficiency. Hepatosplenomegaly and hematological complications are found in both Gaucher disease and Acid Sphingomyelinase Deficiency, which is caused by acid sphingomyelinase dysfunction. The possible overlap in clinical presentation can cause diagnostic errors in differential diagnosis. For this reason, in patients with an initial clinical suspicion of Gaucher disease, we aimed to carry out a parallel screening of acid sphingomyelinase and glucocerebrosidase. Methods: Peripheral blood samples of 627 patients were collected, and enzymatic activity analysis was performed on both glucocerebrosidase and acid sphingomyelinase. The specific gene was studied in samples with null or reduced enzymatic activity. Specific molecular biomarkers helped to achieve the correct diagnosis. Results: In 98.7% of patients, normal values of glucocerebrosidase activity excluded Gaucher disease. In 8 of 627 patients (1.3%), the glucocerebrosidase enzymatic activity assay was below the normal range, so genetic GBA1 analysis confirmed the enzymatic defect. Three patients (0.5%) had normal glucocerebrosidase activity, so they were not affected by Gaucher disease, and showed decreased acid sphingomyelinase activity. SMPD1 gene mutations responsible for Acid Sphingomyelinase Deficiency were found. The levels of specific biomarkers found in these patients further strengthened the genetic data. Conclusions: Our results suggest that in the presence of typical signs and symptoms of Gaucher disease, Acid Sphingomyelinase Deficiency should be considered. For this reason, the presence of hepatosplenomegaly, thrombocytopenia, leukocytopenia, and anemia should alert clinicians to analyze both enzymes by a combined screening. Today, enzyme replacement therapy is available for the treatment of both pathologies; therefore, prompt diagnosis is essential for patients to start accurate treatment and to avoid diagnostic delay."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 127.4,
+      "page": 2
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 729.5,
+      "minX": 166.4,
+      "maxY": 751.6,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Keywords: Gaucher disease; acid sphingomyelinase deficiency; ASMD; glucocerebrosidase; acid sphingomyelinase; differential diagnosis"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 681.8,
+      "minX": 166.4,
+      "maxY": 689.1,
+      "maxX": 234.5,
+      "page": 2
+    }],
+    "text": "1. Introduction"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 575.7,
+      "minX": 166.1,
+      "maxY": 673.7,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD, OMIM #230800, ORPHA355) is a rare, autosomal, recessive genetic disorder determined by mutations in the GBA1 gene located on chromosome 1 (1q21), coding for the lysosomal enzyme, glucocerebrosidase (GCase, also called glucosylceramidase or acid β-glucosidase 1, EC: 4.2.1.25) [1\u20137]. In lysosomes, this enzyme hydrolyzes glucosylceramide (GlcCer) into ceramide and glucose; this impairment leads to the accumulation of GlcCer substrate in macrophages, also known as Gaucher cells. Penetrating the bone marrow, spleen, liver, and other organs, these cells are considered the main protagonists of the disease's symptoms [1]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 513,
+      "minX": 166.1,
+      "maxY": 573.3,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "The phenotype is variable, and three clinical forms have been identified. Type 1 is the most common and causes no neurological damage: it is characterized by the association of hepatosplenomegaly (volume increase of the liver and spleen), skeletal pathology (pain, osteopenia, osteolytic lesions with fractures, bone infarcts, and osteonecrosis), and cytopenia (thrombocytosis, anemia, and, rarely, neutropenia)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 475.3,
+      "minX": 166.4,
+      "maxY": 510.5,
+      "maxX": 559.4,
+      "page": 2
+    }],
+    "text": "Type 2 is characterized by neurological involvement, with onset before two years of life, a low psychomotor development, and a rapidly progressive course with death within two\u2013four years of life."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 438.6,
+      "minX": 166.4,
+      "maxY": 472.8,
+      "maxX": 559.4,
+      "page": 2
+    }],
+    "text": "Type 3, although characterized by central nervous system involvement with infantile onset, has a slower progressive course and survival until the third or fourth decade of life [8,9]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 387.4,
+      "minX": 166.4,
+      "maxY": 435.2,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "A few of signs and symptoms of Gaucher disease are also found in Acid Sphingomyelinase Deficiency (ASMD) or Niemann Pick A/B disease [10]. It is caused by mutations in the SMPD1 gene coding for acid sphingomyelinase (ASM), which is necessary for sphin-gomyelin metabolism into ceramide and phosphocholine."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 349.8,
+      "minX": 166.4,
+      "maxY": 385,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Since acid sphingomyelinase is essential for sphingolipid homeostasis, its failure causes reorganization of membrane lipid micro-domains, causing lipid abnormalities in the plasma membrane, lysosomes, and cellular signaling pathways [11]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 161.5,
+      "minX": 166.1,
+      "maxY": 347.3,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "The main signs and symptoms of ASMD affect the liver, spleen, heart, and respiratory, hematological, and skeletal systems. The presence or absence of neurological involvement, the extent of systemic disease, and the rate of disease progression make this systemic disorder highly clinically variable [12]. We can distinguish the following forms of ASMD: infantile neurovisceral ASMD, which is the most severe form, rapidly progressive, and uniformly fatal in early childhood [13]; chronic neurovisceral ASMD, which is more slowly progressive; and chronic visceral ASMD, which has onset of symptoms in childhood through adulthood and is associated with significant morbidity [14]. Patients with ASMD have clinical manifestations that overlap with other disorders: hepatosplenomegaly, hematological disorders, and bone alterations are also found in patients affected by Gaucher disease. In the case of chronic forms of ASMD, this overlap in symptoms and signs can lead to a long diagnostic odyssey for patients [12,15]. Moreover, Niemann Pick A/B is rarer than GD, with an estimated incidence between 1:100,000 and 1:264,000 in the general population [14]. Therefore, the presence of several clinical manifestations peculiar to both disorders should alert clinicians to think not only of Gaucher disease but also ASMD [10]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 73.6,
+      "minX": 166.1,
+      "maxY": 159,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "The clinical suspicion of both lysosomal disorders is confirmed by absent or deficient enzymatic analysis and supported by genetic investigation which must detect one causative mutation for each allele [16]. Moreover, molecular markers, such as, glucosphingosine (Lyso-Gb1) and chitotriosidase in Gaucher disease, and lysosphingomyelin (Lyso-SM) and lysosphingomyelin 509 (Lyso-SM-509), have also been found to be elevated in ASMD [17]. Several algorithms for pediatric metabolists and physicians involved in diagnosis and treatment of LSD have provided simple, convenient, and sensitive tools for diagnosing late-onset"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 127.4,
+      "page": 3
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 692,
+      "minX": 166.4,
+      "maxY": 752.3,
+      "maxX": 561,
+      "page": 3
+    }],
+    "text": "forms of GD and ASMDthat show the possible overlap in clinical presentation [10,16,18]. In this study, we present for the first time the results of the enzymatic activity of both glucocerebrosidase and acid sphingomyelinase in 627 patients with an initial clinical suspicion of Gaucher disease from hematology, internal medicine, and pediatric centers throughout Italy."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 604.1,
+      "minX": 166.4,
+      "maxY": 689.5,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "In all of the patients, glucocerebrosidase enzyme activity was within the normal range except for eight samples, and clinical suspicion of Gaucher disease was confirmed by genetic analysis. At the same time, acid sphingomyelinase analysis carried out in all samples showed a normal activity except for three patients who had normal glucocerebrosidase enzyme activity, so they were not affected by Gaucher disease; in these patients, we found SMPD1 gene mutations responsible for ASMD. Biomarker levels further confirmed the genetic data."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 584.4,
+      "minX": 166.4,
+      "maxY": 591.7,
+      "maxX": 282.6,
+      "page": 3
+    }],
+    "text": "2. Materials and Methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 403,
+      "minX": 166,
+      "maxY": 576.3,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "A total of 627 samples of patients with an initial clinical suspicion of Gaucher disease from hematology, internal medicine, and pediatric centers throughout Italy were analyzed at the Center for Research and Diagnosis of Lysosomal Storage Disorders of IRIB-CNR in Palermo, Italy for the enzymatic activity values of glucocerebrosidase and acid sphingomyelinase. Enzymatic assays of both enzymes were carried out in all samples. Samples with GCase activity ≤ 2.5 nmol/h/mL (reference range: ≥2.5 nmol/h/mL) were analyzed for the GBA1 gene. The same diagnostic procedure was followed for acid sphingomyelinase: samples with values ≤ 1.7 nmol/h/mL (reference range: ≥1.7 nmol/h/mL) were analyzed for SMPD1. Samples carrying compound heterozygous or homozygous mutations in the GBA1 gene with a confirmed diagnosis of Gaucher disease were assessed for Lyso-GB1 values (normal range: ≤6.8 ng/mL) where possible. Samples with homozygous mutations in SMPD1 with a confirmed diagnosis of ASMD were assessed for lyso-SM509 values (normal range: ≤0.9 ng/mL) and for lyso_SM values (normal range: ≤46.3 ng/mL) where possible."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 383.3,
+      "minX": 166.4,
+      "maxY": 390.5,
+      "maxX": 217.6,
+      "page": 3
+    }],
+    "text": "2.1. Patients"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 314.8,
+      "minX": 166.4,
+      "maxY": 375.1,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Peripheral blood samples were collected, using EDTA as an anticoagulant, and dried on specific absorbent paper (dried blood spot (DBS)). Genetic and enzymatic assays performed at the Center for Research and Diagnosis of Lysosomal Storage Disorders of CNR in Palermo were approved by the Hospital Ethics Committee of the University of Palermo; signed informed consent was obtained from all participants."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 292.5,
+      "minX": 166.4,
+      "maxY": 302.5,
+      "maxX": 441.5,
+      "page": 3
+    }],
+    "text": "2.2. Glucocerebrosidase and Acid Sphingomyelinase Activity Assays"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 101.1,
+      "minX": 166.1,
+      "maxY": 286.9,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Glucocerebrosidase and acid sphingomyelinase analyses were performed using the Dried Blood Filter Paper test (DBFP) described by Chamoles et al. [19], with modifications. For the GCase enzymatic assay, the artificial substrate 4-methylumbelliferyl β-Fglucopyranoside (SIGMA-11.6 mmol/L in Phosphate-Citrate Buffer (CPB), pH 5.2), specific for GCase, conjugated with a fluorophore was used. The fluorescence values detected by the fluorometer (λex: 365 nm, λem: 448 nm) reflect the quantity of substrate degraded by the enzyme present in the analyzed sample. Fluorescence data were processed by an algorithm that provided for each sample an enzymatic activity value expressed in nmol/h/mL. Furthermore, we added to the reaction mixture a cell lysis solution at pH 5.2 (CPB, TRITON-X 100, SODIUM-TAUROCHOLATE) and CBE (Conduritol B epoxide), a specific inhibitor for the non-lysosomal β-glucosidase (NLGCase), to discriminate between GCase and NLGCase. Samples with the reaction mixture were incubated for 18 h at 37 ◦C in a thermomixer (900 RPM) covered with film. ASM activity assay was performed by CENTOGENE mass spectrometry. This test was performed for clinical purposes and its performance has been validated by CENTOGENE."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 127.4,
+      "page": 4
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.9,
+      "minX": 166.4,
+      "maxY": 752.1,
+      "maxX": 252.4,
+      "page": 4
+    }],
+    "text": "2.3. DNA Extraction"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 676.5,
+      "minX": 166,
+      "maxY": 736.7,
+      "maxX": 560.9,
+      "page": 4
+    }],
+    "text": "DNA extraction was performed using EZ1 Advanced XL automatic extractor of QIAGEN S.r.l., Milano, Italy; the EZ1 Advanced XL DNA Investigator Card (a programmed card containing protocols for DNA extraction by filter paper) was used in combination with the EZ1 DNA Investigator kit of QIAGEN S.r.l.-Italy. Quantification of Genomic DNA required the use of the Eppendorf D30 biophotometer of Eppendorf\u2014Hamburg, Germany."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 654.1,
+      "minX": 166.4,
+      "maxY": 664.2,
+      "maxX": 330.7,
+      "page": 4
+    }],
+    "text": "2.4. GBA and SMPD1 Genetic Analyses"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 626,
+      "minX": 166.4,
+      "maxY": 648.6,
+      "maxX": 560.8,
+      "page": 4
+    }],
+    "text": "The Long Polymerase Chain Reaction (Long PCR) method was applied after extensive study of the literature [20] to identify specific mutations of GBA1 and GBAP recombinants."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 513,
+      "minX": 165.9,
+      "maxY": 623.5,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "Two pairs of PCR primers (Table 1) that exclusively amplify GBA1 and identify recombinant alleles with GBAP at 0.4 µM concentration in the reaction mixture were provided. Long PCR amplification of the two macroregions, exon 1\u2013intron 5 and intron 5\u2013exon 11 (two reaction mixtures for each sample), was performed using biotechrabbit™ Long-Range PCR Master Mix, 2X, following the basic protocol and cycling program in the reaction manual. PCR Enhancer and MgCl2 were not supplied in the mixture. The template DNA concentration was 50\u2013100 ng in each reaction mixture. Exon 1\u2013intron 5 and intron 5\u2013exon 11 PCR products were purified by ExoSAP-IT™ PCR and used for sequencing the specific 1\u20135 exons and 6\u201311 exons of GBA1. Sequencing primers are listed in Table 1."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 475.7,
+      "minX": 166.1,
+      "maxY": 497.6,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "Table 1. PCR and sequencing primers for genetic analysis of GBA1 and SMPD1. Nucleotide sequences of the primers used to carry out the genetic study are shown."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 454.6,
+        "minX": 172.4,
+        "maxY": 464.5,
+        "maxX": 424.7,
+        "page": 4
+      },
+      {
+        "minY": 407.4,
+        "minX": 172.4,
+        "maxY": 447.8,
+        "maxX": 499.9,
+        "page": 4
+      },
+      {
+        "minY": 360.1,
+        "minX": 172.4,
+        "maxY": 400.5,
+        "maxX": 490.3,
+        "page": 4
+      },
+      {
+        "minY": 344.3,
+        "minX": 172.4,
+        "maxY": 353.2,
+        "maxX": 483.2,
+        "page": 4
+      },
+      {
+        "minY": 328.6,
+        "minX": 172.4,
+        "maxY": 337.4,
+        "maxX": 497.3,
+        "page": 4
+      },
+      {
+        "minY": 312.8,
+        "minX": 172.4,
+        "maxY": 321.7,
+        "maxX": 487.3,
+        "page": 4
+      },
+      {
+        "minY": 281.3,
+        "minX": 172.4,
+        "maxY": 305.9,
+        "maxX": 500.2,
+        "page": 4
+      },
+      {
+        "minY": 265.5,
+        "minX": 172.4,
+        "maxY": 275.4,
+        "maxX": 424.7,
+        "page": 4
+      },
+      {
+        "minY": 249.8,
+        "minX": 172.4,
+        "maxY": 258.8,
+        "maxX": 486,
+        "page": 4
+      },
+      {
+        "minY": 234,
+        "minX": 172.4,
+        "maxY": 243,
+        "maxX": 505,
+        "page": 4
+      },
+      {
+        "minY": 202.5,
+        "minX": 172.4,
+        "maxY": 227.1,
+        "maxX": 498,
+        "page": 4
+      },
+      {
+        "minY": 186.7,
+        "minX": 172.4,
+        "maxY": 195.7,
+        "maxX": 493.3,
+        "page": 4
+      },
+      {
+        "minY": 171,
+        "minX": 172.4,
+        "maxY": 180,
+        "maxX": 497.3,
+        "page": 4
+      },
+      {
+        "minY": 155.2,
+        "minX": 172.4,
+        "maxY": 164.2,
+        "maxX": 490.9,
+        "page": 4
+      },
+      {
+        "minY": 139.4,
+        "minX": 172.4,
+        "maxY": 149.3,
+        "maxX": 424.7,
+        "page": 4
+      },
+      {
+        "minY": 126,
+        "minX": 172.4,
+        "maxY": 132.5,
+        "maxX": 484.5,
+        "page": 4
+      },
+      {
+        "minY": 110.2,
+        "minX": 172.4,
+        "maxY": 116.8,
+        "maxX": 497.1,
+        "page": 4
+      },
+      {
+        "minY": 724.8,
+        "minX": 172.4,
+        "maxY": 731.3,
+        "maxX": 492,
+        "page": 5
+      },
+      {
+        "minY": 709,
+        "minX": 172.4,
+        "maxY": 715.5,
+        "maxX": 489.3,
+        "page": 5
+      },
+      {
+        "minY": 693.2,
+        "minX": 172.4,
+        "maxY": 699.8,
+        "maxX": 497.3,
+        "page": 5
+      },
+      {
+        "minY": 677.5,
+        "minX": 172.4,
+        "maxY": 684,
+        "maxX": 497.4,
+        "page": 5
+      },
+      {
+        "minY": 661.7,
+        "minX": 172.4,
+        "maxY": 668.3,
+        "maxX": 491.4,
+        "page": 5
+      },
+      {
+        "minY": 646,
+        "minX": 172.4,
+        "maxY": 652.5,
+        "maxX": 491.3,
+        "page": 5
+      },
+      {
+        "minY": 630.2,
+        "minX": 172.4,
+        "maxY": 636.7,
+        "maxX": 492.4,
+        "page": 5
+      },
+      {
+        "minY": 614.4,
+        "minX": 172.4,
+        "maxY": 621,
+        "maxX": 494.4,
+        "page": 5
+      }
+    ],
+    "text": "GBA1 PCR Primers exon 1\u2013intron 5 5\u2032-3\u2032 sequence GBA EX1FOR-PC CTCCATGCAAATCTGTGTTC _ GBA EX5Rev-PC GGCCTGAAAAAGCTAGAATG _ GBA1 PCR Primers intron 5\u2013exon 11 5\u2032-3\u2032 sequence GBA EX5FOR-PC CCAGGATGATTGCGAACTC _ GBA EX11Rev-PC TGCTGTGCCCTCTTTAGTC _ GBA1 Sequencing Primers exon 1\u2013intron 5 5\u2032-3\u2032 sequence Ex1F seq GBA AGATGAGAGGAAGCCAA ex2R seq GBA TGGTCTCAGTCACTCAAAAG EX3F seq GBA TCTTTTGAAACAGAGTCTT EX4R GBA CAGAATGGGCAGAGTGAGAT _ EX5F seq GBA GGCCTCCCAAAGTGCTGG GBA1 Sequencing Primers intron 5\u2013exon 11 5\u2032-3\u2032 sequence Ex6R seq bb ATTGAGAGGCCCAAGGCT Ex7R seq bb CCCTAGAAAGGTTTCAAGCGA EX8F GBA TCCAGGATCAGTTGCTCTTC _ EX8R seq bb AGTAAGAGGTCTGAGGTCTG EX9F seq bb TCTTACTAGTTTCACCAAAG EX9R seq bb AAGTTACGCACCCAATTGGG EX9F seq bb2 CCTTGCCCTGAACCCCGAA SMPD1 PCR Sequencing Primers 5\u2032-3\u2032 sequence Ex1F SMPD1 TGAGCGCGGATTCTGACA Ex1R SMPD1 AGCAAACTCAGTGATGGATT Ex2F SMPD1 GTTGGCCTGGTTCCTCTGCT Ex2R SMPD1 GTTCCCTTCTCCCTTCACTT Ex3F SMPD1 CAGCACAGGAGGACCAGGA Ex4R SMPD1 CAGCCTTCAGACACTCACCC Ex5F SMPD1 CATCTCACCATCCCTGTTGT Ex5R SMPD1 CTCCAACCTCCTTCCCCTAT Ex6F SMPD1 TCCCTGGAGTTACCCTTGCT Ex6R SMPD1 CTTGCCCTGCTTGCCTGGAA"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 127.4,
+      "page": 5
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 745.9,
+      "minX": 166.1,
+      "maxY": 752.5,
+      "maxX": 220.4,
+      "page": 5
+    }],
+    "text": "Table 1. Cont."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 481.1,
+      "minX": 166,
+      "maxY": 591.6,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "Six SMPD1 exons and their flanking intronic sequences were analyzed using five pairs of oligonucleotides (Table 1) at 0.4 µM concentration in the reaction mixture. Polymerase Chain Reaction (PCR) of 5 regions, exon 1\u2013exon 6 (5 reaction mixtures for each sample), was performed using biotechrabbit™ Long-Range PCR Master Mix, 2X, following the basic protocol and cycling program in the reaction manual. PCR Enhancer and MgCl2 were not supplied in the mixture. The template DNA concentration was 40\u201360 ng in each reaction mixture. PCR products were purified and sequenced using the same PCR primers. Eurofins Genomics service performed Sanger sequencing. Sequence analysis was performed using LI-COR Align IR and Chromas bioinformatic programs 2.5."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 458.7,
+      "minX": 166.4,
+      "maxY": 468.8,
+      "maxX": 260.5,
+      "page": 5
+    }],
+    "text": "2.5. Biomarkers Assays"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 418,
+      "minX": 166.4,
+      "maxY": 453.2,
+      "maxX": 560.9,
+      "page": 5
+    }],
+    "text": "Detection of glucosylsphingosine (Lyso-Gb1), lysosphingomyelin-509 (Lyso SM-509) and lysosphingomyelin (Lyso SM) was performed in dried blood spots using the LC-MS/MS technique [21\u201326]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 398.2,
+      "minX": 166.4,
+      "maxY": 405.6,
+      "maxX": 210.7,
+      "page": 5
+    }],
+    "text": "3. Results"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 216.9,
+      "minX": 165.9,
+      "maxY": 390.1,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "We studied 627 subjects (average age: 56.3 years old, 58.5% males and 41.5% females, with average ages, respectively, of 55.4 and 57.5 years old) with clinical manifestations attributable to Gaucher disease. Of the 627 patients, 70.8% came from hematology centers, 17.1% from internal medicine, 6.8% from pediatrics, and 5.3% from other centers. In 619 patients (98.7%), normal activity values of glucocerebrosidase excluded Gaucher disease (Table 2). The average GCase activity in the unaffected patients was 8.3 nmol/h/mL. The average GCase activity in the 100 healthy control subjects was 8.7 nmol/h/mL. In 8 of the 627 patients (1.3%), deficient glucocerebrosidase activity was found and one homozygous mutation or two compound heterozygous mutations that confirmed the initial clinical suspicion of GD (Table 3). Homozygous or compound heterozygous mutations in the GBA1 gene were not found in the 100 healthy subjects studied. In 624 patients (99.5%), normal activity values of acid sphingomyelinase were found (Table 2). The average ASM activity in the unaffected patients was 10.1 nmol/h/mL. The average ASM activity in the 100 healthy control subjects was 10.6 nmol/h/mL."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 154.1,
+      "minX": 166.4,
+      "maxY": 214.4,
+      "maxX": 559.7,
+      "page": 5
+    }],
+    "text": "In 3 of the 627 subjects (0.5%) with an initial clinical suspicion of GD, we found normal glucocerebrosidase activity and acid sphingomyelinase activity reduction; homozygous mutations in the SMPD1 gene responsible for ASMD were found (Table 4). Homozygous or compound heterozygous mutations in the SMPD1 gene were not found in the 100 healthy subjects studied."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 78.8,
+      "minX": 166.1,
+      "maxY": 151.6,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "Patient 1 was a 64-year-old man with moderate hepatosplenomegaly [27], thrombocytopenia, and a biopsy with Gaucher-like lysosomal accumulation. Normal glucocerebrosidase enzyme analysis values excluded the initial clinical suspicion of Gaucher disease. Nevertheless, the acid sphingomyelinase enzymatic assay result was 0.7 nmo/h/mL, below the normal range, and SMPD1 gene analysis detected homozygous c.1799G>A coding for p.R602H mutation (Figure 1) which is considered responsible for chronic visceral ASMD in"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487 6 of 12"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 729.7,
+      "minX": 166.4,
+      "maxY": 752.3,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "homozygous or compound heterozygous mutations [28]. We also investigated Lyso-SM-509 accumulation, which was 4.7 ng/mL, above the normal range of ≤0.9 ng/mL."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 653.9,
+      "minX": 166.1,
+      "maxY": 714.3,
+      "maxX": 560.8,
+      "page": 6
+    }],
+    "text": "Table 2. Characteristics of the subjects with initial clinical suspicion of GD. Characteristics of 627 subjects with clinical suspicion of Gaucher disease and the clinical centers from which they came. Enzyme activity is measured in nmol/h/mL; normal glucocerebrosidase values assayed in whole blood ≥ 2.5 nmol/h/mL. Normal acid sphingomyelinase values assayed in whole blood ≥ 1.7 nmol/h/mL. Normal Lyso-Gb1 values ≤ 6.8 ng/mL."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 631,
+      "minX": 118.1,
+      "maxY": 639.8,
+      "maxX": 519.1,
+      "page": 6
+    }],
+    "text": "Overall Subjects Male Female"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 615.1,
+        "minX": 109.6,
+        "maxY": 624.1,
+        "maxX": 523.1,
+        "page": 6
+      },
+      {
+        "minY": 599.3,
+        "minX": 86.4,
+        "maxY": 608.4,
+        "maxX": 525.3,
+        "page": 6
+      },
+      {
+        "minY": 583.6,
+        "minX": 103.9,
+        "maxY": 592.6,
+        "maxX": 512.2,
+        "page": 6
+      },
+      {
+        "minY": 570.2,
+        "minX": 93.4,
+        "maxY": 576.9,
+        "maxX": 512.2,
+        "page": 6
+      },
+      {
+        "minY": 554.4,
+        "minX": 109.1,
+        "maxY": 561.1,
+        "maxX": 510,
+        "page": 6
+      },
+      {
+        "minY": 538.6,
+        "minX": 117.1,
+        "maxY": 545.3,
+        "maxX": 510,
+        "page": 6
+      },
+      {
+        "minY": 520.5,
+        "minX": 101.8,
+        "maxY": 529.6,
+        "maxX": 516.3,
+        "page": 6
+      },
+      {
+        "minY": 504.8,
+        "minX": 70.4,
+        "maxY": 513.8,
+        "maxX": 516.3,
+        "page": 6
+      },
+      {
+        "minY": 489,
+        "minX": 79,
+        "maxY": 498.1,
+        "maxX": 523.1,
+        "page": 6
+      },
+      {
+        "minY": 473.3,
+        "minX": 72.3,
+        "maxY": 482.3,
+        "maxX": 523.1,
+        "page": 6
+      },
+      {
+        "minY": 457.5,
+        "minX": 87,
+        "maxY": 466.6,
+        "maxX": 523.1,
+        "page": 6
+      },
+      {
+        "minY": 441.7,
+        "minX": 54.9,
+        "maxY": 450.8,
+        "maxX": 510,
+        "page": 6
+      },
+      {
+        "minY": 426,
+        "minX": 57.7,
+        "maxY": 435,
+        "maxX": 510,
+        "page": 6
+      },
+      {
+        "minY": 410.2,
+        "minX": 39.8,
+        "maxY": 419.3,
+        "maxX": 584,
+        "page": 6
+      },
+      {
+        "minY": 394.4,
+        "minX": 46,
+        "maxY": 403.5,
+        "maxX": 512.2,
+        "page": 6
+      }
+    ],
+    "text": "Subjects (%) 627 367 (58.5) 260 (41.5) Average age [min\u2013max] 56.3 [1\u201390] 55.4 [1\u201390] 57.5 [1\u201386] Hematology % 70.8 69.1 73.5 Internal Medicine % 17.1 17.4 16.5 Pediatrics % 6.8 7.6 5.8 Other % 5.3 6.0 4.2 GD patients (%) 8 (1.3) 5 (1.4) 3 (1.1) Niemann Pick A/B patients (%) 3 (0.5) 2 (0.5) 1 (0.4) Unaffected GD patients (%) 619 (98.7) 362 (98.6) 257 (98.8) Unaffected ASMD patients (%) 624 (99.5) 365 (99.4) 259 (99.6) Unaffected patients (%) 616 (98.2) 360 (98.1) 256 (98.5) Average GCase activity in the probands 0.9 0.8 1.0 Average ASM activity in the probands 1.0 0.9 1.0 J.ACvleinr.aMgeedG.C20a2s4e, 1a3c,tixvFitOyRinPuEnERaffReEcVteIdEWpatients 8.3 8.6 7.9 7 of 11 Average ASM activity in unaffected patients 10.1 10.0 10.3"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 350.5,
+      "minX": 47.3,
+      "maxY": 363.5,
+      "maxX": 56.6,
+      "page": 6
+    }],
+    "text": "a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.3,
+      "minX": 47.3,
+      "maxY": 219.3,
+      "maxX": 57.4,
+      "page": 6
+    }],
+    "text": "b"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -82.9,
+      "minX": 47.3,
+      "maxY": -69.9,
+      "maxX": 56.6,
+      "page": 6
+    }],
+    "text": "a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -227,
+      "minX": 47.3,
+      "maxY": -214,
+      "maxX": 57.4,
+      "page": 6
+    }],
+    "text": "b"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 192.9,
+      "minX": 444.1,
+      "maxY": 217.8,
+      "maxX": 548.2,
+      "page": 6
+    }],
+    "text": "SMPD1 wt sequence c.1799G>A: p.(R602H)"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 141.9,
+      "minX": 166.4,
+      "maxY": 177.6,
+      "maxX": 584.1,
+      "page": 6
+    }],
+    "text": "FigFuigreur1e. I1n.dInexdecaxsceamseumtautitoantico.n17c9.91G79>9AG.>(Aa).P(ao)rtPioonrtoiofnthoefetlheecterolepchtreoropghrearmogorfatmheoSfMthPeDS1MePxoDn16exon 6 in iinndienxdceaxsec;ahsoem;hozoymgoozuysgc.o1u7s99cG.1>7A99isGi>nAdiciasteidndbiycathteedblbuye ltihnee. b(blu)ePolrintieo.n(obf)sePqouretinocne ooffSsMeqPuDe1nce of exoSnM6PiDn1peaxtioennt6aliingnpeadtiewnitthaltihgenceodrrwesipthonthdeincgosrereqsupeonncedoinfga sheeqaultehnycceoonftraolh(ewaltt)h.Iynctohnetsreoqlu(wentc)e.In the"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 117.8,
+      "minX": 166.4,
+      "maxY": 139.1,
+      "maxX": 584,
+      "page": 6
+    }],
+    "text": "ansdeqelueecntrcoepahnedroeglreacmtr,obplhueeriosgfroarmc,ybtolusieneis, rfeodr cisytfoosritnhey,mreidnei,syfeolrlothwyimsifnoer,gyuealnloinweiasnfdorggreueanniisne and forgaredeenniinsef.or adenine."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -41,
+      "minX": 175.4,
+      "maxY": 99.3,
+      "maxX": 584.2,
+      "page": 6
+    }],
+    "text": "Patient 11 was a 1-year-old boy with severe hepatomegaly (3.2 times normal volume) and severe splenomegaly [27], thrombocytopenia, anemia, and pulmonary involvement. On the basis of clinical signs, biochemical values, and radiological parameters, our first hypothesis was Gaucher disease with an intercurrent respiratory disease or acid sphingomyelinase deficiency (ASMD). Glucocerebrosidase enzyme analysis was within the normal range, while the acid sphingomyelinase enzymatic analysis result was below the normal range. SMPD1 genetic analysis revealed homozygous c.1171T>G coding for p.W393G mutation (Figure 2); according to the literature, this is considered responsible for chronic neurovisceral ASMD in homozygous or compound heterozygous mutations [29]. We also investigated Lyso-SM-509, which was 4.3 ng/mL, above the normal range of ≤0.9 ng/mL."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -237.3,
+      "minX": 466.3,
+      "maxY": -212.4,
+      "maxX": 573.1,
+      "page": 6
+    }],
+    "text": "SMPD1 wt sequence c.1171T>G: p.(W393G)"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": -315.4,
+      "minX": 175.4,
+      "maxY": -261,
+      "maxX": 584.2,
+      "page": 6
+    }],
+    "text": "Figure 2. Index case mutation c.1171T>G. (a) Portion of the electropherogram of the SMPD1 exon 3 in index case; homozygous c.1171T>G is indicated by the blue line. (b) Portion of sequence of SMPD1 exon 3 in patient aligned with the corresponding sequence of a healthy control (wt). In the sequence and electropherogram, blue is for cytosine, red is for thymine, yellow is for guanine and green is for adenine."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 536.9,
+      "minX": 35.7,
+      "maxY": 544.3,
+      "maxX": 127.7,
+      "page": 7
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 465.4,
+      "minX": 44,
+      "maxY": 471.8,
+      "maxX": 72.9,
+      "page": 7
+    }],
+    "text": "Patient"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.4,
+      "minX": 51.1,
+      "maxY": 460.7,
+      "maxX": 65.8,
+      "page": 7
+    }],
+    "text": "No."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 437.7,
+        "minX": 53.9,
+        "maxY": 445.3,
+        "maxX": 118.3,
+        "page": 7
+      },
+      {
+        "minY": 422,
+        "minX": 53.9,
+        "maxY": 429.5,
+        "maxX": 120.1,
+        "page": 7
+      },
+      {
+        "minY": 406.2,
+        "minX": 51.7,
+        "maxY": 413.8,
+        "maxX": 120.1,
+        "page": 7
+      },
+      {
+        "minY": 390.4,
+        "minX": 51.7,
+        "maxY": 398,
+        "maxX": 120.1,
+        "page": 7
+      },
+      {
+        "minY": 374.7,
+        "minX": 51.7,
+        "maxY": 382.3,
+        "maxX": 118.3,
+        "page": 7
+      },
+      {
+        "minY": 358.9,
+        "minX": 51.7,
+        "maxY": 366.5,
+        "maxX": 120.1,
+        "page": 7
+      },
+      {
+        "minY": 343.2,
+        "minX": 51.7,
+        "maxY": 350.7,
+        "maxX": 120.1,
+        "page": 7
+      },
+      {
+        "minY": 311,
+        "minX": 51.7,
+        "maxY": 318.5,
+        "maxX": 118.3,
+        "page": 7
+      }
+    ],
+    "text": "23 F/66 82 M/53 199 M/71 206 M/23 284 F/43 464 M/77 565 M/63 627 F/12"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 220,
+      "minX": 44,
+      "maxY": 226.5,
+      "maxX": 72.9,
+      "page": 7
+    }],
+    "text": "Patient"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209,
+      "minX": 52.2,
+      "maxY": 215.3,
+      "maxX": 64.6,
+      "page": 7
+    }],
+    "text": "No"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 192.4,
+        "minX": 56.2,
+        "maxY": 199.9,
+        "maxX": 121.9,
+        "page": 7
+      },
+      {
+        "minY": 176.6,
+        "minX": 53.9,
+        "maxY": 184.2,
+        "maxX": 119.6,
+        "page": 7
+      },
+      {
+        "minY": 149.9,
+        "minX": 51.7,
+        "maxY": 157.5,
+        "maxX": 120.1,
+        "page": 7
+      }
+    ],
+    "text": "1 M/64 11 M/1 210 F/51"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 484.1,
+      "minX": 166.1,
+      "maxY": 505.9,
+      "maxX": 805.9,
+      "page": 7
+    }],
+    "text": "Table 3. Clinical and molecular data of patients with mutations in GBA1 gene. Normal glucocerebrosidase values assayed in whole blood ≥ 2.5 nmol/h/mL; normal acid sphingomyelinase values assayed in whole blood ≥ 1.7 nmol/h/mL; normal Lyso-Gb1 values ≤ 6.8 ng/mL; -- data not available; + present sign; - absent sign."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 452.2,
+      "minX": 147.6,
+      "maxY": 471.7,
+      "maxX": 180.5,
+      "page": 7
+    }],
+    "text": "ASM Activity"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 452.2,
+      "minX": 203.3,
+      "maxY": 471.7,
+      "maxX": 236.1,
+      "page": 7
+    }],
+    "text": "GCase Activity"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 438.6,
+        "minX": 149.9,
+        "maxY": 445.3,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 422.9,
+        "minX": 149.9,
+        "maxY": 429.5,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 407.1,
+        "minX": 149.9,
+        "maxY": 413.8,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 391.3,
+        "minX": 149.9,
+        "maxY": 398,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 375.6,
+        "minX": 149.9,
+        "maxY": 382.3,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 359.8,
+        "minX": 149.9,
+        "maxY": 366.5,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 344,
+        "minX": 149.9,
+        "maxY": 350.7,
+        "maxX": 225.5,
+        "page": 7
+      },
+      {
+        "minY": 311.8,
+        "minX": 149.9,
+        "maxY": 318.5,
+        "maxX": 225.5,
+        "page": 7
+      }
+    ],
+    "text": "normal 0.4 normal 0.8 normal 0.3 normal 0.5 normal 1.7 normal 1.5 normal 1.0 normal 1.0"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.4,
+      "minX": 255.9,
+      "maxY": 471.7,
+      "maxX": 355.9,
+      "page": 7
+    }],
+    "text": "Lyso-Gb1 MuGtBatAio1ns"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 465.4,
+      "minX": 378.4,
+      "maxY": 472,
+      "maxX": 413.3,
+      "page": 7
+    }],
+    "text": "Gaucher"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.4,
+      "minX": 379.8,
+      "maxY": 460.9,
+      "maxX": 411.7,
+      "page": 7
+    }],
+    "text": "Disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 452.2,
+      "minX": 630,
+      "maxY": 472,
+      "maxX": 671.3,
+      "page": 7
+    }],
+    "text": "Skeletal Pathology"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.4,
+      "minX": 687.3,
+      "maxY": 472,
+      "maxX": 739.6,
+      "page": 7
+    }],
+    "text": "Pulmonary Involvement"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 452.2,
+      "minX": 764.4,
+      "maxY": 472,
+      "maxX": 788.3,
+      "page": 7
+    }],
+    "text": "Other Signs"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 436.3,
+        "minX": 272.5,
+        "maxY": 445.3,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 420.5,
+        "minX": 272.5,
+        "maxY": 429.5,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 404.7,
+        "minX": 265.4,
+        "maxY": 413.8,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 389,
+        "minX": 265.4,
+        "maxY": 398,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 373.2,
+        "minX": 265.4,
+        "maxY": 382.3,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 357.5,
+        "minX": 267.7,
+        "maxY": 366.5,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 341.7,
+        "minX": 267.7,
+        "maxY": 350.7,
+        "maxX": 716.4,
+        "page": 7
+      },
+      {
+        "minY": 309.5,
+        "minX": 265.4,
+        "maxY": 318.5,
+        "maxX": 714.9,
+        "page": 7
+      },
+      {
+        "minY": 317.3,
+        "minX": 752.9,
+        "maxY": 441.4,
+        "maxX": 799.6,
+        "page": 7
+      },
+      {
+        "minY": 293.1,
+        "minX": 753.1,
+        "maxY": 313.1,
+        "maxX": 799.5,
+        "page": 7
+      }
+    ],
+    "text": "-- G119R/N370S Type I + + - - - -- N370S/L444P Type III - + - - - 346.0 R131C/N370S Type I + + - - - 643.0 R131C/N370S Type I + + + - - 332.0 N370S/L444P Type I + + -- - - 14.6 R131C/L444P Type I + + - - - 82.0 N370S/N370S Type I + + -- -- -218.0 Q286R/N370S Type I + + + + - - - - - - - -Growth disturbance and leukopenia."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 238.7,
+      "minX": 165.2,
+      "maxY": 273.4,
+      "maxX": 807,
+      "page": 7
+    }],
+    "text": "Table 4. Clinical and molecular data of patients with mutations in SMPD1 gene. Normal acid sphingomyelinase values assayed in whole blood ≥ 1.7 nmol/h/mL; normal glucocerebrosidase values assayed in whole blood ≥ 2.5 nmol/h/mL; normal Lyso-SM-509 values ≤ 0.9 ng/mL. Normal Lyso-SM values ≤ 46.3 ng/mL; -- data not available; + present sign; - absent sign."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.8,
+      "minX": 151.2,
+      "maxY": 226.4,
+      "maxX": 184.1,
+      "page": 7
+    }],
+    "text": "GCase Activity"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 192,
+        "minX": 162.3,
+        "maxY": 199.6,
+        "maxX": 173.5,
+        "page": 7
+      },
+      {
+        "minY": 177.5,
+        "minX": 160,
+        "maxY": 183.9,
+        "maxX": 175.7,
+        "page": 7
+      },
+      {
+        "minY": 150.9,
+        "minX": 162.3,
+        "maxY": 157.1,
+        "maxX": 173.5,
+        "page": 7
+      }
+    ],
+    "text": "8,8 16.7 7.2"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.8,
+      "minX": 206.9,
+      "maxY": 226.4,
+      "maxX": 239.7,
+      "page": 7
+    }],
+    "text": "ASM Activity"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 193.2,
+      "minX": 217.9,
+      "maxY": 199.6,
+      "maxX": 229.1,
+      "page": 7
+    }],
+    "text": "0.7"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209,
+      "minX": 261,
+      "maxY": 226.4,
+      "maxX": 356.9,
+      "page": 7
+    }],
+    "text": "Lyso-SM Lys5o0-9SM-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 220,
+      "minX": 385.4,
+      "maxY": 226.4,
+      "maxX": 417.3,
+      "page": 7
+    }],
+    "text": "SMPD1"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209,
+      "minX": 380,
+      "maxY": 215.5,
+      "maxX": 422.3,
+      "page": 7
+    }],
+    "text": "Mutations"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.8,
+      "minX": 633.6,
+      "maxY": 226.6,
+      "maxX": 674.9,
+      "page": 7
+    }],
+    "text": "Skeletal Pathology"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209,
+      "minX": 690.9,
+      "maxY": 226.6,
+      "maxX": 743.2,
+      "page": 7
+    }],
+    "text": "Pulmonary Involvement"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 192.4,
+      "minX": 276.1,
+      "maxY": 199.9,
+      "maxX": 718.5,
+      "page": 7
+    }],
+    "text": "-- 4.7 R600H/R600H + + - - -"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 176.6,
+      "minX": 217.9,
+      "maxY": 184.2,
+      "maxX": 719.8,
+      "page": 7
+    }],
+    "text": "1.2 -- 4.3 W393G/W393G + + + - +"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.8,
+      "minX": 766.2,
+      "maxY": 226.6,
+      "maxX": 790.1,
+      "page": 7
+    }],
+    "text": "Other Signs"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 179.6,
+        "minX": 776.6,
+        "maxY": 196,
+        "maxX": 779.6,
+        "page": 7
+      },
+      {
+        "minY": 161.7,
+        "minX": 758.6,
+        "maxY": 168.1,
+        "maxX": 797.6,
+        "page": 7
+      },
+      {
+        "minY": 139.8,
+        "minX": 758.8,
+        "maxY": 155.2,
+        "maxX": 797.3,
+        "page": 7
+      }
+    ],
+    "text": "- - Recurrent ear infections"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 144.3,
+      "minX": 217.9,
+      "maxY": 162.9,
+      "maxX": 718.5,
+      "page": 7
+    }],
+    "text": "1.0 148.0 4.0 cc..11882299_11883311ddeell/ + + + - - _"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 1002.8,
+      "minX": 44.6,
+      "maxY": 1015.3,
+      "maxX": 53.5,
+      "page": 8
+    }],
+    "text": "a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 864.1,
+      "minX": 44.6,
+      "maxY": 876.6,
+      "maxX": 54.3,
+      "page": 8
+    }],
+    "text": "b"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 586.1,
+      "minX": 44.6,
+      "maxY": 598.6,
+      "maxX": 53.5,
+      "page": 8
+    }],
+    "text": "a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 447.5,
+      "minX": 44.6,
+      "maxY": 460,
+      "maxX": 54.3,
+      "page": 8
+    }],
+    "text": "b"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 851.2,
+      "minX": 426.2,
+      "maxY": 875.2,
+      "maxX": 526.3,
+      "page": 8
+    }],
+    "text": "SMPD1 wt sequence c.1799G>A: p.(R602H)"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 779.1,
+      "minX": 167.8,
+      "maxY": 831.3,
+      "maxX": 560.8,
+      "page": 8
+    }],
+    "text": "Figure 1. Index case mutation c.1799G>A. (a) Portion of the electropherogram of the SMPD1 exon 6 in index case; homozygous c.1799G>A is indicated by the blue line. (b) Portion of sequence of SMPD1 exon 6 in patient aligned with the corresponding sequence of a healthy control (wt). In the sequence and electropherogram, blue is for cytosine, red is for thymine, yellow is for guanine and green is for adenine. 8 of 12"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 728.9,
+      "minX": 166.4,
+      "maxY": 761.3,
+      "maxX": 561,
+      "page": 8
+    }],
+    "text": "Patient 11 was a 1-year-old boy with severe hepatomegaly (3.2 times normal volume) and sPeavtieernets1p1lewnaosmae1g-ayleya[r2-o7]ld,tbhoroymwbitohcysteovpeerenihae,paanteommieag,aalnyd(3p.2ultmimoensanryorimnvaollvvoelmumenet). aOnnd tsheevebraesisspolefncolimniecgaallsyig[2n7s],,bthiorcohmemboiccyaltovpaeluneias,, aannedmriaad,iaonlodgpicuallmpoanraamryeitnervso,lovuemrfiernstt."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 703.3,
+      "minX": 166.4,
+      "maxY": 727.2,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "OhynptohtehbesaissiswofascliGniacuaclhseigrnsd,isbeioascehewmiitchal avnaluineste,racnudrrreandtiorleosgpiicraaltoprayramdiesetearsse, oourr fiacrisdt hspyphiontghoesmisyewliansaGseaudechfiecirednicsyea(AseSwMiDth).aGnliunctoecrecurerbreronstidreasspeireantzoyrymdeisaenaasleysoisr awcaids wspihthinin-"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 664.8,
+      "minX": 166.4,
+      "maxY": 702.1,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "gthoemnyoerlminaalseradnegfiec,iwenhcilye (tAheSMacDid).spGhluincgoocmeryebelrionsaisdeaesenzeynmzyamticeaannaalylyssisisrewsuaslt wwiatshibneltohwe nthoermnaolrmraanlgrea,nwgeh.iSleMtPhDe1acgiednseptihcianngaolmysyiselrinevaesaeleednzhyommaotizcygaonualsycs.i1s1r7e1sTu>lGtwcoasdibneglofwor tph.eWn3o9r3mGamlruatnagtieo.nSM(FiPgDu1reg2e)n;eatciccoarndailnygsitsorethveealilteedrahtoumreo,zthyigsoiusscoc.n1s1i7d1eTre>dGrceosdpoinngsifbolre"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 652,
+      "minX": 166.1,
+      "maxY": 664.4,
+      "maxX": 560.7,
+      "page": 8
+    }],
+    "text": "pfo.Wrc3h9r3oGnmicunteautiroonv(isFcigeruarleA2S);MacDcoirndihnogmtoozthyegoliutesroatrucroem,thpiosuinsdcohnestiedreorzeydgroeuspsomnsuitbalteiofonrs"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 616.7,
+      "minX": 165.9,
+      "maxY": 651.8,
+      "maxX": 561,
+      "page": 8
+    }],
+    "text": "Wc≤≤[h200e9r..9o]9a.nnlWnsigcgoe//nmiamenlLuvsL.ore.osivtniivgsecaestetriadglaLAteySdsMoL-DSyMsion--5Sh0Mo9m,-5wo0z9hy,igwchohuiwschaosrwc4ao.s3m4np.3go/numgn/dLm,hLae,btaeobrvooezvyetghtoehuensnomormrumtaaaltliroraannnsgge[e29oo]ff."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 437.7,
+      "minX": 447.5,
+      "maxY": 461.5,
+      "maxX": 550.2,
+      "page": 8
+    }],
+    "text": "SMPD1 wt sequence c.1171T>G: p.(W393G)"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 397.2,
+      "minX": 166.4,
+      "maxY": 422.4,
+      "maxX": 560.7,
+      "page": 8
+    }],
+    "text": "FiiFnniiggiinunudrdreeeex2x2.c.caIaInsnseded;;eehhxxoocmcmaasosoeezzymymgguouotutuaaststiicoco..1nn111c7c7..1111T11T>77>1G1GTTi>i>ssGGiinn..d(d(aaiic))caaPPtteooedrrdttibibooyynnttohohfefettbbhhlleueueeeelllleeiinccntteerr.o.o((ppbbhh))eePPrroooorrggttriirooaanmnmooooffffssteethhqqeueueSeSnMnMccePePDooDff11SSeeMMxxoPoPnDnD3131"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 385.6,
+        "minX": 166.4,
+        "maxY": 396.7,
+        "maxX": 560.8,
+        "page": 8
+      },
+      {
+        "minY": 362.5,
+        "minX": 166.4,
+        "maxY": 371.1,
+        "maxX": 213.9,
+        "page": 8
+      }
+    ],
+    "text": "eexxoonn33iinnppaattiieennttaalliiggnneeddwwiitthhtthheeccoorrrreessppoonnddiinnggsseeqquueenncceeooffaahheeaalltthhyyccoonnttrrooll((wwtt))..IInntthheesseeqquueennccee faodreandiennei.ne."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 374.1,
+      "minX": 166.4,
+      "maxY": 383.9,
+      "maxX": 560.7,
+      "page": 8
+    }],
+    "text": "aanndd eelleeccttrroopphheerrooggrraamm,, bblluuee iissffoorrccyytotossininee,,rereddisisfofrorthtyhmyminien,ey,eylleollwowis ifsorfogrugaunainneinaendangdregerneeisnfoisr"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 201.3,
+      "minX": 166.1,
+      "maxY": 349.4,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "Patient 210 was a 51-year-old female with anemia, severe hepatosplenomegaly [27], and recurrent ear infections. The main clinical suspicion of Gaucher disease was excluded by glucocerebrosidase enzymatic analysis, which was found within the normal range at 7.2 nmol/h/mL (normal range: ≥2.5 nmol/h/mL). The acid sphingomyelinase enzyme analysis values were very low, at 1.0 nmol/h/mL (normal range: ≥1.7 nmol/h/mL), which led us to carry out a genetic study of SMPD1, and homozygous deletion c.1829_1831del (p.Arg610del) (Figure 3) was detected. This mutation induces the elimination of one arginine amino acid in the protein, with a consequent change in the reading order. The mutation is considered responsible for chronic neurovisceral ASMD in homozygous or compound heterozygous mutations [30]. We also investigated Lyso-SM-509, which was 4.0 ng/mL, above the normal range of ≤0.9 ng/mL, and Lyso-SM, which was 148 ng/mL (normal range: ≤46.3 ng/mL)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 738,
+      "minX": 45.6,
+      "maxY": 750.2,
+      "maxX": 54.3,
+      "page": 9
+    }],
+    "text": "a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 777.4,
+      "minX": 165,
+      "maxY": 922.2,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Patient 210 was a 51-year-old female with anemia, severe hepatosplenomegaly [27], and recurrent ear infections. The main clinical suspicion of Gaucher disease was excluded by glucocerebrosidase enzymatic analysis, which was found within the normal range at 7.2 nmol/h/mL (normal range: ≥2.5 nmol/h/mL). The acid sphingomyelinase enzyme analysis values were very low, at 1.0 nmol/h/mL (normal range: ≥1.7 nmol/h/mL), which led us to carry out a genetic study of SMPD1, and homozygous deletion c.1829_1831del (p.Arg610del) (Figure 3) was detected. This mutation induces the elimination of one arginine amino acid in the protein, with a consequent change in the reading order. The mutation is considered responsible for chronic neurovisceral ASMD in homozygous or compound heterozygous mutations [30]. We also investigated Lyso-SM-509, which was 4.0 ng/mL, above the normal range of ≤0.9 ng/mL, and Lyso-SM, which was 148 ng/mL (normal range: ≤46.3 ng/mL). 9 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 527,
+      "minX": 165,
+      "maxY": 548.9,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "sSeMquPeDn1ceexoofnSM3PinDp1aetxieonnt 3aliingnpeadtiewnitthaltighneecdorwreitshpothnedcinogrrseesqpuoenndcinegofseaqhueeanlctheyofcoanhteroallt(hwytc).oDntarsohles (awret)m.DissaisnhgesnuacrleeomtidisessinpgresneunctleinotSidMePsDp1rewsetnsteqiunenScMe.PIDn1thwesteqseuqeunecnecaen.dIneletchteropsehqeuroengcraema,nbdlue"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 496.3,
+      "minX": 166.4,
+      "maxY": 503.5,
+      "maxX": 227.3,
+      "page": 9
+    }],
+    "text": "4. Discussion"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 478.1,
+      "minX": 165,
+      "maxY": 488.2,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "4. DisGcuausscihoenr disease is a rare enzymopathy with an incidence of 1/40,000 to 1/60,000 in the"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 452.8,
+      "minX": 165,
+      "maxY": 475.6,
+      "maxX": 560.5,
+      "page": 9
+    }],
+    "text": "geneGraalupcohpeurldatiisoena,sbeuist iat craanrereeanczhy1m/o8p0a0tbhiyrtwhsitihn tahneiAncsihdkeenncaezioJfe1w/4is0h,0p0o0ptoul1a/t6io0n,00[301i,n32]; tohne tgheeneortahleprohpaunlda,tiAonS,MbuDt hitacsaannreeasctihm1a/t8e0d0 ibnicrtidhsenincethoef A~1sh:k1e0n0a,0z0i0Jetwoidshatepo[3p3u]l.atTiohnese"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 440.2,
+      "minX": 165,
+      "maxY": 450.5,
+      "maxX": 560.9,
+      "page": 9
+    }],
+    "text": "[t3w1o,32p]a;tohnoltohgeieosthhearvheasnedve,rAaSlMsimDilhaarscalinniecsatlimfeaatteudreisnscuidcehnacse hoefp~a1t:o1s0p0l,e0n0o0mtoegdaaltye, t[h33ro].m-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 427.7,
+      "minX": 165,
+      "maxY": 437.9,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Tbhoecsyetotwpeonpiaa,thaonleomgiieas, haanvde speuvlemraolnsaimryilainrvcolilnviecamlefenatt,uwrehsicsuhcihs amsohreepasteorsipoulesnoinmpegaatileyn,ts"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 415.1,
+      "minX": 165,
+      "maxY": 425.4,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "tahfrfloimctebdocwytiothpeAniSaM,Dane[3m4i]a., Tahnedrefpourlem,odnifaferyrenintivaolldveiamgennots,iswshhiochuldisbmeopraertsoefricooumsminon"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 402.5,
+      "minX": 165,
+      "maxY": 412.8,
+      "maxX": 550.1,
+      "page": 9
+    }],
+    "text": "pclaitnieicnatlsparfflacitcitceedinwailtlhpAatSieMnDts w[3i4th]. tThheeseresfiogrnes, adniffdesryenmtipatlodmias.gnosis should be part of"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 390,
+      "minX": 165,
+      "maxY": 400.3,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "commTohnecilnincilcuasliopnracotficGeDin ainll dpaiftfieernetnstwiailthdtihagesneossiigsnhsaasnbdeseynmepxttoemnss.ively implemented"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 364.8,
+      "minX": 165,
+      "maxY": 387.7,
+      "maxX": 560.9,
+      "page": 9
+    }],
+    "text": "throuTghhe eindculucasitoionnopfroGgDraimnsd,idffieargennotisatlicdaialggonroisthismhsa,sanbdeemnaenxytenstsuivdeileys itmhaptlehmaveneteevdaltuhartoeudgthheepdruecvaatlieonnceporfogGrDamins,hidgiha-grnisokstpicopaullgaotrioitnhsmins, daifnfedremntarneygiosntusd[1ie6s,35th\u2013a3t9].hTahveese"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 314.6,
+      "minX": 165,
+      "maxY": 362.6,
+      "maxX": 559.4,
+      "page": 9
+    }],
+    "text": "epvraolguraatmeds,thine apdredviatiloenncteootfhGeDdeivnehloigphm-reinskt opfosppuelacitfiiocnasnind dseiffnesriteinvtereeagsiyon-tso-[u16s,e36to\u2013o39ls].of Tghreeaset spuropgproarmtsto,inclaindidciitainosn ftoorththeedeavnealloypsmiseonftgolfuscpoecceirfiecbarnodsidseansseitaivcteiveaitsyy-otno-uDsBeSt,oholasve ocfognrteriabtustuepdptoorttthoecclionnicsiiadnesrafotirotnheofanGaalyuscihseorf dgliusecaosceeraesbraomsiodnagsetahcetivpiotyssoibnleDdBiSa,ghnaovsetic choynptroitbhuetseeds atondthteo aconnisnicdreeraasteioinn toefstGinagucohfesrusdpiseecatesed acassaems.ong the possible diagnostic"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 302.1,
+      "minX": 165,
+      "maxY": 312.4,
+      "maxX": 560.9,
+      "page": 9
+    }],
+    "text": "hypotUhnesfoesrtaunndatteolya,nininAcrceiadseSpinhtiensgtoinmgyoeflsinuasspeecDteedficciaesnecsy., the problems leading to diag-"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 276.9,
+      "minX": 165,
+      "maxY": 299.9,
+      "maxX": 560.5,
+      "page": 9
+    }],
+    "text": "nostiUcndfeolratyunaareteslyti,ll ionbsAercvidedStpohdianyg.oAmmyeolningatshee Dcaeufisceisenocfyt,hitsh,etheproovbelerlmaps inleathdeincglintiocal dpiiacgtunroestwicitdheolatyhearredisstoilrldoebrssesruvcehd atsodGaayu.cAhmerodnigsetahsee cmauasyebseoifntchliusd,ethde. Ionvethrleaplasint ytehaers,"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 264.4,
+      "minX": 165,
+      "maxY": 274.8,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "csleinviecraallpailcgtuorreithwmitsh hoathveerbdeiesonrdpererssesnutcehdatsoGhaeulpchtehredsicsieeansteifimcacyobmeminucnluitdyedin. Idniathgenolassitng"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 251.8,
+      "minX": 165,
+      "maxY": 262.2,
+      "maxX": 559.5,
+      "page": 9
+    }],
+    "text": "yGeDarsa,nsdevAeSrMalDalignosriuthbjmecstshparveesebneteinngpwreitshenstpeldentoomheeglaplythoer hsceipeanttoifimcegcoamlymanudnitfyurtinher"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 239.6,
+      "minX": 166.4,
+      "maxY": 249.6,
+      "maxX": 344.4,
+      "page": 9
+    }],
+    "text": "differentiating signs or symptoms [9,14]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 76.4,
+      "minX": 166.1,
+      "maxY": 237.1,
+      "maxX": 561,
+      "page": 9
+    }],
+    "text": "Moreover, a recent study which collected data from 61 countries between 2017 and 2022 on samples analyzed for glucocerebrosidase and acid sphingomyelinase enzyme activities revealed that one in four cases suspected of Gaucher disease was a missed diagnosis of ASMD [40]. In our study, we analyzed both pathologies in 627 patients, with a diagnostic hypothesis of GD advanced by hematologists, internal medicine physicians, and pediatricians. In 8 of the 627 patients, glucocerebrosidase activity was reduced and one homozygous causative mutation or two biallelic causative mutations confirmed the initial clinical suspicion of Gaucher disease (Tables 2 and 3). In 3 of the 627 patients with an initial suspicion of GD, glucocerebrosidase activity was normal; nevertheless, acid sphingomyelinase activity was decreased (Table 4). In each of these patients, SMPD1 homozygous mutations were found. Two patients had cDNA point mutations that caused amino acid changes, p.R602H and p.W393G, both responsible for Niemann Pick A/B [28,29]. The third patient had one deletion of three nucleotides (GCC) in position c.1829_1831 of"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487 10 of 12"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 717.1,
+      "minX": 166.1,
+      "maxY": 752.3,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "the cDNA, which causes deletion of the amino acid arginine in position 610 of the protein (p.Arg610del), resulting in the reading code changing [30]. Lyso SM-509 was increased in all three patients, which helped us to confirm the Niemann Pick A/B diagnosis."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 616.7,
+      "minX": 166,
+      "maxY": 714.6,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Our study, performed on patients with signs and symptoms strongly attributable to GD, confirmed the diagnosis of the disease only in 1.3% of patients. Because of the overlap in the clinical picture between Gaucher disease and ASMD, if we had analyzed only glucocerebrosidase activity we would have lost ~1 of every 200 patients afflicted with ASMD. Like all metabolic disorders, its complex diagnosis needs to be informed by medical cases, laboratory tests, and instrumental feedback [41]. For this reason, we believe that it is important to carry out differential clinical and molecular study of the two pathologies to avoid delaying the diagnosis."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 541.4,
+      "minX": 166.4,
+      "maxY": 614.2,
+      "maxX": 559.5,
+      "page": 10
+    }],
+    "text": "Although some signs and symptoms, such as splenomegaly, hepatomegaly, and bone and blood involvement, are common to the two pathologies, others are less frequent or absent in Gaucher disease, such as pulmonary, hepatic, and cardiac involvement and dyslipidemia [12,34]. Therefore, their presence or absence should ring an alarm bell for clinicians, informing their suspicion of one or the other diagnosis. The combined screening of both enzymes could help clinicians in differential diagnosis."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 503.7,
+      "minX": 166.4,
+      "maxY": 538.9,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Moreover, the development of the first specific therapy represents a step forward in the treatment of this rare disease that is associated with high morbidity and risk of premature death, as were other lysosomal diseases in the past [42\u201344]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 445.2,
+      "minX": 166,
+      "maxY": 489.4,
+      "maxX": 560.4,
+      "page": 10
+    }],
+    "text": "Author Contributions: Conceptualization, C.Z. and G.D.; data curation, C.Z., M.G., P.C., D.F., M.Z., G.C., D.D., G.G., L.F., C.M., A.S., A.R.S. and N.V.; formal analysis, M.G. and C.Z.; investigation, G.C., D.D., G.G., L.F., C.M., A.S., A.R.S., and N.V.; supervision, G.D. and C.Z.; writing\u2014original draft, C.Z., M.G. and G.D. All authors have read and agreed to the published version of the manuscript."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 427.5,
+      "minX": 166.4,
+      "maxY": 436.5,
+      "maxX": 377.1,
+      "page": 10
+    }],
+    "text": "Funding: This research received no external funding."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 386.4,
+      "minX": 166.4,
+      "maxY": 418.9,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Institutional Review Board Statement: The study was approved by the bioethical committee of Palermo: COMITATO ETICO PALERMO 1_ Azienda Ospedaliera Universitaria Policlinico Paolo Giaccone Palermo on 14 September 2022; N◦ 08/2022."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 356.9,
+      "minX": 166.4,
+      "maxY": 377.7,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Informed Consent Statement: Written informed consent was obtained from all patients involved in the study."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 327.5,
+      "minX": 166.4,
+      "maxY": 348.3,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Data Availability Statement: The original contributions presented in the study are included in the article, further inquiries can be directed to the corresponding author."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 312.2,
+      "minX": 166.4,
+      "maxY": 318.9,
+      "maxX": 421.9,
+      "page": 10
+    }],
+    "text": "Conflicts of Interest: The authors declare no conflicts of interest."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 289.8,
+      "minX": 35.7,
+      "maxY": 297.1,
+      "maxX": 85.5,
+      "page": 10
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 226.9,
+        "minX": 35.7,
+        "maxY": 282,
+        "maxX": 560.8,
+        "page": 10
+      },
+      {
+        "minY": 203.9,
+        "minX": 35.7,
+        "maxY": 224.5,
+        "maxX": 560.8,
+        "page": 10
+      }
+    ],
+    "text": "1. Stirnemann, J.; Belmatoug, N.; Camou, F.; Serratrice, C.; Froissart, R.; Caillaud, C.; Levade, T.; Astudillo, L.; Serratrice, J.; Brassier, A.; et al. A Review of Gaucher Disease Pathophysiology, Clinical Presentation and Treatments. Int. J. Mol. Sci. 2017, 18, 441. [CrossRef] [PubMed] 2. Rosenbloom, B.E.; Weinreb, N.J. Gaucher disease: A comprehensive review. Crit. Rev. Oncog. 2013, 18, 163\u2013175. [CrossRef] 3. Nalysnyk, L.; Rotella, P.; Simeone, J.C.; Hamed, A.; Weinreb, N. Gaucher disease epidemiology and natural history: A comprehensive review of the literature. Hematology 2017, 22, 65\u201373. [CrossRef] [PubMed] 4. Dandana, A.; Ben Khelifa, S.; Chahed, H.; Miled, A.; Ferchichi, S. Gaucher Disease: Clinical, Biological and Therapeutic Aspects."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 180.9,
+      "minX": 35.7,
+      "maxY": 201.5,
+      "maxX": 560.8,
+      "page": 10
+    }],
+    "text": "Pathobiology 2016, 83, 13\u201323. [CrossRef] 5. Hughes, D.; Mikosch, P.; Belmatoug, N.; Carubbi, F.; Cox, T.; Goker-Alpan, O.; Kindmark, A.; Mistry, P.; Poll, L.; Weinreb, N.; et al."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 157.9,
+      "minX": 35.7,
+      "maxY": 178.4,
+      "maxX": 560.8,
+      "page": 10
+    }],
+    "text": "Gaucher Disease in Bone: From Pathophysiology to Practice. J. Bone Miner. Res. 2019, 34, 996\u20131013. [CrossRef] [PubMed] 6. Baris, H.N.; Cohen, I.J.; Mistry, P.K. Gaucher disease: The metabolic defect, pathophysiology, phenotypes and natural history."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 100.3,
+      "minX": 35.7,
+      "maxY": 155.5,
+      "maxX": 560.4,
+      "page": 10
+    }],
+    "text": "Pediatr. Endocrinol. Rev. 2014, 12 (Suppl. 1), 72\u201381. 7. Mignot, C.; Gelot, A.; De Villemeur, T.B. Gaucher disease. Handb. Clin. Neurol. 2013, 113, 1709\u20131715. 8. Sidransky, E. Gaucher disease: Insights from a rare Mendelian disorder. Discov. Med. 2012, 14, 273\u2013281. 9. Hughes, D.A.; Pastores, G.M. GeneReviews; Adam, M.P., Feldman, J., Mirzaa, G.M., Pagon, R.A., Wallace, S.E., Bean, L.J.H., Gripp, K.W., Amemiya, A., Eds.; University of Washington: Seattle, WA, USA, 1993."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 11
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487 11 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 708,
+        "minX": 35.7,
+        "maxY": 751.6,
+        "maxX": 560.4,
+        "page": 11
+      },
+      {
+        "minY": 650.4,
+        "minX": 35.7,
+        "maxY": 705.6,
+        "maxX": 560.4,
+        "page": 11
+      },
+      {
+        "minY": 627.4,
+        "minX": 35.7,
+        "maxY": 648,
+        "maxX": 559.3,
+        "page": 11
+      },
+      {
+        "minY": 466.3,
+        "minX": 35.7,
+        "maxY": 625,
+        "maxX": 560.8,
+        "page": 11
+      },
+      {
+        "minY": 443.3,
+        "minX": 35.7,
+        "maxY": 463.9,
+        "maxX": 560.8,
+        "page": 11
+      }
+    ],
+    "text": "10. Cappellini, M.D.; Motta, I.; Barbato, A.; Giuffrida, G.; Manna, R.; Carubbi, F.; Giona, F. Similarities and differences between Gaucher disease and acid sphingomyelinase deficiency: An algorithm to support the diagnosis. Eur. J. Intern. Med. 2023, 108, 81\u201384. [CrossRef] 11. Brianna, M.Q.; Deschenes Nm Ryckman, A.E.; Walia, J.S. A Comprehensive Review: Sphingolipid Metabolism and Implications of Disruption in Sphingolipid Homeostasis. Int. J. Mol. Sci. 2021, 22, 5793. 12. Wasserstein, M.; Dionisi-Vici, C.; Giugliani, R.; Hwu, W.L.; Lidove, O.; Lukacs, Z.; Mengel, E.; Mistry, P.K.; Schuchman, E.H.; McGovern, M. Recommendations for clinical monitoring of patients with acid sphingomyelinase deficiency (ASMD). Mol. Genet. Metab. 2019, 126, 98\u2013105. [CrossRef] 13. McGovern, M.M.; Aron, A.; Brodie, S.E.; Desnick, R.J.; Wasserstein, M.P. Natural history of type A Niemann-Pick disease: Possible endpoints for therapeutic trials. Neurology 2006, 66, 228\u2013232. [CrossRef] [PubMed] 14. McGovern, M.M.; Avetisyan, R.; Sanson, B.J.; Lidove, O. Disease manifestations and burden of illness in patients with acid sphin-gomyelinase deficiency (ASMD). Orphanet J. Rare Dis. 2017, 12, 41. [CrossRef] 15. McGovern, M.M.; Dionisi-Vici, C.; Giugliani, R.; Hwu, P.; Lidove, O.; Lukacs, Z.; Mengel, E.; Mistry, P.; Schuchman, E.; McGovern, M. Consensus recommendation on a diagnostic guideline for acid sphingomyelinase deficiency. Genet. Med. 2017, 19, 967\u2013974.e16. [CrossRef] 16. Mistry, P.K.; Cappellini, M.D.; Hayri Ozsan, E.L.; Mach Pascual, S.; Rosenbaum, H.; Solano, M.H.; Spigelman, Z.; Villarrubia, J.; Watman, N.P.; Massenkeil, G. A reappraisal of Gaucher disease-diagnosis and disease management algorithms. Am. J. Hematol. 2011, 86, 110\u2013115. [CrossRef] 17. Deodato, F.; Boenzi, S.; Taurisano, R.; Semeraro, M.; Sacchetti, E.; Carrozzo, R.; Dionisi-Vici, C. The impact of biomarkers analysis in the diagnosis of Niemann-Pick C disease and acid sphingomyelinase deficiency. Clin. Chim. Acta. 2018, 486, 387\u2013394. [CrossRef] [PubMed] 18. Di Rocco, M.; Dionisi Vici, C.; Burlina, A.; Venturelli, F.; Fiumara, A.; Fecarotta, S.; Donati, M.A.; Spada, M.; Concolino, D.; Pession, A. Screening for lysosomal diseases in a selected pediatric population: The case of Gaucher disease and acid sphingomyelinase deficiency. Orphanet J. Rare Dis. 2023, 18, 197. [CrossRef] 19. Chamoles, N.A.; Blanco, M.; Gaggioli, D.; Casentini, C. Gaucher and Niemann\u2013Pick diseases\u2014Enzymatic diagnosis in dried blood spots on filter paper: Retrospective diagnoses in newborn-screening cards. Clin. Chim. Acta 2002, 317, 191\u2013197. [CrossRef] 20. Dardis, A.; Michelakakis, H.; Rozenfeld, P.; Fumic, K.; Wagner, J.; Pavan, E.; Fuller, M.; Revel-Vilk, S.; Hughes, D.; Cox, T.; et al."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 420.3,
+        "minX": 35.7,
+        "maxY": 440.9,
+        "maxX": 559.3,
+        "page": 11
+      },
+      {
+        "minY": 397.3,
+        "minX": 35.7,
+        "maxY": 417.9,
+        "maxX": 559.5,
+        "page": 11
+      },
+      {
+        "minY": 305.2,
+        "minX": 35.7,
+        "maxY": 394.9,
+        "maxX": 560.8,
+        "page": 11
+      },
+      {
+        "minY": 178.7,
+        "minX": 35.7,
+        "maxY": 302.8,
+        "maxX": 560.8,
+        "page": 11
+      },
+      {
+        "minY": 86.7,
+        "minX": 35.7,
+        "maxY": 176.2,
+        "maxX": 560.8,
+        "page": 11
+      },
+      {
+        "minY": 742.5,
+        "minX": 35.7,
+        "maxY": 751.6,
+        "maxX": 560.4,
+        "page": 12
+      }
+    ],
+    "text": "Patient centered guidelines for the laboratory diagnosis of Gaucher disease type 1. Orphanet J. Rare Dis. 2022, 17, 442. [CrossRef] 21. Tang, C.; Jia, X.; Tang, F.; Liu, S.; Jiang, X.; Zhao, X.; Sheng, H.; Peng, M.; Liu, L.; Huang, Y. Detection of glucosylsphingosine in dried blood spots for diagnosis of Gaucher disease by LC-MS/MS. Clin. Biochem. 2021, 87, 79\u201384. [CrossRef] 22. Burlina, A.B.; Polo, G.; Rubert, L.; Gueraldi, D.; Cazzorla, C.; Duro, G.; Salviati, L.; Burlina, A.P. Implementation of Second-Tier Tests in Newborn Screening for Lysosomal Disorders in North Eastern Italy. Int. J. Neonatal Screen. 2019, 5, 24. [CrossRef] 23. Polo, G.; Burlina, A.P.; Ranieri, E.; Colucci, F.; Rubert, L.; Pascarella, A.; Duro, G.; Tummolo, A.; Padoan, A.; Plebani, M.; et al. Plasma and dried blood spot lysosphingolipids for the diagnosis of different sphingolipidoses: A comparative study. Clin. Chem. Lab. Med. 2019, 57, 1863\u20131874. [CrossRef] [PubMed] 24. Burlina, A.B.; Polo, G.; Salviati, L.; Duro, G.; Zizzo, C.; Dardis, A.; Bembi, B.; Cazzorla, C.; Rubert, L.; Zordan, R.; et al. Newborn screening for lysosomal storage disorders by tandem mass spectrometry in North East Italy. J. Inherit. Metab. Dis. 2018, 41, 209\u2013219. [CrossRef] 25. Breilyn, M.S.; Zhang, W.; Yu, C.; Wasserstein, M.P. Plasma lyso-sphingomyelin levels are positively associated with clinical severity in acid sphingomyelinase deficiency. Mol. Genet. Metab. Rep. 2021, 28, 100780. [CrossRef] [PubMed] 26. Kubaski, F.; Burlina, A.; Pereira, D.; Silva, C.; Herbst, Z.M.; Trapp, F.B.; Michelin-Tirelli, K.; Lopes, F.F.; Burin, M.G.; BrusiusFacchin, A.C.; et al. Quantification of lysosphingomyelin and lysosphingomyelin-509 for the screening of acid sphingomyelinase deficiency. Orphanet J. Rare Dis. 2022, 17, 407. [CrossRef] 27. Diaz, G.A.; Jones, S.A.; Scarpa, M.; Mengel, K.E.; Giugliani, R.; Guffon, N.; Batsu, I.; Fraser, P.A.; Li, J.; Zhang, Q.; et al. One-year results of a clinical trial of olipudase alfa enzyme replacement therapy in pediatric patients with acid sphingomyelinase deficiency. Genet. Med. 2022, 24, 2209. [CrossRef] 28. Simonaro, C.M.; Desnick, R.J.; McGovern, M.M.; Wasserstein, M.P.; Schuchman, E.H. The demographics and distribution of type B Niemann-Pick disease: Novel mutations lead to new genotype/phenotype correlations. Am. J. Hum. Genet. 2002, 71, 1413\u20131419. [CrossRef] 29. Ferlinz, K.; Hurwitz, R.; Weiler, M.; Suzuki, K.; Sandhoff, K.; Vanier, M.T. Molecular analysis of the acid sphingomyelinase deficiency in a family with an intermediate form of Niemann-Pick disease. Am. J. Hum. Genet. 1995, 56, 1343\u20131349. 30. Irun, P.; Mallén, M.; Dominguez, C.; Rodriguez-Sureda, V.; Alvarez-Sala, L.A.; Arslan, N.; Bermejo, N.; Guerrero, C.; Perez de Soto, I.; Villalón, L.; et al. Identification of seven novel SMPD1 mutations causing Niemann-Pick disease types A and B. Clin. Genet. 2013, 84, 356\u2013361. [CrossRef] 31. Grabowski, G.A. Phenotype, diagnosis, and treatment of Gaucher's disease. Lancet 2008, 372, 1263\u20131271. [CrossRef] 32. Stirnemann, J.; Vigan, M.; Hamroun, D.; Heraoui, D.; Rossi-Semerano, L.; Berger, M.G.; Rose, C.; Camou, F.; de Roux-Serratrice, C.; Grosbois, B.; et al. The French Gaucher's disease registry: Clinical characteristics, complications and treatment of 562 patients. Orphanet J. Rare Dis. 2012, 7, 77. [CrossRef] 33. Schuchman, E.H. The pathogenesis and treatment of acid sphingomyelinase-deficient Niemann-Pick disease. J. Inherit. Metab."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.4,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 12
+    }],
+    "text": "J. Clin. Med. 2024, 13, 1487 12 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 604.4,
+        "minX": 35.7,
+        "maxY": 740.1,
+        "maxX": 560.8,
+        "page": 12
+      },
+      {
+        "minY": 581.4,
+        "minX": 35.7,
+        "maxY": 602,
+        "maxX": 559.3,
+        "page": 12
+      },
+      {
+        "minY": 523.9,
+        "minX": 35.7,
+        "maxY": 579,
+        "maxX": 560.4,
+        "page": 12
+      },
+      {
+        "minY": 431.8,
+        "minX": 35.7,
+        "maxY": 521.4,
+        "maxX": 560.8,
+        "page": 12
+      },
+      {
+        "minY": 382.7,
+        "minX": 35.4,
+        "maxY": 414.8,
+        "maxX": 559.3,
+        "page": 12
+      }
+    ],
+    "text": "Dis. 2007, 30, 654\u2013663. [CrossRef] 34. Schuchman, E.H.; Desnick, R.J. Types A and B Niemann-Pick disease. Mol. Genet. Metab. 2017, 120, 27\u201333. [CrossRef] 35. Motta, I.; Filocamo, M.; Poggiali, E.; Stroppiano, M.; Dragani, A.; Consonni, D.; Barcellini, W.; Gaidano, G.; Facchini, L.; Specchia, G.; et al. A multicentre observational study for early diagnosis of Gaucher disease in patients with Splenomegaly and/or Thrombocytopenia. Eur. J. Haematol. 2016, 96, 352\u2013359. [CrossRef] 36. Motta, I.; Consonni, D.; Stroppiano, M.; Benedetto, C.; Cassinerio, E.; Tappino, B.; Ranalli, P.; Borin, L.; Facchini, L.; Patriarca, A.; et al. Predicting the probability of Gaucher disease in subjects with splenomegaly and thrombocytopenia. Sci. Rep. 2021, 11, 2594. [CrossRef] 37. Lei, K.; Zhao, Y.; Sun, L.; Liang, H.; Luo, R.; Sun, X.; Tao, Y.; Chen, L.; Zhang, L.; Li, A.; et al. A pilot screening of high-risk Gaucher disease children using dried blood spot methods in Shandong province of China. Orphanet J. Rare Dis. 2018, 13, 48. [CrossRef] 38. Huang, Y.; Jia, X.; Tang, C.; Liu, S.; Sheng, H.; Zhao, X.; Zeng, C.; Liu, L. High risk screening for Gaucher disease in patients with splenomegaly and/or thrombocytopenia in China: 55 cases identified. Clin. Chim. Acta 2020, 506, 22\u201327. [CrossRef] 39. Russell, S.A.; Sholzberg, M.; Mangel, J.; Keeney, M.; Hedley, B.; Bode, M.; Gob, A.; Lam, S.; Phua, C.; Hsia, C.C. Gaucher disease screening at a general adult hematology tertiary care centre: A prospective study. Int. J. Lab. Hematol. 2019, 41, e66\u2013e69. [CrossRef] 40. Petra Oliva, P.; Schwarz, M.; Mechtler, T.P.; Sansen, S.; Keutzer, J.; Prusa, A.R.; Streubel, B.; Kasper, D.C. Importance to include differential diagnostics for acid sphingomyelinase deficiency (ASMD) in patients suspected to have to Gaucher disease. Mol. Genet. Metab. 2023, 139, 107563. [CrossRef] [PubMed] 41. Guerrero, R.B.; Salazar, D.; Tanpaiboon, P. Laboratory diagnostic approaches in metabolic disorders. Ann. Transl. Med. 2018, 6, 470. [CrossRef] 42. Wasserstein, M.P.; Diaz, G.A.; Lachmann, R.H.; Jouvin, M.H.; Nandy, I.; Ji, A.J.; Puga, A.C. Olipudase alfa for treatment of acid sphingomyelinase deficiency (ASMD): Safety and efficacy in adults treated for 30 months. J. Inherit. Metab. Dis. 2018, 41, 829\u2013838. [CrossRef] 43. Wasserstein, M.; Lachmann, R.; Hollak, C.; Arash-Kaps, L.; Barbato, A.; Gallagher, R.C.; Giugliani, R.; Guelbert, N.B.; Ikezoe, T.; Lidove, O.; et al. A randomized, placebo-controlled clinical trial evaluating olipudase alfa enzyme replacement therapy for chronic acid sphingomyelinase deficiency (ASMD) in adults: One-year results. Genet. Med. 2022, 24, 1425\u20131436. [CrossRef] 44. Keam, S.J. Olipudase Alfa: First Approval. Drugs 2022, 82, 941\u2013947. [CrossRef] Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content."
+  }}
+]}

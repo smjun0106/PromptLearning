@@ -1,0 +1,1028 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 632.9,
+      "minX": 51,
+      "maxY": 683.7,
+      "maxX": 481.6,
+      "page": 1
+    }],
+    "text": "Improving Data Collection in Pregnancy Safety Studies: Towards Standardisation of Data Elements in Pregnancy Reports from Public and Private Partners, A Contribution from the ConcePTION Project"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 606.4,
+      "minX": 51,
+      "maxY": 615.1,
+      "maxX": 505.8,
+      "page": 1
+    }],
+    "text": "Guillaume Favre1,2 · Jonathan L. Richardson3,4 · Alan Moore5 · Yvonne Geissbühler5 · Valentine Jehl5 · Alison"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 566.9,
+      "minX": 51,
+      "maxY": 602.6,
+      "maxX": 529.3,
+      "page": 1
+    }],
+    "text": "Oliver3 · Svetlana Shechtman6 · Orna Diav\u2011Citrin6 · Maya Berlin7 · Tal De Haan7 · David Baud2 · Alice Panchaud8,9 · Anil Mor10 · Meritxell Sabidó11 · Sabrina de Souza11 · Christina Chambers12 · Yrea R. J. van Rijt\u2011Weetink13 · Eugène P. van Puijenbroek13 · Laura M. Yates14,15 · François Girardin1 · Michael Stellfeld16 · Ursula Winterfeld1"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 501,
+      "minX": 51,
+      "maxY": 508.2,
+      "maxX": 89.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 211.5,
+      "minX": 51,
+      "maxY": 495.7,
+      "maxX": 544.8,
+      "page": 1
+    }],
+    "text": "Introduction and Objective The ConcePTION project aims to improve the way medication use during pregnancy is studied. This includes exploring the possibility of developing a distributed data processing and analysis infrastructure using a common data model that could form a foundational platform for future surveillance and research. A prerequisite would be that data from various data access providers (DAPs) can be harmonised according to an agreed set of standard rules concerning the structure and content of the data. To do so, a reference framework of core data elements (CDEs) recommended for primary data studies on drug safety during pregnancy was previously developed. The aim of this study was to assess the ability of several public and private DAPs using different primary data sources focusing on multiple sclerosis, as a pilot, to map their respective data variables and definitions with the CDE recommendations framework. Methods Four pregnancy registries (Gilenya, Novartis; Aubagio, Sanofi; the Organization of Teratology Information Specialists [OTIS]; Aubagio, Sanofi; the Dutch Pregnancy Drug Register, Lareb), two enhanced pharmacovigilance programmes (Gilenya PRIM, Novartis; MAPLE-MS, Merck Healthcare KGaA) and four Teratology Information Services (UK TIS, Jerusalem TIS, Zerifin TIS, Swiss TIS) participated in the study. The ConcePTION primary data source CDE includes 51 items covering administrative functions, the description of pregnancy, maternal medical history, maternal illnesses arising in pregnancy, delivery details, and pregnancy and infant outcomes. For each variable in the CDE, the DAPs identified whether their variables were: identical to the one mentioned in the CDE; derived; similar but with a divergent definition; or not available. Results The majority of the DAP data variables were either directly taken (85%, n = 305/357, range 73\u201394% between DAPs) or derived by combining different variables (12%, n = 42/357, range 0\u201324% between DAPs) to conform to the CDE variables and definitions. For very few of the DAP variables, alignment with the CDE items was not possible, either because of divergent definitions (1%, n = 3/357, range 0\u20132% between DAPs) or because the variables were not available (2%, n = 7/357, range 0\u20134% between DAPs). Conclusions Data access providers participating in this study presented a very high proportion of variables matching the CDE items, indicating that alignment of definitions and harmonisation of data analysis by different stakeholders to accelerate and strengthen pregnancy pharmacovigilance safety data analyses could be feasible."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 175.1,
+      "minX": 51,
+      "maxY": 183.8,
+      "maxX": 131.3,
+      "page": 1
+    }],
+    "text": "1 Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 123.1,
+        "minX": 51,
+        "maxY": 157.1,
+        "maxX": 289.1,
+        "page": 1
+      },
+      {
+        "minY": 137.1,
+        "minX": 306.1,
+        "maxY": 183.6,
+        "maxX": 544.3,
+        "page": 1
+      }
+    ],
+    "text": "More than 5 million women become pregnant in the European Union every year and the majority take at least one medication during pregnancy [1]. However, few medications have been adequately monitored for safety and labelled for use in pregnant women and it takes an estimated mean time of 27 years after commercialisation to determine the reproductive risk profile of a medication [2]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.6,
+      "minX": 306.1,
+      "maxY": 133.6,
+      "maxX": 544.3,
+      "page": 1
+    }],
+    "text": "Clinical evidence on the efficacy and safety of medications for the general population is generally provided by randomised clinical trials. As pregnant women are usually not included in clinical trials, these rarely provide information on the benefit/risk of medication use during"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 712.4,
+      "minX": 57.4,
+      "maxY": 721.6,
+      "maxX": 104,
+      "page": 2
+    }],
+    "text": "Key Points"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 651.4,
+      "minX": 57.8,
+      "maxY": 697.9,
+      "maxX": 286.9,
+      "page": 2
+    }],
+    "text": "Use of standardised and pregnancy-specific data elements by different stakeholders enhances the possibilities for comparative assessments of data from studies within the same therapeutic area."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 595.8,
+      "minX": 57.8,
+      "maxY": 642.3,
+      "maxX": 281.8,
+      "page": 2
+    }],
+    "text": "The study revealed a significant alignment between data variables from various Data Access Providers (DAPs) and the Core Data Elements (CDEs) recommended for primary data studies on drug safety during pregnancy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 553.4,
+        "minX": 57.8,
+        "maxY": 586.7,
+        "maxX": 278.6,
+        "page": 2
+      },
+      {
+        "minY": 246.2,
+        "minX": 51,
+        "maxY": 504.6,
+        "maxX": 289.6,
+        "page": 2
+      }
+    ],
+    "text": "The findings suggest that harmonization of data analysis for pregnancy pharmacovigilance, involving diverse stakeholders and data sources, could be feasible. pregnancy [3]. As such, data from post-marketing observational studies are generally required to fill the evidence gap. Primary source data collection methods are commonly used where information about medication exposure and pregnancy outcome is collected directly from pregnant women and/or their healthcare providers. Whilst numerous long-standing datasets from both public and private partners exist, these activities have operated in silos, with considerable heterogeneity in data collection methods. Combining and/or comparing research results on medication safety in pregnancy, whether comparing between studies of the same medication or between medications for the same disease, is also complicated by heterogeneity in the identification and the definitions of key data elements [4]. This heterogeneity impedes the ability to rapidly combine raw data and/or to assimilate the evidence generated from different studies in order to decrease the time taken to provide reliable conclusions about the safety of medication in pregnancy [5]. These challenges have been identified since the 1990s and remain unresolved [6]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 95.6,
+        "minX": 51,
+        "maxY": 242.1,
+        "maxX": 289.6,
+        "page": 2
+      },
+      {
+        "minY": 648.4,
+        "minX": 306.1,
+        "maxY": 732.4,
+        "maxX": 544.3,
+        "page": 2
+      }
+    ],
+    "text": "The ConcePTION project aims to challenge and improve the way drug use during pregnancy is studied. This includes exploring the possibility of developing a distributed data processing and analysis infrastructure using a common data model, which could form a foundational platform for future surveillance and research. A prerequisite would be that data from the various data access providers (DAPs) can be harmonised according to an agreed set of standard rules concerning the structure and content of the data. A reference framework of core data elements (CDEs) recommended for collection of primary data in pregnancy pharmacovigilance or studies investigating foetal safety following maternal medication use during pregnancy was recently developed in the ConcePTION project as a first step in this process [5]. The aim of the CDE framework is to help optimise and standardise data collection procedures in primary source pregnancy pharmacovigilance studies to improve data harmonisation and evidence synthesis capabilities."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 501.5,
+      "maxY": 757.6,
+      "maxX": 544.3,
+      "page": 2
+    }],
+    "text": "G. Favre et al."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 210.9,
+      "minX": 306.1,
+      "maxY": 644.9,
+      "maxX": 544.4,
+      "page": 2
+    }],
+    "text": "Use of standardised data elements, optimised specifically for pregnancy drug safety studies, by different stakeholders would allow for standardisation of data collection in future studies, which may greatly enhance the possibilities for combining crude data, pooling datasets and/or undertaking comparative assessments of data from studies within the same therapeutic area. This is particularly relevant in pregnancy pharmacovigilance where both exposures and the outcomes being studied are often rare. Effective use of a CDE is well-established and integrated in global drug safety and pharmacovigilance systems (FAERS, Eudravigilance, Vigibase), which is based on the electronic transmission of adverse event reports (referred to as individual case safety reports or ICSRs), using International Conference on Harmonisation (ICH) E2B standard as the CDE. E2B(R3) is the current version for electronic transmission of ICSRs [7]. This standard defines and standardises data elements for transmission of ICSRs on adverse events and adverse drug reactions in pre- and post-approval periods and allows for the exchange of ICSRs between various parties among which are marketing authorisation holders, regulatory authorities, pharmacovigilance centres and medical ethics committees. It is however recognised that the data fields used in this system are not specifically designed for pregnancy safety studies and therefore lack some essential variables [5] that are necessary, in particular, to permit a quantitative analysis and estimation of the prevalence of certain foetal outcomes in relation to medication use. Thus, the use of E2B(R3) for pregnancy safety studies calls for additional efforts through enhanced programmes to consider data fit for purpose as pregnancy safety evidence. In order to address this, adoption of the ConcePTION primary data source CDE by existing and new DAPs would be required."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 110.9,
+      "minX": 306.1,
+      "maxY": 207.4,
+      "maxX": 544.4,
+      "page": 2
+    }],
+    "text": "The aim of this study was to assess the ability to align the current data collection variables and definitions used by different public and private DAPs for pregnancy registries or enhanced pregnancy pharmacovigilance systems with the ConcePTION primary data CDE recommendations framework. This analysis was conducted using several different data sources, each focusing on or including medications used in the treatment of multiple sclerosis."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 3
+    }],
+    "text": "Improving Data Collection in Pregnancy Safety Studies: Towards Standardisation of Data Elements 229"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 724.9,
+      "minX": 51,
+      "maxY": 733.5,
+      "maxX": 111,
+      "page": 3
+    }],
+    "text": "2 Methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 697.6,
+      "minX": 51,
+      "maxY": 707.8,
+      "maxX": 131.1,
+      "page": 3
+    }],
+    "text": "2.1 Study Design"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 637.4,
+      "minX": 51,
+      "maxY": 681.9,
+      "maxX": 289.2,
+      "page": 3
+    }],
+    "text": "This methodological study explored the degree to which data collected from various DAPs align with the CDE variables and definitions established in the ConcePTION primary data CDE recommendations framework."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 612.4,
+      "minX": 51,
+      "maxY": 620,
+      "maxX": 125.5,
+      "page": 3
+    }],
+    "text": "2.2 Data Source"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 586.3,
+      "minX": 51,
+      "maxY": 594.6,
+      "maxX": 190.7,
+      "page": 3
+    }],
+    "text": "2.2.1 Data Access Providers (DAPs)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 485.3,
+        "minX": 51,
+        "maxY": 569.4,
+        "maxX": 289.2,
+        "page": 3
+      },
+      {
+        "minY": 85.3,
+        "minX": 51,
+        "maxY": 469.4,
+        "maxX": 289.6,
+        "page": 3
+      }
+    ],
+    "text": "Data access providers were public institutions and pharmaceutical companies collecting various types of data, including clinical data, exposure data, outcome data, and other relevant health information, from pregnant patients and/or healthcare providers regarding disease-modifying therapies for multiple sclerosis during pregnancy, using one of the three following main types of data collection methods: A. Pregnancy exposure registries. These registries collect health information on pregnancy and foetal outcomes following exposure to medicinal products during pregnancy. Pregnancy registries typically involve the use of specifically designed data collection forms by various stakeholders, including healthcare professionals (HCPs) and patients who willingly participate and give formal consent, to gather comprehensive health information on pregnancy and foetal outcomes. There are national and international pregnancy exposure registries that may be initiated by pharmaceutical companies, academic groups, research groups or professional scientific societies like the Organisation of Teratology Information Specialists (OTIS), which specialises in providing evidence-based information on the risks of exposures during pregnancy and breastfeeding. Pregnancy registries may focus on a single drug, a drug class or a disease. B. Enhanced pharmacovigilance programmes. These programmes collect and process pharmacovigilance data via existing variable fields in the safety database, data collected through sets of targeted checklists or questionnaires, and in some programmes, free-text data from the narratives. In addition, a structured follow-up, a rigorous process of data entry, data quality control and a programmed aggregate analysis is performed. Data are collected initially from ICSRs, used for general adverse event reporting, but are then supplemented by targeted checklists or questionnaires with dedicated pregnancy-related fields. Initial reporting can be by the HCP or directly by the patient. The data are entered in the respective pharmaceutical company safety database."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 611.8,
+      "minX": 306.1,
+      "maxY": 733.3,
+      "maxX": 544.4,
+      "page": 3
+    }],
+    "text": "C. Teratology Information Services (TIS) from the European Network of Teratology Information Services (ENTIS). ENTIS is a collaborative network of services offering expertise on possible risks related to exposure to medications, and other environmental exposures, during pregnancy and breastfeeding at an individual level. TIS collect patient data both during initial contact and after a follow-up period covering pregnancy outcome using a similar methodology based on structured telephone interviews and/or mailed questionnaires."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 576.4,
+        "minX": 306.1,
+        "maxY": 595.8,
+        "maxX": 544.1,
+        "page": 3
+      },
+      {
+        "minY": 462.2,
+        "minX": 306.1,
+        "maxY": 558.3,
+        "maxX": 544.3,
+        "page": 3
+      }
+    ],
+    "text": "The exhaustive list of participating DAPs is presented below: A. Pregnancy registries: Gilenya (Novartis), Aubagio (Sanofi), Aubagio (Sanofi, OTIS), The Dutch Pregnancy Drug Register (Lareb) B. Enhanced pharmacovigilance programmes: Gilenya PRIM (Novartis), MAPLE-MS (Merck Healthcare KGaA) C. TIS: members of ENTIS (Swiss TIS (STIS), UK TIS (UKTIS), Zerfin TIS, Jerusalem TIS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 438.9,
+      "minX": 306.1,
+      "maxY": 446,
+      "maxX": 391.9,
+      "page": 3
+    }],
+    "text": "2.2.2 Data Collection"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 324.3,
+      "minX": 306.1,
+      "maxY": 420.8,
+      "maxX": 544.4,
+      "page": 3
+    }],
+    "text": "Between May and November 2022, DAPs were requested to answer a questionnaire concerning their general characteristics and method of data collection including the following items: name, short name, institution/market authorisation holder (MAH), governance, website, initial role, geographical localisation, beginning and end date of data collection, primary reporter, notification, transmission and collection of data, and follow-up approach."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 274.7,
+        "minX": 306.1,
+        "maxY": 320.8,
+        "maxX": 544.4,
+        "page": 3
+      },
+      {
+        "minY": 249.3,
+        "minX": 306.1,
+        "maxY": 270.8,
+        "maxX": 544.2,
+        "page": 3
+      },
+      {
+        "minY": 226.4,
+        "minX": 306.1,
+        "maxY": 245.8,
+        "maxX": 544.3,
+        "page": 3
+      }
+    ],
+    "text": "In a second questionnaire, each DAP was requested to answer the following questions for each CDE item (questionnaire presented in Table 1 of the Electronic Supplementary Material (ESM): - Can this item be taken directly from an existing field in the DAP database? (yes/no) For yes responses, these items were already available in the DAP database and met the definition of the CDE."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 199.3,
+        "minX": 306.1,
+        "maxY": 220.8,
+        "maxX": 544.2,
+        "page": 3
+      },
+      {
+        "minY": 124.7,
+        "minX": 306.1,
+        "maxY": 195.8,
+        "maxX": 544.3,
+        "page": 3
+      }
+    ],
+    "text": "- Can this item be derived by combining data from fields in the DAP database? (yes/no) For yes responses, these items could be derived, using other variables in order to meet the definition of the CDE (e.g. the pre-pregnancy maternal body mass index [BMI] was not directly available in the DAP database, but could be derived using the maternal pre-pregnancy weight and height that were available in the database)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 86.8,
+        "minX": 306.1,
+        "maxY": 120.8,
+        "maxX": 544.4,
+        "page": 3
+      },
+      {
+        "minY": 626.4,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.3,
+        "page": 5
+      }
+    ],
+    "text": "- Does the DAP collect data, which is similar to this item, but the CDE definition is different from that used in the DAP database? (yes/no) For yes responses, these items were considered divergent as they were not directly available and could not be derived, but a similar variable was available (e.g. the pre-pregnancy maternal BMI was not directly available and could not be derived, but the maternal BMI at inclusion/entry to the registry was available). - Is the item missing from the DAP database? (yes/no) For yes responses, these items referred to variables that were not available."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "Improving Data Collection in Pregnancy Safety Studies: Towards Standardisation of Data Elements 231"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 586.8,
+      "minX": 51,
+      "maxY": 620.8,
+      "maxX": 289.1,
+      "page": 5
+    }],
+    "text": "Following the above answers each CDE item was classified into one of the four following categories: (1) directly matched; (2) derived; (3) divergent; or (4) not available."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 512.2,
+      "minX": 51,
+      "maxY": 583.3,
+      "maxX": 289.2,
+      "page": 5
+    }],
+    "text": "It is important to note that the DAPs answered the questionnaire based on their current primary data collection form. This study only focused on the intended data collection step. Data quality (i.e. data accuracy, data completeness) and data processing issues (i.e. data storage, data formatting, other technical issues) were not considered."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 461.8,
+      "minX": 51,
+      "maxY": 508.3,
+      "maxX": 289.3,
+      "page": 5
+    }],
+    "text": "Given the fundamental role of E2B(R3) in the data exchange of global pharmacovigilance data, the degree to which ICH E2B(R3) fields align with the ConcePTION primary data pregnancy exposure CDE was also investigated."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 430.1,
+      "minX": 51,
+      "maxY": 440.3,
+      "maxX": 155.8,
+      "page": 5
+    }],
+    "text": "2.3 Statistical Analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 367.9,
+      "minX": 51,
+      "maxY": 414.4,
+      "maxX": 289.2,
+      "page": 5
+    }],
+    "text": "A descriptive analysis of the CDE variables collected, classified in four categories, was performed for each DAP and overall. Results were presented as absolute numbers (n) and proportions (%)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 326,
+      "minX": 51,
+      "maxY": 334.6,
+      "maxX": 102.3,
+      "page": 5
+    }],
+    "text": "3 Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 223.9,
+      "minX": 51,
+      "maxY": 307.9,
+      "maxX": 289.3,
+      "page": 5
+    }],
+    "text": "Four pregnancy registries (Gilenya Novartis, Aubagio Sanofi/OTIS, Aubagio Sanofi, The Dutch Pregnancy Drug Register Lareb), two enhanced pharmacovigilance programmes (Gilenya PRIM, MAPLE-MS Merck) and one ENTIS consortium (comprising STIS, UKTIS, Zerifin TIS and Jerusalem TIS) participated in the study. The description of all DAPs is presented in Table 1."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.9,
+        "minX": 51,
+        "maxY": 220.4,
+        "maxX": 289.2,
+        "page": 5
+      },
+      {
+        "minY": 549.3,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.7,
+        "page": 5
+      }
+    ],
+    "text": "Data collection by MAHs was initiated as requirements from regulatory authorities, except for the Gilenya PRIM, which was initiated by the sponsor to complement the corresponding Gilenya Pregnancy registry. ENTIS is a non-profit organisation and Lareb is a public institution. The primary role of ENTIS member organisations is to counsel pregnant women and/or HCPs on medication use during pregnancy. Data are collected primarily to provide case-specific risk assessments and advice but are used collectively for surveillance and research purposes. The Dutch Pregnancy Drug Register is based on data from pregnant women with the purpose of pharmacovigilance and research activity. For the private pregnancy registries, case enrolment required that written informed consent was obtained from pregnant women after the woman herself or her HCP spontaneously contacted the registry. MAPLE-MS and Gilenya PRIM included cases from ICSRs reported by pregnant women and HCPs that were recorded in the MAH's safety database. In these systems, data collection is enhanced through a targeted questionnaire directed to primary reporters. For ENTIS, pregnancy and infant follow-up data were collected around the delivery due date and for some TIS until 3 years of age for live-born infants. The other DAPs performed a follow-up until 1 year of life of the infant. For MAPLE-MS, this follow-up was performed only for infants with congenital anomalies."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 511.6,
+      "minX": 306.1,
+      "maxY": 534.2,
+      "maxX": 524.1,
+      "page": 5
+    }],
+    "text": "3.1 Alignment with the CDE: DAP Pregnancy\u2011Specific Data Collection Systems"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 413.9,
+      "minX": 306.1,
+      "maxY": 495.9,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "This study assessed 51 specific items from the CDE framework recommendations (Table 2). The majority of the DAP data variables aligned with the CDE items and definitions; 85% (n = 305/357, range 73\u201394% between DAPs) were directly taken from existing fields and 12% (n = 42/357, range 0\u201324% between DAPs) were derived by combining different variables."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 312.2,
+      "minX": 306.1,
+      "maxY": 408.3,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "For very few of the DAP variables, alignment with the CDE items was not possible, either because the definitions were different from the CDE definition (1%, n = 3/357, range 0\u20132% between DAPs) or because the variables were not collected by the DAPs (2%, n = 7/357, range 0\u20134% between DAPs). No discrepancies were reported between DAPs, regarding divergent and not available variables (Table S2 of the ESM)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 212.2,
+      "minX": 306.1,
+      "maxY": 308.3,
+      "maxX": 544.4,
+      "page": 5
+    }],
+    "text": "Alignment with the CDE items was similar across type of data collection method with variables directly taken or derived for 96% (n = 196/204) of items for the pregnancy registries (Gilenya Novartis, Aubagio Sanofi (OTIS), Aubagio Sanofi, The Dutch Pregnancy Drug Register, Lareb), 99% (n = 101/102) for the enhanced pharmacovigilance programmes (Gilenya PRIM Novartis, MAPLE-MS Merck) and 98% (n = 50/51) for ENTIS."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 208.3,
+        "maxX": 544.4,
+        "page": 5
+      },
+      {
+        "minY": 110.3,
+        "minX": 51,
+        "maxY": 143.9,
+        "maxX": 289.1,
+        "page": 7
+      }
+    ],
+    "text": "Each of the unavailable CDE items was unique to a single DAP; none of them was missing in more than one DAP. The seven not available CDE items were maternal pre-pregnancy BMI, medication route of administration, medication frequency of use, maternal death outcome (as the reporter is the mother herself and this would therefore appear as a case that is lost to follow-up), molar pregnancy or blighted ovum pregnancy outcome, and infant head circumference at birth (Table 3). The DAP variables that were divergent (with a different definition than the CDE items) related primarily to maternal age, which was not always based on maternal date of birth, but rather mother's age at the last menstrual period or maternal age at reporting, and maternal pre-pregnancy BMI (Table 3)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 501.5,
+      "maxY": 757.6,
+      "maxX": 544.3,
+      "page": 6
+    }],
+    "text": "G. Favre et al."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 123.7,
+      "minX": 306.1,
+      "maxY": 144,
+      "maxX": 516.8,
+      "page": 7
+    }],
+    "text": "3.2 Alignment with the CDE: ICH E2B(R3) Data Structure"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 84.1,
+        "minX": 306.1,
+        "maxY": 105.6,
+        "maxX": 544.4,
+        "page": 7
+      },
+      {
+        "minY": 651.4,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.7,
+        "page": 8
+      }
+    ],
+    "text": "The ICSR ICHE2B(R3) fields lack a greater number of the ConcePTION primary data CDE variables and definitions than the different DAPs participating in this study (details in Tables S3 and S4 of the ESM). Eight key CDE items were not available in E2B(R3), including prospective status, source of directly reported EDD, plurality, pregnancy outcome collection status, date of end of pregnancy, gestational age at end of pregnancy, details of congenital anomalies and infant malformation case classification."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 613.9,
+      "minX": 51,
+      "maxY": 622.4,
+      "maxX": 120.6,
+      "page": 8
+    }],
+    "text": "4 Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 474.3,
+      "minX": 51,
+      "maxY": 595.8,
+      "maxX": 289.3,
+      "page": 8
+    }],
+    "text": "The primary data pregnancy pharmacovigilance CDE items proposed by Richardson et al. were used as a reference for standardising data reporting in pregnancy pharmacovigilance [5]. This study found that for previously collected data by pregnancy-specific data collection systems of both private and public DAPs participating in the study, a very high proportion of variables aligned with the ConcePTION primary data CDE items, with 96% of all variables directly matching existing fields or derived by combining other variables."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 186.8,
+      "minX": 51,
+      "maxY": 470.8,
+      "maxX": 289.3,
+      "page": 8
+    }],
+    "text": "Although the DAPs participating in this study showed excellent alignment in terms of data elements collected, all operate differently. The Dutch Pregnancy Drug Register was the only dataset that was based on direct reporting by pregnant women only, whereas all the other DAP datasets were based on reporting from both HCPs and/or pregnant women. Additionally, the DAPs collect data in different contexts and for different reasons (e.g. legal and regulatory vs clinical), which may also lead to differences in reporting patterns and patient recruitment. These differences in patient recruitment and data collection may influence the results obtained by DAPs and hamper the ability to combine data sources, or to directly compare the risk or safety estimates across different datasets. Furthermore, follow-up procedures differed between DAPs. The DAPs perform a follow-up until 1 year of life, except for ENTIS (where a follow-up even within participating centres ranges from outcome at birth to offspring age of 3 years) and MAPLE-MS (follow-up until 1 year only for infants with congenital anomalies). Again, these differences in follow-up are to be taken into consideration when comparing neonatal and infant outcomes, as several relevant infant outcomes may manifest or only be detected later in life."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 51,
+        "maxY": 183.3,
+        "maxX": 289.2,
+        "page": 8
+      },
+      {
+        "minY": 286.8,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.4,
+        "page": 8
+      }
+    ],
+    "text": "While the unavailable variables identified in the study might not appear be of major interest by non-experts in the field, they are in some contexts important for an accurate analysis of pregnancy and infant safety data and to identify possible confounding by indication for product use. For example, maternal BMI was either not collected or collected at the beginning of pregnancy or at pregnancy registration instead of before pregnancy by ENTIS member organisations. Recording of maternal weight at advanced stages of gestation could result in an incorrect BMI calculation. Collecting accurate information on maternal BMI is important because obesity is associated with a higher risk of various maternal and foetal perinatal complications, and these risks are exacerbated with more severe obesity [8, 9]. Possible associated complications include congenital anomalies, gestational hypertension, pre-eclampsia, gestational diabetes, preterm birth and having a large for gestational age infant [10, 11]. However, the difference between pre-pregnancy BMI and BMI at reporting might be of limited clinical relevance, particularly where pregnancies are reported in early gestation. The DAPs that did not collect information on the route of exposure or frequency of drug use were MAHs single-product registries with a specific route/frequency of administration. Thus, these not available variables should not lead to a loss of relevant information. The infant head circumference not available in the Dutch Pregnancy Drug Register is relevant in clinical practice as an easy screening instrument for paediatricians and has value in teratogen surveillance, [12] but it has been reported to be an inaccurate tool for assessing children's development outcome as up to 85% of children measured with a very small head develop normally [13]. The study found that some pregnancy outcomes such as molar pregnancy and blighted ovum were not separately recorded by the Gilenya registry. Nevertheless, it is probable that many of these pregnancies were recorded as miscarriages, implying that the actual impact of this discrepancy on data quality is likely insignificant. Similarly, maternal death was not collected by the Dutch Pregnancy Drug Register as the primary reporters are mothers themselves, and the data collection design does not allow matching this point to the CDE. It should be technically possible that, where feasible, these limited numbers of not available variables identified in the study could be included in current pharmacovigilance data collection systems to match the CDE."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 501.5,
+      "maxY": 757.6,
+      "maxX": 544.3,
+      "page": 8
+    }],
+    "text": "G. Favre et al."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 283.3,
+        "maxX": 544.8,
+        "page": 8
+      },
+      {
+        "minY": 651.4,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.3,
+        "page": 9
+      }
+    ],
+    "text": "This study highlights the extent to which E2B(R3) fields are deficient in key ConcePTION primary data source CDE variables and definitions in stark comparison to the pregnancy-specific data collection systems operated by DAPs participating in this study. As ICH E2B(R3) is the standardised procedure for the electronic transmission of ICSRs designed for spontaneous adverse event reporting, this may lead to a potential loss of important pregnancy and foetalmaternal information during a data exchange among various parties, including MAHs, regulatory authorities, and primary reporters for pregnancy exposure reports. Although only a limited number of variables are not available, some of these variables are of high clinical relevance (i.e. gestational age at end of pregnancy, details of congenital anomalies). As the data exchange system for ICH-E2B(R3) reporting could represent the basis for a common data model that could be used by stakeholders performing pregnancy safety studies, including the ConcePTION Primary Data CDE pregnancy-specific items in the E2B guideline would be of utmost importance. In recognition of these limitations, enhanced pharmacovigilance programmes use several additional data collection components such as structured checklists and questionnaires, thereby achieving a higher level of alignment with the definition of the CDE."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 544.3,
+      "page": 9
+    }],
+    "text": "Improving Data Collection in Pregnancy Safety Studies: Towards Standardisation of Data Elements 235"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 474.3,
+      "minX": 51,
+      "maxY": 645.8,
+      "maxX": 289.3,
+      "page": 9
+    }],
+    "text": "Our study presents a significant contribution to pharmacovigilance in pregnancy, as it is the first study to explore which variables are collected in different pregnancy pharmacovigilance systems and how they conform to the CDE. This study has the advantage of including both public and private DAPs and providing high-level details on the variables collected. However, this study also has limitations that should be taken into consideration. One of the main limitations is that only DAPs collecting pharmacovigilance data on MS drug exposure during pregnancy were included, which could limit the generalisability of the findings. It is noteworthy that all DAPs involved in this study have extensive experience and expertise in the area of pregnancy pharmacovigilance or data collection, which again could further impact generalisability."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 361.8,
+      "minX": 51,
+      "maxY": 470.8,
+      "maxX": 289.2,
+      "page": 9
+    }],
+    "text": "The study was conducted in the ConcePTION project as a test to see if data could be collected and combined using novel methodological tools developed (CDE). This study covers the first step of the project exploring intended data collection, without evaluating data storage and data analysis, which will be addressed in future publications. Finally, our research focused only on the essential CDE items. It is important to note that the CDE could evolve over time in regard to emerging evidence."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 326.4,
+      "minX": 51,
+      "maxY": 335,
+      "maxX": 127.9,
+      "page": 9
+    }],
+    "text": "5 Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 111.8,
+      "minX": 51,
+      "maxY": 308.3,
+      "maxX": 289.7,
+      "page": 9
+    }],
+    "text": "This study represents a first step in a process of standardising data collection by different stakeholders collecting data as part of collaborative pregnancy safety studies. Data access providers participating in this study presented a very high proportion of variables matching the ConcePTION Primary Data CDE items. The low proportion of divergent items and of items not collected, together with the possibility to adapt variables to match current data standards, gives the prospect that the alignment of definitions and harmonisation of pregnancy pharmacovigilance data by different stakeholders could be feasible. Importantly, this insight challenges perceived barriers and theoretical concerns regarding the scientific validity of combining diverse datasets to improve teratogen detection. Furthermore, this study indicates that previously collected data from different data collection systems could potentially be exploited more effectively."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 725.6,
+      "minX": 306.1,
+      "maxY": 733.5,
+      "maxX": 364.1,
+      "page": 9
+    }],
+    "text": "Declarations"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 724.9,
+      "minX": 51,
+      "maxY": 733.7,
+      "maxX": 109.9,
+      "page": 10
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 430.8,
+      "minX": 54.7,
+      "maxY": 708.6,
+      "maxX": 289.3,
+      "page": 10
+    }],
+    "text": "1. Lupattelli A, Spigset O, Twigg MJ, Zagorodnikova K, Mårdby AC, Moretti ME, et al. Medication use in pregnancy: a crosssectional, multinational web-based study. BMJ Open. 2014;4(2): e004365. https://doi.org/10.1136/bmjopen-2013-004365. 2. Adam MP, Polifka JE, Friedman JM. Evolving knowledge of the teratogenicity of medications in human pregnancy. Am J Med Genet C Semin Med Genet. 2011;157C:175\u201382. https://doi.org/ 10.1002/ajmg.c.30313. 3. Scaffidi J, Mol BW, Keelan JA. The pregnant women as a drug orphan: a global survey of registered clinical trials of pharmacological interventions in pregnancy. BJOG. 2017;124:132\u201340. https://doi.org/10.1111/1471-0528.14151. 4. Daw JR, Hanley GE, Greyson DL, Morgan SG. Prescription drug use during pregnancy in developed countries: a systematic review. Pharmacoepidemiol Drug Saf. 2011;20:895\u2013902. https://doi.org/ 10.1002/pds.2184. 5. Richardson JL, Moore A, Bromley RL, Stellfeld M, Geissbühler Y, Bluett-Duncan M, et al. Core data elements for pregnancy pharmacovigilance studies using primary source data collection methods: recommendations from the IMI ConcePTION Project. Drug Saf. 2023;46(5):479\u201391. https://doi.org/10.1007/ s40264-023-01291-7. 6. Bonati M, Bortolus R, Marchetti F, Romero M, Tognoni G. Drug use in pregnancy: an overview of epidemiological (drug utilization) studies. Eur J Clin Pharmacol. 1990;38:325\u20138. https://doi. org/10.1007/BF00315569. 7. EMA. ICH E2B (R3) Electronic transmission of individual case safety reports (ICSRs): data elements and message specification"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 501.5,
+      "maxY": 757.6,
+      "maxX": 544.3,
+      "page": 10
+    }],
+    "text": "G. Favre et al."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 435.9,
+      "minX": 306.1,
+      "maxY": 733.4,
+      "maxX": 544.5,
+      "page": 10
+    }],
+    "text": "implementation guide, Scientific guideline. European Medicines Agency. 2018. https://www.ema.europa.eu/en/ich-e2b-r3-elect ronic-transmission-individual-case-safety-reports-icsrs-dataelements-message. Accessed 22 Feb 2023. 8. Torloni MR, Betrán AP, Horta BL, Nakamura MU, Atallah AN, Moron AF, et al. Prepregnancy BMI and the risk of gestational diabetes: a systematic review of the literature with meta-analysis. Obes Rev. 2009;10:194\u2013203. https://doi.org/10.1111/j.1467789X.2008.00541.x. 9. Lisonkova S, Muraca GM, Potts J, Liauw J, Chan W-S, Skoll A, et al. Association between prepregnancy body mass index and severe maternal morbidity. JAMA. 2017;318:1777\u201386. https://doi. org/10.1001/jama.2017.16191. 10. Santos S, Voerman E, Amiano P, Barros H, Beilin LJ, Bergström A, et al. Impact of maternal body mass index and gestational weight gain on pregnancy complications: an individual participant data meta-analysis of European, North American and Australian cohorts. BJOG. 2019;126:984\u201395. https://doi.org/10.1111/14710528.15661. 11. Wu L, Li N, Liu Y. Association between maternal factors and risk of congenital heart disease in offspring: a systematic review and meta-analysis. Matern Child Health J. 2023;27:29\u201348. https://doi. org/10.1007/s10995-022-03538-8. 12. Harville EW, Tong VT, Gilboa SM, Moore CA, Cafferata ML, Alger J, et al. Measurement of head circumference: implications for microcephaly surveillance in Zika-affected areas. Trop Med Infect Dis. 2020;6:5. https://doi.org/10.3390/tropicalmed6010005. 13. Wright CM, Emond A. Head growth and neurocognitive outcomes. Pediatrics. 2015;135:e1393\u20138. https://doi.org/10.1542/ peds.2014-3172."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 388,
+      "minX": 51,
+      "maxY": 396.8,
+      "maxX": 177.4,
+      "page": 10
+    }],
+    "text": "Authors and Affiliations"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 363,
+      "minX": 51,
+      "maxY": 371.7,
+      "maxX": 505.8,
+      "page": 10
+    }],
+    "text": "Guillaume Favre1,2 · Jonathan L. Richardson3,4 · Alan Moore5 · Yvonne Geissbühler5 · Valentine Jehl5 · Alison"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 323.5,
+      "minX": 51,
+      "maxY": 359.2,
+      "maxX": 529.3,
+      "page": 10
+    }],
+    "text": "Oliver3 · Svetlana Shechtman6 · Orna Diav\u2011Citrin6 · Maya Berlin7 · Tal De Haan7 · David Baud2 · Alice Panchaud8,9 · Anil Mor10 · Meritxell Sabidó11 · Sabrina de Souza11 · Christina Chambers12 · Yrea R. J. van Rijt\u2011Weetink13 · Eugène P. van Puijenbroek13 · Laura M. Yates14,15 · François Girardin1 · Michael Stellfeld16 · Ursula Winterfeld1"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 248.6,
+      "minX": 51,
+      "maxY": 277.9,
+      "maxX": 249.4,
+      "page": 10
+    }],
+    "text": "1 Swiss Teratology Information Service and Clinical Pharmacology Service, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 213.6,
+      "minX": 51,
+      "maxY": 242.9,
+      "maxX": 257.5,
+      "page": 10
+    }],
+    "text": "2 Materno-fetal and Obstetrics Research Unit, Department \"Femme-Mère-Enfant\", Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 188.6,
+      "minX": 51,
+      "maxY": 207.8,
+      "maxX": 271.3,
+      "page": 10
+    }],
+    "text": "3 UK Teratology Information Service, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 173.5,
+      "minX": 51,
+      "maxY": 182.8,
+      "maxX": 262.5,
+      "page": 10
+    }],
+    "text": "4 Institute of Health and Society, Newcastle upon Tyne, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 159.2,
+      "minX": 51,
+      "maxY": 167.9,
+      "maxX": 204.6,
+      "page": 10
+    }],
+    "text": "5 Novartis Pharma AG, Basel, Switzerland"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 134.1,
+      "minX": 51,
+      "maxY": 152.8,
+      "maxX": 244.9,
+      "page": 10
+    }],
+    "text": "6 The Israeli Teratology Information Service, Ministry of Health, Jerusalem, Israel"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 88.5,
+      "minX": 51,
+      "maxY": 127.6,
+      "maxX": 262.3,
+      "page": 10
+    }],
+    "text": "7 Clinical Pharmacology and Toxicology Unit, Drug Consultation Center, Shamir Medical Center (Assaf Harofeh), Affiliated with the Sackler Faculty of Medicine, Zerifin TIS, Tel Aviv University, Tel Aviv, Israel"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 289.4,
+      "minX": 306.1,
+      "maxY": 308,
+      "maxX": 506.1,
+      "page": 10
+    }],
+    "text": "8 Institute of Primary Health Care (BIHAM), University of Bern, Bern, Switzerland"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 263.7,
+      "minX": 306.1,
+      "maxY": 282.9,
+      "maxX": 496.5,
+      "page": 10
+    }],
+    "text": "9 Service of Pharmacy, Lausanne University Hospital and University of Lausanne, Lausanne, Switzerland"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 240.4,
+      "minX": 306.1,
+      "maxY": 257.9,
+      "maxX": 515.1,
+      "page": 10
+    }],
+    "text": "10 Epidemiology and Benefit Risk, Sanofi, North York, ON, Canada"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 223.6,
+      "minX": 306.1,
+      "maxY": 232.9,
+      "maxX": 481.1,
+      "page": 10
+    }],
+    "text": "11 Merck Healthcare KGaA, Darmstadt, Germany"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 198.6,
+      "minX": 306.1,
+      "maxY": 217.8,
+      "maxX": 522.5,
+      "page": 10
+    }],
+    "text": "12 Organization of Teratology Information Specialists (OTIS), University of California San Diego, San Diego, CA, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 175.3,
+      "minX": 306.1,
+      "maxY": 192.8,
+      "maxX": 498.9,
+      "page": 10
+    }],
+    "text": "13 Pharmacovigilance Centre Lareb, 's-Hertogenbosch, The Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 148.5,
+      "minX": 306.1,
+      "maxY": 167.8,
+      "maxX": 522.7,
+      "page": 10
+    }],
+    "text": "14 Northern Genetics Service, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 125.2,
+      "minX": 306.1,
+      "maxY": 142.8,
+      "maxX": 507.5,
+      "page": 10
+    }],
+    "text": "15 KRISP, University of KwaZulu-Natal, KwaZulu-Natal, South Africa"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 108.4,
+      "minX": 306.1,
+      "maxY": 117.8,
+      "maxX": 447.9,
+      "page": 10
+    }],
+    "text": "16 Novo Nordisk A/S, Søborg, Denmark"
+  }}
+]}

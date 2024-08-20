@@ -1,0 +1,11 @@
+,prompt,response
+0,"Extract contents related to the topics Mitigation, Alleviation, Reduction, Minimization, Therapy, Intervention, Remediation, Healing, Treatment, Cure, Remedy in Gaucher Disease using the only Input.
+Do not include your assumption.","The input discusses various treatments for Gaucher Disease (GD), focusing on enzyme replacement therapy (ERT), substrate reduction therapy (SRT), and gene therapy. 
+
+ERT is the primary treatment for GD. It involves administering recombinant glucocerebrosidase intravenously. This therapy alleviates non-neuronopathic symptoms effectively. However, it is expensive and does not address neurological symptoms in neuronopathic GD.
+
+SRT is an alternative for those who cannot access or tolerate ERT. It reduces the synthesis of glycosphingolipids. Miglustat and eliglustat are the approved drugs for SRT. Miglustat can cross the blood-brain barrier but has significant side effects and limited efficacy in improving neurological symptoms. Eliglustat has milder side effects but does not cross the blood-brain barrier and is not approved for neuronopathic GD.
+
+Gene therapy is emerging as a potential curative treatment for GD. It involves delivering therapeutic genes directly into cells to correct the genetic defects causing the disease. Viral vectors, particularly adeno-associated viruses (AAVs), are used for this purpose. AAVs can target multiple tissue types and have a good safety profile. They are being explored for their ability to deliver therapeutic genes across the blood-brain barrier, addressing both systemic and neurological manifestations of GD.
+
+Overall, while current therapies like ERT and SRT offer symptom relief, they are costly and have limitations. Gene therapy holds promise for a more comprehensive and potentially curative approach, especially for neuronopathic forms of GD."

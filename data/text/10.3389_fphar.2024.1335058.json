@@ -1,0 +1,1961 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 643.5,
+      "minX": 222.9,
+      "maxY": 708.5,
+      "maxX": 540.1,
+      "page": 1
+    }],
+    "text": "Exploring the efficacy and safety of Ambroxol in Gaucher disease: an overview of clinical studies"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 613.1,
+      "minX": 222.9,
+      "maxY": 622.8,
+      "maxX": 466.6,
+      "page": 1
+    }],
+    "text": "Feda E. Mohamed 1,2 and Fatma Al-Jasmi  1,2,3*"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 569.4,
+      "minX": 222.9,
+      "maxY": 602.5,
+      "maxX": 545.7,
+      "page": 1
+    }],
+    "text": "1Department of Genetics and Genomics, College of Medicine and Health Sciences, United Arab Emirates University, Al Ain, United Arab Emirates, 2ASPIRE Precision Medicine Research Institute Abu Dhabi, United Arab Emirates University, Abu Dhabi, United Arab Emirates, 3Department of Pediatrics, Tawam Hospital, Al Ain, United Arab Emirates"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 215.4,
+      "minX": 222.9,
+      "maxY": 225.1,
+      "maxX": 311.1,
+      "page": 1
+    }],
+    "text": "1 Introduction"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 191.6,
+      "minX": 222.9,
+      "maxY": 200.3,
+      "maxX": 403.6,
+      "page": 1
+    }],
+    "text": "1.1 Overview of Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 222.8,
+        "maxY": 174.2,
+        "maxX": 545.7,
+        "page": 1
+      },
+      {
+        "minY": 667.6,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 290.7,
+        "page": 2
+      }
+    ],
+    "text": "Gaucher disease (GD, OMIM #230800) is the second most prevalent disease among lysosomal storage disorders with a worldwide incidence of about 1:40,000 to 1:60,000 births (Stirnemann et al., 2017). It is a rare autosomal recessive disorder caused by genetic variations in the GBA1 gene leading to the expression of defective glucocerebrosidase (GCase, EC: 4.2.1.25) enzyme mainly characterized by low residual activity in affected tissues (Hruska et al., 2008). To date, there have been more than 690 different variants reported in the GBA1 gene according to the Human Gene Mutation Database of which the majority are from the missense type (Stenson et al., 2020). Abnormal low GCase enzymatic activity consequently accumulates its glucosylceramide (GlcCer) substrate in affected organs like bone marrow, the spleen, and the liver. GlcCer accumulation may also occur in bone and neuronal tissues in different forms of the disease. Therefore, GD is subclinically categorized into types I, II, and III, considering factors such as the nature of the genetic variant, levels of residual activity, neuronal involvement, disease severity, and prognosis. Based on neuronal involvement, type I is named non-neuronopathic GD while types II and III are neuronopathic-GD (nGD) (Sidransky, 2004)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 2
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 664.4,
+        "maxX": 291.4,
+        "page": 2
+      },
+      {
+        "minY": 596.6,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 545.8,
+        "page": 2
+      }
+    ],
+    "text": "GD presents a wide range spectrum of clinical manifestations. GD type I (GD1, non-neuronopathic GD, MIM 230800) is the most common form of the disease and is primarily distinguished by the absence of neurological impairment (Linari and Castaman, 2015). The average age of onset is 10\u201320 years old, although milder manifestations in early childhood might be downplayed or ignored. Clinical manifestations often affect the patient's quality of life but nowadays, when patients are usually treated, GD1associated mortality is rare (Charrow et al., 2000). The primary clinical features of this form include splenomegaly, hepatomegaly, fatigue, gallstone formation, anemia, and thrombocytopenia. Bone involvement, seen in approximately 80% of GD1 cases due to bone marrow infiltration, can present as acute painful bone crises or chronic pain, which is assessed using tools like the Visual Analog Scale (VAS) or Numerical Rating Scale (NRS) (Wenstrup et al., 2002; Chis et al., 2021). The intensity of the pain varies, potentially influencing functional prognosis. Assessing skeletal manifestations in GD involves a combination of clinical evaluations, laboratory tests, and imaging techniques such as Magnetic Resonance Imaging (MRI) and Dual-energy X-ray absorptiometry (DEXA) (Hughes et al., 2019). While type 1 GD is typically considered the non-neuronopathic form of the disease, initial investigations into individual cases of GD1 patients have suggested a significantly higher risk of developing Parkinson's disease (PD) (Biegstraaten et al., 2010). Bultron et al.'s study (2010) involving a cohort of 444 GD1 patients demonstrated that these individuals face an approximately 20-fold increased lifetime risk of developing PD compared to the general population (Bultron et al., 2010). Recent data further underscores a substantial correlation between GBA1 variants (approximately 130 variants) and the onset of PD (Zhang et al., 2018; Riboldi and Di Fonzo, 2019). GD type III (GD3, also known as subacute or juvenile neuronopathic GD, MIM 231000) patients are similarly affected with the visceral symptoms mentioned in GD1 but neurological involvement has been reported before the age of20 years in most ofthe cases (Stirnemann et al., 2017). Patients who are affected by this condition generally survive into their mid to early adulthood although, with treatment for the systemic manifestations some patients are now in their sixties. Systemic features include enlarged liver and spleen, anemia, thrombocytopenia, bone abnormalities, and early-onset horizontal supranuclear gaze palsy (Schwartz et al., 2017). Neurological symptoms range from cognitive impairment, saccadic eye movement abnormalities, myoclonus, seizures, dementia, ocular muscle apraxia, and muscle weakness (Schwartz et al., 2017). The disease prognosis exhibits considerable variation, as certain patients may undergo a relatively stable clinical course, whereas others may encounter more pronounced neurological manifestations (Stone et al., 2023). Clinical studies have shown that there is heterogeneity in the reported neurological impairments among patients with GD3 (Tylki-Szymańska et al., 2010). While some patients may show only mild systemic involvement, with horizontal ophthalmoplegia being their sole neurological symptom, others may experience more severe forms of the disease (Stirnemann et al., 2017). Lung involvement with interstitial lung disease has been seen in a substantial percentage of reported GD3 patients and some present with retroperitoneal lymphadenopathy that often fails to respond to the available medications (Linari and Castaman, 2015). GD patients with saposin C (GCaseactivator protein) deficiency are mostly presented with neurological manifestations comparable to that observed in the GD3 form of the disease (Mohamed et al., 2022). Technically, however, they are no longer classified as having GD as the causative mutations are in PSAP rather than in GBA1 (Mohamed et al., 2022)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 287.2,
+      "minX": 304.7,
+      "maxY": 592.6,
+      "maxX": 546.5,
+      "page": 2
+    }],
+    "text": "GD type II (GD2, known as infantile or acute neuronopathic GD, MIM 230900) is the rarest and most severe form of the disease. It typically onset at 1\u20136 months ofage and has a mean survival age of 11.7 months (Mignot et al., 2006). In addition to visceral symptoms, neurological impairments appear initially as oculomotor abnormalities followed by brainstem involvement which may include psychomotor development delay, seizures, growth retardation, and apnea (Stirnemann et al., 2017). The fetal form of GD2 usually results in intrauterine fetal demise or early neonatal death mainly due to hydrops fetalis (Mignot et al., 2003). Overall, the clinical classification of nGD patients is complex as the symptoms may overlap between GD2 and GD3. In some instances, it is unclear ifall the associated neurological symptoms are directly caused by the enzyme deficiency or if they arise as secondary effects that emerge as a consequence of the primary manifestations of the underlying GD (Sidransky, 2004). For example, neurological symptoms may aries in GD1 patients due to spinal compression fractures although type 1 GD is considered non-neuronopathic (Roshan Lal and Sidransky, 2017). Also, GD3 patients with neurological findings restricted to mild eye movement abnormalities may be misclassified as having GD1 whereas patients with genotypes usually predictive for GD3 may never have CNS manifestations. The challenge lies in distinguishing between symptoms directly attributable to the enzyme deficiency and those arising as a cascade of complications triggered by the fundamental aspects of Gaucher disease."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 249.1,
+      "minX": 304.7,
+      "maxY": 260.1,
+      "maxX": 528.7,
+      "page": 2
+    }],
+    "text": "1.2 Current medicational options for GD"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 233.9,
+        "maxX": 545.8,
+        "page": 2
+      },
+      {
+        "minY": 584,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 290.6,
+        "page": 3
+      }
+    ],
+    "text": "To date, there are two categories of clinically approved medications available for the management of GD symptoms, to improve the patient's quality oflife while also preventing irreversible damage. These categories include Enzyme Replacement Therapy (ERT) and Substrate Reduction Therapy (SRT). ERT involves the administration of recombinant enzymes to patients to replace the deficient enzyme in the body, while SRT focuses on reducing the production of the accumulated substrate that leads to GD symptoms. Despite their reported limitations and side effects, ERT and SRT are effective for ameliorating GD manifestations, and are currently considered standard treatments for this condition. ERT augments low-activity mutant GCase with a recombinant form of the normal human enzyme (Van Rossum and Holsopple, 2016). This allows the body to break down the accumulated glucocerebroside in affected organs and bone marrow. Patients receive ERT via intravenous (IV) infusion about every 2 weeks (1\u20132 h per session) usually taking place at an infusion center or home infusion. Imiglucerase, velaglucerase alfa, and taliglucerase alfa are the current approved medications for the treatment and management of GD within the ERT medication class (Sam et al., 2021; National Gaucher Foundation, 2023). Generally, both pediatric and adult patients with GD1 respond well to the mentioned ERT options, which significantly ameliorates the underlying clinical manifestation (Gupta and Pastores, 2018). Although it is rare, hypersensitivity reactions due to ERT drugs have been reported (Turgay Yagmur et al., 2020). Slowing the infusion rate and using the appropriate premedication will usually solve the issue, alternatively adjusting the dose, or switching to another ERT medication (Revel-Vilk et al., 2018)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 2
+    }],
+    "text": "Frontiers in Pharmacology 02 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 3
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 308.9,
+      "minX": 49.6,
+      "maxY": 580.7,
+      "maxX": 291.4,
+      "page": 3
+    }],
+    "text": "SRT compounds have been introduced in the therapy of multiple lysosomal storage disorders including GD by targeting the glucocerebroside substrate synthesis pathway in the cell (Gupta and Pastores, 2018). These compounds reduce the workload on the mutated GCase by decreasing the amount of glucocerebroside for it to break down, enabling the patient's remaining residual activity to address the accumulated substrates and prevent additional accumulation (Sam et al., 2021). SRT compounds are small molecular weight compounds that are orally administrated. Eliglustat and miglustat are currently the only clinically -approved oral SRT drugs for patients with GD (McCormack and Goa, 2003; National Gaucher Foundation, 2023). SRTs are not approved for use in individuals under 18 or women who are breastfeeding, pregnant, or trying to become pregnant, or in patients with nGD. Miglustat has significant gastrointestinal side effects while eliglustat has the potential for dose-limiting interactions with other drugs that are metabolized by CYP-2D6 or CYP-3A (Bennett and Mohan, 2013). Clinical trials (#NCT02843035) are currently ongoing for Venglustat (Genzyme) to overcome the former SRT compounds' lack of efficacy for nGD patients. Venglustat can penetrate the blood-brain barrier (BBB) and could specifically be useful in GD3 (Genzyme and a Sanofi Company, 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 305.7,
+        "maxX": 291.4,
+        "page": 3
+      },
+      {
+        "minY": 524.1,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 546.5,
+        "page": 3
+      }
+    ],
+    "text": "The use of small chemical chaperones is a promising approach for the treatment of diseases caused by improperly folded proteins like GD in which the majority of the reported disease-causing GBA1 genetic variants are missense mutations (Jung et al., 2016). They are small molecular weight compounds that are designed to selectively bind to a specific target protein, facilitating its folding and stabilization, as well as promoting lysosomal translocation (Maegawa et al., 2009; Parenti et al., 2015). In the case of lysosome-resident enzymes, genetic mutations can lead to misfolding and subsequent degradation in the proteasome, preventing the enzyme from reaching its intended destination in the lysosome. Chaperone therapy can increase enzyme stability, catalytic activity, and lysosomal translocation, thus restoring normal cellular function (Parenti et al., 2015). However, it is important to note that the presence ofthe enzyme is required for chaperones to be effective, as these molecules physically bind to the target protein (Muntau et al., 2014). Overall, the development of chaperones represents a promising avenue for the treatment of a range of diseases caused by improperly folded proteins like GD (Liguori et al., 2020). While chaperoning compounds offer hope for stabilizing misfolded proteins in genetic diseases like Gaucher's, their effectiveness is unfortunately limited by mutation-specificity (Mohamed et al., 2017). The variable efficacy of this compound across different mutations exposes a critical gap in available treatment options for the extensive range of genetic variants in this condition. Therefore, discovering a broader spectrum of chaperone compounds with wider effectiveness across mutations is an urgent priority. Screening chemical libraries consisting of Food and Drug Administration (FDA) and clinically approved compounds has demonstrated practicality and success in identifying small molecules that can function as enzyme enhancement therapy (EET) agents for specific lysosomal enzymes deficient in lysosomal storage disorders. Since ongoing trials for EET or SRT synthesized compounds are still in the early stages of development, and considering the challenges associated with enrolling patients with rare diseases, it is anticipated that market authorization may not be obtained for at least 5\u201310 years from the present day. In such circumstances, patients with significant nGD features involving the CNS may seek alternative solutions, one of which is repurposing already approved drugs."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 177.5,
+      "minX": 304.7,
+      "maxY": 520.9,
+      "maxX": 546.5,
+      "page": 3
+    }],
+    "text": "In this context, Ambroxol (ABX) has been identified as an EET agent for rescuing misfolded GCase enzymes of different genotypes (Maegawa et al., 2009). In the initial in vitro characterization, ABX exhibited a maximal inhibition at a neutral pH (characteristic of the endoplasmic reticulum) and almost undetectable inhibition at the acidic pH found within lysosomes (Maegawa et al., 2009). ABX's pH-dependent interaction involves binding and stabilizing the misfolded GCase enzyme in the ER to prevent its recognition via the ER quality control machinery. This process facilitates the enzyme's trafficking to the lysosomes, where ABX dissociates, allowing the mutated GCase enzyme to remain unbound and effectively engage in the breakdown of accumulated substrates (Liguori et al., 2020). Using patient fibroblast cells, treatment with ABX showed promising enzymatic enhancement in various missense variants through direct binding, folding alteration, and the subsequent trafficking correction of the ER-retained ones (Bendikov-Bar et al., 2011; Bendikov-Bar et al., 2013; Kopytova et al., 2021). Modulation and structural analysis showed that ABX interacts with both the enzyme active and allosteric site residues. Based on this discovery, several clinical and pilot studies have been conducted to evaluate the efficacy and safety of ABX as an alternative and/or adjunct therapy in GD patients of different forms (Istaiti et al., 2021; Zhan et al., 2023). Although ABX is well tolerated in most patients, the findings obtained from these studies showed a wide response variability even in cases with similar genotypes (Table 1). Therefore, this review aims to comprehensively explore and summarize all the available clinical findings regarding the use of ABX as a potential therapeutic agent in GD patients of different forms. The focus will be on evaluating the response variability observed in clinical studies to assess the potential of ABX in improving the management of GD."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 119.8,
+      "minX": 304.7,
+      "maxY": 153.5,
+      "maxX": 530.4,
+      "page": 3
+    }],
+    "text": "p2inhAGamrDmbarocxoololgaiscaal pcohtaepnetriaolne therapy"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70,
+        "minX": 304.7,
+        "maxY": 102.5,
+        "maxX": 545.7,
+        "page": 3
+      },
+      {
+        "minY": 452.4,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 290.7,
+        "page": 6
+      }
+    ],
+    "text": "ABX is an oral mucolytic drug available over the counter since many years as a cough medicine in various countries with the exception of the United States (Cazan et al., 2018). It has been demonstrated to be highly effective as an expectorant, anti-inflammatory, and antioxidant agent due to its extensive history of human use in treating airway mucus hypersecretion diseases such as chronic bronchitis, asthma, and cystic fibrosis (Ollier et al., 2020). Moreover, ABX has been employed as an alternative preventive therapy for hyaline membrane disease in newborns by enhancing the secretion of surfactant in the lungs (Ollier et al., 2020). ABX showed an anesthetic effect in several studies which is mainly due to its inhibitory effects towards Na+ channels, Ca2+ channels, and glutamate receptors (AMPA type) effectively suppressing symptoms of chronic, inflammatory, and neuropathic pain in vivo (Jarvis et al., 2007; Weiser, 2008). Unlike other blockers, ABX CNS-related toxicity and adverse effects were mainly reported with very high doses (Istaiti et al., 2021). ABX is available in multiple prescription formulations. ABX immediaterelease oral form (tablets, soft pastilles, granules, syrup, and oral solution) with a half-life of ≈10 h which is prescribed twice per day (Cazan et al., 2018). The ABX extended-release formulations on the other hand have a longer half-life that maintains the drug levels in the blood over 24 h reducing the frequency ofadministration to once per day. Beyond its chaperone activity, previous data indicate that ABX possesses additional anti-inflammatory and antioxidant properties (Bianchi et al., 1990; Kantar et al., 2020). This suggests broader therapeutic potential for ABX in lysosomal storage diseases (LSDs), including GD, by targeting additional aspects of their pathogenesis."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 3
+    }],
+    "text": "Frontiers in Pharmacology 03 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 6
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70,
+        "minX": 49.6,
+        "maxY": 449.2,
+        "maxX": 291.4,
+        "page": 6
+      },
+      {
+        "minY": 118.4,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 546.5,
+        "page": 6
+      }
+    ],
+    "text": "To establish the potential use of ABX as an EET for GD treatment, several studies have been conducted. Using patients' derived cells, cellular assessment of ABX's chaperoning activity demonstrated positive enhancement in mutated GCase expression, residual activity, and/or glucosylceramide accumulation for different GD disease-causing variants, including N370S, L444P, N227S, F213I, G232W, R159W, and G241R (Maegawa et al., 2009; Bendikov-Bar et al., 2011; Narita et al., 2016; Kim et al., 2020). In GD3 fibroblast cells with L444P (the second most prevalent following F213I) variant, ABX helps to release ER-retained enzymes to lysosomes, resulting in a noticeable increase in residual activity (Ivanova et al., 2021). Notably, the observed impact was not universally present in cells derived from L444P homozygous patients, with some displaying no discernible positive response (Bendikov-Bar et al., 2011). Cells from GD1 patients carrying L444P genotypes in a compound heterozygous state with another GBA1 variant exhibited a more significant overall improvement compared to L444P homozygous forms (Kopytova et al., 2021). This indicates that there is a certain level of response variability towards ABX even with the same genotype. Protein modeling studies have shown that ABX interacts with both active and non-active site residues of the GCase enzyme, which is consistent with its mixed-type response in different cells (Maegawa et al., 2009). ABX's mechanism of restoring GCase levels and function may involve direct binding for enzyme stabilization, upregulation of expression through the activation of the transcription factor Nrf2, changes in lysosomal pH to enhance enzymatic activity, and induction of GCase expression through TFEB-mediated lysosomal regulation (Sardiello, 2016; Kopytova et al., 2021). Additionally, ABX significantly enhances both trafficking and activity of ER-retained GCase in patients' fibroblast cells for various GD variants and disease forms. It is noteworthy that the level of improvement varies among the variants; hence, the chaperoning effect of ABX is variant-dependent (Bendikov-Bar et al., 2013; Luan et al., 2013; Suzuki et al., 2013). Therefore, clearing the ER compartment from the retained mutated GCase through ABX ameliorates the ongoing ER stress resulting from the underlying accumulation. Data from different studies have shown that ABX has the potential to promote proper protein folding, reduce the accumulation of misfolded proteins, and enhance the ER-associated degradation (ERAD) pathway (Remondelli and Renna, 2017). It also plays a significant role in ER stress relieve as evident from Unfolded Protein Response (UPR) markers reduction in the 18-day-old ABX-treated GD-drosophila model (Cabasso et al., 2019). The treatment significantly lowers the dihydroethidium marker of oxidative stress in cultured fibroblast cells carrying various GBA1 mutations (homozygous and heterozygous) (McNeill et al., 2014). In normal mice, ABX showed elevated GCase activity in various tissues, including the spleen, heart, and brain, without causing any severe adverse effects indicating its wide range of tissue bioavailability (Luan et al., 2013). ABX's capability of crossing the BBB was further supported in healthy nonhuman primates (Migdalska-Richards et al., 2017). Besides its chaperoning effect, ABX also affects lysosomal biogenesis, autophagy, secretory pathways, and mitochondrial function (Ambrosi et al., 2015; Fois et al., 2015; Magalhaes et al., 2018; Ivanova et al., 2021; Kopytova et al., 2021). ABX has been discovered to boost lysosomal activity and facilitate the removal of protein aggregates in different neurological-related disorders including GD (Bonam et al., 2019). Autophagy was found to respond differently to ABX treatment as it influences the redirection of the accumulated cellular cargo toward the secretory pathway (exocytosis) by blocking autophagy in primary cortical GBA1−/− mouse neurons (Magalhaes et al., 2018). On the other hand, autophagy was activated in human iPSC differentiated neurons obtained from PD cells carrying GBA1 mutation through elevated LC3-II and p62 expression upon ABX treatment (Yang et al., 2017). ABX was shown to target lysosomal dysfunctions in human GBA1 mutated fibroblasts through Cathepsin D, LIMP2, and Sap C modulation, facilitating GCase folding and proper trafficking (Ambrosi et al., 2015). ABX facilitates lysosomal-autophagosomal fusion, enhancing protein degradation and potentially reducing ER stress and lysosomal dysfunction for improved protein folding and clearance (Magalhaes et al., 2018). Additionally, ABX induces mitochondrial activation, evidenced by an augmentation in both mitochondrial mass and density, along with the activation of mitochondrial membrane potential as demonstrated in GD2-3 fibroblast cells (Ivanova et al., 2021). Mitochondrial content and lysosomal biogenesis are also enhanced by ABX through peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PGC1α) and TFEB, respectively (Magalhaes et al., 2018). The compound has a significant potential in the treatment of PD and neuronopathic GD by reducing both α-synuclein and phosphorylated α-synuclein levels in vivo transgenic murine models (Migdalska-Richards et al., 2016)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 114.4,
+        "maxX": 545.7,
+        "page": 6
+      },
+      {
+        "minY": 476.4,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 291.4,
+        "page": 7
+      }
+    ],
+    "text": "Given ABX's over-the-counter availability and oral formulation, its effectiveness for certain GD manifestations could offer significant benefits, particularly for patients encountering challenges with their current treatment regimens, especially those with neurological symptoms. Although they have a lower prevalence, the nGD subtypes are more prevalent in developing countries of the middle east and Ascia-Pacfic (Al-Jasmi et al., 2013; Roshan Lal and Sidransky, 2017; Fateen and Abdallah, 2019; Castillon et al., 2022). Providing a cheaper therapeutic option like ABX can solve the limited availability of ERT and SRT expensive medications to this group of patients. As the doses needed to maintain the pharmacological chaperone (PC) effect of ABX are significantly higher compared to over-the-counter doses (the highest: 75 mg/ tablet) available in the market, ABX formulations are limited to lower concentrations. This may result in the need for consuming multiple capsules or a large amount of syrup daily, in adults and children, respectively (Istaiti et al., 2021). Further research and clinical studies investigating the chaperoning effect of ABX in treating GD can help encourage pharmaceutical companies to develop appropriate formulations and dosage regimens for the drug in the market. Unfortunately, the exclusive patent (European Patent Office Register Application number: EP3145491) for this drug was granted to a small company that lacks the financial resources to conduct a clinical trial for its potential use as a treatment for GD (European Patent Register, 2023). Furthermore, larger pharmaceutical companies have not expressed interest in this drug, partly due to the abundance of generic versions available for purchase online (Istaiti et al., 2021)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 6
+    }],
+    "text": "Frontiers in Pharmacology 06 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 7
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 442.6,
+      "minX": 49.6,
+      "maxY": 452.4,
+      "maxX": 240.5,
+      "page": 7
+    }],
+    "text": "3 Clinical studies on Ambroxol"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 404.4,
+      "minX": 49.6,
+      "maxY": 427.4,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "3.1 Gaucher disease assessment parameters and monitoring"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 250,
+      "minX": 49.6,
+      "maxY": 389.4,
+      "maxX": 290.7,
+      "page": 7
+    }],
+    "text": "To date, there is no conclusive biomarker that can reliably predict the risk associated with all aspects of GD morbidity. Although several potential biomarkers have been recognized, each comes with inherent limitations, making clinical parameters the primary method for establishing treatment objectives and evaluating outcomes. Clinicians must rely on their expertise to determine the most effective monitoring protocol that is tailored to each case based on the GD form presented and the treatment type. Over the duration of any therapeutic intervention, patients undergo standard clinical monitoring that includes regular clinical status evaluation, radiological evaluations, hemogram, enzymatic activity, and different disease biomarkers (Stirnemann et al., 2017)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 245.9,
+        "maxX": 290.7,
+        "page": 7
+      },
+      {
+        "minY": 548.9,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 545.8,
+        "page": 7
+      }
+    ],
+    "text": "Since ABX binds directly to the mutated GCase enzyme, assessing the enzymatic activity is a key indicator to determine the effectiveness of the ABX treatment and whether the mutated enzyme function is improving during the treatment period (Han et al., 2020). This information can help clinicians adjust the drug dosage based on the rate of increase in residual enzymatic measurement. The test can be performed regularly using a fresh peripheral blood leukocytes sample (Hurvitz et al., 2019; Dardis et al., 2022). As previously mentioned above, ABX additionally modifies the enzyme conformation through an allosteric site interaction which its enhancement effect might not be detected directly through enzymatic activity measurement (Maegawa et al., 2009). Therefore, other biomarkers like substrate accumulation parameters can be measured. While the impairment of GCase enzyme in GD patients results in the accumulation of its GlcCer substrate, several additional lipids like glucosylsphingosine (LysoGb1, derived by ceramidase deacylation of GlcCer) are enriched in GD patient samples (Dekker et al., 2011). The quantification of LysoGb1 through liquid chromatography-mass spectrometry in patient plasma, dried blood, and cerebrospinal fluid (CSF) samples represents the most sensitive approach. This analytical method is highly effective, and accurate that has the potential to provide valuable insights into GD therapeutic monitoring including ABX treatment (Hurvitz et al., 2019). To obtain a comprehensive understanding of a patient's clinical progress, it is essential to consider multiple other biomarkers in the clinical assessment. Studies have shown that the enzyme chitotriosidase (CHT) and the chemokine CCL1811 are produced by Gaucher cells and released into the patient's circulation (Hollak et al., 1994). These two proteins are potential biomarkers because their plasma levels are significantly elevated in GD patients, and change as the disease progresses as well as after a treatment intervention like ABX (Zhan et al., 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 201.4,
+      "minX": 304.7,
+      "maxY": 544.8,
+      "maxX": 546.5,
+      "page": 7
+    }],
+    "text": "Platelet count monitoring is crucial for GD management and treatment evaluation as more than 90% of affected patients suffer from thrombocytopenia due to bone marrow infiltration and splenic sequestration (Hollak et al., 2012). Although it is less common, anemia and hemoglobin level measurement in 50% of the cases can help in assessing the efficacy of the ongoing treatment (Charrow et al., 2000). Abdominal magnetic resonance imaging (MRI) is used to measure the dimensions of the liver and spleen, to evaluate their volume and morphology to assess the progression of hepatosplenomegaly. The decrease in organ volumes as a result of treatments is usually a slow process and should be monitored as a long-term effect (Elstein et al., 2011). Improvement of bone abnormalities is best followed through radiology via bone MRI to check for bone marrow infiltration (Bone Marrow Burden score), bone infarction, avascular necrosis, and osteoarthritis (Vom Dahl et al., 2006). Bone densitometry is measured via X-ray imaging to diagnose and monitor osteopenia/osteoporosis in adults and older children affected with GD. Patients with nGD forms require additional neurological monitoring. The combination of electroencephalogram (EEG) recording and brain MRI is regularly performed to evaluate the improvement or progression speed of nGD-associated CNS symptoms along any therapeutic intervention. The tests mainly check for brainstem-evoked potential, swallowing studies, and neuro-ophthalmologic evaluation should be done at regular intervals (Stone et al., 2023). The frequency of clinical examination is mostly decided by the patient's clinician, but it is advisable to run full laboratory tests and imaging when required every 6 months for pediatric GD patients as a function of disease progression and drug monitoring."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 153.3,
+      "minX": 304.7,
+      "maxY": 176.4,
+      "maxX": 532.9,
+      "page": 7
+    }],
+    "text": "3.2 Ambroxol effectiveness and response variability in Gaucher disease patients"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 138.3,
+        "maxX": 545.7,
+        "page": 7
+      },
+      {
+        "minY": 596.6,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 291.4,
+        "page": 8
+      }
+    ],
+    "text": "Ever since its discovery as a chaperone in 2009, ABX repurposing efficacy in the treatment of GD patients of different forms has been evaluated in a total of 14 clinical trials and studies summarized in Table 1 (Maegawa et al., 2009). The positive responses reported in these published data have encouraged physicians and patients to consider the off-label use of ABX for GD in combination with the currently available ERT/SRT treatments or as an alternative when such solutions fail to induce any clinical improvement. Also, it has been an option when ERT or SRT is not available or affordable for some patients. The majority of the trials conducted on ABX have reported it to be safe and welltolerated in most cases even during long-term treatments. However, understanding the reported adverse effects in detail is key to minimizing their impact and preventing future occurrences. Among the 14 reported trials, 4 extensive primary studies explored ABX's impact on a large cohort of GD patients (Zimran et al., 2013; Istaiti et al., 2021; Istaiti et al., 2023; Zhan et al., 2023). Notably, 3 of these studies took place in Israel, reflecting its higher GD prevalence compared to other populations (Zimran et al., 2013; Istaiti et al., 2021; Istaiti et al., 2023)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 7
+    }],
+    "text": "Frontiers in Pharmacology 07 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 8
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 213.3,
+      "minX": 49.6,
+      "maxY": 592.6,
+      "maxX": 290.7,
+      "page": 8
+    }],
+    "text": "In an observational data involving a cohort of 28 GD patients representing the three clinical forms who completed the proposed treatment, ABX (administrated over 2.6 ± 1.7 years) successfully improved the overall clinical status in most of the enrolled patients including reduced fatigue, more energy, fewer nosebleeds, and disappearance of petechia on the skin (Zhan et al., 2023). Patients with nGD experienced stable or improved neurological manifestations during the treatment. Hematological levels were enhanced within the first year of the treatment at which 76.2% and 23.8% ofthe participants met the hemoglobin and platelet count goals, respectively. Improvements in platelet count were the hardest to achieve mainly due to the associated spleen enlargement. Among the eight patients who were assessed for hepatosplenomegaly, seven patients achieved the spleen volume goal, and six reached the desired liver volume, resulting in an average reduction rate of 29.5% and 21.1% respectively. A decrease in the primary GD biomarkers (LysoGb1 and CHT) levels was observed and consistently maintained throughout the treatment period in 76.9% of the patients with elevated LysoGb1 (26 patients) and 93.8% of those with elevated CHT (16 patients). Eleven patients of the cohort who underwent a prolonged (>4.5 years) ABX treatment exhibited more substantial reductions in CHT (77.8%) and LysoGb1 levels (52.8%). A strong response to ABX treatment was observed in splenectomized patients who showed decreased LysoGb1 and CHT levels ranging from 16.9% to 77.9% and 24.2%\u201355.4%, respectively (Zhan et al., 2023). ABX may require an extended duration to reverse the pathological glycosphingolipids accumulation which was observed in two patients who had a stable clinical course with no significant improvement detected during the early stages of the treatment, but after the continuous administration for 4 years eventually led to a significant reduction in LysoGb1 and CHT levels."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 210.1,
+        "maxX": 291.4,
+        "page": 8
+      },
+      {
+        "minY": 442.7,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 545.8,
+        "page": 8
+      }
+    ],
+    "text": "In parallel to the previously mentioned trial, a prospective open-label clinical trial (investigator-initiated research) was conducted to assess the application ofhigh-dose ABX in treating two subgroups of GD1 patients; those who exhibited no response to ERT and/or ERT, and patients who had never been exposed to any of the available therapies (Istaiti et al., 2023). Out of the forty patients enrolled, sixteen completed the study of which ten were on ERT, one on SRT, and five never had a treatment adjunct to the given ABX protocol. The study proposed the partial potential of high ABX dosage in improving platelet count (5/16), LysoGb1 (3/16), and lumbar spine T-score (measurement of bone densitometry) (6/16) with a success rate ranging from ~20% to 40% encouraging further studies (Istaiti et al., 2023). Notably, four patients experienced a notable decrease in LysoGb1 levels after 1 month of ABX treatment, but unfortunately, these levels subsequently increased over time failing to meet the desired outcome by the end of the study. The same group conducted an earlier observational study from a cohort of41 GD patients (GD1: 11, nGD:27) exposed to off-label ABX (Istaiti et al., 2021). Patient data were collected from 13 different centers to establish an investigator-initiated registry II-Reg, which was registered on ClinicalTrial.gov (ID: NCT04388969) (Istaiti et al., 2021). Although, 12 patients reported mild adverse effects, clinical benefits of the underlying ABX (75\u20131,485 mg/day) treatment were observed in 25 patients, leading to stable or improved neurological status, enhanced physical activity, and reduced fatigue. Among the GD1 group, 6 out of 11 patients showed overall wellbeing improvement, with some exhibiting enhanced LysoGb1 levels (an 85% reduction in one patient) and increased platelet counts. In contrast, patients with nGD demonstrated a more favorable response (20/27) towards ABX treatment with 16 patients experiencing stabilized or improved neurological status, along with improvements in physical activity, LysoGb1 levels, and reduced pain (3 out of 27). The seven patients who did not show improvement mainly discontinued ABX due to adverse effects or medication reimbursement issues, with one patient, unfortunately, passing away due to deteriorating clinical status. In summary, this study underscores the potential of ABX in improving the clinical manifestations of GD patients when used alongside their existing ERT medications."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 225.4,
+      "minX": 304.7,
+      "maxY": 437.2,
+      "maxX": 546.5,
+      "page": 8
+    }],
+    "text": "Shaare Zedek Medical Center's Gaucher Unit tested ABX as a possible EET treatment in the first clinical trial with a cohort of GD1 patients who had never been on ERT (Zimran et al., 2013). They received an off-label ABX dosage of 150 mg/day for 6 months. During the study, one patient demonstrated a significant improvement in hemoglobin levels and platelet counts, with increases of 16.2% and 32.9%, respectively. His spleen and liver volumes decreased by 2.9% and 14.4%. Alongside this patient, two others continued ABX treatment for an additional 6 months. During this period, all three patients experienced ongoing reductions in spleen volume, ranging from 6.4% to 23.4%. Their hemoglobin levels and liver volumes remained stable, while the patient who initially responded well recorded a further increase in platelet counts by 52.6%. The substantial clinical impact on this patient initiated subsequent investigations, with a specific focus on potential adjustments to the ABX dosage, particularly considering the responsive patient's low BMI (17.1) compared to the other participants."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 222,
+        "maxX": 545.8,
+        "page": 8
+      },
+      {
+        "minY": 669.8,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 291.4,
+        "page": 9
+      }
+    ],
+    "text": "Like CNS-related manifestations, improvement of skeletal symptoms and complications is limited with the current approved GD therapies due to the inability of ERT enzymes to reach affected tissues in optimal concentrations (Jiang et al., 2020). A clinical case study of a GD1 patient who underwent a gradual ABX dose escalation revealed a significant therapeutic impact on the bilateral aseptic necrotic lesions linked to his presented phenotype (Jiang et al., 2020). The 5-year-old patient was suffering from severe pain in the bilateral lower extremities, restraining her from walking independently due to the aseptic necrosis detected in the bilateral femoral head of her hip. As neither ERT nor SRT was applicable, she was enrolled in a clinical protocol under compassionate use, receiving an initial 10 mg/kg/day dosage of ABX for 6 months to assess her tolerance, followed by an extended treatment period of 2 years at a dosage of 15 mg/kg/day. Three years post-treatment, the patient maintained a remarkable recovery of the femoral head sphericity and reshaping that is primarily attributed to the prevention of further progression of ischemic lesions in the femoral head's epiphysis, which has contributed to the maintenance of remodeling and nearly normal growth in the femoral heads."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 8
+    }],
+    "text": "Frontiers in Pharmacology 08 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 9
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 464.4,
+      "minX": 49.6,
+      "maxY": 664.4,
+      "maxX": 290.7,
+      "page": 9
+    }],
+    "text": "Clinical data suggests that ABX when added to standard therapy, can effectively manage pain associated with GD. This allows patients to rely less on traditional pain medications and improves their quality of life. ABX has shown analgesic properties by inhibiting calcium channels, which reduces the transmission of sensory signals from primary afferent neurons to the dorsal spinal cord. This mode of action was found to relieve the pain in a 38-year-old GD3 female patient who suffered from chronic soreness around the lumbar part of her spine and pelvis, which worsened during more intensive physical activity (Pawlinski et al., 2020). Despite undergoing various painkiller treatments, the pain persisted until ABX was incorporated into her treatment plan. Initially, she was given a dose of 150 mg/ day, which was gradually increased to 450 mg/day. Over several months, her need for painkillers significantly decreased, and her pain levels became more manageable at which the pain intensity decreased from NRS 7 to below 3. Subsequent attempts to reduce the ABX dosage resulted in the return of the pain."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 461.1,
+        "maxX": 291.4,
+        "page": 9
+      },
+      {
+        "minY": 681.8,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 545.7,
+        "page": 9
+      }
+    ],
+    "text": "The last two studies referenced above emphasize ABX's potential to cross the blood-brain barrier and access hard-to-reach tissues, such as bone. This was initially administered to patients who were unresponsive to ERT/SRT and presented with CNS-related GD symptoms. Administering ABX, particularly at high dosages, to individuals with nGD (GD2 and GD3) has been shown to significantly improve their condition (Narita et al., 2016; Charkhand et al., 2019; Chu et al., 2020; Ciana et al., 2020; Kim et al., 2020; Pawlinski et al., 2020; Ramadža et al., 2021). It exerts a neuroprotective impact by slowing down the progression of the affected tissue in the brain by reducing the build-up of the accumulated substrates which is evident in decreased levels of LysoGb1 biomarker in patients' both plasma and CSF samples. As a result, nGD patients have reported improvements in seizure frequency and duration, motor function, cognitive abilities, and quality of life at various degrees following ABX treatment. Myoclonus in affected patients showed progressive improvements with increasing doses of ABX where they were able to regain their ability to stand steadily, maintain balance, and either walk again or experience improved ambulation (Narita et al., 2016; Charkhand et al., 2019). The most favorable improvements were witnessed in younger patients even with known responsive genotypes like L444P (Ciana et al., 2020). The patient was in his 60s when he started taking ABX and showed no phenotypic enhancement ofany level even with increasing the drug dosage. Early initiation of ABX treatment at a younger age showed more substantial improvements by postponing or averting neurological progression in nGD patients (Ramadža et al., 2021). In Ramadža et al. report, two GD3 siblings were administered a combination of ABX and ERT medication at varying stages of their disease (Ramadža et al., 2021). The older sibling, diagnosed at 4.5 years with severe neurological symptoms, experienced substantial improvement and stability with ABX treatment. In contrast, the younger sibling, who started treatment at just 7 weeks old, exhibited cognitive challenges without the development of other neurological symptoms his brother suffered from. This suggests that there may be a threshold in the progression of GD beyond which ABX therapy might not be effective, particularly in cases of advanced disease stages, therefore, initiating ABX treatment early in the disease course could be critical for its effectiveness."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 631.5,
+      "minX": 304.7,
+      "maxY": 654.5,
+      "maxX": 545.7,
+      "page": 9
+    }],
+    "text": "3.3 The significance of Ambroxol dosage and its role as a supplementary treatment"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 464.5,
+      "minX": 304.7,
+      "maxY": 616.5,
+      "maxX": 545.7,
+      "page": 9
+    }],
+    "text": "A major limitation in these clinical trials is the selection of the proper ABX dosage. The choice of the amount of the drug given to patients might seem somewhat random, and the selected dosage in the reported data may be either too much or too little. The clinical data presented in this review article suggests that ABX has a greater chaperoning effect in GD patients when used at high dosages rather than over-the-counter use. In the first pilot study conducted on GD1 patients, where ERT was not an option, the dosage administered was kept low due to safety concerns. However, it is possible that the dosage was too low as patients with low BMI showed better measurable improvements and the thinnest patient (BMI = 17.1) among the recruited cohort had a robust response in all disease parameters tested (Zimran et al., 2013)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 273.1,
+      "minX": 304.7,
+      "maxY": 461.1,
+      "maxX": 546.5,
+      "page": 9
+    }],
+    "text": "In Istaiti et al. study (2023), most patients who were exposed to lower doses did not show clear benefits except for a few who had low LysoGb1 biomarkers from the start before drug administration (Istaiti et al., 2023). This suggests that the given 600 mg/day dose might be necessary for most affected patients included in the study, even though some studies in the past hinted at the use oflower doses. Unlike data obtained from nGD trials, the authors suggested that higher doses are probably unnecessary in GD1 patients as there is no need to cross BBB (Narita et al., 2016; Istaiti et al., 2021). To reach a responsive high ABX dosage, patients will need to take a lot of capsules daily (8 per day for the 600 mg/day) which is another limiting factor and cause for dropout in some studies. As previously mentioned above, ABX was given as a pain relief medication at 450 mg/day over several months which was effective in reducing the underlying chronic pain but the subsequent attempts to reduce the ABX dosage resulted in the return ofthe pain (Pawlinski et al., 2020)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 269.8,
+        "maxX": 545.8,
+        "page": 9
+      },
+      {
+        "minY": 643.7,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 290.7,
+        "page": 10
+      }
+    ],
+    "text": "ABX has been initially identified to target patients who did not benefit from the current therapeutic protocols or those who suffer from neurological manifestations that do not respond well to such treatments. However, ABX also has been investigated as a potential complementary therapy for GD patients, particularly those with neurological involvement. These patients often receive standard treatments like ERT or SRT alongside ABX, as part of clinical trials or under compassionate use protocols. In a 2016 pilot study, five patients with GD were included, four of whom were diagnosed with an nGD form and received high-dose ABX treatment in combination with ERT. Apart from its tolerability and wide distribution into affected tissues including the brain, the results showed significant response as concluded from the enhanced GCase activity, LysoGb1 levels, and overall physical and neurological wellbeing of the patients (Narita et al., 2016). As indicated in previous studies, a notable reduction in LysoGb1 levels was reported among GD1 patients who received ERT or SRT treatments (Zhan et al., 2023). In patients who completed 209 weeks of Velaglucerase alfa treatment, the median substrate accumulation reduction exhibited an impressive 85.7% reduction. Similarly, for GD1 patients undergoing eliglustat therapy for 8 years, LysoGb1 levels decreased by approximately 60% from baseline after just 1 year followed by a remarkable 92% reduction after 8 years of treatment indicating that better responses in ABX-treated patients are associated with long-term ERT. These findings highlight the potential of ABX to provide supplementary benefits in further improving the overall management of GD."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 9
+    }],
+    "text": "Frontiers in Pharmacology 09 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 10
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 610,
+      "minX": 49.6,
+      "maxY": 618.6,
+      "maxX": 194.2,
+      "page": 10
+    }],
+    "text": "3.4 Preclinical assessment"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 344.8,
+      "minX": 49.6,
+      "maxY": 592.6,
+      "maxX": 290.6,
+      "page": 10
+    }],
+    "text": "Variants such as R392W, F76V, N227S, R87W, M75V, R159W, L188F, L303I, V414L, and R502C have previously been associated with a late-onset and milder GD phenotypes. Patients harboring either two mild variants or one in association with another variant (L444P, RecNcil, R535C, R202X, N227S, N227K, and V230G) linked to more severe phenotype responded well to ABX compared to those patients carrying two severe variants (Zhan et al., 2023). Given that, it has been observed that the response to the ABX chaperoning effect is not only specific to mutations but also varies among patients. Even patients with the same genotype may respond differently to ABX treatment, requiring dosage optimization or displaying varying degrees of phenotypical enhancement. To address this issue, preclinical assessment has been suggested, wherein ABX treatment can be tested and optimized using the patient's cells, such as fibroblast cells and peripheral blood mononuclear cells (PBMC) derived cells, in vitro (Bendikov-Bar et al., 2011; Kopytova et al., 2021). The L444P missense variant variable response to ABX is the best example to support the stated point. The mutation is the second most frequent mutation identified in nGD patients and has been reported in GD1 patients when inherited in a heterozygous state (Ciana et al., 2020)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 49.6,
+        "maxY": 341.6,
+        "maxX": 291.4,
+        "page": 10
+      },
+      {
+        "minY": 404.7,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 545.8,
+        "page": 10
+      }
+    ],
+    "text": "Although the initial in vitro evaluation of ABX's effect on L444P genotype demonstrated no positive enhancement, a significant increase in GCase activity was observed in patient's cells harboring the compound heterozygous genotype of L444P (Maegawa et al., 2009). Despite that, computational and docking studies have demonstrated a strong binding affinity of ABX towards L444P mutated GCase (Thirumal Kumar et al., 2019). In animal studies, oral administration of 4 mM ABX for 12 days showed a significant increase in the GCase activity in different brain tissues of L444P/+ transgenic mice (Migdalska-Richards et al., 2016). On the other hand, the data at the clinical level was highly varied showing contradictory results for this variant. In a 2021 clinical investigation of ABX effect on 41 GD patients carrying different GD variants of which 10 with the homozygous state of L444P and 7 were in a compound heterozygous state with other variants (Istaiti et al., 2021). Among the L444P homozygous patients, ABX was able to enhance the neurological status of two patients and arrest the neurological progression in five other patients without any noticeable improvements. It also managed to improve the overall physical status ofanother two patients and decrease their complaints of underlying pain. Of the seven patients with the compound heterozygous variants with L444P, three showed improvements in their neurological status while two patients did not show any further deterioration. It is worth noting that the patient carrying the null GD variant (L444P/IVS2+1) showed significant neurological enhancement also (Istaiti et al., 2021). In Croatian GD3-affected siblings (L444P/H225Q; D409H), ABX showed rapid improvement in neurological manifestations and later stabilized the older sibling's clinical condition (Ramadža et al., 2021). However, the younger sibling, who started the ABX protocol at 7 weeks of age, did not exhibit any severe neurological symptoms indicating that ABX delayed or even halted the evolution of neurological manifestations regardless of the underlying genotype. Also, both in vitro (using his fibroblast cells) and clinical investigations of ABX therapy in an Italian 60-year-old nGD patient carrying the L444P/ L444P genotype showed no effect (Ciana et al., 2020). The patient was undertaking ERT medication but due to the worsening of the neurological involvement he began on high ABX dosage for 4 months with no success. This is another case that may support the importance of the early administration of ABX as an EET medication in GD especially with patients presented with neurological crises with irreversible consequences. It appears that factors other than the patient's genotype could affect their response to ABX. One such factor is the patient's age, especially if they are experiencing severe neurological or skeletal crises that EET cannot reverse. Additionally, polymorphisms or genetic modifiers may have some influence as well. Since L444P affects the folding and trafficking of the mutated GCase, individual differences in the ER quality control machinery components involved in proteostasis likely play a major role in this process (Bendikov-Bar et al., 2011). Therefore, it is highly recommended to test the response to ABX in vitro before initiating chaperone therapy, even in patients with responsive variants."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 275.3,
+      "minX": 304.7,
+      "maxY": 401.4,
+      "maxX": 545.7,
+      "page": 10
+    }],
+    "text": "Chu et al. clinical report has also demonstrated that the in vitro ABX pre-assessment may not apply to all patients (Chu et al., 2020). Although it was previously reported as an unfavorable variant via in vitro analysis, an nGD infant carrying L444P/RecNcil variant followed a high ABX dosage started at the age of 6 months showed significant clinical enhancements with no further regression. The obtained outcome might be a result of the early initiation of the therapeutic intervention (ERT and ABX) when the patient's condition was less severe compared to progressive cases reported in older patients carrying the same genotype and did not benefit from ABX."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 237,
+      "minX": 304.7,
+      "maxY": 248.1,
+      "maxX": 470.6,
+      "page": 10
+    }],
+    "text": "3.5 Safety and adverse effects"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.9,
+        "minX": 304.7,
+        "maxY": 222,
+        "maxX": 545.8,
+        "page": 10
+      },
+      {
+        "minY": 572.8,
+        "minX": 49.6,
+        "maxY": 760,
+        "maxX": 290.6,
+        "page": 11
+      }
+    ],
+    "text": "ABX treatment has generally been considered safe in most ofthe reported clinical studies, with limited adverse effects or severe cutaneous adverse reactions (SCARs). Most patients tolerate ABX well, and it is often used as an over-the-counter mucolytic agent (Cazan et al., 2018). Adverse effects are typically mild and transient, including issues like gastrointestinal discomfort with symptoms like nausea, vomiting, or stomach upset which mostly tend to resolve on their own or with dose adjustments (Zhou et al., 2022). However, the safety and adverse effects may vary among individuals and require careful monitoring, especially with long-term administration and high dosages (>120 mg/day). ABX dosage has been thoroughly evaluated in preclinical studies involving patients with diverse medical conditions to determine its safety profile. These studies have yielded promising results, highlighting the potential of high-dosage ABX in managing various medical conditions. For example, a study involving pregnant women experiencing premature labor or premature rupture of membranes showed that intravenous administration of 1,000 mg of ABX for 4 hours daily over 3 days significantly reduced the incidence of infant respiratory distress syndrome (IRDS) and perinatal morbidity and mortality, without any adverse effects (Laoag-Fernandez et al., 2000). In two distinct studies, ABX has exhibited its capacity as an antiallergic agent and a local anesthetic, and notably, no toxicity was reported in either case (Fischer et al., 2002; Gibbs, 2009). Similarly, intravenous administration of high-dose ABX at 990 mg/day for five consecutive days after cervical spinal cord injury surgery has been shown to enhance oxygenation and prevent postoperative respiratory complications with limited adverse effects (Li et al., 2012)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 10
+    }],
+    "text": "Frontiers in Pharmacology 10 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 11
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 141.7,
+      "minX": 49.6,
+      "maxY": 568.7,
+      "maxX": 291.4,
+      "page": 11
+    }],
+    "text": "In the context of GD, out of all the ABX-treated patients followed in the clinical trials summarized in Table 1, only two were reported to develop hypersensitivity reactions and discontinued the treatment (Zimran et al., 2013). It is worth noting that these two patients were not eligible for ERT treatment due to similar reactions and the developed hypersensitivity is not only developed due to ABX treatment. In the latest clinical trial involving a high ABX dosage (12.7 ± 3.9 mg/kg/day) administered over a duration spanning from 6 months to 6.5 years to 28 GD patients representing all three forms of GD, only a minor subset ofthree patients encountered mild and temporary adverse events, including nausea, salivation, diarrhea, and rash providing additional evidence of the long-term safety of high ABX dosage (Zhan et al., 2023). Despite its reported excellent safety profile, 13 ABX-treated patients (600 mg/day) dropped out of a clinical study involving 40 candidates due to the development of mild adverse events associated with the treatment (Istaiti et al., 2023). During the treatment, there were some reported side effects such as cough, nausea, abdominal pain, diarrhea, and headache. However, none of these side effects were severe and they were mostly resolved once the treatment was discontinued. One patient had a temporary asymptomatic rise of the liver enzymes, but it rapidly resolved upon the termination ofthe ABX treatment. Additionally, eight cases of hypouricemia were observed, but they were transient and resolved on their own. While twelve patients out of the initial 41 participants encountered similar mild adverse events, only eight dropped out (two due to ABX-unrelated death) from the study which was primarily established to initiate a registry of ABX treatment in GD in 2021 (Istaiti et al., 2021). The other conducted trials did not report any further severe adverse effects with the administered dosages of ABX (Table. 1). However, like any medication, individual responses may vary, and careful monitoring is essential. Further research and long-term studies are needed to comprehensively assess the safety and potential adverse effects of ABX, especially in various clinical contexts and patient populations."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 107.9,
+      "minX": 49.6,
+      "maxY": 117.7,
+      "maxX": 132.3,
+      "page": 11
+    }],
+    "text": "4 Conclusion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.6,
+        "minX": 49.6,
+        "maxY": 90.5,
+        "maxX": 290.5,
+        "page": 11
+      },
+      {
+        "minY": 476.4,
+        "minX": 304.7,
+        "maxY": 760,
+        "maxX": 546.5,
+        "page": 11
+      }
+    ],
+    "text": "An invited commentary article was recently published, in which the authors examined the use ofABX treatment in GD (Weinreb and Goker-Alpan, 2023). They noted that while the treatment may be regarded as ambitious, it is also associated with a sense of ambivalence, owing to the lingering uncertainty surrounding several critical clinical issues. The unresolved nature of these issues makes it difficult to fully endorse the use of ABX in the treatment of GD. Concerns lie around potential safety issues, the lack of official data, and the absence of standardized treatment protocols. Despite its potential therapeutic effect seen in many cases, the lack of ABX pharmacokinetic data to adjust the appropriate responsive dosage limits the ability of clinicians to prescribe GD patient-specific prescription (dose and formula). Beyond the associated GBA1 genotype, patients response to ABX may be influenced by other factors like different genetic modifiers, epigenetics, and drug metabolism (Davidson et al., 2018). In addition, major GD registries (International Collaborative Gaucher Group and Gaucher Outcome Survay), holding thousands of patient records and data, have not recognized ABX as a valid treatment, further contributing to the ongoing hesitation (Istaiti et al., 2021). To bridge this gap and facilitate data collection, collaborative efforts between clinical research entities and the International Gaucher Alliance are needed to support clinical studies like the ones mentioned in this review article that involve the recruitment of more patients of all representations (ethnicities, genotypes, clinical phenotypes, and treatment options)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 442.6,
+      "minX": 304.7,
+      "maxY": 452.3,
+      "maxX": 434.4,
+      "page": 11
+    }],
+    "text": "Author contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 392.7,
+      "minX": 304.7,
+      "maxY": 425.2,
+      "maxX": 545.8,
+      "page": 11
+    }],
+    "text": "FM: Conceptualization, Writing\u2013original draft, Writing\u2013review and editing. FA-J: Funding acquisition, Supervision, Writing\u2013review and editing."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 356.3,
+      "minX": 304.7,
+      "maxY": 368.6,
+      "maxX": 354.7,
+      "page": 11
+    }],
+    "text": "Funding"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 273.1,
+      "minX": 304.7,
+      "maxY": 341.6,
+      "maxX": 545.7,
+      "page": 11
+    }],
+    "text": "The author(s) declare financial support was received for the research, authorship, and/or publication ofthis article. This research is supported by ASPIRE, the technology program management pillar of Abu Dhabi's Advanced Technology Research Council (ATRC), via the ASPIRE Precision Medicine Research Institute Abu Dhabi (ASPIREPMRIAD) award grant number VRI-20-10."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 239.4,
+      "minX": 304.7,
+      "maxY": 249.2,
+      "maxX": 422.2,
+      "page": 11
+    }],
+    "text": "Conflict of interest"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 189.6,
+      "minX": 304.7,
+      "maxY": 222,
+      "maxX": 545.7,
+      "page": 11
+    }],
+    "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 155.7,
+      "minX": 304.7,
+      "maxY": 165.5,
+      "maxX": 403.9,
+      "page": 11
+    }],
+    "text": "Publisher's note"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 69.9,
+      "minX": 304.7,
+      "maxY": 138.3,
+      "maxX": 545.6,
+      "page": 11
+    }],
+    "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 11
+    }],
+    "text": "Frontiers in Pharmacology 11 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 754.4,
+      "minX": 49.6,
+      "maxY": 764.1,
+      "maxX": 118.6,
+      "page": 12
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 717,
+      "minX": 49.6,
+      "maxY": 739.6,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Al-Jasmi, F. A., Tawfig, N., Berniah, A., Ali, B. R., Taleb, M., Hertecant, J. L., et al. (2013). Prevalence and novel mutations of lysosomal storage disorders in United Arab Emirates: LSD in UAE. JIMD Rep. 10, 1\u20139. doi:10.1007/8904_2012_182"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 681.1,
+      "minX": 49.6,
+      "maxY": 711.8,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Ambrosi, G., Ghezzi, C., Zangaglia, R., Levandis, G., Pacchetti, C., and Blandini, F. (2015). Ambroxol-induced rescue of defective glucocerebrosidase is associated with increased LIMP-2 and saposin C levels in GBA1 mutant Parkinson's disease cells. Neurobiol. Dis. 82, 235\u2013242. doi:10.1016/j.nbd.2015.06.008"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 646.7,
+      "minX": 49.6,
+      "maxY": 675.9,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Aries, C., Lohmöller, B., Tiede, S., Täuber, K., Hartmann, G., Rudolph, C., et al. (2022). Promising effect ofhigh dose ambroxol treatment on neurocognition and motor development in a patient with neuropathic gaucher disease 2. Front. Neurol. 13, 13. doi:10.3389/fneur.2022.907317"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 617.3,
+      "minX": 49.6,
+      "maxY": 640,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Bendikov-Bar, I., Maor, G., Filocamo, M., and Horowitz, M. (2013). Ambroxol as a pharmacological chaperone for mutant glucocerebrosidase. Blood Cells Mol. Dis. 50, 141\u2013145. doi:10.1016/j.bcmd.2012.10.007"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 589.4,
+      "minX": 49.6,
+      "maxY": 612.1,
+      "maxX": 291.2,
+      "page": 12
+    }],
+    "text": "Bendikov-Bar, I., Ron, I., Filocamo, M., and Horowitz, M. (2011). Characterization of the ERAD process ofthe L444P mutant glucocerebrosidase variant. Blood Cells Mol. Dis. 46, 4\u201310. doi:10.1016/j.bcmd.2010.10.012"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 570.5,
+      "minX": 49.6,
+      "maxY": 584.3,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Bennett, L. L., and Mohan, D. (2013). Gaucher disease and its treatment options. Ann. Pharmacother. 47, 1182\u20131193. doi:10.1177/1060028013500469"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 541.6,
+      "minX": 49.6,
+      "maxY": 564.3,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Bianchi, M., Mantovani, A., Erroi, A., Dinarello, C. A., and Ghezzi, P. (1990). Ambroxol inhibits interleukin 1 and tumor necrosis factor production in human mononuclear cells. Agents Actions 31, 275\u2013279. doi:10.1007/BF01997619"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 513.7,
+      "minX": 49.6,
+      "maxY": 536.4,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Biegstraaten, M., Mengel, E., Maródi, L., Petakov, M., Niederau, C., Giraldo, P., et al. (2010). Peripheral neuropathy in adult type 1 Gaucher disease: a 2-year prospective observational study. Brain J. Neurol. 133, 2909\u20132919. doi:10.1093/brain/awq198"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 493.8,
+      "minX": 49.6,
+      "maxY": 508.5,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Bonam, S. R., Wang, F., and Muller, S. (2019). Lysosomes as a therapeutic target. Nat. Rev. Drug Discov. 18, 923\u2013948. doi:10.1038/s41573-019-0036-1"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 467.4,
+      "minX": 49.6,
+      "maxY": 488.6,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Bultron, G., Kacena, K., Pearson, D., Boxer, M., Yang, R., Sathe, S., et al. (2010). The risk ofParkinson's disease in type 1 Gaucher disease. J. Inherit. Metab. Dis. 33, 167\u2013173. doi:10.1007/s10545-010-9055-0"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 438,
+      "minX": 49.6,
+      "maxY": 460.7,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Cabasso, O., Paul, S., Dorot, O., Maor, G., Krivoruk, O., Pasmanik-Chor, M., et al. (2019). Drosophila melanogaster mutated in its GBA1b ortholog recapitulates neuronopathic gaucher disease. J. Clin. Med. 8, 1420. doi:10.3390/jcm8091420"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 410.1,
+      "minX": 49.4,
+      "maxY": 432.8,
+      "maxX": 291.2,
+      "page": 12
+    }],
+    "text": "Castillon, G., Chang, S.-C., and Moride, Y. (2022). Global incidence and prevalence of gaucher disease: a targeted literature review. J. Clin. Med. 12, 85. doi:10.3390/ jcm12010085"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 383.7,
+      "minX": 49.6,
+      "maxY": 404.9,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Cazan, D., Klimek, L., Sperl, A., Plomer, M., and Kölsch, S. (2018). Safety ofambroxol in the treatment of airway diseases in adult patients. Expert Opin. Drug Saf. 17, 1211\u20131224. doi:10.1080/14740338.2018.1533954"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 346.4,
+      "minX": 49.6,
+      "maxY": 377,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Charkhand, B., Scantlebury, M. H., Narita, A., Zimran, A., and Al-Hertani, W. (2019). Effect ofAmbroxol chaperone therapy on Glucosylsphingosine (Lyso-Gb1) levels in two Canadian patients with type 3 Gaucher disease. Mol. Genet. Metab. Rep. 20, 100476. doi:10.1016/j.ymgmr.2019.100476"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 312.2,
+      "minX": 49.6,
+      "maxY": 341.2,
+      "maxX": 291.2,
+      "page": 12
+    }],
+    "text": "Charrow, J., Andersson, H. C., Kaplan, P., Kolodny, E. H., Mistry, P., Pastores, G., et al. (2000). The Gaucher registry: demographics and disease characteristics of 1698 patients with Gaucher disease. Arch. Intern Med. 160, 2835\u20132843. doi:10.1001/ archinte.160.18.2835"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 290.6,
+      "minX": 49.6,
+      "maxY": 305.3,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Chis, B. A., Chis, A. F., and Dumitrascu, D. L. (2021). Gaucher disease \u2013 bone involvement. Med. Pharm. Rep. 94, S61\u2013S63. doi:10.15386/mpr-2233"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 256.4,
+      "minX": 49.6,
+      "maxY": 285.4,
+      "maxX": 290.7,
+      "page": 12
+    }],
+    "text": "Chu, S.-Y., Chien, C.-C., Hwu, W.-L., Wang, P.-J., and Chien, Y.-H. (2020). Early initiation ofhigh-dose oral ambroxol in combination with enzyme replacement therapy in a neuropathic Gaucher infant. Blood Cells Mol. Dis. 81, 102402. doi:10.1016/j.bcmd. 2019.102402"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 218.8,
+      "minX": 49.6,
+      "maxY": 249.5,
+      "maxX": 290.6,
+      "page": 12
+    }],
+    "text": "Ciana, G., Dardis, A., Pavan, E., Riol, R. M. D., Biasizzo, J., Ferino, D., et al. (2020). In vitro and in vivo effects of Ambroxol chaperone therapy in two Italian patients affected by neuronopathic Gaucher disease and epilepsy. Mol. Genet. Metab. Rep. 25, 100678. doi:10.1016/j.ymgmr.2020.100678"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 190.9,
+      "minX": 49.6,
+      "maxY": 213.6,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Dardis, A., Michelakakis, H., Rozenfeld, P., Fumic, K., Wagner, J., Pavan, E., et al. (2022). Patient centered guidelines for the laboratory diagnosis ofGaucher disease type 1. Orphanet J. Rare Dis. 17, 442. doi:10.1186/s13023-022-02573-6"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 164.5,
+      "minX": 49.6,
+      "maxY": 185.7,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Davidson, B. A., Hassan, S., Garcia, E. J., Tayebi, N., and Sidransky, E. (2018). Exploring genetic modifiers of gaucher disease: the next horizon. Hum. Mutat. 39, 1739\u20131751. doi:10.1002/humu.23611"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 128.7,
+      "minX": 49.6,
+      "maxY": 157.8,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Dekker, N., van Dussen, L., Hollak, C. E. M., Overkleeft, H., Scheij, S., Ghauharali, K., et al. (2011). Elevated plasma glucosylsphingosine in Gaucher disease: relation to phenotype, storage cell markers, and therapeutic response. Blood 118, e118\u2013e127. doi:10.1182/blood-2011-05-352971"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 93,
+      "minX": 49.6,
+      "maxY": 122,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "Elstein, D., Tiomkin, M., Hadas-Halpern, I., and Zimran, A. (2011). Organ volume by computed tomography correlates with longitudinal axis on ultrasound in patients with Gaucher disease. Ultrasound Q. 27, 225\u2013228. doi:10.1097/RUQ. 0b013e318239c5eb"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 71.5,
+      "minX": 49.6,
+      "maxY": 86.1,
+      "maxX": 290.5,
+      "page": 12
+    }],
+    "text": "European Patent Register (2023). Register EPO. Available at: https://register.epo.org/ application?number=EP15723930 (Accessed December 30, 2023)."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 718.6,
+      "minX": 304.7,
+      "maxY": 739.6,
+      "maxX": 546.4,
+      "page": 12
+    }],
+    "text": "Fateen, E., and Abdallah, Z. Y. (2019). Twenty-five years of biochemical diagnosis of Gaucher disease: the Egyptian experience. Heliyon 5, e02574. doi:10.1016/j.heliyon. 2019.e02574"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 681.1,
+      "minX": 304.6,
+      "maxY": 711.8,
+      "maxX": 545.8,
+      "page": 12
+    }],
+    "text": "Fischer, J., Pschorn, U., Vix, J.-M., Peil, H., Aicher, B., Müller, A., et al. (2002). Efficacy and tolerability of ambroxol hydrochloride lozenges in sore throat. Randomised, double-blind, placebo-controlled trials regarding the local anaesthetic properties. Arzneimittelforschung 52, 256\u2013263. doi:10.1055/s-0031-1299889"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 646.9,
+      "minX": 304.7,
+      "maxY": 675.9,
+      "maxX": 545.8,
+      "page": 12
+    }],
+    "text": "Fois, G., Hobi, N., Felder, E., Ziegler, A., Miklavc, P., Walther, P., et al. (2015). A new role for an old drug: ambroxol triggers lysosomal exocytosis via pH-dependent Ca²\u207a release from acidic Ca²\u207a stores. Cell Calcium 58, 628\u2013637. doi:10.1016/j.ceca.2015. 10.002"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 609.4,
+      "minX": 304.7,
+      "maxY": 640,
+      "maxX": 545.8,
+      "page": 12
+    }],
+    "text": "Genzyme, a Sanofi Company (2023). A 4-part, open-label, multicenter, multinational study of the safety, tolerability, pharmacokinetics, pharmacodynamic, and exploratory efficacy of Venglustat in combination with cerezyme in adult patients with gaucher disease type 3 with Venglustat monotherapy extension. clinicaltrials.gov."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 582.4,
+      "minX": 304.7,
+      "maxY": 604.2,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Gibbs, B. F. (2009). Differential modulation of IgE-dependent activation of human basophils by ambroxol and related secretolytic analogues. Int. J. Immunopathol. Pharmacol. 22, 919\u2013927. doi:10.1177/039463200902200407"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 555.3,
+      "minX": 304.7,
+      "maxY": 576.3,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Gupta, P., and Pastores, G. (2018). Pharmacological treatment of pediatric Gaucher disease. Expert Rev. Clin. Pharmacol. 11, 1183\u20131194. doi:10.1080/17512433.2018. 1549486"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 526.7,
+      "minX": 304.7,
+      "maxY": 548.4,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Han, T.-U., Sam, R., and Sidransky, E. (2020). Small molecule chaperones for the treatment of gaucher disease and GBA1-associated Parkinson disease. Front. Cell Dev. Biol. 8, 271. doi:10.3389/fcell.2020.00271"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 498.4,
+      "minX": 304.7,
+      "maxY": 520.5,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Hollak, C. E., van Weely, S., van Oers, M. H., and Aerts, J. M. (1994). Marked elevation ofplasma chitotriosidase activity. A novel hallmark ofGaucher disease. J. Clin. Invest. 93, 1288\u20131292. doi:10.1172/JCI117084"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 461.9,
+      "minX": 304.7,
+      "maxY": 492.6,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Hollak, C. E. M., Belmatoug, N., Cole, J. A., Vom Dahl, S., Deegan, P. B., Goldblatt, J., et al. (2012). Characteristics of type I Gaucher disease associated with persistent thrombocytopenia after treatment with imiglucerase for 4-5 years. Br. J. Haematol. 158, 528\u2013538. doi:10.1111/j.1365-2141.2012.09175.x"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 435,
+      "minX": 304.7,
+      "maxY": 456.7,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Hruska, K. S., LaMarca, M. E., Scott, C. R., and Sidransky, E. (2008). Gaucher disease: mutation and polymorphism spectrum in the glucocerebrosidase gene (GBA). Hum. Mutat. 29, 567\u2013583. doi:10.1002/humu.20676"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 406.1,
+      "minX": 304.7,
+      "maxY": 428.8,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "Hughes, D., Mikosch, P., Belmatoug, N., Carubbi, F., Cox, T., Goker-Alpan, O., et al. (2019). Gaucher disease in bone: from pathophysiology to practice. J. Bone Min. Res. 34, 996\u20131013. doi:10.1002/jbmr.3734"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 370.2,
+      "minX": 304.7,
+      "maxY": 400.9,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Hurvitz, N., Dinur, T., Becker-Cohen, M., Cozma, C., Hovakimyan, M., Oppermann, S., et al. (2019). Glucosylsphingosine (lyso-Gb1) as a biomarker for monitoring treated and untreated children with gaucher disease. Int. J. Mol. Sci. 20, 3033. doi:10.3390/ ijms20123033"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 334.4,
+      "minX": 304.7,
+      "maxY": 365,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "Istaiti, M., Frydman, D., Dinur, T., Szer, J., Revel-Vilk, S., and Zimran, A. (2023). High-dose ambroxol therapy in type 1 gaucher disease focusing on patients with poor response to enzyme replacement therapy or substrate reduction therapy. Int. J. Mol. Sci. 24, 6732. doi:10.3390/ijms24076732"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 298.5,
+      "minX": 304.6,
+      "maxY": 329.2,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Istaiti, M., Revel-Vilk, S., Becker-Cohen, M., Dinur, T., Ramaswami, U., CastilloGarcia, D., et al. (2021). Upgrading the evidence for the use of ambroxol in Gaucher disease and GBA related Parkinson: investigator initiated registry based on real life data. Am. J. Hematol. 96, 545\u2013551. doi:10.1002/ajh.26131"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 264.3,
+      "minX": 304.7,
+      "maxY": 293.3,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Ivanova, M. M., Dao, J., Kasaci, N., Adewale, B., Nazari, S., Noll, L., et al. (2021). Cellular and biochemical response to chaperone versus substrate reduction therapies in neuropathic Gaucher disease. PLOS ONE 16, e0247211. doi:10.1371/journal.pone. 0247211"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 226.9,
+      "minX": 304.7,
+      "maxY": 257.5,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "Jarvis, M. F., Honore, P., Shieh, C.-C., Chapman, M., Joshi, S., Zhang, X.-F., et al. (2007). A-803467, a potent and selective Nav1.8 sodium channel blocker, attenuates neuropathic and inflammatory pain in the rat. Proc. Natl. Acad. Sci. U. S. A. 104, 8520\u20138525. doi:10.1073/pnas.0611364104"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 199.9,
+      "minX": 304.7,
+      "maxY": 221.6,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Jiang, W., Yi, M., Maegawa, G. H. B., and Zhang, H. (2020). Ambroxol improves skeletal and hematological manifestations on a child with Gaucher disease. J. Hum. Genet. 65, 345\u2013349. doi:10.1038/s10038-019-0704-3"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 164.5,
+      "minX": 304.7,
+      "maxY": 193.7,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Jung, O., Patnaik, S., Marugan, J., Sidransky, E., and Westbroek, W. (2016). Progress and potential ofnon-inhibitory small molecule chaperones for the treatment ofGaucher disease and its implications for Parkinson disease. Expert Rev. Proteomics 13, 471\u2013479. doi:10.1080/14789450.2016.1174583"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 128.7,
+      "minX": 304.7,
+      "maxY": 157.8,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "Kantar, A., Klimek, L., Cazan, D., Sperl, A., Sent, U., and Mesquita, M. (2020). An overview of efficacy and safety of ambroxol for the treatment of acute and chronic respiratory diseases with a special regard to children. Multidiscip. Respir. Med. 15, 511. doi:10.4081/mrm.2020.511"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 99.2,
+      "minX": 304.7,
+      "maxY": 122,
+      "maxX": 545.7,
+      "page": 12
+    }],
+    "text": "Kim, Y.-M., Yum, M.-S., Heo, S. H., Kim, T., Jin, H. K., Bae, J.-S., et al. (2020). Pharmacologic properties of high-dose ambroxol in four patients with Gaucher disease and myoclonic epilepsy. J. Med. Genet. 57, 124\u2013131. doi:10.1136/jmedgenet-2019-106132"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 71.3,
+      "minX": 304.7,
+      "maxY": 94.1,
+      "maxX": 545.8,
+      "page": 12
+    }],
+    "text": "Kopytova, A. E., Rychkov, G. N., Nikolaev, M. A., Baydakova, G. V., Cheblokov, A. A., Senkevich, K. A., et al. (2021). Ambroxol increases glucocerebrosidase (GCase) activity and restores GCase translocation in primary patient-derived macrophages in Gaucher"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 12
+    }],
+    "text": "Frontiers in Pharmacology 12 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 800.1,
+      "minX": 49.6,
+      "maxY": 806.7,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Mohamed and Al-Jasmi 10.3389/fphar.2024.1335058"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 747.5,
+      "minX": 49.6,
+      "maxY": 760.6,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "disease and Parkinsonism. Park. Relat. Disord. 84, 112\u2013121. doi:10.1016/j.parkreldis. 2021.02.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 717.9,
+      "minX": 49.6,
+      "maxY": 740.7,
+      "maxX": 291.2,
+      "page": 13
+    }],
+    "text": "Laoag-Fernandez, J. B., Fernandez, A. M., and Maruo, T. (2000). Antenatal use of ambroxol for the prevention ofinfant respiratory distress syndrome. J. Obstet. Gynaecol. Res. 26, 307\u2013312. doi:10.1111/j.1447-0756.2000.tb01327.x"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 691,
+      "minX": 49.6,
+      "maxY": 712.7,
+      "maxX": 290.7,
+      "page": 13
+    }],
+    "text": "Li, Q., Yao, G., and Zhu, X. (2012). High-dose ambroxol reduces pulmonary complications in patients with acute cervical spinal cord injury after surgery. Neurocrit Care 16, 267\u2013272. doi:10.1007/s12028-011-9642-4"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 662.1,
+      "minX": 49.6,
+      "maxY": 684.8,
+      "maxX": 290.7,
+      "page": 13
+    }],
+    "text": "Liguori, L., Monticelli, M., Allocca, M., Hay Mele, B., Lukas, J., Cubellis, M. V., et al. (2020). Pharmacological chaperones: a therapeutic approach for diseases caused by destabilizing missense mutations. Int. J. Mol. Sci. 21, 489. doi:10.3390/ijms21020489"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 643.2,
+      "minX": 49.6,
+      "maxY": 656.9,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Linari, S., and Castaman, G. (2015). Clinical manifestations and management of Gaucher disease. Clin. Cases Min. Bone Metab. 12, 157\u2013164. doi:10.11138/ccmbm/2015.12.2.157"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 614.3,
+      "minX": 49.6,
+      "maxY": 637,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Luan, Z., Li, L., Higaki, K., Nanba, E., Suzuki, Y., and Ohno, K. (2013). The chaperone activity and toxicity of ambroxol on Gaucher cells and normal mice. Brain Dev. 35, 317\u2013322. doi:10.1016/j.braindev.2012.05.008"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 586.5,
+      "minX": 49.6,
+      "maxY": 609.1,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Maegawa, G. H. B., Tropak, M. B., Buttner, J. D., Rigat, B. A., Fuller, M., Pandit, D., et al. (2009). Identification and characterization ofambroxol as an enzyme enhancement agent for gaucher disease. J. Biol. Chem. 284, 23502\u201323516. doi:10.1074/jbc.M109.012393"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 558.6,
+      "minX": 49.6,
+      "maxY": 581.3,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Magalhaes, J., Gegg, M. E., Migdalska-Richards, A., and Schapira, A. H. (2018). Effects ofambroxol on the autophagy-lysosome pathway and mitochondria in primary cortical neurons. Sci. Rep. 8, 1385. doi:10.1038/s41598-018-19479-8"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 540.1,
+      "minX": 49.6,
+      "maxY": 553.4,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "McCormack, P. L., and Goa, K. L. (2003). Miglustat. Drugs 63, 2427\u20132434. doi:10. 2165/00003495-200363220-00006"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 511.7,
+      "minX": 49.6,
+      "maxY": 533.4,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "McNeill, A., Magalhaes, J., Shen, C., Chau, K.-Y., Hughes, D., Mehta, A., et al. (2014). Ambroxol improves lysosomal biochemistry in glucocerebrosidase mutation-linked Parkinson disease cells. Brain 137, 1481\u20131495. doi:10.1093/brain/awu020"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 484.3,
+      "minX": 49.6,
+      "maxY": 505.5,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Migdalska-Richards, A., Daly, L., Bezard, E., and Schapira, A. H. V. (2016). Ambroxol effects in glucocerebrosidase and α-synuclein transgenic mice. Ann. Neurol. 80, 766\u2013775. doi:10.1002/ana.24790"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 454.9,
+      "minX": 49.6,
+      "maxY": 477.6,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Migdalska-Richards, A., Ko, W. K. D., Li, Q., Bezard, E., and Schapira, A. H. V. (2017). Oral ambroxol increases brain glucocerebrosidase activity in a nonhuman primate. Synap. N. Y. N. 71, e21967. doi:10.1002/syn.21967"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 427,
+      "minX": 49.6,
+      "maxY": 449.7,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Mignot, C., Doummar, D., Maire, I., De Villemeur, T. B., and French Type 2 Gaucher Disease Study Group (2006). Type 2 Gaucher disease: 15 new cases and review of the literature. Brain Dev. 28, 39\u201348. doi:10.1016/j.braindev.2005.04.005"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 399.1,
+      "minX": 49.6,
+      "maxY": 421.8,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Mignot, C., Gelot, A., Bessières, B., Daffos, F., Voyer, M., Menez, F., et al. (2003). Perinatal-lethal gaucher disease. Am. J. Med. Genet. A 120A, 338\u2013344. doi:10.1002/ ajmg.a.20117"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 365,
+      "minX": 49.6,
+      "maxY": 393.9,
+      "maxX": 290.6,
+      "page": 13
+    }],
+    "text": "Mohamed, F. E., Al-Gazali, L., Al-Jasmi, F., and Ali, B. R. (2017). Pharmaceutical chaperones and proteostasis regulators in the therapy of lysosomal storage disorders: current perspective and future promises. Front. Pharmacol. 8, 448. doi:10.3389/fphar. 2017.00448"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 327.4,
+      "minX": 49.6,
+      "maxY": 358.1,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Mohamed, F. E., Ali, A., Al-Tenaiji, A., Al-Jasmi, A., and Al-Jasmi, F. (2022). A type 3 gaucher-like disease due to saposin C deficiency in two Emirati families caused by a novel splice site variant in the PSAP gene. J. Mol. Neurosci. MN 72, 1322\u20131333. doi:10. 1007/s12031-022-01987-y"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 293,
+      "minX": 49.6,
+      "maxY": 322.2,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Muntau, A. C., Leandro, J., Staudigl, M., Mayer, F., and Gersting, S. W. (2014). Innovative strategies to treat protein misfolding in inborn errors of metabolism: pharmacological chaperones and proteostasis regulators. J. Inherit. Metab. Dis. 37, 505\u2013523. doi:10.1007/s10545-014-9701-z"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 264.6,
+      "minX": 49.5,
+      "maxY": 286.3,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Narita, A., Shirai, K., Itamura, S., Matsuda, A., Ishihara, A., Matsushita, K., et al. (2016). Ambroxol chaperone therapy for neuronopathic Gaucher disease: a pilot study. Ann. Clin. Transl. Neurol. 3, 200\u2013215. doi:10.1002/acn3.292"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 243.7,
+      "minX": 49.6,
+      "maxY": 258.4,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "National Gaucher Foundation (2023). Natl gauch found. Available at: https://www. gaucherdisease.org/(Accessed December 29, 2023)."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 215.9,
+      "minX": 49.6,
+      "maxY": 238.5,
+      "maxX": 291.2,
+      "page": 13
+    }],
+    "text": "Ollier, C., Sent, U., Mesquita, M., and Michel, M. C. (2020). Pharmacokinetics of ambroxol sustained release (Mucosolvan® retard) compared with other formulations in healthy volunteers. Pulm. Ther. 6, 119\u2013130. doi:10.1007/s41030-020-00116-7"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 188,
+      "minX": 49.6,
+      "maxY": 210.6,
+      "maxX": 291.2,
+      "page": 13
+    }],
+    "text": "Parenti, G., Andria, G., and Valenzano, K. J. (2015). Pharmacological chaperone therapy: preclinical development, clinical translation, and prospects for the treatment of lysosomal storage disorders. Mol. Ther. 23, 1138\u20131148. doi:10.1038/mt.2015.62"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 160,
+      "minX": 49.6,
+      "maxY": 182.8,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Pawlinski, L., Krawczyk, M., Fiema, M., Tobor, E., and Kiec-Wilk, B. (2020). Dual-action ambroxol in treatment of chronic pain in Gaucher Disease. Eur. J. Pain 24, 992\u2013996. doi:10.1002/ejp.1538"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 124.2,
+      "minX": 49.6,
+      "maxY": 155.7,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Ramadža, D. P., Zekušić, M., Žigman, T., Škaričić, A., Bogdanić, A., Mustać, G., et al. (2021). Early initiation of ambroxol treatment diminishes neurological manifestations oftype 3 Gaucher disease: a long-term outcome oftwo siblings. Eur. J. Paediatr. Neurol. EJPN Off. J. Eur. Paediatr. Neurol. Soc. 32, 66\u201372. doi:10.1016/j.ejpn.2021.03.013"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 97.3,
+      "minX": 49.6,
+      "maxY": 119,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Remondelli, P., and Renna, M. (2017). The endoplasmic reticulum unfolded protein response in neurodegenerative disorders and its potential therapeutic significance. Front. Mol. Neurosci. 10, 187. doi:10.3389/fnmol.2017.00187"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 76.3,
+      "minX": 49.6,
+      "maxY": 91.1,
+      "maxX": 290.5,
+      "page": 13
+    }],
+    "text": "Revel-Vilk, S., Szer, J., Mehta, A., and Zimran, A. (2018). How we manage Gaucher Disease in the era of choices. Br. J. Haematol. 182, 467\u2013480. doi:10.1111/bjh.15402"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 739.6,
+      "minX": 304.7,
+      "maxY": 760.6,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Riboldi, G. M., and Di Fonzo, A. B. (2019). GBA, gaucher disease, and Parkinson's disease: from genetic to clinic to new therapeutic approaches. Cells 8, 364. doi:10.3390/ cells8040364"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 717.9,
+      "minX": 304.7,
+      "maxY": 732.7,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Roshan Lal, T., and Sidransky, E. (2017). The spectrum ofneurological manifestations associated with gaucher disease. Diseases 5, 10. doi:10.3390/diseases5010010"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 691,
+      "minX": 304.7,
+      "maxY": 712.7,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Sam, R., Ryan, E., Daykin, E., and Sidransky, E. (2021). Current and emerging pharmacotherapy for Gaucher disease in pediatric populations. Expert Opin. Pharmacother. 22, 1489\u20131503. doi:10.1080/14656566.2021.1902989"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 662.1,
+      "minX": 304.6,
+      "maxY": 684.8,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Sardiello, M. (2016). Transcription factor EB: from master coordinator of lysosomal pathways to candidate therapeutic target in degenerative storage diseases. Ann. N. Y. Acad. Sci. 1371, 3\u201314. doi:10.1111/nyas.13131"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 626.3,
+      "minX": 304.7,
+      "maxY": 657.5,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Schwartz, I. V. D., Göker-Alpan, Ö., Kishnani, P. S., Zimran, A., Renault, L., Panahloo, Z., et al. (2017). Characteristics of26 patients with type 3 Gaucher disease: a descriptive analysis from the Gaucher Outcome Survey. Mol. Genet. Metab. Rep. 14, 73\u201379. doi:10. 1016/j.ymgmr.2017.10.011"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 606.4,
+      "minX": 304.7,
+      "maxY": 621.1,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Sidransky, E. (2004). Gaucher disease: complexity in a \"simple\" disorder. Mol. Genet. Metab. 83, 6\u201315. doi:10.1016/j.ymgme.2004.08.015"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 578.5,
+      "minX": 304.7,
+      "maxY": 601.2,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Stenson, P. D., Mort, M., Ball, E. V., Chapman, M., Evans, K., Azevedo, L., et al. (2020). The Human Gene Mutation Database (HGMD®): optimizing its use in a clinical diagnostic or research setting. Hum. Genet. 139, 1197\u20131207. doi:10.1007/s00439-020-02199-3"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 550.6,
+      "minX": 304.7,
+      "maxY": 573.3,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Stirnemann, J., Belmatoug, N., Camou, F., Serratrice, C., Froissart, R., Caillaud, C., et al. (2017). A review of gaucher disease pathophysiology, clinical presentation and treatments. Int. J. Mol. Sci. 18, 441. doi:10.3390/ijms18020441"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 530.7,
+      "minX": 304.7,
+      "maxY": 545.4,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Stone, W. L., Basit, H., and Master, S. R. (2023). Gaucher disease. StatPearls, treasure island (FL). United States: StatPearls Publishing."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 502.8,
+      "minX": 304.7,
+      "maxY": 525.5,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Suzuki, T., Shimoda, M., Ito, K., Hanai, S., Aizawa, H., Kato, T., et al. (2013). Expression ofhuman Gaucher disease gene GBA generates neurodevelopmental defects and ER stress in Drosophila eye. PloS One 8, e69147. doi:10.1371/journal.pone.0069147"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 467,
+      "minX": 304.7,
+      "maxY": 497.6,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Thirumal Kumar, D., Iyer, S., Christy, J. P., Siva, R., Tayubi, I. A., George Priya Doss, C., et al. (2019). A comparative computational approach toward pharmacological chaperones (NN-DNJ and ambroxol) on N370S and L444P mutations causing Gaucher's disease. Adv. Protein Chem. Struct. Biol. 114, 315\u2013339. doi:10.1016/bs.apcsb.2018.10.002"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 431,
+      "minX": 304.7,
+      "maxY": 461.7,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Turgay Yagmur, I., Unal Uzun, O., Kucukcongar Yavas, A., Kulhas Celik, I., Toyran, M., Gunduz, M., et al. (2020). Management of hypersensitivity reactions to enzyme replacement therapy in children with lysosomal storage diseases. Ann. Allergy Asthma Immunol. 125, 460\u2013467. doi:10.1016/j.anai.2020.07.010"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 395.2,
+      "minX": 304.7,
+      "maxY": 425.8,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Tylki-Szymańska, A., Vellodi, A., El-Beshlawy, A., Cole, J. A., and Kolodny, E. (2010). Neuronopathic gaucher disease: demographic and clinical features of 131 patients enrolled in the international collaborative gaucher group neurological outcomes subregistry. J. Inherit. Metab. Dis. 33, 339\u2013346. doi:10.1007/s10545-009-9009-6"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 367.3,
+      "minX": 304.7,
+      "maxY": 390,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Van Rossum, A., and Holsopple, M. (2016). Enzyme replacement or substrate reduction? A review of gaucher disease treatment options. Hosp. Pharm. 51, 553\u2013563. doi:10.1310/hpj5107-553"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 332.9,
+      "minX": 304.7,
+      "maxY": 362.1,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Vom Dahl, S., Poll, L., Di Rocco, M., Ciana, G., Denes, C., Mariani, G., et al. (2006). Evidence-based recommendations for monitoring bone disease and the response to enzyme replacement therapy in Gaucher patients. Curr. Med. Res. Opin. 22, 1045\u20131064. doi:10.1185/030079906X104623"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 303.5,
+      "minX": 304.5,
+      "maxY": 326.2,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Weinreb, N. J., and Goker-Alpan, O. (2023). Ambroxol as therapy for gaucher disease\u2014ambitious but ambivalent. JAMA Netw. Open 6, e2319336. doi:10.1001/ jamanetworkopen.2023.19336"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 283.6,
+      "minX": 304.7,
+      "maxY": 298.3,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Weiser, T. (2008). Ambroxol: a CNS drug? CNS Neurosci. Ther. 14, 17\u201324. doi:10. 1111/j.1527-3458.2007.00032.x"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 255.8,
+      "minX": 304.7,
+      "maxY": 278.4,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Wenstrup, R. J., Roca-Espiau, M., Weinreb, N. J., and Bembi, B. (2002). Skeletal aspects of Gaucher disease: a review. Br. J. Radiol. 75, A2\u2013A12. doi:10.1259/bjr.75. suppl_1.750002"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 219.8,
+      "minX": 304.7,
+      "maxY": 250.5,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Yang, S.-Y., Beavan, M., Chau, K.-Y., Taanman, J.-W., and Schapira, A. H. V. (2017). A human neural crest stem cell-derived dopaminergic neuronal model recapitulates biochemical abnormalities in GBA1 mutation carriers. Stem Cell Rep. 8, 728\u2013742. doi:10.1016/j.stemcr.2017.01.011"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 191.9,
+      "minX": 304.7,
+      "maxY": 214.6,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Zhan, X., Zhang, H., Maegawa, G. H. B., Wang, Y., Gao, X., Wang, D., et al. (2023). Use ofambroxol as therapy for gaucher disease. JAMA Netw. Open 6, e2319364. doi:10. 1001/jamanetworkopen.2023.19364"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 157.5,
+      "minX": 304.7,
+      "maxY": 186.7,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Zhang, P., Zheng, M.-F., Cui, S.-Y., Zhang, W., and Gao, R.-P. (2022). Ambroxol chaperone therapy for gaucher disease type I-associated liver cirrhosis and portal hypertension: a case report. Endocr. Metab. Immune Disord. Drug Targets 22, 658\u2013662. doi:10.2174/1871530321666211119145230"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 129.6,
+      "minX": 304.7,
+      "maxY": 150.8,
+      "maxX": 546.3,
+      "page": 13
+    }],
+    "text": "Zhang, Y., Shu, L., Zhou, X., Pan, H., Xu, Q., Guo, J., et al. (2018). A meta-analysis of GBA-related clinical symptoms in Parkinson's disease. Park Dis. 2018, 3136415. doi:10. 1155/2018/3136415"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 100.3,
+      "minX": 304.7,
+      "maxY": 122.9,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Zhou, X., Jin, X., Yang, L., and Wei, X. (2022). Efficacy and safety of ambroxol hydrochloride in the treatment of secretory otitis media: a systematic review and meta-analysis. Ann. Transl. Med. 10, 142. doi:10.21037/atm-22-237"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 72.4,
+      "minX": 304.7,
+      "maxY": 95.1,
+      "maxX": 545.7,
+      "page": 13
+    }],
+    "text": "Zimran, A., Altarescu, G., and Elstein, D. (2013). Pilot study using ambroxol as a pharmacological chaperone in type 1 Gaucher disease. Blood Cells Mol. Dis. 50, 134\u2013137. doi:10.1016/j.bcmd.2012.09.006"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34,
+      "minX": 49.6,
+      "maxY": 40.4,
+      "maxX": 545.6,
+      "page": 13
+    }],
+    "text": "Frontiers in Pharmacology 13 frontiersin.org"
+  }}
+]}

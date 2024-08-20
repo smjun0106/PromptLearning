@@ -1,0 +1,48 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","# RESEARCH Open Access
+
+## Title
+Carrier frequency estimation of pathogenic variants of autosomal recessive and X-linked recessive Mendelian disorders using exome sequencing data in 1,642 Thais
+
+## Authors
+Wanna Chetruengchai, Prasit Phowthongkum, Vorasuk Shotelersuk
+
+## Abstract
+
+### Background
+People with autosomal recessive disorders often are born without awareness of the carrier status of their parents. The American College of Medical Genetics and Genomics (ACMG) recommends screening 113 genes known to cause autosomal recessive and X-linked conditions in couples seeking to learn about their risk of having children with these disorders to have an appropriate reproductive plan.
+
+### Methods
+We analyzed the exome sequencing data of 1,642 unrelated Thai individuals to identify the pathogenic variant (PV) frequencies in genes recommended by ACMG.
+
+### Results
+In the 113 ACMG-recommended genes, 165 PV and likely PVs in 60 genes of 559 exomes (34%, 559/1642) were identified. The carrier rate was increased to 39% when glucose-6-phosphate dehydrogenase (G6PD) was added. The carrier rate was still as high as 14.7% when thalassemia and hemoglobinopathies were excluded. In addition to thalassemia, hemoglobinopathies, and G6PD deficiency, carrier frequencies of >1% were found for Gaucher disease, primary hyperoxaluria, Pendred syndrome, and Wilson disease. Nearly 2% of the couples were at risk of having offspring with the tested autosomal recessive conditions.
+
+### Conclusions
+Based on the study samples, the expanded carrier screening, which specifically targeted common autosomal recessive conditions in Thai individuals, will benefit clinical outcomes, regarding preconception/prenatal genetic carrier screening.
+
+### Keywords
+Carrier screening, WES, Thais
+
+## Background
+Mendelian diseases, though uncommon individually, account for ~20% of infant mortality and ~18% of pediatric hospitalizations in the US. At least 2,000 autosomal recessive and 500 X-linked diseases have been identified. Preconception carrier screening and reproductive counseling are cost-effective measures to reduce the burden of these diseases. The American College of Medical Genetics and Genomics (ACMG) recommends screening 113 genes for carrier status. We added G6PD to this list and determined the carrier frequency and variant distribution in 1,642 unrelated Thais.
+
+## Methods
+We collected 1,642 exomes from unrelated healthy Thai individuals (811 men, 831 women). Informed consent was obtained, and the study was approved by the Institutional Review Board of the Faculty of Medicine, Chulalongkorn University. Genomic DNA was extracted, and exomes were captured using TruSeq® Exome Kit or SureSelect Human All Exons. Sequences were aligned to the human reference genome (GRCh37). Variant calling was performed using the Genome Analysis Tool Kit (GATK). ANNOVAR was used to annotate genetic variants. The analysis focused on the 113 ACMG-recommended genes and G6PD. The frequency and 95% confidence interval were calculated using the Wilson method.
+
+## Results
+We excluded 13 PV and LPV in 18 exomes (1%, 18/1642). In the 113 ACMG-recommended genes, 165 PV and LPV in 60 genes of 559 exomes were found (34%). For G6PD, 7 PV and LPV of 127 exomes (female) were identified. In total, 172 PV and LPV in 61 genes of 640 exomes (39%) were identified. Excluding thalassemia and hemoglobinopathies, the carrier rate was 14.7% (241/1642). The top three gene carrier rates were in hemolytic disorders. HBB had the highest carrier rate (50.2% of carriers, 19.6% of participants). G6PD was the second most common (19.8% of carriers, 7.7% of participants). HBA2 was the third most common (10.2% of carriers, 4% of participants). There were 17 autosomal recessive genes with carrier frequencies of at least 1/250. The most common PV was HBB; c.79G > A (p.Glu27Lys) responsible for hemoglobin E (HbE), representing 45.5% of carriers. HBA2; c.427 T > C (p. Ter143Glnext*31) was the second most common variant. G6PD; c.961G > A (p.Val321Met) was the third most common variant. The carrier rate of G6PD variants was 7.7%. The carrier frequency of PV and LPV in GBA causing Gaucher disease was 1.6%. The carrier frequency of PV and PLV in genes associated with hereditary syndromic hearing loss SLC26A2 was 1.1%. The most common inherited metabolic disease gene carriers were hyperoxaluria (AGXT; 1.1%), Wilson disease (ATP7B; 1%), and phenylketonuria (PAH; 0.79%).
+
+## Discussion
+Our study engaged parents whose children had rare diseases rather than using a population-based screening methodology. This approach optimized the benefits of trio exome testing. The exomes of the parents provided insights into other biological and medical issues. We excluded genes identified as causative for rare diseases in the children. Our approach has a lower ethical burden. The parents received genetic counseling and permitted the use of their genomic information. Population-based approaches have participation and ascertainment biases. Carrier screening remains optional. The practical medical advantages of counseling may be constrained by the costs of reproductive choices like IVF and PGD. Carrier rates of these disorders vary across populations. In Thais, thalassemia, hemoglobinopathies, and G6PD deficiency are more prevalent. NGS is increasingly used for expanded genetic carrier screening. Our study found that 39% of Thai individuals carried a PV and an LPV in at least one of 114 genes. The carrier rate is high, comparable to the Ashkenazi Jewish group. Consanguineous marriage is generally taboo in Thailand. Thalassemia and hemoglobinopathies are highly prevalent. Even after excluding these, the carrier rate was 14.7%. Nearly 1% of couples could benefit from expanded carrier screening. The prevalence of common recessive disorders in our cohort is comparable to previous rates. Our approach helps eliminate bias and ensures frequency estimates are comparable to non-disease cohorts. The most common carriers of inherited metabolic disease were individuals with Gaucher disease. Carriers of primary hyperoxaluria and Wilson disease PV and PLV were also common. Our study supports the newborn screening program in Thailand for Phenylketonuria (PKU). Hearing loss is a major disability problem in childhood. Carriers of Pendred syndrome, Usher syndrome, and GJB2 were common in our cohort. The prevalence of cystic fibrosis among Thais is lower than among Caucasians.
+
+## Limitations
+WES cannot reliably detect structural variants common in α-thalassemia. Spinal muscular atrophy caused by a copy number change in the SMN1 gene is also missed by WES. Genome analysis with structural variant detection will help estimate these disorders. The frequency of variants may be underestimated without validation using Sanger sequencing. Trinucleotide repeat expansion PVs cannot be detected with exome sequencing data. Our sample size provides over 80% power to detect alleles with a frequency of 1%. A larger sample size is necessary for uncommon variants.
+
+## Conclusion
+Among the 114 genes analyzed, 39% of Thai individuals in our cohort were carriers of pathogenic variants (PVs). This information will serve as a foundation for designing gene lists for individual-level carrier screening and future public health plans.
+
+## Supplementary Information
+
+## Publisher's Note"

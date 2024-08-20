@@ -1,0 +1,2495 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 1
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 656.6,
+      "minX": 36,
+      "maxY": 699.2,
+      "maxX": 487.5,
+      "page": 1
+    }],
+    "text": "1Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard; Cambridge, USA. 2Department of Systems and Computer Engineering, Faculty of Engineering, Al-Azhar University; Cairo, Egypt. \u2020These authors contributed equally to this work. *Corresponding author: bdeverma@broadinstitute.org"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 506.4,
+      "minX": 36,
+      "maxY": 624.9,
+      "maxX": 574.5,
+      "page": 1
+    }],
+    "text": "Developing vehicles that efficiently deliver genes throughout the human central nervous system (CNS) will broaden the range of treatable genetic diseases. We engineered an AAV capsid, BI-hTFR1, that binds human Transferrin Receptor (TfR1), a protein expressed on the blood-brain barrier (BBB). BI-hTFR1 was actively transported across a human brain endothelial cell layer and, relative to AAV9, provided 40\u201350 times greater reporter expression in the CNS of human TFRC knock-in mice. The enhanced tropism was CNS-specific and absent in wild type mice. When used to deliver GBA1, mutations of which cause Gaucher disease and are linked to Parkinson's disease, BI-hTFR1 substantially increased brain and cerebrospinal fluid glucocerebrosidase activity compared to AAV9. These findings establish BI-hTFR1 as a promising vector for human CNS gene therapy."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 1
+    }],
+    "text": "1"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 2
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 605.5,
+      "minX": 36,
+      "maxY": 737.9,
+      "maxX": 571.5,
+      "page": 2
+    }],
+    "text": "A critical challenge in the development of more efficient delivery vectors for gene therapy is engineering vectors with known mechanisms of action (MOAs) relevant to human patients. Conventional approaches to engineering vectors such as adeno-associated viruses (AAVs) with enhanced tropisms have largely relied on capsid library selections in animals. These selections have been used by numerous groups over the past two decades because they can be successful without requiring prior knowledge of an MOA (1\u20137). However, vectors selected in animals mostly have not translated across preclinical models. Despite extensive searches, AAV capsids with clear translational potential and known MOAs for entering the CNS have not yet been described. Here, we approached this challenge from a different perspective and selected AAV capsids first for a specific MOA, that is binding to the human Transferrin Receptor (TfR1), and showed that one of these capsids crossed the blood-brain barrier (BBB) and mediated efficient gene delivery throughout the CNS."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 416.2,
+      "minX": 36,
+      "maxY": 590.1,
+      "maxX": 572,
+      "page": 2
+    }],
+    "text": "We chose TfR1 as a target because of its high expression on the human BBB; its ability to mediate constitutive, ligand-independent receptor-mediated transcytosis (RMT) across the CNS vasculature (8\u201312); and its track record as a target to increase the delivery of biologics into the CNS of mice (13\u201315), nonhuman primates (NHPs) (16\u201318), and humans as investigational therapies (19\u201322) and as an approved antibody-based therapeutic for Mucopolysaccharidosis type II (23). We first screened 7-mer-modified AAV9 capsid libraries for their ability to bind to human TfR1 in vitro. The top-performing capsid, AAV-BI-hTFR1, exhibited more efficient gene delivery to human brain endothelial cells and improved active transport across a human vascular monolayer. When systemically administered to adult TFRC knock-in (KI) mice carrying a chimeric Tfrc gene with a humanized extracellular domain, BI-hTFR1 transduced the majority of neurons and astrocytes across multiple brain regions. The enhanced tropism was entirely dependent on an interaction with the humanized TfR1, as we observed no enhancement in wild type (WT) mice. The tropism was also selectively enhanced in the CNS, consistent with the high level of expression of TFRC on the CNS vasculature relative to the vasculature in other organs (12)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 282,
+      "minX": 36,
+      "maxY": 400.7,
+      "maxX": 566.8,
+      "page": 2
+    }],
+    "text": "To explore its ability to deliver a therapeutically relevant cargo, we intravenously injected TFRC KI mice with BI-hTFR1 or AAV9 packaging the human Glucosylceramidase Beta 1 (GBA1) gene. Inactivating mutations of GBA1 are the primary cause of Gaucher's disease, a lysosomal storage disorder often affecting the CNS, and GBA1 mutations are a genetic risk factor for Parkinson's disease and dementia with Lewy Bodies (24). Systemic delivery of BI-hTFR1:GBA1 in adult TFRC KI mice resulted in increased expression throughout the brain and elevated glucocerebrosidase (GCase) activity in the brain and cerebrospinal fluid (CSF), which were not observed with AAV9. Through its direct engagement of TfR1, a receptor of natural protein ligands as well as therapeutic biologics in humans, BI-hTFR1 represents a promising vector for the development of CNS-targeting human gene therapies."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 243.4,
+      "minX": 36,
+      "maxY": 251.4,
+      "maxX": 260.7,
+      "page": 2
+    }],
+    "text": "AAV capsids engineered to bind human TfR1"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 64.1,
+      "minX": 36,
+      "maxY": 237.5,
+      "maxX": 573.5,
+      "page": 2
+    }],
+    "text": "To target AAV capsids to TfR1, we screened AAV9-based NNK capsid libraries of variants with random 7-mer insertions between VP1 residues 588\u2013589 for selective binding to human TfR1 using our recently described receptor-targeting approach (25) (Fig. 1A). Based on the results of the in vitro screens, we chose four capsids that share a common sequence motif for validation: BI-hTFR1, BI-hTFR1-2, BI-hTFR1-3, and BI-hTFR1-4. We used each capsid to individually package a single-stranded genome that expresses nuclear mScarlet and Luciferase under the control of the ubiquitous CAG promoter (ssAAV-CAG-NLS-mScarlet-P2A-LuciferaseWPRE-SV40pA). The four capsids exhibited elevated association with and transduction of CHO cells that stably express human TFRC but not the control CHO cells or those that express TFRC from rhesus macaque, marmoset, or mouse (Fig. 1B and C, and fig. S1). We next tested whether the capsids were capable of increased association with and transduction of human brain endothelial cells that endogenously express TFRC. Although the extent of AAV associated with primary human brain microvascular endothelial cells (hBMVECs) and a human brain endothelial cell line (hCMEC/D3) varied (Fig. 1D), each of the four TfR1-binding capsids exhibited significantly enhanced transduction of both brain endothelial cell types compared to AAV9 (Fig. 1E)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 2
+    }],
+    "text": "2"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 3
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 675.8,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 570.9,
+      "page": 3
+    }],
+    "text": "To further assess the relative binding affinities of the capsids with purified human TfR1, we performed bio-layer interferometry (BLI). We derived kinetic constants using a multi-phasic binding model because a monovalent interaction algorithm led to a poor fit of the data. Factors that may contribute to the multi-phasic binding curves are outlined in the Materials and Methods section. Based on its performance across cell association and transduction assays and its ability to bind human TfR1 at lower concentrations (Fig. 1F and fig. S2A), we chose BI-hTFR1 for further investigation in the rest of this study."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 82.8,
+      "minX": 35.9,
+      "maxY": 228,
+      "maxX": 576.1,
+      "page": 3
+    }],
+    "text": "Fig. 1. AAV9 can be programmed to bind human TfR1. (A) An AAV9-based NNK capsid library of variants with random 7-mer insertions between VP1 residues 588\u2013589 was screened for selective binding to human TfR1 in pull-down or cell binding assays. Individually produced human TfR1-binding variants carrying a CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA construct exhibited enhanced species-specific (B) association with and (C) transduction (Luciferase activity) of CHO cells stably expressing TFRC (two-way ANOVA using AAV9 as the main comparison group for each cell line with Bonferroni multiple comparison correction: **** and *** indicate p ≤ 0.0001 and ≤ 0.001, respectively; n = 3 replicates, error bars indicate ± SEM). Values reported are normalized to AAV9 in each cell line. The TfR1-binding variants exhibited enhanced (D) association with and (E) transduction (Luciferase activity) of hBMVEC and hCMEC/D3 cells (one-way ANOVA using AAV9 as the comparison group for each cell line with Dunnett's multiple comparison correction: ****, ***, and * indicate p ≤ 0.0001, ≤ 0.001, and ≤ 0.05, respectively; n = 4 replicates, error bars indicate ± SEM). Values are normalized to AAV9 in each cell line. (F) The binding kinetics between each capsid and full-length human TfR1 were assessed by BLI. AAVX probes were loaded with capsid and human TfR1 was used as an analyte. Sensorgram curve fits (black dash-dot lines) were generated by applying global 2:1 exponential association and decay models."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 3
+    }],
+    "text": "3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 4
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 313.7,
+      "minX": 36,
+      "maxY": 320.9,
+      "maxX": 576.1,
+      "page": 4
+    }],
+    "text": "Fig. 2. Human TfR1-targeted capsids transduce human brain endothelial cells via interactions with the apical"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 152.4,
+      "minX": 36,
+      "maxY": 160.4,
+      "maxX": 238.4,
+      "page": 4
+    }],
+    "text": "BI-hTFR1 binds the TfR1 apical domain"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 55.9,
+        "minX": 36,
+        "maxY": 146.8,
+        "maxX": 574.5,
+        "page": 4
+      },
+      {
+        "minY": 620.6,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 575,
+        "page": 5
+      }
+    ],
+    "text": "To evaluate whether binding to TfR1 is necessary for the increased transduction of brain endothelial cells by BI-hTFR1, we assessed hCMEC/D3 transduction in the presence of two anti-TfR1 antibodies: OKT9, a monoclonal antibody that binds the TfR1 apical domain (26) or AF2474, a polyclonal antibody that competes with Transferrin (Tf) for TfR1 binding. We found that transduction was significantly inhibited by increasing concentrations of OKT9 but not by AF2474 (Fig. 2A), suggesting that an interaction with the human TfR1 apical domain was required for the enhanced transduction mediated by BI-hTFR1 in these cells. Consistent with this result, OKT9 directly competed with BI-hTFR1 for binding to purified human TfR1 (fig. S2B). Notably, binding to the TfR1 apical domain is a common feature of several antibody-based BBB shuttles that have been tested in humans and likely positions the binding site away from the Tf binding site. This is important because surface TfR1 is thought to be mostly occupied by Tf based on the typical 10\u201320 µM blood concentration of iron-bound holo-Tf (27) and its sub nanomolar binding affinity for TfR1 (fig. S2C). Given the double digit nanomolar affinity of BI-hTFR1 for human TfR1, Tf would be predicted to outcompete BI-hTFR1 for binding to TfR1 if their binding epitopes overlap. Using BLI, we found that BI-hTFR1 binds human TfR1 with similar kinetics whether in the presence or absence of a receptor-saturating concentration of holo-Tf (Fig. 2B and fig. S2D) and that BI-hTFR1 is capable of binding a preformed complex of human TfR1 and Tf (Fig. 2C). Consistent with the BLI results, OKT9, but not Tf, inhibited the association of BI-hTFR1 with hCMEC/D3 cells and its colocalization with human TfR1 (Fig. 2D and fig. S3)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 4
+    }],
+    "text": "4"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 5
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 596.9,
+      "minX": 36,
+      "maxY": 604.9,
+      "maxX": 332.7,
+      "page": 5
+    }],
+    "text": "Active trafficking of BI-hTFR1 across a human BBB model"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 417.4,
+      "minX": 36,
+      "maxY": 591.3,
+      "maxX": 575.4,
+      "page": 5
+    }],
+    "text": "To test AAV transport across a human endothelial cell barrier, we established a BBB transwell model using the hCMEC/D3 cell line and compared the amount of BI-hTFR1 that was transported across the endothelial barrier relative to AAV9 and AAV2. To minimize the effect of well-to-well variation, we mixed BI-hTFR1, AAV9, and AAV2 carrying barcoded genomes that were individually identifiable by qPCR (table S1), added this mixture to the media of the upper chambers which were maintained at 37°C or 4°C, and measured transport to the lower chamber three hours later (Fig. 3A). At 4°C, ATP-dependent transcytosis is suppressed but passive transport, at least in part due to paracellular crossing, can occur, providing a measurement of leakiness that is a known issue with the use of hCMEC/D3 transwell assays (28). As previously reported, AAV9 crossed the transwell barrier more efficiently than AAV2 at 37°C, and the number of vector genomes detected in the bottom chamber was significantly reduced at 4°C for both AAVs as is consistent with ATP-dependent transcytosis (2931). Significantly more BI-hTFR1 was actively transported to the bottom chamber than AAV9 or AAV2 (Fig. 3B). Passive transport of BI-hTFR1 and AAV2 were reduced relative to AAV9, likely due to increased association with the cells."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 200.4,
+      "minX": 36,
+      "maxY": 401.9,
+      "maxX": 572.2,
+      "page": 5
+    }],
+    "text": "RMT involves endocytosis, vesicular trafficking, and exocytosis (32). We explored whether BI-hTFR1 transcytoses hCMEC/D3 cells via the RMT pathway of TfR1 by assessing its colocalization with various organelle markers. We found that BI-hTFR1 partially colocalized with markers of the early and late endosomal pathway (Rab5 and Rab7) as well as the trans-Golgi network (TGN46), but did not extensively colocalize with markers of the cis-Golgi (Rcas1) or endoplasmic reticulum (KDEL) (Fig. 3C and fig. S4). In contrast, AAV2 was not highly colocalized with any of the endosomal or organelle markers with the exception of TGN46. Partial colocalization of both AAVs with TGN46 is consistent with the requirement for trafficking of AAVs to the trans-Golgi for transduction (33). Cell surface TfR1 clustering promotes clathrin-coated pit formation (34) and uptake into a subpopulation of endosomes enriched in Rab5 (35). This is consistent with our observation that BI-hTFR1 colocalized with Rab5 to a greater degree than AAV2. A smaller proportion of TfR1 colocalizes with Rab7 (36), which decorates endosomes associated with transcytosis (37) and the lysosomal degradation pathway. This is again consistent with our observation of a partial overlap between BI-hTFR1 and Rab7 localization in the cells. Our colocalization assays suggest that BI-hTFR1 engages TfR1 and is actively transported across the human BBB model via RMT. In contrast, AAV2 is predominantly trafficked to the trans-Golgi (33)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 5
+    }],
+    "text": "5"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 6
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 356.2,
+      "minX": 36,
+      "maxY": 363.4,
+      "maxX": 576,
+      "page": 6
+    }],
+    "text": "Fig. 3. BI-hTFR1 is efficiently endocytosed and actively transported across human brain endothelial cells. (A)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 275.5,
+      "minX": 36,
+      "maxY": 283.6,
+      "maxX": 168.4,
+      "page": 6
+    }],
+    "text": "CNS tropism of BI-hTFR1"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 54.5,
+      "minX": 36,
+      "maxY": 269.7,
+      "maxX": 575.9,
+      "page": 6
+    }],
+    "text": "Having established that BI-hTFR1 is more effective at transducing human brain endothelial cells via its interaction with TfR1 and is more efficiently transported across a human BBB model, we next sought to investigate whether BI-hTFR1 could cross the BBB in vivo by engaging human TfR1. To test this, we used TFRC knock-in (KI) C57BL/6J mice in which exons 4\u201319 of the mouse Tfrc encoding the extracellular domain were replaced by the corresponding region of human TFRC (Fig. 4A) (38). Levels of the mouse-human hybrid gene mRNA and protein products were found to be similar to those in WT mice (fig. S5). Therefore, we deemed these mice suitable for assessing the tropism of AAVs targeted to human TfR1. We intravenously injected BI-hTFR1 or AAV9:CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA at 5 x 1011 vg/mouse into adult female C57BL/6J or TFRC KI mice (Fig. 4B). Three weeks post-injection, we observed enhanced biodistribution to and transduction of the brain and spinal cord by BI-hTFR1 in the TFRC KI but not in control C57BL/6J mice (Fig. 4C and D, Fig. 5A and B, and fig. S6). Increased biodistribution and transduction relative to AAV9 were not observed in any of the other organs that were assessed, indicating that the interaction with human TfR1 selectively enhanced the CNS tropism. Comparing the TFRC KI mice that received BI-hTFR1 to the C57BL/6J mice that received AAV9, we detected 6-fold and 12-fold more viral genomes; 54-fold and 43-fold higher viral mRNA transcript levels; 132-fold and 58-fold greater Luciferase enzymatic activity in the brain and spinal cord, respectively. As expected, AAV9 transduction of the CNS was not significantly affected by genotype."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 6
+    }],
+    "text": "6"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 7
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 362.2,
+      "minX": 36,
+      "maxY": 369.4,
+      "maxX": 576,
+      "page": 7
+    }],
+    "text": "Fig. 4. BI-hTFR1 efficiently delivers genes to the CNS of TFRC KI mice. (A) In TFRC KI mice, mouse Tfrc exons 4\u201319"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 95,
+      "minX": 36,
+      "maxY": 255,
+      "maxX": 575.6,
+      "page": 7
+    }],
+    "text": "To evaluate the efficiency of transduction of specific cell types within the CNS, we assessed the fraction of cells positive for markers of neurons or astrocytes that expressed mScarlet. In TFRC KI mice, BI-hTFR1 transduced a mean of 54, 32, and 68% of NeuN+ neurons in the cortex, striatum, and thalamus, respectively (Fig. 5C and D). In contrast, in C57BL/6J mice, BI-hTFR1 transduced less than 1% of NeuN+ cells in the cortex and striatum and thalamus. AAV9 transduced 1\u20136% of NeuN+ cells in these same regions regardless of the mouse strain. BI-hTFR1 transduced more than 80% of the SOX9+ astrocytes in the cortex, striatum, and thalamus of TFRC KI mice, in comparison with 10% or fewer SOX9+ cells in C57BL/6J mice, or 20% or fewer SOX9+ cells transduced by AAV9 in C57BL/6J mice (Fig. 5E and F). Consistent with our biodistribution and transduction data, mScarlet levels in the livers of C57BL/6J and TFRC KI mice were comparable between AAV9 and BI-hTFR1 (fig. S6A and B). We observed a significant reduction of biodistribution to the DRGs in TFRC KI animals treated with BI-hTFR1 relative to AAV9 controls (Fig. 4C); DRG cell transduction by AAV9 or BI-hTFR1 in C57BL/6J or TFRC KI mice is shown in fig. S6C."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 7
+    }],
+    "text": "7"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 8
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 282.7,
+      "minX": 36,
+      "maxY": 289.9,
+      "maxX": 576,
+      "page": 8
+    }],
+    "text": "Fig. 5. BI-hTFR1 efficiently transduces neurons and astrocytes throughout the CNS. Representative (A) whole brain"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 190.6,
+      "minX": 36,
+      "maxY": 198.6,
+      "maxX": 325.4,
+      "page": 8
+    }],
+    "text": "BI-hTFR1 mediates GBA expression throughout the brain"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 52.3,
+      "minX": 36,
+      "maxY": 184.7,
+      "maxX": 571.2,
+      "page": 8
+    }],
+    "text": "We next evaluated BI-hTFR1's ability to deliver the human gene Glucosylceramidase Beta 1 (GBA1) to TFRC KI mice. We built a single-stranded AAV genome containing a hybrid cytomegalovirus enhancer-chicken betaActin (CMV-CBA) promoter driving the expression of human GBA1 with a C-terminal influenza virus hemagglutinin (HA) tag (Fig. 6A) (39). The genome was packaged into AAV9 or BI-hTFR1 and administered intravenously to TFRC KI mice at a dose of 1 x 1014 vg/kg, which is comparable to the weight-adjusted dose of the FDA-approved AAV9-based Zolgensma gene therapy for spinal muscular atrophy. Additionally, we administered BI-hTFR1:GBA1 to a separate group of TFRC KI mice at a 20-fold lower dose (5 x 1012 vg/kg). For the untreated control mice, we used C57BL/6J mice, which possess the same genetic background as the TFRC KI mice. Three weeks post-administration, we detected ~30 times more AAV genomes in the brains of mice treated with BI-hTFR1 as compared with those of mice that received AAV9 (Fig. 6B)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 8
+    }],
+    "text": "8"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 9
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 248.2,
+      "minX": 36,
+      "maxY": 255.4,
+      "maxX": 576,
+      "page": 9
+    }],
+    "text": "Fig. 6. BI-hTFR1 efficiently delivered GBA1 and increased GCase activity in the brains of TFRC KI mice. (A)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 54.7,
+        "minX": 36,
+        "maxY": 118,
+        "maxX": 574.3,
+        "page": 9
+      },
+      {
+        "minY": 620.6,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 575.3,
+        "page": 10
+      }
+    ],
+    "text": "We observed robust brain-wide expression of GBA-HA as assessed by HA immunostaining (Fig. 6C) and significantly elevated glucocerebrosidase (GCase) activity in brain tissue lysates and the CSF, compared to the mice injected with the high dose of AAV9 or control C57BL/6J mice (Fig. 6D, and fig. S7A and B). In the mice injected with the high dose of AAV9, we observed minimal GBA expression in the brain but similar amounts of viral genomes, GBA expression, and GCase activity in the liver compared to the mice injected with the high dose of BI-hTFR1 (Fig. 6B and 6D, and fig. S7C); as expected, in the mice injected with the low dose of BI-hTFR1, the amount of viral genomes in the liver was reduced relative to the high dose AAV9 group. Reductions in GCase activity in the brain and CSF have been reported to be associated with the progression of Parkinson's disease (40, 41), and previous studies suggest that GBA1 delivery to the brain can treat neuronal αsynucleinopathy (42\u201344). Notably, in the mice that received the low dose of BI-hTFR1, we observed neuronal transduction in regions linked to motor symptoms of Parkinson's disease such as the substantia nigra pars compacta, deep cerebellar nuclei, and other parts of the brainstem (Fig. 6C and fig. S7A) (45). Under the same imaging conditions, GBA-HA was not detected in the brains of the mice injected with the high dose of AAV9. This suggests that a 20-fold lower dose of BI-hTFR1 led to greater GBA levels in disease-relevant brain regions compared to AAV9."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 570,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 9
+    }],
+    "text": "9"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 10
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 471.4,
+      "minX": 36,
+      "maxY": 590.1,
+      "maxX": 572.9,
+      "page": 10
+    }],
+    "text": "In this study, we leveraged a well established mechanism\u2014engagement of the apical domain of human TfR1\u2014 to shuttle an engineered AAV capsid, BI-hTFR1, across the BBB. Protein shuttles designed to bind human TfR1 to facilitate RMT are now in the clinic and are showing evidence of CNS entry (NCT04023994) and efficacy (46). The TfR1 apical domain is also a receptor target of natural viruses (47\u201351), indicating that this protein can be exploited for viral entry. Importantly, we demonstrated that BI-hTFR1 binds human TfR1 and pre-formed TfR1-Tf complexes with comparable kinetics and does not compete with holo-Tf for TfR1 binding. The ability to bind TfR1 in the presence of its natural ligand is critical because AAVs cannot be administered at doses capable of competing with Tf for TfR1 binding. The use of this validated transport mechanism bolsters our confidence that BI-hTFR1 can perform well as a CNS-targeting human gene therapy vehicle."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 378.5,
+        "minX": 36,
+        "maxY": 455.9,
+        "maxX": 564.3,
+        "page": 10
+      },
+      {
+        "minY": 258.2,
+        "minX": 36,
+        "maxY": 363,
+        "maxX": 562.6,
+        "page": 10
+      }
+    ],
+    "text": "We engineered BI-hTFR1 to bind TfR1 by inserting a novel 7-mer TfR1 recognition sequence directly within surface loop VIII of the capsid. Because our approach did not require the introduction or conjugation of bulky protein domains as a means to retarget the AAV (52\u201358), we do not anticipate additional complexities in the manufacturing of BI-hTFR1 compared to AAV9, one of the top producing natural AAVs. Indeed, we consistently produced and purified BI-hTFR1 with final yields comparable to those of AAV9, and determined that BI-hTFR1 can be purified with affinity resins commonly used in AAV manufacturing (fig. S8) As compared to natural AAV capsids such as AAV9 and AAV2 that are used in approved gene therapies, BI-hTFR1 demonstrated the remarkable ability to be actively transported across a human brain endothelial cell layer and to cross the BBB and transduce cells throughout the brains and spinal cords of TFRC KI mice after intravenous delivery. BI-hTFR1 exhibited a broad CNS tropism enhancement similar to those observed with engineered mouse BBB-crossing capsids, e.g., AAV-PHP.B, BI28, AAVF, and 9P31 that bind to mouse GPIanchored proteins LY6A, LY6C1, or Car4 (25, 59, 60). By engaging highly abundant CNS endothelial cell surface proteins as new receptors, these capsids are able to efficiently cross the BBB and gain access to parenchymal cells."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 96.2,
+      "minX": 36,
+      "maxY": 242.6,
+      "maxX": 575,
+      "page": 10
+    }],
+    "text": "A critical advantage of BI-hTFR1 and other capsids developed through target receptor binding screens is that their MOA is well established, thus their species tropism is predictable and can inform large animal experiments. This stands in contrast to capsids identified from conventional selections with unknown MOAs and therefore unknown potential to translate to other species including humans. We do not expect the human TfR1-targeting AAVs reported in this study to exhibit enhanced CNS tropisms in NHPs such as macaques and marmosets. Therefore, tests in these species would only be valuable in terms of profiling biodistribution, immune responses, and toxicity in the absence of the target, human TfR1. Knowing the precise target of the AAV capsid also aids the prediction of its function in human patients. For instance, there are no known missense variants with an allele frequency greater than 1 in a 1000 within the TFRC apical domain (61). Therefore, we predict that BI-hTFR1 binding to human TfR1 will not be impacted by common variations within the coding sequence of the human apical domain."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59,
+        "minX": 36,
+        "maxY": 80.8,
+        "maxX": 565.5,
+        "page": 10
+      },
+      {
+        "minY": 620.6,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 574.2,
+        "page": 11
+      }
+    ],
+    "text": "A second advantage of human receptor-targeting capsids is that gene therapies leveraging these vectors can be tested in KI mouse models possessing both the human target receptor and disease-relevant mutation(s). For instance, disease models are typically created using mice and, in the absence of a capsid with an enhanced CNS tropism that translates across species, studies will need to use a surrogate mouse BBB-crossing capsid to deliver and test their potentially therapeutic payloads in these disease models. With BI-hTFR1, the gene therapy product that would be delivered to human patients can be tested, without switching out the capsid for a surrogate, in a mouse disease model that has been crossed with TFRC KI mice. Using a therapeutically relevant payload, we found that BI-hTFR1 could deliver 30 times the number of AAV:GBA1 genomes to the brains of TFRC KI mice and increase brain and CSF GCase activity as compared to AAV9. Even at a 20-fold lower dose, GBA1 expression was detectable throughout the brain in BI-hTFR1:GBA1 treated mice. However, the TFRC KI mice were WT with respect to Gba1 and only the high dose of BI-hTFR1:GBA1 led to increased brain and CSF GCase activity that were detectable above the endogenous mouse GCase activity."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 10
+    }],
+    "text": "10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 11
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 555.4,
+      "minX": 36,
+      "maxY": 605,
+      "maxX": 570.3,
+      "page": 11
+    }],
+    "text": "Collectively, our results demonstrate that BI-hTFR1 can leverage the RMT activity of human TfR1 to cross the BBB and deliver genes widely and efficiently to neurons and glia throughout the CNS. These qualities provide strong support for the further exploration of BI-hTFR1 as a broadly applicable vehicle for human CNS gene therapies."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 11
+    }],
+    "text": "11"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 12
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 591.6,
+      "minX": 36,
+      "maxY": 737.9,
+      "maxX": 574.5,
+      "page": 12
+    }],
+    "text": "Animals All procedures were performed as approved by the Broad Institute IACUC. C57BL/6J (000664) were obtained from The Jackson Laboratory (JAX). TFRC KI mice (C57BL/6-Tfr1tm1TFR1/Bcgen, B-hTFR1, 110861) were obtained from Biocytogen. Recombinant AAV vectors were administered intravenously via the retro-orbital sinus in young adult male or female mice. Mice were randomly assigned to groups based on predetermined sample sizes. Transgenic animals were genotyped using DNeasy Blood & Tissue Kit (Qiagen, 69504) using primers listed in table S1. Two mice were excluded from analysis in Fig. 4, Fig. 5, fig. S5, and fig. S6: The first was a mouse assigned to receive AAV9 in the TFRC KI group but was determined to be a WT by genotyping and western blotting. One mouse in the BI-hTFR1-treated C57BL/6J group displayed no evidence of transduction in the biodistribution, transduction, or Luciferase assays, and showed no fluorescent reporter signal in the liver or the brain. Experimenters were not blinded to the sample groups."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 485.3,
+      "minX": 36,
+      "maxY": 576.2,
+      "maxX": 572.9,
+      "page": 12
+    }],
+    "text": "Mice were euthanized with Euthasol and transcardially perfused with PBS at room temperature followed by 4% paraformaldehyde (PFA) in ice cold PBS. Tissues were post-fixed overnight in 4% PFA in PBS and sectioned by vibratome. Immunohistochemistry (IHC) was performed on floating sections with antibodies diluted in PBS containing 5% donkey serum, 0.1% Triton X-100, and 0.05% sodium azide. Primary antibodies NeuN 1:500 (Invitrogen, MA5-33103), SOX9 1:250 (abcam, ab185966) were incubated at room temperature overnight. The sections were then washed and stained with secondary Alexa-conjugated antibodies Alexa Fluor 647 (Invitrogen, A-31573) and Alexa Fluor 555 (Invitrogen, A-21427) at 1:1000 for four hours or overnight."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 416.2,
+      "minX": 36,
+      "maxY": 465.8,
+      "maxX": 567.9,
+      "page": 12
+    }],
+    "text": "Plasmids AAV9 and the BI-hTFR1 Rep-Cap plasmids were generated by gene synthesis (GenScript). The CAG-WPREhGH pA backbone was obtained from Viviana Gradinaru's lab through Addgene (#99122). GFP, GFP-2Aluciferase, and mScarlet cDNAs were synthesized as gBlocks (IDT) or synthesized and cloned (GenScript)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 350.9,
+      "minX": 36,
+      "maxY": 400.7,
+      "maxX": 575.6,
+      "page": 12
+    }],
+    "text": "Full-length TFRC cDNA expression and lentiviral plasmids were cloned by inserting the open reading frames of TFRC (human: NM_003234.4; mouse: NM_011638.4; marmoset: NM_001301847.1, macaque: NM_001257303.1) into the lentiviral backbone pLenti-EF-FH-TAZ-ires-blast (Addgene #52083) with EcoRI/SalI sites."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 271.9,
+      "minX": 36,
+      "maxY": 335.4,
+      "maxX": 564.2,
+      "page": 12
+    }],
+    "text": "For the C-terminal Fc fusion protein, the coding sequence of the extracellular region of human TfR1 (residues 89\u2013760) were amplified by PCR and inserted into pCMV6-XL4 FLAG-NGRN-Fc (Addgene #115773) with EcoRV and XbaI sites. The signal peptide H7 (ATGGAGTTTGGGCTGAGCTGGGTTTTCCTCGTTGCTCTTTTTAGAGGTGTCCAGTGT) was introduced to N terminal of the TFRC sequence to direct protein secretion."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 193,
+      "minX": 36,
+      "maxY": 256.5,
+      "maxX": 564.9,
+      "page": 12
+    }],
+    "text": "For the N-terminal Fc fusion protein, the coding sequence of the extracellular region of human TfR1 (residues 89\u2013760) was amplified by PCR. An N-terminal Fc region with an N-terminal H7 signal peptide and a C-terminal GS linker was ordered from IDT. The desired region of plasmid pCMV6-XL4 FLAG-NGRN-Fc (Addgene #115773) was amplified by PCR. These three DNA fragments were assembled with NEBuilder® HiFi DNA Assembly (NEB E2621)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 127.7,
+      "minX": 36,
+      "maxY": 177.5,
+      "maxX": 572.6,
+      "page": 12
+    }],
+    "text": "Cell lines and primary cultures HEK293T/17 (CRL-11268), Pro5 (CRL-1781), and CHO-K1 (CCL-61) were obtained from ATCC. hBMVECs cells (H-6023) were obtained from Cell Biologics and cultured as directed by the manufacturer. hCMEC/D3 cells were obtained from Millipore-Sigma (SCC066)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 62.9,
+        "minX": 36,
+        "maxY": 112.2,
+        "maxX": 573.3,
+        "page": 12
+      },
+      {
+        "minY": 661.9,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 572.2,
+        "page": 13
+      }
+    ],
+    "text": "Reconstitution of full-length TfR1 Full-length human TfR1 was reconstituted into Peptidiscs (PEPTIDISC LAB, dissolved at 2 mg/mL in 20 mM TrisHCL, pH 8). Briefly, HEK293 cells expressing C-terminally tagged full-length human TfR1 were harvested by centrifugation at 300 × g. Cells were lysed by sonication and fractionated by centrifugation at 15,000 × g to remove nuclei and cell debris and at 100,000 × g to pellet the cell membrane. Membrane was resuspended in Buffer A (TrisHCl, pH 7.5, 50 mM NaCl, 10% glycerol) to 10 mg/mL, and then supplemented with 0.8% n-Dodecyl-β-D-Maltoside (DDM, Goldbio, no. DDM5) at 4°C with gentle agitation to solubilize the membranes. Anti-FLAG M2 magnetic beads (Sigma-Aldrich) were incubated with the solubilized membrane and washed with buffer A with 0.02% DDM. Beads were incubated for five minutes at room temperature in a solution of 1 mg/mL Peptidisc peptide and then thoroughly washed in buffer A without detergent. Peptidisc-TfR1 was eluted in TrisHCl, pH 7.5, 150 mM NaCl, 0.1 mg/mL 3XFLAG peptide and analyzed by SDS-PAGE."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 12
+    }],
+    "text": "12"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 13
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 583,
+      "minX": 36,
+      "maxY": 646.5,
+      "maxX": 565.9,
+      "page": 13
+    }],
+    "text": "Bio-Layer Interferometry A GatorPrime instrument was used for the characterization of the binding dynamics for all BLI studies and all analysis was conducted with Gator Bio software v 2.10.4.0713. Experiments were run in black 384 well plates (Greiner Bio-One, 781906). All reagents and buffer wells were prepared with Q buffer and probes from Gator Bio."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 490.1,
+      "minX": 36,
+      "maxY": 567.5,
+      "maxX": 575.8,
+      "page": 13
+    }],
+    "text": "For AAV capsid binding to full-length human TfR1, AAVX probes (Gator Bio) were equilibrated in Q buffer and then loaded with either BI-hTFR1, BI-hTFR1-2, BI-hTFR1-3, BI-hTFR1-4, or AAV9 by uniform thresholding to an 8 nm shift. Seven serial dilutions of full-length human TfR1-FLAG were associated to each capsid for 120 seconds and then dissociated in Q buffer for 120 seconds. Only the five highest concentrations are shown on sensorgrams. Three trials of the assay were performed. A probe incubated with Q buffer instead of human TfR1 was included in each trial for background subtraction."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 438.7,
+      "minX": 36,
+      "maxY": 474.6,
+      "maxX": 571.3,
+      "page": 13
+    }],
+    "text": "For BI-hTFR1 and AAV9 binding to pre-incubated Tf with full-length human TfR1, assays and analysis were conducted as above but with 300 nM holo-Tf (Millipore Sigma T413) pre-incubated with each dilution of TfR1 for 15 minutes."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 249.4,
+      "minX": 36,
+      "maxY": 423.3,
+      "maxX": 573.9,
+      "page": 13
+    }],
+    "text": "For kinetic analysis of capsid binding to TfR1, the sensorgram data from each of three trials using seven different analyte concentrations per capsid displayed clear multi-phasic binding and dissociation characteristics that could not be explained by a monovalent interaction. Therefore, we used the global 2:1 exponential association and decay model. However, we are not implying that the binding between the TfR1-targeting capsids and TfR1 is bivalent. The kinetic constants shown in fig. S2 should be interpreted with caution due to the following factors: First and foremost, the high density of binding epitopes on the AAV surface may lead to local increases in the effective concentration of the receptor analyte, which results in a higher apparent affinity (62). Second, TfR1 itself is bivalent, which could contribute to the aforementioned avidity artifact and also result in the bridging of closely loaded adjacent AAVs. While probes were loaded to less than 60% of their total binding capacity, the uniformity of loading cannot be controlled and a fraction of the measurements may result from 2:1 binding of the receptor dimers to adjacent capsids (63). Third, transitional binding states due to conformational changes or sequential binding events may contribute to our observation of multi-phasic binding kinetics."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 170.4,
+      "minX": 36,
+      "maxY": 233.9,
+      "maxX": 558.8,
+      "page": 13
+    }],
+    "text": "The software-computed rate constants from these replicate fittings were subject to QC thresholding that included R2 > 0.99, Gator-computed error ratios of <25% of their respective kinetic constants, and fitting residuals <10%. In the cases of both BI-hTFR1-3 and BI-hTFR1-4, one replicate was eliminated due to a kon error ratio of greater than 25%. Trials with QC threshold-passing data were averaged and their standard error was taken."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64.1,
+        "minX": 36,
+        "maxY": 155,
+        "maxX": 573.6,
+        "page": 13
+      },
+      {
+        "minY": 717.1,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 575.6,
+        "page": 14
+      }
+    ],
+    "text": "For the tandem competition binding assays, a human TfR1 apical domain-targeting antibody, OKT9 (Thermo Fisher Scientific) was chosen as a competitor. The extracellular domain of human TfR1 (residues 89\u2013760) was recombinantly expressed as an N-terminal Fc-fusion protein (Fc-hTfR1) in Expi293 suspension cells and purified by gravity flow with PierceTM Protein A Agarose (Thermo Fisher Scientific). HFCII probes were loaded with Fc-hTfR1 by thresholding to a 1 nm shift. Fc-TfR1-loaded probes were associated in tandem, first to BI-hTFR1 until the signal reached approximately 2 nm, and subsequently to the OKT9 antibody at 250, 100, 50, or 25 nM or in Q buffer alone. The latter was included to demonstrate BI-hTFR1 dissociation in the absence of competitor OKT9. In parallel, a Fc-hTfR1 loaded probe was associated first in Q buffer alone and next in 250 nM of the OKT9 antibody to demonstrate maximum antibody binding in the absence of capsid. The two association phases were 240 and 360 seconds, respectively."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 13
+    }],
+    "text": "13"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 14
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 527.8,
+      "minX": 36,
+      "maxY": 701.7,
+      "maxX": 574.9,
+      "page": 14
+    }],
+    "text": "For the triple tandem binding assays involving holo-Tf, holo-Tf was biotinylated for two hours on ice with an EZ-LinkTM Sulfo-NHS-LC-LC-Biotin kit (Thermo Fisher Scientific) and then buffer exchanged into PBS with a 0.5 mL Pierce Protein Concentrator PES column with a 10K MWCO to remove unreacted biotin. Streptavidin (SA) probes were equilibrated in Q buffer and then loaded to a 2 nm shift with biotinylated holo-Tf or were incubated in Q buffer to serve as a no-ligand control. Three of the probes were submitted to sequential binding steps for 240 seconds each. The probes were incubated in Q buffer for 240 or 120 seconds between each binding step to demonstrate <10% baseline drift (i.e., loss of binding) before binding the next molecule. In channel 1, the holo-Tf-loaded probe was associated first with 150 nM full-length human TfR1, next with Q buffer only, and finally with BI-hTFR1. In channel 2, the holo-Tf loaded probe was associated with TfR1, then 200 nM OKT9 antibody, and finally with BI-hTFR1 capsid. In channel 3, the holo-Tf-loaded probe was associated with Q buffer alone, then the OKT9 antibody, and finally with BI-hTFR1. In channel 4, the unloaded probe was associated with TfR1, then OKT9 antibody, and finally with BI-hTFR1 to reveal any nonspecific binding to the probe."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 379.7,
+      "minX": 36,
+      "maxY": 512.3,
+      "maxX": 575.8,
+      "page": 14
+    }],
+    "text": "For full-length hTfR binding to human holo-Tf, MFC probes were equilibrated in Q buffer and then loaded with anti-Tf monoclonal antibody 12A6 (Thermo Fisher Scientific) to a 1 nm shift. Next, holo-Tf was loaded as ligand to saturation. Serial dilutions of full-length peptidisc-reconstituted hTfR1-FLAG were associated with holo-Tf for 120 seconds and then dissociated in Q buffer for 120 seconds. Three trials of the experiment were performed. A probe incubated with Q buffer alone was included in each trial for background subtraction in sensorgram curve fittings and kinetics analysis. For subsequent kinetics analysis, the sensorgram data from each of three trials were fitted with global 1:1 exponential association and decay models. The software-computed rate constants from these replicate fittings were subject to QC thresholding that included R2 > 0.99, computed error ratios of <10% of their respective kinetic constants, and fitting residuals <10%. Kinetics values were averaged and their standard error was taken."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 273.1,
+      "minX": 36,
+      "maxY": 364.2,
+      "maxX": 568.3,
+      "page": 14
+    }],
+    "text": "Lentivirus production Lentivirus was produced with a third-generation lentivirus system by cotransfection of three packaging plasmids (pMDLg-RRE, pRSV-Rev, and pVSV-G) and vector plasmid (pLenti-EF-FH-TAZ-IRES-blast, a gift from Yutaka Hata, Addgene plasmid # 52083) encoding the entire coding sequences of TFRC or Tfrc (human: NM_001128148; macaque: NM_001257303; marmoset: NM_001301847; or mouse: NM_011638.4) at a ratio of 4:1:1:6 in HEK293T/17 cells. Lentiviruses were harvested from the media three days after transfection and filtered with 0.45 µm PES to remove cell debris."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 139,
+      "minX": 36,
+      "maxY": 257.7,
+      "maxX": 570.5,
+      "page": 14
+    }],
+    "text": "Exogenous TfR1 expression in CHO cell lines CHO cell lines expressing human, macaque, or marmoset TFRC or mouse Tfrc were established via random lentiviral integration. Briefly, CHO cells were seeded at 150,000 cells/well in 12-well plates and transduced with lentivirus-containing media for 48 hours, then transferred to 10 cm dishes for selection with 10 µg/mL blasticidin for one week followed by maintenance in media with 1 µg/mL blasticidin. To validate expression of the desired construct, RNA was extracted from cells using the Qiagen RNeasy Kit. Maxima H Minus Reverse Transcriptase (ThermoFisher, EP0753) and oligo dT were used for cDNA synthesis. Species-specific primers were used for qPCR (table S1). CHO cells expressing TfR1 from each species were also assessed by immunostaining with two anti-TfR1 antibodies: ab84036 (Abcam) and OKT9 (eBioscienceTM) (fig. S1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 60.2,
+        "minX": 36,
+        "maxY": 123.5,
+        "maxX": 569.9,
+        "page": 14
+      },
+      {
+        "minY": 593,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 575.3,
+        "page": 15
+      }
+    ],
+    "text": "AAV production and titering The AAV9 variant capsids carrying CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA or CMV/CBA-GBA1-HA-pA were either produced in suspension followed by iodixanol purification and titered as previously described (64) or produced using adherent cells as previously described (65). Production, purification methods, and post-purification yields are provided in figure S8. For BLI experiments, AAV vectors were produced in adherent HEK293T cells and purified by static binding (3 to 10 plates per preparation). At 72 hours post-transfection, the cells and supernatant (60\u2013200 mL per prep) were collected in 125\u2013500 mL shake flasks, incubated with 0.1% Triton X-100, 2 mM MgCl2 and 25 U/mL benzonase (Sigma, E1014-25KU) for 90 minutes at 37°C, and centrifuged for 10 minutes at 3724 ×g for clarification. The clarified lysates were incubated with 150 µL POROS AAV9 resin (Thermofisher, A27353), at 37°C for 90 minutes, under agitation (1.14 ×g). The mixes were loaded into detergent removal spin columns (Thermofisher, 87778) and supernatants were discarded using a vacuum manifold. POROS AAV9 beads were rinsed three times with 5 mL PBS, using a vacuum manifold. AAV vectors were eluted in 15 mL Falcon tubes, with 2 mL elution buffer (0.1 M Glycine, pH2.5) and neutralized with 500 µL 1 M Tris, 0.5 M NaCl, pH 8. AAVs were dialysed against 3 × 2 L of PBS (with calcium and magnesium) supplemented with 0.001% Pluronic F-68, using float-a-lyzer G2 dialysis cassettes with a MWCO of 8\u201310 Kd (Repligen, G235067), or buffer exchanged and concentrated in the same final formulation, using centrifugal filters with a MWCO of 100 Kd (Thermofisher, 88532)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 14
+    }],
+    "text": "14"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 15
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 264.5,
+      "minX": 36,
+      "maxY": 577.4,
+      "maxX": 575.3,
+      "page": 15
+    }],
+    "text": "Affinity purification of BI-hTFR1 Affinity purification was performed using POROS CaptureSelect AAVX and AAV9 resins bought as pre-packed 1 mL columns (Thermo Fisher Scientific, A36652 and A36650). Prior to affinity purification, lysate was clarified using a Clarisolve CS40 depth filter (Millipore Sigma, CS40MS02H1) and an Opticap XL2 Polysep sterilizing 0.22 µm filter (Millipore Sigma, KGW3A02TT3). Clarified lysate was then frozen at -20°C until processing. Clarified lysate was warmed up at room temperature at least 12 hours prior to affinity purification and then sterile filtered using a vacuum bottle filter (VWR International LLC, 28199-778). AAVX and AAV9 columns were attached to an AKTA Pure 25 L chromatography system (Cytiva, 29018224) containing an auxiliary sample pump S9 (Cytiva, 29027745). The chromatography column was pre-equilibrated with five column volumes of deionized H2O and five column volumes of equilibration buffer (50 mM Tris, 150 mM NaCl, 0.01% Pluronic F-68, pH 7.5) prior to application of the AAV-containing clarified lysate at a flow rate of 0.5 mL/min. 195\u2013240 column volumes of clarified lysate were loaded onto the columns at a flow rate of 0.5 mL/min. After sample application, the column was washed with five column volumes of equilibration buffer and high salt wash buffer (50 mM Tris, 500 mM NaCl, 0.01% Pluronic F-68, pH 7.5). The bound AAV was eluted using five column volumes of buffer A (100 mM Citric Acid, 75 mM NaCl, 0.5 M L-Arginine, 0.01% Pluronic F-68, pH 3.0) for POROS CaptureSelect AAV9 or five column volumes of Buffer B (100 mM Citric Acid, 75 mM NaCl, 0.01% Pluronic F-68, pH 2.5) for POROS CaptureSelect AAVX. Isocratic elution was performed in upflow at a flow rate of 0.5 mL/min and samples were collected based on peak fractionation. Resin was then washed with five column volumes of equilibration buffer. Following re-equilibration, strip phases were performed using five column volumes of 0.1 M phosphoric acid and high pH strip buffer (20 mM Tris, 0.5 M L-Arginine, 0.2 M NaOH, 0.5M NaCl, pH 10.8). Strip phases were collected using the fraction collector. Resin was then washed with five column volumes of equilibration buffer, deionized H2O and 20% ethanol. Neutralized samples were stored at -20°C until titration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 117.6,
+      "minX": 36,
+      "maxY": 250,
+      "maxX": 575.9,
+      "page": 15
+    }],
+    "text": "Binding assays CHO cells stably expressing human, macaque, or marmoset TFRC or mouse Tfrc were seeded at 30,000 cells per well; hCMEC/D3 cells were seeded at 30,000 cells per well; and hBMVEC cells were seeded at 15,000 cells per well. At 24 hours post-seeding, each well was subjected to a media change with the fresh cold media that contained each AAV variant carrying CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA at 3,000, 6,000, or 12,000 vg/cell for CHO, hCMEC/D3, or hBMVEC cells, respectively. The plate was then maintained at 4°C with gentle rocking for one hour, followed by five phosphate buffered saline (PBS) washes. Cells were treated with Proteinase K at 56°C for one hour, followed by heat inactivation at 95°C for 10 minutes. Total DNA extraction was performed using the DNeasy kit (Qiagen). The DNA was diluted 1:20 and subjected to qPCR with the mScarlet-qPCR-F and mScarlet-qPCR-R primers (table S1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 52.6,
+        "minX": 36,
+        "maxY": 102.2,
+        "maxX": 569.9,
+        "page": 15
+      },
+      {
+        "minY": 689.5,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 564.2,
+        "page": 16
+      }
+    ],
+    "text": "Transduction assays CHO cells stably expressing human TFRC or macaque, marmoset, or mouse Tfrc were seeded at 100,000 cells per well; hCMEC/D3 cells were seeded at 10,000 cells per well; and hBMVEC cells were seeded at 5,000 cells per well. At 24 hours post-seeding, each well was subjected to a media change with the fresh media that contained the AAV variant carrying CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA at 3,000, 6,000, or 12,000 vg/cell for CHO, hCMEC/D3, or hBMVEC cells, respectively, and the plate was maintained at 37°C with 5% CO2 for 24 hours. Transduction was measured using the Britelite Plus reporter gene assay system (PerkinElmer, 6066766). Luciferase activity was reported in relative light units (RLU) as raw data or normalized to AAV9 controls."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 15
+    }],
+    "text": "15"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 16
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 610.6,
+      "minX": 36,
+      "maxY": 674.1,
+      "maxX": 571.5,
+      "page": 16
+    }],
+    "text": "Antibody inhibition assays The hCMEC/D3 cells were seeded at 7,500 cells per well. Two days later, 100 µL of media with 3 x 108 vg/mL AAV and the specified concentration of OKT9 or R&D AF2474 antibody was transferred to each well. The plate was maintained at 37°C with 5% CO2 for 24 hours. Transduction was measured using the Britelite Plus reporter gene assay system."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 448.8,
+      "minX": 36,
+      "maxY": 595.1,
+      "maxX": 571.9,
+      "page": 16
+    }],
+    "text": "Transwell assays hCMEC/D3 cells (under nine passages) were maintained in EGM2-MV media with VEGF (Lonza, CC4147). Falcon® Permeable Supports for 24-well Plates with 1.0 µm Transparent PET Membranes (Corning, 353104) were prepared by coating with collagen type I (Millipore, 08-115) diluted 1:50 in PBS and incubating at 37°C for two hours. On Day 0, cells were plated at 30,000/cm2 on the membrane and grown for two days in 200 µL of EGM2-MV media with VEGF on the top of the membrane and 600 µL of media in the lower chamber. On Day 2 and Day 4, the media at both the top and bottom of the transwell was changed to EGM2-MV media without VEGF, and the media at the bottom of the transwell was changed to Astrocyte Conditioned Media (Sciencell, 1811). Starting from Day 4, TEER values were measured using the EVOM2 meter (World Precision Instruments). TEER values were calculated as the ohmmeter readout in wells with cells minus the ohmmeter readout in wells without cells, multiplied by the surface area in cm2 units."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 287,
+      "minX": 36,
+      "maxY": 433.4,
+      "maxX": 574.2,
+      "page": 16
+    }],
+    "text": "Transwell permeabilities using this process were previously validated by measuring the permeability of Dextran FITC 4k (Sigma, 46944), 40k (Biotium, 76221-470), and 70k (Biotium, 76221-460). TEER values peaked on Day 6, reaching values >10 Ω/cm2, which is when AAVs were added to the transwells. BI-hTFR1, AAV2, and AAV9 with capsid-specific barcoded transgenes were pooled and added to the top well of the transwell at 25,000 vg/cell (each AAV). After three hours of incubation at 37°C or 4°C, 22 µL of media was extracted from the bottom chamber. To detect the amount of AAV in the media, extracts were treated with DNaseI (NEB, M0303S) for 15 minutes at room temperature, then diluted in TE buffer (5 mM EDTA), and denatured at 70°C for 10 minutes to deactivate DNaseI. The extracts were then diluted in 5% Tween 20 with UltraPure™ Salmon Sperm DNA Solution (ThermoFisher, 15632011). The amount of AAV that passed through the transwell was measured by qPCR using a standard curve of known AAV quantities derived from AAV-containing media applied to the top well."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 111.4,
+      "minX": 36,
+      "maxY": 271.4,
+      "maxX": 575.3,
+      "page": 16
+    }],
+    "text": "Immunofluorescence staining and colocalization in hCMEC/D3 cells For the imaging of BI-hTFR1 or AAV2 binding to hCMEC/D3 cells with or without OKT9 or Tf-647, BI-hTFR1 and AAV2 were added to hCMEC/D3 cells in optical plates (PhenoPlate 96-well, PerkinElmer, 6055302) at 50,000 vg/cell, while Tf-647 (ThermoFisher, T23366) and purified TfR1 antibody (OKT-9, AAT Bioquest, 10713000) at a 1:200 dilution were added to wells to reach a final concentration of 1 µg/mL each. Cells were incubated for one hour at 4°C, rinsed three times with PBS, fixed with 4% paraformaldehyde, and blocked (Avidin/Biotin Blocking Kit, SP-2001, Vector Laboratories) prior to applying Anti-AAV9 (1:200 dilution, ThermoFisher, 7103332100) to the wells treated with BI-hTFR1 or the wells with no virus, or Anti-AAVX (1:200 dilution, ThermoFisher, 7103522100) to the wells treated with AAV2. After three PBS washes to clear away unbound primary antibodies, Streptavidin 555 (1:500 dilution, Thermofisher, S21381) and Alexa Fluor© 488 (1:500 dilution, JacksonImmunoResearch, 115-545-003) were applied for the visualization of AAVs and TfR1, respectively."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 60,
+      "minX": 36,
+      "maxY": 95.9,
+      "maxX": 549.9,
+      "page": 16
+    }],
+    "text": "To image AAV colocalization with Tf-647, BI-hTFR1 or AAV2 were added to hCMEC/D3 cells in optical plates at 25,000 vg/cell with Tf-647 (1 µg/mL). Cells were incubated for one hour at 4°C, followed by immunostaining as described above."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 16
+    }],
+    "text": "16"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 17
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 689.5,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 572.7,
+      "page": 17
+    }],
+    "text": "To image AAV and TfR1 colocalization, BI-hTFR1 or AAV2 were added to hCMEC/D3 cells in optical plates at 25,000 vg/cell. Cells were incubated for one hour at 37°C, prepared for immunostaining as described above but with the addition of a permeabilization step prior to the blocking of endogenous biotin to visualize TfR1. Streptavidin 555 (1:500 dilution, Thermofisher, S21381) and goat anti-mouse 647 nm (1:500 dilution, 115-605062, Jackson ImmunoResearch) were applied."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 569,
+      "minX": 36,
+      "maxY": 674.1,
+      "maxX": 559.3,
+      "page": 17
+    }],
+    "text": "For organelle colocalization, the following conjugated reagents were applied: Rab5 ((D-11) FITC, 1:100 dilution, Santa Cruz Biotechnology, sc-46692), Rab7 (1:400 dilution, abcam, ab198337), KDEL (1:500 dilution, abcam, ab184819), RCAS1 (1:200 dilution, Cell Signaling Technology, 12290), and TGN46 (1:50 dilution, abcam, ab50595). For unconjugated antibodies (RCAS1 and TGN46), goat anti-rabbit 488 (Alexa Fluor® 488 AffiniPure Goat Anti-Rabbit IgG (H+L), 1:500 dilution, JacksonImmuno, 111-545-144) was applied to visualize the staining. For wells requiring dual mouse antibodies (those co-stained with Rab5 and OKT9), cells were blocked for one hour with mouse-on-mouse blocking reagent (ReadyProbes™ Mouse-on-Mouse IgG Blocking Reagent, 1:30 dilution, ThermoFisher, R37621) between antibody staining procedures."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 504,
+      "minX": 36,
+      "maxY": 553.6,
+      "maxX": 572.6,
+      "page": 17
+    }],
+    "text": "Images for all experiments were obtained with a 60X oil objective on a Nikon Ti-e inverted spinning disc confocal microscope, with the exception of TGN46 staining, which was performed using a 63X oil objective on a Zeiss LSM 900 confocal microscope. Within each experiment, images were taken with predetermined, optimized, and fixed exposure times to allow image comparisons."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 383.5,
+      "minX": 36,
+      "maxY": 488.6,
+      "maxX": 567.6,
+      "page": 17
+    }],
+    "text": "Imaging and tissue cell counting Images of native mScarlet in the whole brain, cortex, striatum, thalamus, spinal cord, liver, or the dorsal root ganglion were taken on a Keyence BZ-X810. For images of whole brain sections, single plane tiled images were taken with autofocus mode on and stitched using the Keyence Analysis Software. For comparisons of native mScarlet fluorescence across groups, imaging settings were optimized for BI-hTFR1 in TFRC KI mice and then applied across all samples and all groups within each organ. Adjustments to the levels and gamma in the whole brain, cortex, striatum, thalamus, spinal cord, liver, and dorsal root ganglion images were performed using identical settings across all samples within each brain region or tissue type."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.3,
+        "minX": 36,
+        "maxY": 368.1,
+        "maxX": 575.3,
+        "page": 17
+      },
+      {
+        "minY": 731,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 568.3,
+        "page": 18
+      }
+    ],
+    "text": "Stained sections were imaged on a Keyence BZ-X810 using sectioning mode with a Z-stack depth of 10 µm during acquisition. For cell counting, image settings were exposed to detect low mScarlet expressing cells in each sample group within each brain region. The Z-stack was reconstructed into a full-single-stack image using Keyence Analysis Software and exported as separate TIFs for each channel imaged. Images were then imported as input data into ilastik version 1.4.0 (66) where the Pixel Classification within the segmentation workflow was used. All color/intensity, edge, and texture features were selected and used during training. Training was performed to distinguish foreground and background pixels across images that represented the cortex, striatum, or thalamus in C57BL/6J or TFRC KI mice that had received BI-hTFR1 or AAV9 in NeuN or SOX9 stained brain sections. Predictions were then exported as probabilities in TIF format and then imported into CellProfiler 4.2.4 (67). A custom workflow was created to determine percent overlap between positively transduced cells and antibody markers. First, channels were aligned using the Align module. Second, the IdentifyPrimaryObjects module with Otsu two classes thresholding method was used to detect and segment foreground objects (positively transduced cells, NeuN-positive, or SOX9-positive cells) from background in the images. Third, foreground objects were then expanded by 2\u20135 pixels using the ExpandOrShrinkObjects module. Fourth, the MaskObjects module was used to determine the number of colocalized objects that overlap with a threshold of 40% overlap or more. A separate CellProfiler workflow was created where the IdentifyPrimaryObjects module was used to detect foreground and background objects (two class) and then the OverlayOutlines module was used to overlay an outline of detected foreground objects onto the raw input image of the mScarlet, NeuN, or SOX9 channel. The images were exported with the SaveImages module. The exported image was then used to verify if further training with the Pixel Classification in ilastik was needed in order to detect missed or improperly classified cells. An independent evaluator without prior knowledge of expected outcomes conducted a manual count of randomly selected images using the Photoshop Count Tool to determine the percent overlap of mScarlet-positive cells with NeuN or SOX9-positive cells in stained tissue. The results were evaluated to be within ± 5% deviation."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 17
+    }],
+    "text": "17"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 18
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 624.2,
+      "minX": 36,
+      "maxY": 715.4,
+      "maxX": 573.8,
+      "page": 18
+    }],
+    "text": "Western blot Purified N-terminal flag tagged full-length human and mouse TfR1 proteins or whole mouse brain lysates were separated on Bolt 4\u201312% Bis-Tris Plus gels and transferred onto nitrocellulose membranes. After incubation with anti-TfR1 antibodies (0.5 µg/mL ThermoFisher, Catalog # 13-6890; 0.25 µg/mL R&D, AF2474) or anti-ßactin (1:5000; Abcam, AB20272) followed by incubation with a horseradish peroxidase (HRP)-conjugated secondary antibody. The detection of the HRP signal was by SuperSignal West Femto Maximum Sensitivity Substrate using a Bio-Rad ChemiDoc TM MP system #1708280."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 421.2,
+      "minX": 36,
+      "maxY": 608.8,
+      "maxX": 572.2,
+      "page": 18
+    }],
+    "text": "In vivo biodistribution, transduction, and Luciferase assays BI-hTFR1 or AAV9 encoding CAG-NLS-mScarlet-P2A-Luciferase-WPRE-SV40pA were administered intravenously to 18 to 21-week-old female C57BL/6J or TFRC KI mice at a dose of 5 x 1011 vg/mouse. After three weeks, the mice were perfused with PBS. Tissue samples from the brain, liver, spinal cord, and DRGs were dropped fixed into 4% PFA. Remaining tissues, including additional samples of the brain, liver, spinal cord, and DRGs were collected snap frozen on dry ice and stored at −80°C. Biodistribution analysis: Samples were processed using a DNeasy 96 Blood & Tissue Kit (Qiagen, 69581). qPCR was performed for the mScarlet transgene and the mouse glucagon gene as previously described (see primer sequences in table S1) (5). For mRNA analysis, RNA was isolated using TRIzol (Invitrogen, 15596026) and purified using an RNeasy 96 Kit (Qiagen, 74171). cDNA synthesis was performed using Maxima H Minus Reverse Transcriptase (Thermo Scientific, EP0753). qPCR for mScarlet and mouse GAPDH was performed (primer sequences in table S1). Luciferase assays: Protein was extracted from tissue samples using the lysis buffer T-Per with 1X Halt protease inhibitor (Invitrogen, 78430) while kept ice cold at all times. 10 µg of total protein was used to assess the reporter gene using the Britelite Plus reporter gene assay system."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 204.2,
+      "minX": 36,
+      "maxY": 405.8,
+      "maxX": 574.8,
+      "page": 18
+    }],
+    "text": "GBA1 in vivo delivery experiment BI-hTFR1 or AAV9 encoding CMV/CBA-GBA1-HA-pA was intravenously injected into 28 to 30-week-old female TFRC KI mice at a dose of 1 x 1014 or 5 x 1012 vg/kg. After three weeks, cerebrospinal fluid (CSF) was collected from the cisterna magna of anesthetized mice as previously described (68). Briefly, the cisterna magna was surgically exposed and punctured with a sharpened glass capillary, and CSF was allowed to flow into the capillary. Approximately 6\u201310 µL of CSF was collected from each animal. Then, the thoracic cavity was exposed and 200\u2013400 µL of blood was collected into a microtainer tube with serum separator additive (BD, 365967). The mice were then transcardially perfused with ice cold PBS. Brain, liver, and spinal cord tissue sections were drop fixed into 4% PFA. Additional tissue samples from these organs were collected and snap frozen at −80°C. After a 1.5-hour incubation at room temperature, the blood was centrifuged at 10,000 ×g for 90 seconds, and serum was collected and stored at −80°C. IHC was performed on fixed tissues as described in the Animals section of the Methods. GBA-HA was detected with an anti-HA primary antibody (Sigma, 11867423001) at a 1:50 dilution, followed by an AlexaFluor568-conjugated secondary antibody at a 1:500 dilution (Invitrogen, A78946). Vector genomes were quantified using qPCR primers targeting CMV and mouse GAPDH (table S1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 56.4,
+        "minX": 36,
+        "maxY": 188.8,
+        "maxX": 572.2,
+        "page": 18
+      },
+      {
+        "minY": 661.9,
+        "minX": 36,
+        "maxY": 753,
+        "maxX": 574.7,
+        "page": 19
+      }
+    ],
+    "text": "To measure GCase activity, whole tissue lysates were prepared. Tissue was thawed on ice, weighed, and homogenized in a 2× volume of ultra-pure distilled water with cOmplete protease inhibitor (Sigma, 4693132001) using the GenoGrinder (SPEX Sample prep). Homogenate was then centrifuged at 10,000 ×g for 2 minutes, transferred to a new, pre-chilled 1.5 mL Eppendorf tube, and incubated on ice for 15\u201330 minutes. Next, the samples were centrifuged at 12,000 ×g for 20 minutes. Supernatant was collected and stored at −80°C or used in subsequent analysis. A BCA assay (Thermo Fisher Scientific, 23225) was used to determine total protein concentration in the resulting lysates, as described by the product manufacturer. The SensoLyte Red Glucocerebrosidase (GBA) Activity Assay Kit (AnaSpec, AS-72259) was used to determine enzyme activity in serum and whole tissue lysate samples. Briefly, 20 µL of serum or the volume of tissue lysate containing 30 µg of protein was added into each well. Assay buffer was added to a total volume of 50 µL. Then, 50 µL of 1X enzyme substrate was added to each well. Samples were gently mixed and incubated for one hour at room temperature. The fluorescence signal at an excitation/emission of 570/610 nm was measured in end-point mode using the EnVision 2104 plate reader (PerkinElmer). A resorufin reference fluorescence standard curve was used to determine the amount of reaction product in each well from the measured relative fluorescence units (RFU). The resulting values were used to calculate enzyme activity, expressed in µU per mL of blood or µU per mg of protein. One unit of GCase activity is the amount of enzyme that generates 1 µmol of product per minute under the specified reaction conditions."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 18
+    }],
+    "text": "18"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 19
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 559.7,
+      "minX": 36,
+      "maxY": 595.6,
+      "maxX": 560.6,
+      "page": 19
+    }],
+    "text": "1. O. J. Müller, F. Kaul, M. D. Weitzman, R. Pasqualini, W. Arap, J. A. Kleinschmidt, M. Trepel, Random peptide libraries displayed on adeno-associated virus to select for targeted gene therapy vectors. Nat. Biotechnol. 21, 1040\u20131046 (2003)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 520.1,
+      "minX": 36,
+      "maxY": 542.3,
+      "maxX": 562.5,
+      "page": 19
+    }],
+    "text": "2. J. T. Koerber, N. Maheshri, B. K. Kaspar, D. V. Schaffer, Construction of diverse adeno-associated viral libraries for directed evolution of enhanced gene delivery vehicles. Nat. Protoc. 1, 701\u2013706 (2006)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 452.9,
+      "minX": 36,
+      "maxY": 502.7,
+      "maxX": 570.6,
+      "page": 19
+    }],
+    "text": "3. W. Li, A. Asokan, Z. Wu, T. Van Dyke, N. DiPrimio, J. S. Johnson, L. Govindaswamy, M. AgbandjeMcKenna, S. Leichtle, D. Eugene Redmond Jr, T. J. McCown, K. B. Petermann, N. E. Sharpless, R. J. Samulski, Engineering and Selection of Shuffled AAV Genomes: A New Strategy for Producing Targeted Biological Nanoparticles. Mol. Ther. 16, 1252\u20131260 (2008)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 413.3,
+      "minX": 36,
+      "maxY": 435.5,
+      "maxX": 573.3,
+      "page": 19
+    }],
+    "text": "4. Y. H. Chen, M. Chang, B. L. Davidson, Molecular signatures of disease brain endothelia provide new sites for CNS-directed enzyme therapy. Nat. Med. 15, 1215\u20131218 (2009)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 360,
+      "minX": 36,
+      "maxY": 395.9,
+      "maxX": 572,
+      "page": 19
+    }],
+    "text": "5. B. E. Deverman, P. L. Pravdo, B. P. Simpson, S. R. Kumar, K. Y. Chan, A. Banerjee, W.-L. Wu, B. Yang, N. Huber, S. P. Pasca, V. Gradinaru, Cre-dependent selection yields AAV variants for widespread gene transfer to the adult brain. Nat. Biotechnol. 34, 204\u2013209 (2016)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 306.5,
+      "minX": 36,
+      "maxY": 342.4,
+      "maxX": 573.9,
+      "page": 19
+    }],
+    "text": "6. M. Nonnenmacher, W. Wang, M. A. Child, X.-Q. Ren, C. Huang, A. Z. Ren, J. Tocci, Q. Chen, K. Bittner, K. Tyson, N. Pande, C. H.-Y. Chung, S. M. Paul, J. Hou, Rapid evolution of blood-brain-barrierpenetrating AAV capsids by RNA-driven biopanning. Mol Ther Methods Clin Dev. 20, 366\u2013378 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 239.3,
+      "minX": 36,
+      "maxY": 289.1,
+      "maxX": 575.7,
+      "page": 19
+    }],
+    "text": "7. K. S. Hanlon, J. C. Meltzer, T. Buzhdygan, M. J. Cheng, M. Sena-Esteves, R. E. Bennett, T. P. Sullivan, R. Razmpour, Y. Gong, C. Ng, J. Nammour, D. Maiz, S. Dujardin, S. H. Ramirez, E. Hudry, C. A. Maguire, Selection of an Efficient AAV Vector for Robust CNS Transgene Expression. Mol Ther Methods Clin Dev. 15, 320\u2013332 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 199.7,
+      "minX": 36,
+      "maxY": 221.9,
+      "maxX": 564.6,
+      "page": 19
+    }],
+    "text": "8. R. S. Ajioka, J. Kaplan, Intracellular pools of transferrin receptors result from constitutive internalization of unoccupied receptors. Proc. Natl. Acad. Sci. U. S. A. 83, 6445\u20136449 (1986)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 174,
+      "minX": 36,
+      "maxY": 182.3,
+      "maxX": 527.9,
+      "page": 19
+    }],
+    "text": "9. F. R. Maxfield, T. E. McGraw, Endocytic recycling. Nat. Rev. Mol. Cell Biol. 5, 121\u2013132 (2004)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 134.4,
+      "minX": 36,
+      "maxY": 156.4,
+      "maxX": 561.5,
+      "page": 19
+    }],
+    "text": "10. T. Moos, E. H. Morgan, Transferrin and transferrin receptor function in brain barrier systems. Cell. Mol. Neurobiol. 20, 77\u201395 (2000)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 94.8,
+      "minX": 36,
+      "maxY": 117,
+      "maxX": 562.2,
+      "page": 19
+    }],
+    "text": "11. W. M. Pardridge, J. Eisenberg, J. Yang, Human blood-brain barrier transferrin receptor. Metabolism. 36, 892\u2013895 (1987)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 55.2,
+      "minX": 36,
+      "maxY": 77.2,
+      "maxX": 537.9,
+      "page": 19
+    }],
+    "text": "12. W. A. Jefferies, M. R. Brandon, S. V. Hunt, A. F. Williams, K. C. Gatter, D. Y. Mason, Transferrin receptor on endothelium of brain capillaries. Nature. 312, 162\u2013163 (1984)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 19
+    }],
+    "text": "19"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 20
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 703.4,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 546.3,
+      "page": 20
+    }],
+    "text": "13. S. Kida, Y. Koshimura, E. Yoden, A. Yoshioka, H. Morimoto, A. Imakiire, N. Tanaka, S. Tanaka, A. Mori, J. Ito, A. Inoue, R. Yamamoto, K. Minami, T. Hirato, K. Takahashi, H. Sonoda, Enzyme replacement with transferrin receptor-targeted α-L-iduronidase rescues brain pathology in mucopolysaccharidosis I mice. Mol Ther Methods Clin Dev. 29, 439\u2013449 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 581,
+      "minX": 36,
+      "maxY": 685.8,
+      "maxX": 569.6,
+      "page": 20
+    }],
+    "text": "14. J. C. Ullman, A. Arguello, J. A. Getz, A. Bhalla, C. S. Mahon, J. Wang, T. Giese, C. Bedard, D. J. Kim, J. R. Blumenfeld, N. Liang, R. Ravi, A. A. Nugent, S. S. Davis, C. Ha, J. Duque, H. L. Tran, R. C. Wells, S. Lianoglou, V. M. Daryani, W. Kwan, H. Solanoy, H. Nguyen, T. Earr, J. C. Dugas, M. D. Tuck, J. L. Harvey, M. L. Reyzer, R. M. Caprioli, S. Hall, S. Poda, P. E. Sanchez, M. S. Dennis, K. Gunasekaran, A. Srivastava, T. Sandmann, K. R. Henne, R. G. Thorne, G. Di Paolo, G. Astarita, D. Diaz, A. P. Silverman, R. J. Watts, Z. K. Sweeney, M. S. Kariolis, A. G. Henry, Brain delivery and activity of a lysosomal enzyme using a blood-brain barrier transport vehicle in mice. Sci. Transl. Med. 12 (2020), doi:10.1126/scitranslmed.aay1163."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 527.5,
+      "minX": 36,
+      "maxY": 563.4,
+      "maxX": 558.3,
+      "page": 20
+    }],
+    "text": "15. S. M. Hammond, F. Abendroth, L. Goli, J. Stoodley, M. Burrell, G. Thom, I. Gurrell, N. Ahlskog, M. J. Gait, M. J. Wood, C. I. Webster, Antibody-oligonucleotide conjugate achieves CNS delivery in animal models for spinal muscular atrophy. JCI Insight. 7 (2022), doi:10.1172/jci.insight.154142."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 432.7,
+      "minX": 36,
+      "maxY": 510.2,
+      "maxX": 574.3,
+      "page": 20
+    }],
+    "text": "16. M. S. Kariolis, R. C. Wells, J. A. Getz, W. Kwan, C. S. Mahon, R. Tong, D. J. Kim, A. Srivastava, C. Bedard, K. R. Henne, T. Giese, V. A. Assimon, X. Chen, Y. Zhang, H. Solanoy, K. Jenkins, P. E. Sanchez, L. Kane, T. Miyamoto, K. S. Chew, M. E. Pizzo, N. Liang, M. E. K. Calvert, S. L. DeVos, S. Baskaran, S. Hall, Z. K. Sweeney, R. G. Thorne, R. J. Watts, M. S. Dennis, A. P. Silverman, Y. J. Y. Zuchero, Brain delivery of therapeutic proteins using an Fc fragment blood-brain barrier transport vehicle in mice and monkeys. Sci. Transl. Med. 12 (2020), doi:10.1126/scitranslmed.aay1359."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 379.4,
+      "minX": 36,
+      "maxY": 415.4,
+      "maxX": 568.9,
+      "page": 20
+    }],
+    "text": "17. L. Rué, T. Jaspers, I. M. S. Degors, S. Noppen, D. Schols, B. De Strooper, M. Dewilde, Novel Human/Non-Human Primate Cross-Reactive Anti-Transferrin Receptor Nanobodies for Brain Delivery of Biologics. Pharmaceutics. 15 (2023), doi:10.3390/pharmaceutics15061748."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 312.2,
+      "minX": 36,
+      "maxY": 361.8,
+      "maxX": 547.6,
+      "page": 20
+    }],
+    "text": "18. Y. J. Yu, J. K. Atwal, Y. Zhang, R. K. Tong, K. R. Wildsmith, C. Tan, N. Bien-Ly, M. Hersom, J. A. Maloney, W. J. Meilandt, D. Bumbaca, K. Gadkar, K. Hoyte, W. Luk, Y. Lu, J. A. Ernst, K. Scearce-Levie, J. A. Couch, M. S. Dennis, R. J. Watts, Therapeutic bispecific antibodies cross the blood-brain barrier in nonhuman primates. Sci. Transl. Med. 6, 261ra154 (2014)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 162.2,
+      "minX": 36,
+      "maxY": 294.6,
+      "maxX": 569.9,
+      "page": 20
+    }],
+    "text": "19. B. van Lengerich, L. Zhan, D. Xia, D. Chan, D. Joy, J. I. Park, D. Tatarakis, M. Calvert, S. Hummel, S. Lianoglou, M. E. Pizzo, R. Prorok, E. Thomsen, L. M. Bartos, P. Beumers, A. Capell, S. S. Davis, L. de Weerd, J. C. Dugas, J. Duque, T. Earr, K. Gadkar, T. Giese, A. Gill, J. Gnörich, C. Ha, M. Kannuswamy, D. J. Kim, S. T. Kunte, L. H. Kunze, D. Lac, K. Lechtenberg, A. W.-S. Leung, C.-C. Liang, I. Lopez, P. McQuade, A. Modi, V. O. Torres, H. N. Nguyen, I. Pesämaa, N. Propson, M. Reich, Y. RoblesColmenares, K. Schlepckow, L. Slemann, H. Solanoy, J. H. Suh, R. G. Thorne, C. Vieira, K. Wind-Mark, K. Xiong, Y. J. Y. Zuchero, D. Diaz, M. S. Dennis, F. Huang, K. Scearce-Levie, R. J. Watts, C. Haass, J. W. Lewcock, G. Di Paolo, M. Brendel, P. E. Sanchez, K. M. Monroe, A TREM2-activating antibody with a blood-brain barrier transport vehicle enhances microglial metabolism in Alzheimer's disease models. Nat. Neurosci. 26, 416\u2013429 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.6,
+      "minX": 36,
+      "maxY": 144.6,
+      "maxX": 558.2,
+      "page": 20
+    }],
+    "text": "20. P. V. Candelaria, L. S. Leoh, M. L. Penichet, T. R. Daniels-Wells, Antibodies Targeting the Transferrin Receptor 1 (TfR1) as Direct Anti-cancer Agents. Front. Immunol. 12, 607692 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 55.7,
+      "minX": 36,
+      "maxY": 105,
+      "maxX": 575,
+      "page": 20
+    }],
+    "text": "21. S. J. Barker, M. B. Thayer, C. Kim, D. Tatarakis, M. Simon, R. L. Dial, L. Nilewski, R. C. Wells, Y. Zhou, M. Afetian, A. Chappell, K. S. Chew, J. Chow, A. Clemens, C. B. Discenza, J. Dugas, C. Dwyer, T. Earr, C. Ha, D. Huynh, S. Jayaraman, W. Kwan, C. Mahon, M. Pizzo, E. Roche, L. Sanders, A. Stergioulis, R. Tong, H. Tran, J. Zuchero, A. A. Estrada, K. Gadkar, C. M. M. Koth, P. E. Sanchez, R. G. Thorne, R. J."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 20
+    }],
+    "text": "20"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 21
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 717.1,
+      "minX": 60,
+      "maxY": 753,
+      "maxX": 566.9,
+      "page": 21
+    }],
+    "text": "Watts, T. Sandmann, L. Kane, F. Rigo, M. S. Dennis, J. W. Lewcock, S. L. DeVos, Targeting Transferrin Receptor to Transport Antisense Oligonucleotides Across the Blood-Brain Barrier. bioRxiv (2023), p. 2023.04.25.538145."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 663.8,
+      "minX": 36,
+      "maxY": 699.8,
+      "maxX": 556.3,
+      "page": 21
+    }],
+    "text": "22. R. Giugliani, A. M. Martins, S. So, T. Yamamoto, M. Yamaoka, T. Ikeda, K. Tanizawa, H. Sonoda, M. Schmidt, Y. Sato, Iduronate-2-sulfatase fused with anti-hTfR antibody, pabinafusp alfa, for MPS-II: A phase 2 trial in Brazil. Mol. Ther. 29, 2378\u20132386 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 610.3,
+      "minX": 36,
+      "maxY": 646.2,
+      "maxX": 564.2,
+      "page": 21
+    }],
+    "text": "23. T. Okuyama, Y. Eto, N. Sakai, K. Nakamura, T. Yamamoto, M. Yamaoka, T. Ikeda, S. So, K. Tanizawa, H. Sonoda, Y. Sato, A Phase 2/3 Trial of Pabinafusp Alfa, IDS Fused with Anti-Human Transferrin Receptor Antibody, Targeting Neurodegeneration in MPS-II. Mol. Ther. 29, 671\u2013679 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 570.7,
+      "minX": 36,
+      "maxY": 593.2,
+      "maxX": 573.6,
+      "page": 21
+    }],
+    "text": "24. L. Smith, A. H. V. Schapira, GBA Variants and Parkinson Disease: Mechanisms and Treatments. Cells. 11 (2022), doi:10.3390/cells11081261."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 503.5,
+      "minX": 36,
+      "maxY": 553.4,
+      "maxX": 567.3,
+      "page": 21
+    }],
+    "text": "25. Q. Huang, A. T. Chen, K. Y. Chan, H. Sorensen, A. J. Barry, B. Azari, Q. Zheng, T. Beddow, B. Zhao, I. G. Tobey, C. Moncada-Reid, F.-E. Eid, C. J. Walkey, M. C. Ljungberg, W. R. Lagor, J. D. Heaney, Y. A. Chan, B. E. Deverman, Targeting AAV vectors to the central nervous system by engineering capsid-receptor interactions that enable crossing of the blood-brain barrier. PLoS Biol. 21, e3002112 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 436.3,
+      "minX": 36,
+      "maxY": 486.2,
+      "maxX": 557.9,
+      "page": 21
+    }],
+    "text": "26. S. Ferrero, M. D. Flores, C. Short, C. A. Vazquez, L. E. Clark, J. Ziegenbein, S. Zink, D. Fuentes, C. Payes, M. V. Batto, M. Collazo, C. C. García, J. Abraham, S. M. Cordo, J. A. Rodriguez, G. Helguera, Antibody-Based Inhibition of Pathogenic New World Hemorrhagic Fever Mammarenaviruses by Steric Occlusion of the Human Transferrin Receptor 1 Apical Domain. J. Virol. 95, e0186820 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 396.7,
+      "minX": 36,
+      "maxY": 419,
+      "maxX": 551.9,
+      "page": 21
+    }],
+    "text": "27. J. Williams, K. Moreton, The distribution of iron between the metal-binding sites of transferrin human serum. Biochem. J. 185, 483\u2013488 (1980)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 343.4,
+      "minX": 36,
+      "maxY": 379.4,
+      "maxX": 570.3,
+      "page": 21
+    }],
+    "text": "28. V. Balzer, P. Poc, E. Puris, S. Martin, M. Aliasgari, S. Auriola, G. Fricker, Re-evaluation of the hCMEC/D3 based in vitro BBB model for ABC transporter studies. Eur. J. Pharm. Biopharm. 173, 12\u201321 (2022)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 303.8,
+      "minX": 36,
+      "maxY": 326.1,
+      "maxX": 573.3,
+      "page": 21
+    }],
+    "text": "29. G. Di Pasquale, J. A. Chiorini, AAV transcytosis through barrier epithelia and endothelium. Mol. Ther. 13, 506\u2013516 (2006)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 236.6,
+      "minX": 36,
+      "maxY": 286.2,
+      "maxX": 534.5,
+      "page": 21
+    }],
+    "text": "30. S. F. Merkel, A. M. Andrews, E. M. Lutton, D. Mu, E. Hudry, B. T. Hyman, C. A. Maguire, S. H. Ramirez, Trafficking of adeno-associated virus vectors across a model of the blood-brain barrier; a comparative study of transcytosis and transduction using primary human brain endothelial cells. J. Neurochem. 140, 216\u2013230 (2017)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 183.1,
+      "minX": 36,
+      "maxY": 219,
+      "maxX": 561.6,
+      "page": 21
+    }],
+    "text": "31. R. Song, K. Pekrun, T. A. Khan, F. Zhang, S. P. Paşca, M. A. Kay, Selection of rAAV vectors that cross the human blood-brain barrier and target the central nervous system using a transwell model. Mol Ther Methods Clin Dev. 27, 73\u201388 (2022)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 143.5,
+      "minX": 36,
+      "maxY": 165.8,
+      "maxX": 563.6,
+      "page": 21
+    }],
+    "text": "32. R. Villaseñor, J. Lampe, M. Schwaninger, L. Collin, Intracellular transport and regulation of transcytosis across the blood-brain barrier. Cell. Mol. Life Sci. 76, 1081\u20131092 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 103.9,
+      "minX": 36,
+      "maxY": 126.2,
+      "maxX": 566.6,
+      "page": 21
+    }],
+    "text": "33. M. E. Nonnenmacher, J.-C. Cintrat, D. Gillet, T. Weber, Syntaxin 5-dependent retrograde transport to the trans-Golgi network is required for adeno-associated virus transduction. J. Virol. 89, 1673\u20131687 (2015)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 64.3,
+      "minX": 36,
+      "maxY": 86.6,
+      "maxX": 569.2,
+      "page": 21
+    }],
+    "text": "34. A. P. Liu, F. Aguet, G. Danuser, S. L. Schmid, Local clustering of transferrin receptors promotes clathrin-coated pit initiation. J. Cell Biol. 191, 1381\u20131393 (2010)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 21
+    }],
+    "text": "21"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 22
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 717.1,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 563.5,
+      "page": 22
+    }],
+    "text": "35. D. M. Navaroli, K. D. Bellvé, C. Standley, L. M. Lifshitz, J. Cardia, D. Lambright, D. Leonard, K. E. Fogarty, S. Corvera, Rabenosyn-5 defines the fate of the transferrin receptor following clathrin-mediated endocytosis. Proc. Natl. Acad. Sci. U. S. A. 109, E471\u201380 (2012)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 663.8,
+      "minX": 36,
+      "maxY": 699.8,
+      "maxX": 567.6,
+      "page": 22
+    }],
+    "text": "36. A. S. Haqqani, C. E. Delaney, E. Brunette, E. Baumann, G. K. Farrington, W. Sisk, J. Eldredge, W. Ding, T.-L. Tremblay, D. B. Stanimirovic, Endosomal trafficking regulates receptor-mediated transcytosis of antibodies across the blood brain barrier. J. Cereb. Blood Flow Metab. 38, 727\u2013740 (2018)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 610.3,
+      "minX": 36,
+      "maxY": 646.2,
+      "maxX": 575,
+      "page": 22
+    }],
+    "text": "37. P. Alam, M. R. Holst, L. Lauritsen, J. Nielsen, S. S. E. Nielsen, P. H. Jensen, J. R. Brewer, D. E. Otzen, M. S. Nielsen, Polarized α-synuclein trafficking and transcytosis across brain endothelial cells via Rab7decorated carriers. Fluids Barriers CNS. 19, 37 (2022)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 570.7,
+      "minX": 36,
+      "maxY": 593,
+      "maxX": 567.9,
+      "page": 22
+    }],
+    "text": "38. C. Liu, C. Shang, L. Ma, X. Zhou, C. Guo, Abstract 377: Evaluating delivery of TFR1-targeting therapies to the CNS in a novel humanized TFR1 mouse model. Cancer Res. 82, 377\u2013377 (2022)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 489.8,
+      "minX": 36,
+      "maxY": 553.4,
+      "maxX": 574.9,
+      "page": 22
+    }],
+    "text": "39. J. R. Mendell, S. Al-Zaidy, R. Shell, W. D. Arnold, L. R. Rodino-Klapac, T. W. Prior, L. Lowes, L. Alfano, K. Berry, K. Church, J. T. Kissel, S. Nagendran, J. L'Italien, D. M. Sproule, C. Wells, J. A. Cardenas, M. D. Heitzer, A. Kaspar, S. Corcoran, L. Braun, S. Likhite, C. Miranda, K. Meyer, K. D. Foust, A. H. M. Burghes, B. K. Kaspar, Single-Dose Gene-Replacement Therapy for Spinal Muscular Atrophy. N. Engl. J. Med. 377, 1713\u20131722 (2017)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 422.6,
+      "minX": 36,
+      "maxY": 472.2,
+      "maxX": 567.2,
+      "page": 22
+    }],
+    "text": "40. C. E. G. Leyns, A. Prigent, B. Beezhold, L. Yao, N. G. Hatcher, P. Tao, J. Kang, E. Suh, V. M. Van Deerlin, J. Q. Trojanowski, V. M. Y. Lee, M. E. Kennedy, M. J. Fell, M. X. Henderson, Glucocerebrosidase activity and lipid levels are related to protein pathologies in Parkinson's disease. NPJ Parkinsons Dis. 9, 74 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 369.1,
+      "minX": 36,
+      "maxY": 405,
+      "maxX": 570.6,
+      "page": 22
+    }],
+    "text": "41. L. Oftedal, J. Maple-Grødem, I. Dalen, O.-B. Tysnes, K. F. Pedersen, G. Alves, J. Lange, Association of CSF Glucocerebrosidase Activity With the Risk of Incident Dementia in Patients With Parkinson Disease. Neurology. 100, e388\u2013e395 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 301.9,
+      "minX": 36,
+      "maxY": 351.8,
+      "maxX": 557,
+      "page": 22
+    }],
+    "text": "42. G. Morabito, S. G. Giannelli, G. Ordazzo, S. Bido, V. Castoldi, M. Indrigo, T. Cabassi, S. Cattaneo, M. Luoni, C. Cancellieri, A. Sessa, M. Bacigaluppi, S. Taverna, L. Leocani, J. L. Lanciego, V. Broccoli, AAV-PHP.B-Mediated Global-Scale Expression in the Mouse Nervous System Enables GBA1 Gene Therapy for Wide Protection from Synucleinopathy. Mol. Ther. 25, 2727\u20132742 (2017)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 248.6,
+      "minX": 36,
+      "maxY": 284.6,
+      "maxX": 565,
+      "page": 22
+    }],
+    "text": "43. K. L. Jackson, C. Viel, J. Clarke, J. Bu, M. Chan, B. Wang, L. S. Shihabuddin, S. P. Sardi, Viral delivery of a microRNA to Gba to the mouse central nervous system models neuronopathic Gaucher disease. Neurobiol. Dis. 130, 104513 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 195.1,
+      "minX": 36,
+      "maxY": 231,
+      "maxX": 567.8,
+      "page": 22
+    }],
+    "text": "44. E. M. Rocha, G. A. Smith, E. Park, H. Cao, E. Brown, M. A. Hayes, J. Beagan, J. R. McLean, S. C. Izen, E. Perez-Torres, P. J. Hallett, O. Isacson, Glucocerebrosidase gene therapy prevents α-synucleinopathy of midbrain dopamine neurons. Neurobiol. Dis. 82, 495\u2013503 (2015)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 141.8,
+      "minX": 36,
+      "maxY": 177.8,
+      "maxX": 558.9,
+      "page": 22
+    }],
+    "text": "45. K. Seidel, J. Mahlke, S. Siswanto, R. Krüger, H. Heinsen, G. Auburger, M. Bouzrou, L. T. Grinberg, H. Wicht, H.-W. Korf, W. den Dunnen, U. Rüb, The brainstem pathologies of Parkinson's disease and dementia with Lewy bodies. Brain Pathol. 25, 121\u2013135 (2015)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 115.9,
+      "minX": 36,
+      "maxY": 124.2,
+      "maxX": 540.6,
+      "page": 22
+    }],
+    "text": "46. Agents shuttle across blood-brain barrier to treat Hunter syndrome. Nat. Biotechnol. 39, 253 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 62.6,
+      "minX": 36,
+      "maxY": 98.6,
+      "maxX": 568.3,
+      "page": 22
+    }],
+    "text": "47. S. R. Radoshitzky, J. Abraham, C. F. Spiropoulou, J. H. Kuhn, D. Nguyen, W. Li, J. Nagel, P. J. Schmidt, J. H. Nunberg, N. C. Andrews, M. Farzan, H. Choe, Transferrin receptor 1 is a cellular receptor for New World haemorrhagic fever arenaviruses. Nature. 446, 92\u201396 (2007)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 22
+    }],
+    "text": "22"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 23
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 717.1,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 558.3,
+      "page": 23
+    }],
+    "text": "48. E. Wang, N. Obeng-Adjei, Q. Ying, L. Meertens, T. Dragic, R. A. Davey, S. R. Ross, Mouse mammary tumor virus uses mouse but not human transferrin receptor 1 to reach a low pH compartment and infect cells. Virology. 381, 230\u2013240 (2008)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 649.9,
+      "minX": 36,
+      "maxY": 699.8,
+      "maxX": 566.2,
+      "page": 23
+    }],
+    "text": "49. M. L. Flanagan, J. Oldenburg, T. Reignier, N. Holt, G. A. Hamilton, V. K. Martin, P. M. Cannon, New world clade B arenaviruses can use transferrin receptor 1 (TfR1)-dependent and -independent entry pathways, and glycoproteins from human pathogenic strains are associated with the use of TfR1. J. Virol. 82, 938\u2013948 (2008)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 596.6,
+      "minX": 36,
+      "maxY": 632.6,
+      "maxX": 574.2,
+      "page": 23
+    }],
+    "text": "50. L. B. Goodman, S. M. Lyi, N. C. Johnson, J. O. Cifuente, S. L. Hafenstein, C. R. Parrish, Binding site on the transferrin receptor for the parvovirus capsid and effects of altered affinity on cell uptake and infection. J. Virol. 84, 4969\u20134978 (2010)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 557,
+      "minX": 36,
+      "maxY": 579,
+      "maxX": 566.9,
+      "page": 23
+    }],
+    "text": "51. J. S. Parker, W. J. Murphy, D. Wang, S. J. O'Brien, C. R. Parrish, Canine and feline parvoviruses can use human or feline transferrin receptors to bind, enter, and infect cells. J. Virol. 75, 3896\u20133902 (2001)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 503.5,
+      "minX": 36,
+      "maxY": 539.4,
+      "maxX": 561.6,
+      "page": 23
+    }],
+    "text": "52. S. Ponnazhagan, G. Mahendra, S. Kumar, J. A. Thompson, M. Castillas Jr, Conjugate-based targeting of recombinant adeno-associated virus type 2 vectors by using avidin-linked ligands. J. Virol. 76, 1290012907 (2002)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 463.9,
+      "minX": 36,
+      "maxY": 486.2,
+      "maxX": 558,
+      "page": 23
+    }],
+    "text": "53. J. Reul, A. Muik, C. J. Buchholz, Ligand Coupling to the AAV Capsid for Cell-Specific Gene Transfer. Methods Mol. Biol. 1950, 35\u201350 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 410.6,
+      "minX": 36,
+      "maxY": 446.6,
+      "maxX": 564.2,
+      "page": 23
+    }],
+    "text": "54. R. C. Münch, H. Janicki, I. Völker, A. Rasbach, M. Hallek, H. Büning, C. J. Buchholz, Displaying high-affinity ligands on adeno-associated viral vectors enables tumor cell-specific and safe gene transfer. Mol. Ther. 21, 109\u2013118 (2013)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 357.1,
+      "minX": 36,
+      "maxY": 393,
+      "maxX": 572.3,
+      "page": 23
+    }],
+    "text": "55. R. C. Münch, A. Muth, A. Muik, T. Friedel, J. Schmatz, B. Dreier, A. Trkola, A. Plückthun, H. Büning, C. J. Buchholz, Off-target-free gene delivery by affinity-purified receptor-targeted viral vectors. Nat. Commun. 6, 6246 (2015)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 303.8,
+      "minX": 36,
+      "maxY": 339.8,
+      "maxX": 565.2,
+      "page": 23
+    }],
+    "text": "56. A. Muik, J. Reul, T. Friedel, A. Muth, K. P. Hartmann, I. C. Schneider, R. C. Münch, C. J. Buchholz, Covalent coupling of high-affinity ligands to the surface of viral vector particles by protein trans-splicing mediates cell type-specific gene transfer. Biomaterials. 144, 84\u201394 (2017)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 250.3,
+      "minX": 36,
+      "maxY": 286.2,
+      "maxX": 567.6,
+      "page": 23
+    }],
+    "text": "57. A. M. Eichhoff, K. Börner, B. Albrecht, W. Schäfer, N. Baum, F. Haag, J. Körbelin, M. Trepel, I. Braren, D. Grimm, S. Adriouch, F. Koch-Nolte, Nanobody-Enhanced Targeting of AAV Gene Therapy Vectors. Mol Ther Methods Clin Dev. 15, 211\u2013220 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 197,
+      "minX": 36,
+      "maxY": 233,
+      "maxX": 570.7,
+      "page": 23
+    }],
+    "text": "58. M. V. Hamann, N. Beschorner, X.-K. Vu, I. Hauber, U. C. Lange, B. Traenkle, P. D. Kaiser, D. Foth, C. Schneider, H. Büning, U. Rothbauer, J. Hauber, Improved targeting of human CD4+ T cells by nanobody-modified AAV2 gene therapy vectors. PLoS One. 16, e0261269 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 143.5,
+      "minX": 36,
+      "maxY": 179.4,
+      "maxX": 562.9,
+      "page": 23
+    }],
+    "text": "59. Q. Huang, K. Y. Chan, I. G. Tobey, Y. A. Chan, T. Poterba, C. L. Boutros, A. B. Balazs, R. Daneman, J. M. Bloom, C. Seed, B. E. Deverman, Delivering genes across the blood-brain barrier: LY6A, a novel cellular receptor for AAV-PHP.B capsids. PLoS One. 14, e0225206 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 76.3,
+      "minX": 36,
+      "maxY": 126.2,
+      "maxX": 569.5,
+      "page": 23
+    }],
+    "text": "60. T. F. Shay, E. E. Sullivan, X. Ding, X. Chen, S. Ravindra Kumar, D. Goertsen, D. Brown, A. Crosby, J. Vielmetter, M. Borsos, D. A. Wolfe, A. W. Lam, V. Gradinaru, Primate-conserved carbonic anhydrase IV and murine-restricted LY6C1 enable blood-brain barrier crossing by engineered viral vectors. Sci Adv. 9, eadg6618 (2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 36.2,
+        "minX": 36,
+        "maxY": 59,
+        "maxX": 576,
+        "page": 23
+      },
+      {
+        "minY": 717.1,
+        "minX": 60,
+        "maxY": 753,
+        "maxX": 560.6,
+        "page": 24
+      }
+    ],
+    "text": "61. S. Iqbal, E. Pérez-Palma, J. B. Jespersen, P. May, D. Hoksza, H. O. Heyne, S. S. Ahmed, Z. T. Rifat, M. S. 23 Rahman, K. Lage, A. Palotie, J. R. Cottrell, F. F. Wagner, M. J. Daly, A. J. Campbell, D. Lal, Comprehensive characterization of amino acid positions in protein structures reveals molecular effect of missense variants. Proc. Natl. Acad. Sci. U. S. A. 117, 28201\u201328211 (2020)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 24
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 677.5,
+      "minX": 36,
+      "maxY": 699.8,
+      "maxX": 572.6,
+      "page": 24
+    }],
+    "text": "62. W. J. Errington, B. Bruncsics, C. A. Sarkar, Mechanisms of noncanonical binding dynamics in multivalent protein-protein interactions. Proc. Natl. Acad. Sci. U. S. A. 116, 25659\u201325667 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 637.9,
+      "minX": 36,
+      "maxY": 660.2,
+      "maxX": 541.6,
+      "page": 24
+    }],
+    "text": "63. A. J. Schoeffler, E. Helgason, N. Popovych, E. C. Dueber, Diagnosing and mitigating method-based avidity artifacts that confound polyubiquitin-binding assays. Biophys Rep (N Y). 1, 100033 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 584.6,
+      "minX": 36,
+      "maxY": 620.6,
+      "maxX": 567,
+      "page": 24
+    }],
+    "text": "64. F.-E. Eid, A. T. Chen, K. Y. Chan, Q. Huang, Q. Zheng, I. G. Tobey, S. Pacouret, P. P. Brauer, C. Keyes, M. Powell, J. Johnston, B. Zhao, K. Lage, A. F. Tarantal, Y. A. Chan, B. E. Deverman, Systematic multi-trait AAV capsid engineering for efficient gene delivery. bioRxiv (2022), p. 2022.12.22.521680."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 531.1,
+      "minX": 36,
+      "maxY": 567,
+      "maxX": 548.9,
+      "page": 24
+    }],
+    "text": "65. R. C. Challis, S. Ravindra Kumar, K. Y. Chan, C. Challis, K. Beadle, M. J. Jang, H. M. Kim, P. S. Rajendran, J. D. Tompkins, K. Shivkumar, B. E. Deverman, V. Gradinaru, Systemic AAV vectors for widespread and targeted gene delivery in rodents. Nat. Protoc. 14, 379\u2013414 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 463.9,
+      "minX": 36,
+      "maxY": 513.8,
+      "maxX": 574.9,
+      "page": 24
+    }],
+    "text": "66. S. Berg, D. Kutra, T. Kroeger, C. N. Straehle, B. X. Kausler, C. Haubold, M. Schiegg, J. Ales, T. Beier, M. Rudy, K. Eren, J. I. Cervantes, B. Xu, F. Beuttenmueller, A. Wolny, C. Zhang, U. Koethe, F. A. Hamprecht, A. Kreshuk, ilastik: interactive machine learning for (bio)image analysis. Nat. Methods. 16, 1226\u20131232 (2019)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 424.3,
+      "minX": 36,
+      "maxY": 446.6,
+      "maxX": 528.3,
+      "page": 24
+    }],
+    "text": "67. D. R. Stirling, M. J. Swain-Bowden, A. M. Lucas, A. E. Carpenter, B. A. Cimini, A. Goodman, CellProfiler 4: improvements in speed, utility and usability. BMC Bioinformatics. 22, 433 (2021)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 384.7,
+      "minX": 36,
+      "maxY": 407,
+      "maxX": 557.9,
+      "page": 24
+    }],
+    "text": "68. N. K.-H. Lim, V. Moestrup, X. Zhang, W.-A. Wang, A. Møller, F.-D. Huang, An Improved Method for Collection of Cerebrospinal Fluid from Anesthetized Mice. J. Vis. Exp. (2018), doi:10.3791/56774."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 24
+    }],
+    "text": "24"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 25
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 715.9,
+      "minX": 36,
+      "maxY": 737.9,
+      "maxX": 570.6,
+      "page": 25
+    }],
+    "text": "We thank the members of the Deverman laboratory for discussions of the project. We also thank Nadine Elowe and Tonia Aristotelous for helpful advice with the BLI studies."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 622.1,
+        "minX": 36,
+        "maxY": 685.4,
+        "maxX": 553.3,
+        "page": 25
+      },
+      {
+        "minY": 455.3,
+        "minX": 36,
+        "maxY": 587.7,
+        "maxX": 567,
+        "page": 25
+      }
+    ],
+    "text": "National Institutes of Health (NIH) Common Fund and the National Institute of Neurological Disorders and Stroke through the Somatic Cell Genome Engineering Consortium UG3NS111689 (BED) Brain Initiative award funded through the National Institute of Mental Health UG3MH120096 (BED) The Stanley Center for Psychiatric Research (BED) Apertura Gene Therapy (BED) Conceptualization: B.E.D., Q.H., K.Y.C. Methodology: B.E.D., Q.H., K.Y.C., C.K., A.M., S.L., J.W. Investigation: Q.H., K.Y.C., J.J., A.J.B., Q.Z., A.T.C., T.B., C.L., A.M., C.K., S.P., P.P.B., J.W.H., S.L., G.C., J.W., N.R.B.R., F.E.E., J.K.H., I.G.T., M.P. Formal analysis: Q.H., K.Y.C., A.T.C., A.J.B., S.L., J.J., G.C., C.L., N.R.B.R., J.W., B.E.D. Visualization: Q.H., J.J., S.L., G.C., K.Y.C., C.L., A.M., C.K. Y.A.C., J.W., N.R.B.R., B.E.D. Funding acquisition: B.E.D. Supervision: B.E.D., with support from Q.H., K.Y.C., Y.A.C. Writing \u2013 original draft: Q.H., Y.A.C., B.E.D. Writing \u2013 review & editing: all authors."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 371,
+      "minX": 36,
+      "maxY": 420.6,
+      "maxX": 561.2,
+      "page": 25
+    }],
+    "text": "B.E.D is a scientific founder and scientific advisory board member at Apertura Gene Therapy and a scientific advisory board member at Tevard Biosciences. B.E.D., A.J.B., K.Y.C., F.E.E., Q.H., J.W., and N.R.B.R. are named inventors on patent applications filed by the Broad Institute of MIT and Harvard related to this study. Remaining authors declare that they have no competing interests."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 304.6,
+      "minX": 36,
+      "maxY": 340.5,
+      "maxX": 554.5,
+      "page": 25
+    }],
+    "text": "All data are available in the main text or the supplementary materials. BI-hTFR Rep-Cap sequences and plasmids will be made available on Addgene at the time of publication. For pre-publication reagent requests please contact B.E.D."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 265.7,
+        "minX": 36,
+        "maxY": 273.8,
+        "maxX": 103.4,
+        "page": 25
+      },
+      {
+        "minY": 242.2,
+        "minX": 36,
+        "maxY": 250.2,
+        "maxX": 79,
+        "page": 25
+      }
+    ],
+    "text": "Figs. S1 to S7 Table S1"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 25
+    }],
+    "text": "25"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 26
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 26
+    }],
+    "text": "Fig. S1."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 26
+    }],
+    "text": "26"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 27
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 27
+    }],
+    "text": "Fig. S2."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 27
+    }],
+    "text": "27"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 28
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 28
+    }],
+    "text": "Fig. S3."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 28
+    }],
+    "text": "28"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 29
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 29
+    }],
+    "text": "Fig. S4."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 29
+    }],
+    "text": "29"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 30
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 30
+    }],
+    "text": "Fig. S5."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 30
+    }],
+    "text": "30"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 31
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 31
+    }],
+    "text": "Fig. S6."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 31
+    }],
+    "text": "31"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 32
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 32
+    }],
+    "text": "Fig. S7."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 32
+    }],
+    "text": "32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 33
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 74.3,
+      "page": 33
+    }],
+    "text": "Fig. S8."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 33
+    }],
+    "text": "33"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 780,
+      "minX": 53.9,
+      "maxY": 782.3,
+      "maxX": 554.1,
+      "page": 34
+    }],
+    "text": "bioRxiv preprint doi: https://doi.org/10.1101/2023.12.20.572615; this version posted December 22, 2023. The copyright holder for this preprint"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 744.7,
+      "minX": 36,
+      "maxY": 753,
+      "maxX": 502.7,
+      "page": 34
+    }],
+    "text": "Table S1. Primers and barcodes used for qPCR in this study. Each sequence is listed 5' to 3'."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 36.2,
+      "minX": 564,
+      "maxY": 44.3,
+      "maxX": 576,
+      "page": 34
+    }],
+    "text": "34"
+  }}
+]}

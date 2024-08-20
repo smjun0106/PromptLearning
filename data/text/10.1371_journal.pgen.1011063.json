@@ -1,0 +1,3303 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 743.5,
+      "minX": 34.7,
+      "maxY": 758.4,
+      "maxX": 199.4,
+      "page": 1
+    }],
+    "text": "PLOS GENETICS"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 496.2,
+      "minX": 36,
+      "maxY": 548.7,
+      "maxX": 87.9,
+      "page": 1
+    }],
+    "text": "a1111111111 a1111111111 a1111111111 a1111111111 a1111111111"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 618.8,
+      "minX": 200,
+      "maxY": 681.9,
+      "maxX": 566.2,
+      "page": 1
+    }],
+    "text": "Autophagic dysfunction and gut microbiota dysbiosis cause chronic immune activation in a Drosophila model of Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 467.8,
+      "minX": 200,
+      "maxY": 479,
+      "maxX": 254.8,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 134.9,
+      "minX": 210,
+      "maxY": 146,
+      "maxX": 296.6,
+      "page": 1
+    }],
+    "text": "Author summary"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 90.9,
+      "minX": 210,
+      "maxY": 126.6,
+      "maxX": 561.4,
+      "page": 1
+    }],
+    "text": "Alterations in gut microbes are increasingly being linked to neurodegenerative disorders such as Parkinson's disease (PD). Mutations in the GBA1 gene cause Gaucher disease (GD), and are the greatest genetic risk factor for PD. Here we show that Drosophila"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 1
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 1 / 32"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 745.6,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 122.9,
+      "page": 2
+    }],
+    "text": "PLOS GENETICS"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 538.6,
+      "minX": 210,
+      "maxY": 704.1,
+      "maxX": 567.2,
+      "page": 2
+    }],
+    "text": "models lacking the fly orthologue of GBA1 (Gba1b) have an altered gut microbiome, which triggers a widespread innate immune response. Accordingly, we show that removal of gut bacteria using antibiotics leads to a reduction in the immune response and health benefits. Stimulating innate immunity, specifically the NF-kB/IMD pathway, shortens the survival of Gba1b deficient flies, suggesting that the overactive immune system is toxic. Conversely, genetic removal of this branch of the immune response is harmful and associated with increased gut bacteria. Lastly, we identify widespread defects in a process called autophagy, which helps degrade and recycle cellular waste. Pharmacologically boosting autophagy extends survival and lowers the gut immune response without changing the gut bacteria. Taken together, our findings suggest that the gut microbiome and autophagy defects in Gba1b deficient flies trigger an abnormal immune response. Thus, drugs which alter the gut microbiome or stimulate autophagy may offer potential therapeutic benefits to patients with GBA1-associated disorders."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 502.8,
+      "minX": 200,
+      "maxY": 511.7,
+      "maxX": 269.8,
+      "page": 2
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 340.4,
+      "minX": 200,
+      "maxY": 493.1,
+      "maxX": 574.6,
+      "page": 2
+    }],
+    "text": "The GBA1 gene encodes the lysosomal enzyme glucocerebrosidase (GCase), responsible for the hydrolysis of the key membrane sphingolipid glucosylceramide (GluCer) to produce glucose and ceramide. Bi-allelic mutations in the GBA1 gene are known to cause Gaucher disease (GD), whereas heterozygous mutations represent a major genetic risk factor for Parkinson's disease (PD), conferring an approximately 20-fold increased risk [1, 2]. GD is a multi-systemic disorder characterised by the lysosomal accumulation of GluCer within macrophages of the liver, spleen, bone marrow, and other tissues, causing widespread organ dysfunction and inflammation [3]. PD is characterised neuropathologically by the presence of intraneuronal inclusions called Lewy bodies, composed predominantly of aggregated α-synuclein (αSyn), which forms higher-order aggregates in the presence of GluCer, leading to further lysosomal dysfunction [4]. Another pathological hallmark of PD is dopaminergic neuronal loss in the substantia nigra, where widespread GCase deficiency is also observed [5\u20137]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 184.4,
+      "minX": 200,
+      "maxY": 337.1,
+      "maxX": 575.4,
+      "page": 2
+    }],
+    "text": "There is growing evidence to suggest that the gut-brain axis is involved in the development of PD and other neurodegenerative disorders, and that the gut may act as an initiating site for PD pathology [8, 9]. Moreover, studies spanning clinical and basic science research have demonstrated both central and peripheral immune changes in PD and GD, implicating the immune system in gut-brain axis communication. Multiple genetic studies have linked PD risk to immune-related pathways and pathogenic variants in immune genes (e.g., Toll-like receptor (TLR-4), Tumour Necrosis Factor (TNF)-α and Human Leukocyte Antigen-DR (HLA-DR) [10\u201313]. Furthermore, impaired autophagy in macrophages derived from peripheral monocytes of GD patients leads to increased secretion of the pro-inflammatory cytokines interleukin (IL)6 and IL-β in association with inflammasome activation [14]. Despite the growing evidence linking immune dysfunction to sporadic PD and GD, the precise role of immune responses in gut-brain cross-talk in GBA1-PD and neuronopathic GD is yet to be elucidated."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 181.1,
+        "maxX": 572.3,
+        "page": 2
+      },
+      {
+        "minY": 678.8,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 566.7,
+        "page": 3
+      }
+    ],
+    "text": "In Drosophila, the innate immune response is initiated by pattern recognition receptors (PRRs), which recognise pathogen associated molecular patterns (PAMPs) on the surface of microbes to induce the conserved immune signal transduction pathways: Immune deficiency (IMD), Toll and JAK/STAT [15, 16]. Activation of innate immune pathways results in the up regulation of a cadre of structurally diverse antimicrobial peptides (AMPs) with bactericidal properties. Nevertheless, chronic immune pathway activation is deleterious to health and thus activation of the innate immune pathways must be tightly regulated [17]. Autophagy is a biological process responsible for the removal of damaged organelles, aggregated proteins, lipids and PAMPs. During autophagy, the cellular material to be degraded is sequestered into double-membraned vesicles called autophagosomes. At a later stage, these structures fuse with lysosomes containing hydrolases, which degrade the sequestered cargo [18]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 2
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 2 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 3
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 522.8,
+      "minX": 200,
+      "maxY": 675.5,
+      "maxX": 572.8,
+      "page": 3
+    }],
+    "text": "Here, we describe widespread innate immune activation and gut dysfunction in a Gba1b knockout fly model (Kinghorn et al., 2016). Remarkably, we report that the intestinal microbiota is necessary for immune activation, and that eradication of the altered gut microbiome in Gba1b knockout flies improves lifespan, locomotor and inflammatory phenotypes. Moreover, we demonstrate that direct stimulation of autophagy with rapamycin is sufficient to reduce immune activation and to partially rescue the GCase-deficient lifespan phenotype. Lastly, we show that modulation of the NF-kB/IMD pathway, through overexpression and knockout of Relish (Rel), is detrimental to flies lacking Gba1b, suggesting that chronic manipulation of these pathways should be approached with caution in GBA1-related disease. Together, these results suggest that gut microbes play an important role in triggering the immune response in GBA1-associated disorders, and that targeting the gut microbiome or improving the autophagic clearance of PAMPs may represent a potential therapeutic strategy in these disorders."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 493,
+      "minX": 200,
+      "maxY": 501.8,
+      "maxX": 243,
+      "page": 3
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 475,
+      "minX": 200,
+      "maxY": 483.6,
+      "maxX": 450.1,
+      "page": 3
+    }],
+    "text": "Loss of Gba1b results in innate immune activation"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 364.6,
+      "minX": 200,
+      "maxY": 465.3,
+      "maxX": 576,
+      "page": 3
+    }],
+    "text": "We have previously developed a Drosophila model of GCase deficiency by knocking out the two fly Gba1 genes, Gba1a and Gba1b (Fig 1A), together or separately using homologous recombination (Kinghorn et al., 2016). Loss of Gba1b results in locomotor defects, reduced lifespan and neurodegeneration (Kinghorn et al., 2016). Gba1b displays widespread expression and is thus the predominant GBA1 fly orthologue. It is significantly expressed in the nervous system and heart, with strongest expression levels in the fat body (FlyAtlas2) [19]. Several studies have identified that loss of Gba1b, but not Gba1a, recapitulates PD and GD phenotypes [20\u201323]. Thus, this study focused on flies lacking the Gba1b gene (Gba1b-/-)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 156.6,
+      "minX": 200,
+      "maxY": 361.3,
+      "maxX": 574.9,
+      "page": 3
+    }],
+    "text": "To identify molecular and biological processes contributing to the observed phenotypes in Gba1b-/- flies, we performed RNA-sequencing analysis on the heads of 1- and 3-week-old Gba1b-/- and age-matched controls flies. This revealed that 207 genes were differentially expressed in Gba1b-/- fly heads compared to controls at both time points, with greater differential gene expression at 3 weeks compared to 1 week (S1 Fig). Gene ontology analysis of both up-and down-regulated genes at both time points revealed significant gene enrichment for up-regulated genes mapping to pathways and biological processes related to the innate immune system, with greater up-regulation at 3 weeks (Fig 1B and S1 Fig). Many of these significantly expressed genes are key components of the Toll, IMD and JAK-STAT innate immune pathways (S1 Fig). We used quantitative RT-PCR (qRT-PCR) to independently examine innate immune gene expression. The AMP Drosomycin (Drs), a reporter gene of the Toll pathway, was significantly up-regulated in the heads of 3-week-old Gba1b-/- flies compared to controls (Fig 1C). Similar changes were seen in the expression levels of Diptericin A (DptA), an AMP downstream of the IMD pathway and TotA, a reporter gene of the JAK-STAT pathway (Fig 1C). A similar increase in DptA and TotA gene expression, but not in Drs levels, was seen in the headless bodies of aged Gba1b-/- flies, confirming peripheral innate immune activation (S2 Fig)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 110.1,
+      "minX": 200,
+      "maxY": 135.4,
+      "maxX": 570.1,
+      "page": 3
+    }],
+    "text": "GCase deficiency leads to brain glial activation and immune up-regulation in the fat body and gut"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.6,
+        "minX": 200,
+        "maxY": 104.9,
+        "maxX": 572.1,
+        "page": 3
+      },
+      {
+        "minY": 82.8,
+        "minX": 200,
+        "maxY": 157.5,
+        "maxX": 571.6,
+        "page": 4
+      },
+      {
+        "minY": 587.4,
+        "minX": 200,
+        "maxY": 611.9,
+        "maxX": 570.6,
+        "page": 6
+      }
+    ],
+    "text": "Since local innate immune pathways are activated in the heads and bodies of Gba1b-/- flies, we studied the spatial pattern of the immune responses in more detail. Given the presence of immune-responsive fat body tissue within the head, evidence of neuroinflammation was probed in the Gba1b-/- fly brain by examining the highly conserved Draper-dependent glial immune pathway. Draper is a phagocytic recognition receptor on the surface of engulfing glia in flies and is required for the phagocytic removal of cellular debris following axonal injury [24, 25]. Consistent with the widespread innate immune activation, we observed increased Draper gene expression in the heads of 3-week-old Gba1b-/- flies (Fig 2A). Draper protein levels were also elevated in the Gba1b-/- fly brain on immunostaining (Fig 2B) and on western blot analysis of fly heads (Fig 2C)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 3
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 3 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 4
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 261.3,
+      "minX": 200,
+      "maxY": 268.9,
+      "maxX": 548.7,
+      "page": 4
+    }],
+    "text": "Fig 1. GCase deficiency results in up-regulation of innate immune pathways in the fly head. (A) Schematic"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 4
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 4 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 5
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 126.8,
+      "minX": 73,
+      "maxY": 135.9,
+      "maxX": 564.8,
+      "page": 5
+    }],
+    "text": "Fig 2. Gba1b-/- flies display glial activation in the brain and immune activation in the fat body and gut. (A) Quantitative RT-PCR analysis demonstrates"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 5
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 5 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 6
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 418.4,
+      "minX": 200,
+      "maxY": 584.1,
+      "maxX": 575.1,
+      "page": 6
+    }],
+    "text": "We next assessed the innate immune responses in the fat body, the main site of AMP production. In keeping with IMD and JAK-STAT pathway up-regulation in the bodies of Gba1b-/flies, there was a significant increase in DptA and TotA gene expression in dissected fat body tissue (Fig 2D). This was corroborated by the co-expression of an IMD reporter construct, DptA-LacZ. This revealed strong diffuse LacZ staining in the fat body tissue of flies lacking Gba1b, consistent with IMD pathway activation (Fig 2E). An increase in innate immune signalling in the intestinal tissue was also observed. Drs and DptA gene expression were significantly elevated in the midgut tissue of Gba1b-/- flies compared to controls (Fig 2F). In addition, there was a trend towards up-regulation of TotA expression, although this did not reach statistical significance (Fig 2F). As Gba1a is predominantly expressed in the larval and adult fly midgut (FlyAtlas2) [19], we examined the innate immune responses in Gba1a knockout flies. Loss of Gba1a was not associated with any significant change in Drs, DptA or TotA expression in the heads, guts and headless bodies compared to controls (S3 Fig)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 314.4,
+      "minX": 200,
+      "maxY": 415.1,
+      "maxX": 574.2,
+      "page": 6
+    }],
+    "text": "It has recently been demonstrated that Gba1b is expressed predominantly within glia, rather than neurons, in the fly brain [26]. Using the same CRIMIC Gba1b line, in which Gba1b gene expression is disrupted, we co-expressed UAS-mCherry.nls under the Gba1b endogenous promoter [27]. Fluorescent mCherry expression almost exclusively overlapped with the glial marker repo, with little overlap with the neuronal marker elav, confirming the glial-specific expression of Gba1b (S4A Fig). Interestingly, we also observed strong mCherry expression within the fat body and gut tissues (S4B and S4C Fig). Thus, the increased innate immune responses likely represent cell autonomous effects within the tissues where the Gba1b gene is expressed."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 266.1,
+      "minX": 200,
+      "maxY": 291.4,
+      "maxX": 564.3,
+      "page": 6
+    }],
+    "text": "Gba1b deficient flies exhibit increased intestinal transit time and gut wall permeability"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 80.4,
+      "minX": 200,
+      "maxY": 259.1,
+      "maxX": 574.7,
+      "page": 6
+    }],
+    "text": "The fact that PD patients exhibit intestinal inflammation and gastrointestinal (GI) abnormalities such as constipation, often preceding motor defects by several years [28], prompted us to investigate the intestinal physiology of Gba1b-/- flies. Changes in intestinal function were identified by analysing the rate of faeces production following the feeding of food supplemented with 0.5% bromophenol blue (BPB). Aged Gba1b-/- flies exhibited a delay in intestinal transit time, with significantly fewer faecal deposits produced in the first few hours after consuming BPB food compared to controls (Fig 3A). We also noted that the faecal content of control flies was more concentrated, with a high proportion of oblong shaped ROD deposits compared to non-ROD circular faecal deposits, whilst Gba1b-/- flies almost exclusively produced non-ROD deposits (Fig 3A). The latter represent faeces with a higher water content [29]. Taken together, our results show delayed intestinal emptying and altered faecal content in Gba1b-/- flies, in keeping with the gastrointestinal dysfunction seen in PD. The altered intestinal transit was not due to reduced feeding, as a CAFE assay revealed no significant difference in food consumption between aged Gba1b-/- flies and age-matched control flies (S5B Fig)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 6
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 6 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 7
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 337.1,
+      "minX": 92.4,
+      "maxY": 346.1,
+      "maxX": 553.5,
+      "page": 7
+    }],
+    "text": "Fig 3. Gba1b-/- flies show reduced intestinal transit and an altered gut microbiome. (A) The rate ofintestinal transit is decreased in 3-week-old"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.7,
+        "minX": 200,
+        "maxY": 233.3,
+        "maxX": 575.9,
+        "page": 7
+      },
+      {
+        "minY": 665.9,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 574.9,
+        "page": 8
+      }
+    ],
+    "text": "In addition to GI dysfunction, compromised intestinal barrier integrity has also been reported in PD patients [30] [31]. We therefore employed a Smurf assay to assess gut permeability in Gba1b-/- flies. This involved feeding with a non-absorbable blue food dye [32], and measuring the proportion of flies that display the presence of the blue dye outside of the gut, resulting in a blue Smurf appearance. Smurf flies were more abundant in the aged Gba1b-/population relative to age-matched controls, demonstrating compromised gut barrier integrity (Fig 3B). In addition to GI pathophysiological defects in PD patients, changes in the gut microbiome have been described as a precursor to neuropathology [33\u201335]. In view of the intestinal immune activation and gut dysfunction in Gba1b-/- flies, we performed qPCR analysis using 16S universal primers and bacterial culture on midgut tissue from aged Gba1b-/- flies and controls to assess microbial load. A significant increase in overall bacterial load by qPCR was observed in midguts from Gba1b-/- flies compared to control flies (Fig 3C). This was supported by an increase in colony forming units (CFUs) in cultured gut extracts (Fig 3D). In addition, 16S ribosomal RNA-sequencing demonstrated clear differences in the intestinal microbes of Gba1b-/- flies compared to control flies (S5A Fig). In particular, there was a significant increase in the Acetobacter and Lactobacillus genera in the gut of Gba1b-/- flies."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 7
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 7 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 8
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 431.8,
+      "minX": 200,
+      "maxY": 664.3,
+      "maxX": 575.4,
+      "page": 8
+    }],
+    "text": "Since Gba1b-/- flies exhibit an increased bacterial load of altered composition, we determined if a bacterial challenge was a contributor to early mortality in Gba1b-/- flies. We orally challenged Gba1b-/- flies with the commensal bacteria Lactobacillus plantarum cultured from colonies isolated from control gut microbiota. Infected Gba1b-/- flies displayed significantly greater mortality than control flies at day 3 post-infection (Fig 3E). Quantitative CFU assessment showed that there were no significant differences in the Lactobacillus plantarum gut load between Gba1b-/- flies and controls after oral infection (S5C Fig). To further understand if the early mortality was due to bacterial proliferation or an overactivation of the innate immune response in the mutant flies, we determined the levels of Drs following an intrathoracic injection with the heat-killed bacteria Staphylococcus aureus. Aged Gba1b-/- flies exhibited a ~3-fold change in Drs production compared to controls at 96 hours post injection (S5D Fig). Furthermore, intrathoracic injection with heat-killed S. aureus resulted in a reduction in the lifespan of Gba1b-/- flies compared to flies injected with PBS vehicle alone (S5E Fig). The lifespan of control flies injected with heat-killed bacteria was not significantly different to that of PBS injected flies (S5E Fig). This suggests that it is the inflammatory stimulus and its uncontrolled immune response, rather than bacterial proliferation, that results in compromised survival in Gba1b-/- flies. Together our data suggest that Gba1b-/- flies are unable to effectively regulate and respond to commensal gut microbiota, contributing to adverse health outcomes."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 383.3,
+      "minX": 200,
+      "maxY": 408.6,
+      "maxX": 566.9,
+      "page": 8
+    }],
+    "text": "Amelioration of the gut microbiome under germ-free conditions partially rescues survival and locomotor phenotypes in Gba1b-/- flies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 249.7,
+      "minX": 200,
+      "maxY": 378.1,
+      "maxX": 572.1,
+      "page": 8
+    }],
+    "text": "To test whether modulating the microbiome would have beneficial effects, Gba1b-/- and control flies were reared under germ-free (GF) conditions and behavioural phenotypes were assessed. Adult control and mutant flies were raised and aged on standard food containing a cocktail of antibiotics to maintain GF conditions (Fig 4A). Raising Gba1b-/- flies under GF conditions resulted in a significant reduction of DptA expression as well lifespan extension (Fig 4B and 4C). These survival benefits appeared to be specific to Gba1b-/- flies, as GF control flies did not exhibit improved lifespan compared with non-GF controls. GF conditions also improved the locomotor ability of aged Gba1b-/- flies compared to their non-GF counterparts (Fig 4D). Thus, modulation of the intestinal microbiome partially ameliorates lifespan and locomotor phenotypes in GCase-deficient flies."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 203.8,
+      "minX": 200,
+      "maxY": 226.4,
+      "maxX": 546.7,
+      "page": 8
+    }],
+    "text": "The gut microbiota regulates the systemic innate immune response in Gba1b-/- flies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 199.8,
+        "maxY": 194.1,
+        "maxX": 574,
+        "page": 8
+      },
+      {
+        "minY": 691.8,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 571.2,
+        "page": 10
+      }
+    ],
+    "text": "The effect of eliminating the intestinal microbiome on immune activation in the fat body and head was also examined. Gba1b-/- flies exhibited a striking reduction in fat body DptA-LacZ staining towards control levels when raised under GF conditions (Fig 5A). Additionally, raising Gba1b-/- flies under GF conditions resulted in decreased glial activation, as evidenced by a reduction in Draper protein levels in the head (Fig 5B). Remarkably, GF Gba1b-/- flies displayed a significant reduction in DptA, Drs, and other innate immune markers such as Attacin A (AttA), Peptidoglycan recognition protein-Sc2 (PGRP-SC2), Cecropin C (CecC) and Drosocin (Dro), indicative of reduced innate immune signaling (Fig 5C and S6 Fig). Together, our data suggest that the gut microbiota is responsible for immune activation in the gut and other tissues of GCase-deficient flies, and that reversal of this microbiome-dependent immune activation is associated with partial amelioration of lifespan and neuromuscular phenotypes."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 8
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 8 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 9
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 170.7,
+      "minX": 166.6,
+      "maxY": 178.4,
+      "maxX": 575.5,
+      "page": 9
+    }],
+    "text": "Fig 4. Raising Gba1 mutant flies under germ-free (GF) conditions partially ameliorates a number of disease phenotypes. (A)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 9
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 9 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 10
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 649.8,
+      "minX": 200,
+      "maxY": 675.1,
+      "maxX": 543.2,
+      "page": 10
+    }],
+    "text": "Overactivation or deletion of the IMD pathway is detrimental to flies lacking Gba1b"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 516.1,
+      "minX": 200,
+      "maxY": 642.8,
+      "maxX": 575.7,
+      "page": 10
+    }],
+    "text": "Following the observation that GF conditions reduce the systemic immune response in Gba1b-/- flies, with improvements in survival and locomotor ability, we proceeded to investigate the effect of genetically manipulating the IMD pathway. A double knockout of both Relish (Rel), a core NF-kB transcription factor of the IMD pathway, and Gba1b was generated (Gba1b-/-, RelE20). The lifespan of Gba1b-/-, RelE20 flies raised under both non-GF and GF conditions was decreased compared to both RelE20 and Gba1b-/- single mutants (Fig 6A), suggesting that IMD pathway signaling is beneficial to Gba1b-/- flies. As expected, Gba1b-/-, RelE20 flies showed a significant decrease in DptA, demonstrating that the RelE20 mutant abrogates IMD pathway activation (Fig 6B). Drs was similarly decreased, suggesting there is no compensatory activation of the Toll pathway in the double mutant (S7A Fig)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 386.1,
+      "minX": 200,
+      "maxY": 514.6,
+      "maxX": 576,
+      "page": 10
+    }],
+    "text": "To identify a possible cause for the increased mortality of Gba1b-/-, RelE20 flies, we analysed the gut microbial load. Knockout of Rel resulted in a dramatic increase in bacterial load, which was further increased in Gba1b-/-, RelE20 flies (Fig 6C). In addition to the increased microbial load, significantly higher levels of TotA were detected in Gba1b-/-, RelE20 flies (Fig 6D), suggesting an enhanced activation of the JAK/STAT damage response pathway. These results led us to hypothesise that an elevated bacterial count in the gut might induce damage and increased turnover of the intestinal epithelium. To assess this, we examined the proliferation of the intestinal stem cells (ISC) by immunostaining the guts of both controls and Gba1b-/-, RelE20 flies using the mitotic marker PH3. Notably, we observed an increase in ISC proliferation within the guts of Gba1b-/-, RelE20 double mutant flies (Fig 6E)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 269.1,
+      "minX": 199.3,
+      "maxY": 384.6,
+      "maxX": 576,
+      "page": 10
+    }],
+    "text": "To assess whether the high die-off in Gba1b-/- flies, following exposure to the commensal bacteria Lactobacillus plantarum, was the result of IMD immunotoxicity, we examined the response of Gba1b-/-, RelE20 double mutants to bacterial feeding. Consumption of Lactobacillus plantarum led to a substantial increase (~70%) in fly mortality within 5 days among aged Gba1b-/-, RelE20 double mutants, whereas it caused a more moderate (~20%) mortality among the single Gba1b-/- and RelE20 mutant flies (S7B Fig). Raising Gba1b-/-, RelE20 flies under GF conditions partially ameliorated the toxic lifespan effect (Fig 6A). Collectively, these results demonstrate the indispensable role of the IMD/Rel pathway in regulating microbial load and maintaining intestinal epithelial homeostasis in Gba1b-/- flies."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 152.3,
+      "minX": 200,
+      "maxY": 265.8,
+      "maxX": 575,
+      "page": 10
+    }],
+    "text": "To test whether IMD activation is immunotoxic, we overexpressed Rel both ubiquitously and in the fat body of Gba1b-/- flies. This resulted in increased mortality (Fig 6F and 6G), demonstrating that augmentation of IMD immune signalling is detrimental in a Gba1b deficient background. Increased Rel expression was also confirmed using qRT-PCR (S7D Fig). Moreover, the level of TotA gene expression was also increased in Gba1b-/- flies overexpressing Rel (S7E Fig), suggesting activation of the JAK-STAT stress response. Together, these findings indicate that IMD/Rel pathway activation needs to be fine-tuned in Gba1b deficiency. Rel appears to play a pivotal protective role in regulating Gba1b-/- microbial loads but is immunotoxic when overexpressed."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 110.1,
+      "minX": 200,
+      "maxY": 137.6,
+      "maxX": 571.6,
+      "page": 10
+    }],
+    "text": "Partial amelioration of the autophagy impairment in Gba1b-/- flies leads to reduced IMD signaling"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 80.4,
+      "minX": 200,
+      "maxY": 103.1,
+      "maxX": 573.1,
+      "page": 10
+    }],
+    "text": "Autophagy has been shown to have a role in dampening innate immune responses and is achieved by removing key signal transduction components from these pathways [36\u201339]. Loss"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 10
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 10 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 11
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 143.8,
+      "minX": 130.1,
+      "maxY": 153,
+      "maxX": 566.8,
+      "page": 11
+    }],
+    "text": "Fig 5. Raising Gba1b-/- flies under GF conditions reverses immune activation in fat body and brain tissues. (A) DptA-LacZ staining in"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 11
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 11 / 32"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 745.6,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 122.9,
+      "page": 12
+    }],
+    "text": "PLOS GENETICS"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 358.3,
+      "minX": 181.2,
+      "maxY": 366.5,
+      "maxX": 207.4,
+      "page": 12
+    }],
+    "text": "F 1.00"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 124.9,
+      "minX": 180.9,
+      "maxY": 134,
+      "maxX": 549.7,
+      "page": 12
+    }],
+    "text": "Fig 6. Overexpression or knockout of Rel is toxic to flies lacking Gba1b. (A) The lifespan ofGba1b-/-, RelE20 flies is"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 12
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 12 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 13
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 381.4,
+      "minX": 200,
+      "maxY": 534.1,
+      "maxX": 575.3,
+      "page": 13
+    }],
+    "text": "of Gba1b has previously been shown to disrupt autophagic flux in the brain in an age-dependent manner [22]. As the nexus point of microbe-host interactions, autophagy was assessed in the gut of Gba1b-/- flies. For this purpose the accumulation of Ref(2)P, the fly ortholog of the selective autophagosomal receptor P62, and Atg8a, the fly ortholog of LC3, were used as markers of selective autophagy and macroautophagy respectively [40]. Western blot analysis on dissected fly guts revealed that both Atg8a-II and Ref(2)P protein levels were significantly increased in Gba1b-/- flies when compared with control flies (Fig 7A). A significant increase in the number and size of Ref(2)P and ubiquitin (Ub) puncta was seen on immunostaining in Gba1b-/- flies compared to control fly guts (Fig 7B). We observed several distinct LysoTracker-positive puncta within the midgut region of 3-week-old Gba1b-/- flies, but not in control fly guts (Fig 7C), which is characteristic of impaired autophagic turnover [41, 42]. Overall, our data mirrors the autophagy defects seen in the brains of Gba1b-/- flies [22]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 278.3,
+      "minX": 200,
+      "maxY": 379.8,
+      "maxX": 573.7,
+      "page": 13
+    }],
+    "text": "To investigate whether the abnormal immune activation that we observe in Gba1b-/- flies may result from a loss of autophagy-mediated regulation of immune signaling, autophagy was induced by raising flies on food supplemented with rapamycin a well-known inhibitor of Torc1. Chronic rapamycin treatment resulted in increased levels of LysoTracker-positive puncta in both control and mutant guts and higher ratios of Atg8a-II/I, indicative of increased autophagic flux (S8 Fig). Importantly, rapamycin treatment significantly reduced the levels of the IMD pathway reporter DptA in the gut and extended the lifespan of Gba1b-/- flies (Fig 7D and 7E)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 227.1,
+      "minX": 200,
+      "maxY": 252.4,
+      "maxX": 547.3,
+      "page": 13
+    }],
+    "text": "The beneficial effects of rapamycin treatment are not enhanced under germ-free conditions in Gba1b-/- flies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 119.4,
+      "minX": 200,
+      "maxY": 220.1,
+      "maxX": 574.9,
+      "page": 13
+    }],
+    "text": "Rapamycin treatment has been shown to reduce bacterial load in aged flies [43, 44], raising the possibility that the rapamycin-mediated lifespan improvement in Gba1b-/- flies was dependent upon the presence of the intestinal microbiota. To study if this was the case, the bacterial load in the guts of rapamycin treated and non-treated flies was measured by qPCR for the 16S rRNA gene and quantifying bacteria CFUs. Rapamycin treated Gba1b-/- and control flies exhibited similar expression of 16S rRNA and CFUs to non-treated flies (Fig 8A and 8B). Thus, rapamycin is neither directly bactericidal, nor is its effect as an IMD pathway suppressor contingent on a decrease in gut bacteria."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 116.1,
+        "maxX": 573.8,
+        "page": 13
+      },
+      {
+        "minY": 549,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 575.9,
+        "page": 15
+      }
+    ],
+    "text": "To directly determine whether rapamycin and GF treatment exert independent effects, GF and non-GF Gba1b-/- flies were treated with rapamycin or vehicle control (EtOH). Rapamycin similarly extended the lifespan of mutants under GF and non-GF conditions (Fig 8C). No additive effect was observed when flies were treated with rapamycin in the absence of the microbiota, suggesting both treatments are partially rescuing the fly survival through a common downstream mechanism. As rapamycin treatment reduces DptA levels, we tested the effect of both interventions on the AMP levels of Gba1b-/- flies. In agreement with the effect on lifespan, we found that GF Gba1b-/- flies treated with rapamycin had similar levels of DptA when compared with non-GF Gba1b-/- rapamycin treated flies (Fig 8D). To exclude the possibility that elimination of the microbiome may be exerting its beneficial effects via modulation of autophagy, the levels of Ref(2)P and Atg8a were shown to be unaltered in GF Gba1b-/- flies versus their non-GF counterparts (S6B Fig). There were also no significant differences in LysoTracker staining and Ref(2)P immunostaining in Gba1b-/- fly brains upon GF treatment (S6C Fig). Together, our results indicate that reduction of the innate immune response, either by improving intestinal autophagic degradation of putative immune cascade components or elimination of the microbiota, is sufficient to improve the lifespan of the Gba1b-/- flies."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 13
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 13 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 14
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 172.6,
+      "minX": 193.1,
+      "maxY": 181.6,
+      "maxX": 550,
+      "page": 14
+    }],
+    "text": "Fig 7. Loss of Gba1b results in gut autophagy impairment and administration of rapamycin rescues Gba1b-/-"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 14
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 14 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 15
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 418.8,
+      "minX": 200,
+      "maxY": 545.5,
+      "maxX": 575.4,
+      "page": 15
+    }],
+    "text": "Finally, to further substantiate the link between defective intestinal autophagy and persistent activation of the innate immune response, we inhibited late-stage autophagy in control flies to mimic the autophagosome-lysosome fusion that occurs in GCase deficiency [45]. For that purpose, we fed flies with chloroquine (CQ), a well-characterized autophagy inhibitor that blocks autolysosome fusion [46], and then measured the effect on the autophagic and immune pathways. Feeding flies with CQ resulted in accumulation of Atg8a-II and Ref(2)P (Fig 8E) and significantly increased DptA expression in the gut tissue (Fig 8F). Overall, these data suggest that basal autophagy is intricately involved in the control of the innate immune response, and that blockage of autophagy in the gut is sufficient to recapitulate the immune phenotypes observed in Gba1b-/- fly guts."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 385.9,
+      "minX": 200,
+      "maxY": 394.7,
+      "maxX": 263.6,
+      "page": 15
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 327.6,
+      "minX": 200,
+      "maxY": 376.1,
+      "maxX": 573,
+      "page": 15
+    }],
+    "text": "The immune system and gut-brain axis communication are increasingly being implicated in neurodegenerative disease. Using a GCase loss-of-function fly model of GD, we demonstrated that an altered gut microbiota, coupled with intestinal autophagic dysfunction, directly stimulates innate immune activation, in association with reduced lifespan."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 171.4,
+      "minX": 200,
+      "maxY": 324.1,
+      "maxX": 573.4,
+      "page": 15
+    }],
+    "text": "Our genome-wide genetic analysis revealed that loss of GCase activity leads to an age-dependent increase in the expression of Toll, IMD and JAK-STAT pathway components. The GBA1 gene is widely expressed in the human brain (proteinatlas.org) [47] and shows significantly higher expression in astrocytes and microglial/macrophage cells compared to neurons (brainrnaseq.org). Moreover, here we showed increased Draper-dependent glial activation in the Gba1b-/- fly brain. Microglia, the dominant innate immune cells of the mammalian brain, are increasingly being implicated in neurodegenerative disease [48]. Reactive microglia are present in post-mortem PD brains [49] and positron emission studies have similarly reported increased microglial responses in cortical and subcortical areas in vivo in early PD, as well as in the brains of GBA1 mutation carriers without PD [50\u201352]. Mouse models of neuronopathic GD have also revealed widespread astrogliosis and microgliosis, in association with fatal neurodegeneration within the first weeks of life [53, 54]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 169.9,
+        "maxX": 575.7,
+        "page": 15
+      },
+      {
+        "minY": 536.4,
+        "minX": 200,
+        "maxY": 572.1,
+        "maxX": 570.5,
+        "page": 17
+      }
+    ],
+    "text": "In addition to innate immune activation in the fly head, we confirmed that Gba1b-/- flies display elevated peripheral innate immune responses, including in the gut and fat body. This is in keeping with a previous study in flies harbouring insertions of minos elements in the two Gba1 genes, resulting in the production of truncated mutant GCase proteins. These flies displayed up-regulation of IMD and Toll pathway genes in the head and body [20, 55]. Our results thus confirm that complete loss of Gba1b gene activity is associated with strong innate immune activation, including the JAK-STAT stress response. Our finding that innate immune activation occurs peripherally is also consistent with studies showing evidence of significantly higher levels of serum proinflammatory cytokines and altered immune cell profiles in the blood of PD and GD patients compared to heathy individuals [56, 57]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 15
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 15 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 16
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 124.9,
+      "minX": 117.9,
+      "maxY": 134,
+      "maxX": 554.8,
+      "page": 16
+    }],
+    "text": "Fig 8. Long-term rapamycin treatment improves Gba1b-/- fly survival by reducing inflammation without altering microbial load. (A)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 16
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 16 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 17
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 380.6,
+      "minX": 200,
+      "maxY": 533.1,
+      "maxX": 575.8,
+      "page": 17
+    }],
+    "text": "There is increasing evidence for intestinal dysfunction in PD [28, 31], but it is not known whether gut pathology is a feature of GBA1-PD or GD. We demonstrated gut dysfunction with increased intestinal transit time and elevated gut wall permeability in Gba1b-/- flies. Further probing revealed increased innate immune activation, predominantly of the IMD and Toll pathways, in the intestinal tissue of Gba1b-/- flies. It is likely that these gut pathologies are a consequence of GCase loss-of-function in the intestinal tissue, as we confirmed Gba1b gene expression in the Drosophila gut. Importantly, our findings reflect those seen in PD patients where enteric inflammation on colonic biopsies has been reported, including increased intestinal expression of pro-inflammatory cytokines such as TNF-α, IL6 and IL-1β, and the bacterial endotoxin ligand TLR4 [28, 58]. Furthermore, intestinal permeability is increased in PD patients in association with decreased serum LPS binding protein (LBP), indicating greater endotoxin exposure [30, 59]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 237.4,
+      "minX": 200,
+      "maxY": 377.1,
+      "maxX": 575.9,
+      "page": 17
+    }],
+    "text": "The intestinal microbiota is essential for the management of gut epithelial integrity, through maintenance of tight junction proteins and mucin production, thereby inhibiting the infiltration of bacteria and immunogenic products [60]. The Drosophila midgut is an ideal model system for studying host-microbiome interactions due to the striking conservation of intestinal structure and gut immune signaling with humans [61]. Consistent with the intestinal microbiome playing a role in GBA1-associated neurodegeneration, we observed increased intestinal bacterial load and alterations in the composition of the gut microbiome in Gba1b-/- flies. There was a significant increase in the abundance of Acetobacter and Lactobacillus, the commonest genera in the fly gut [62]. A recent study has demonstrated that GluCer positively regulates growth of certain bacterial species [63], so GluCer deposition in intestinal cells of the gut lumen may trigger a shift in bacterial number and composition."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 81.5,
+        "minX": 200,
+        "maxY": 235.8,
+        "maxX": 575.9,
+        "page": 17
+      },
+      {
+        "minY": 652.9,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 575.5,
+        "page": 18
+      }
+    ],
+    "text": "The fact that bacterial load was increased in Gba1b-/- flies compared to control flies is commensurate with the observation that microbial load is a significant determinant of lifespan in Drosophila [64]. Our results also mirror several studies reporting changes in several gut bacterial species between PD patients and control groups [35, 65, 66]. The chronic gut immune activation observed in Gba1b-/- flies likely promotes further microbiome dysbiosis, which in turn can lead to impairment of gut function and ultimately reduced survival [67]. Support for intestinal microbiome-mediated effects on the CNS in Gba1-/-flies, i.e., via gut-brain axis communication, was achieved by raising mutant and control flies under GF conditions. Modulation of the intestinal microbiome in GF flies resulted in partial amelioration of a number of phenotypes, including survival, locomotor defects and glial activation. Similar beneficial effects were seen on modulation of the intestinal microbiota in Alzheimer's disease mouse and fly models [68\u201370] and α-Syn overexpressing (ASO) mice [71]. In the case of ASO mice, amelioration of the intestinal microbiome led to an improvement in neuropathology, whereas oral administration of specific microbial metabolites to GF mice promoted neuroinflammation and motor deficits. Interestingly, we show that the re-introduction of a single commensal bacteria from the gut of healthy control flies is sufficient to promote immune activation in Gba1b-/- flies in association with significant mortality."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 17
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 17 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 18
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 509.8,
+      "minX": 200,
+      "maxY": 651.3,
+      "maxX": 575.9,
+      "page": 18
+    }],
+    "text": "The finding that the intestinal microbiome in Gba1b-/- flies is necessary to promote innate immune activation can be interpreted in the context of the recently described endotoxin hypothesis of neurodegeneration [72]. Endotoxins predominantly refer to the lipopolysaccharide found in the outer cell wall of gram-negative bacteria [62]. We hypothesise that the intestinal inflammation and altered gut microbiome observed in our Gba1b-/- fly model promotes intestinal barrier permeability ('gut leakiness'). This in turn allows translocation of PAMPs\u2014 among them endotoxins and peptidoglycan fragments\u2014from the gut lumen into the systemic circulation [59, 72]. The increased intestinal transit time and increased bacterial load observed in Gba1b-/- flies may further promote this translocation due to the increased exposure of the gut wall to bacteria. The subsequent circulating microbial products can stimulate a chronic systemic innate immune activation [73], consequently leading to neuroinflammation [58, 74, 75]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 379.8,
+      "minX": 200,
+      "maxY": 506.5,
+      "maxX": 575.9,
+      "page": 18
+    }],
+    "text": "Furthermore, we showed that blockage of autophagy in healthy flies is sufficient to induce an immune response in the gut. This is in agreement with recent studies that show degradation of IMD pathway mediators, such as Tak1/Tab2 and IKK complex is mediated by selective autophagy. Loss of normal autophagic flux results in constitutive activation of the IMD pathway [38, 39]. Thus, the autophagy impairment observed in the brain, gut and fat body tissue of Gba1b-/- flies may lead to an inability to terminate activated immune responses, through the degradation of key components of the NF-kB signalling cascades. In turn, this would lead to increased levels of AMPs. We therefore propose that the deleterious chronic inflammation observed in Gba1b-/- flies results from the loss of autophagic regulation of immune signal transduction pathways."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 197.9,
+      "minX": 200,
+      "maxY": 376.5,
+      "maxX": 576,
+      "page": 18
+    }],
+    "text": "Interestingly, despite the beneficial effects of eradicating the immune-stimulating gut microbiome, direct manipulation of IMD signaling did not produce similar benefits. Indeed, both knockout and overexpression of Rel was detrimental to Gba1b deficient flies. The survival of Gba1b-/-, RelE20 double mutants was significantly reduced under both GF and non-GF conditions, demonstrating that chronic suppression of IMD signalling is toxic to Gba1b-/- flies. Our data also indicate that gut bacterial load is likely partially contributing to the observed shortened lifespan, since Rel knockout in Gba1b-/- flies is less toxic under GF conditions. Ubiquitous and fat body overexpression of Rel in Gba1b-/- flies also reduces fly survival. Together these findings suggest that immune signaling requires fine-tuning in the context of Gba1b deficiency. In addition, studies have shown immune independent roles for Rel [76, 77]. These include regulation of the autophagy protein Atg1. It is therefore possible that dysregulation of non-immune pathways, such as autophagy, in response to knockdown or up-regulation of Rel, may contribute to the toxicity observed in Gba1b-/- flies, for example by potentiating the autophagy impairment observed in GCase deficiency."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 83.2,
+      "minX": 200,
+      "maxY": 194.5,
+      "maxX": 575.9,
+      "page": 18
+    }],
+    "text": "Taken together, our results highlight that potential therapeutic strategies aimed at modulating the immune system in GBA1-associated disorders, such as GD and PD, need to be approached with caution. We hypothesise that innate immunity is necessary to respond to the increased exposure to an altered gut microbiome in GBA1 deletion, but that as the fly ages and the immune activation becomes chronic, its effects become detrimental at the organism level. Further work is now required to unravel the temporal and tissue-specific nature of the immune responses in GBA1 deficiency, to determine whether targeting the innate immune system at later stages in life and/or in a tissue specific manner might offer an effective approach to treat GBA1-associated diseases."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 18
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 18 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 19
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 627,
+      "minX": 200,
+      "maxY": 714.5,
+      "maxX": 568.6,
+      "page": 19
+    }],
+    "text": "In conclusion, we demonstrate innate immune dysregulation, GI dysfunction, and microbiome dysbiosis in a fly model of GCase loss-of-function. We show that the intestinal microbiota stimulates local gut and systemic innate immune responses in Gba1b-/- flies. We also reveal that removal of the microbiome, or improvement of autophagy, but not chronic elimination of IMD signaling, improves survival as well as gut and locomotor phenotypes. These insights have the potential to lead to the development of novel long-awaited therapeutic approaches in the treatment of GBA1-associated disorders."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 603.1,
+      "minX": 200,
+      "maxY": 611.9,
+      "maxX": 321.1,
+      "page": 19
+    }],
+    "text": "Material and methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 582.3,
+      "minX": 200,
+      "maxY": 593.6,
+      "maxX": 357.1,
+      "page": 19
+    }],
+    "text": "Drosophila stocks and handling"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 435.6,
+      "minX": 200,
+      "maxY": 576.9,
+      "maxX": 574.7,
+      "page": 19
+    }],
+    "text": "All flies were backcrossed at least 6 generations into the w1118 background to create isogenic background lines. Flies lacking Gba1b (Gba1b-/-) and Gba1a (Gba1a-/-) were previously described [22]. The Gba1b CRIMIC Trojan-Gal4 (BL#78943), RelE20 (BL#755714), UAS-Rel (BL#755778), Tub-GAL4 (BL#5138) and Cg-GAL4 (BL#7011) lines were obtained from the Bloomington Stock Centre (Indiana, USA). All Drosophila stocks and experiments were maintained at 25 C on a 12:12 hour light: dark cycle at 60% humidity on a standard sugar-yeast medium (SYA) (50 g/L sugar, 100 g/L autolysed yeast, 15 g/L agar) containing preservatives (3 g/L nipagin and 3 ml/L propanoic acid). Gba1b knockout flies were kept in mixed populations with control flies for several generations prior to setting up all experiments, except for those involving the infection with Lactobacillus plantarum. This was performed to reduce the confounding effects of environmental conditions."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 383.8,
+      "minX": 200,
+      "maxY": 432.4,
+      "maxX": 572.1,
+      "page": 19
+    }],
+    "text": "All experiments were set up using 'egg squirt protocols' to ensure that all experimental flies were raised at similar larval densities (~300 eggs per bottle). Following eclosion, flies were transferred to fresh food for a 48-hour mating period. Under CO2 anaesthesia, flies were then divided into 15 female flies per vial."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 357.1,
+      "minX": 200,
+      "maxY": 368.4,
+      "maxX": 325.5,
+      "page": 19
+    }],
+    "text": "RNA sequencing analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 350.1,
+        "maxX": 576,
+        "page": 19
+      },
+      {
+        "minY": 691.8,
+        "minX": 200,
+        "maxY": 714.6,
+        "maxX": 574.4,
+        "page": 20
+      }
+    ],
+    "text": "Next generation sequencing was performed by the Glasgow Polyomics (UK) facility. Using our in-house protocol, RNA was isolated from the Gba1b-/- heads and the heads of aged-matched w1118 controls at 1 week and 3 weeks of age. For each sample time point, five replicates of 30 flies were used. The twenty samples were PolyA-enriched and the libraries were sequenced on a MiSeq Illumina instrument as 75 bp paired-end reads generating a total of 25 million reads. The mean output per sample was 10 million reads. Reads were mapped to the Drosophila melanogaster genome (downloaded from FlyBase.org, version dmel_r6.31_FB2019_06) using STAR v2.7.3a [78] (https://doi.org/10.1093/bioinformatics/ bts635) [default parameters], plus the ENCODE options for '\u2014alignIntronMin', '\u2014alignIntronMax' and '\u2014outFilterMultimapNmax'. Following reads sorting by gene name using STAR, featureCounts v.2.0.0 [79] (https://doi.org/10.1093/bioinformatics/btt656) [default parameters] was used to extract gene counts as per the transcriptome annotations (downloaded from FlyBase.org, version dmel_r6.31_FB2019_06/gtf). Differential gene expression analysis was performed for each time point independently vs the aged-matched controls using DESeq2 [80] (https://doi.org/10.1186/s13059-014-0550-8) [default parameters]. The generated p values were adjusted for multiple testing using the procedure of Benjamini and Hochberg [81]. Gene lists were created by filtering for lowly expressed genes (5 reads across all five replicates) and using absolute cut-offs for p-value <0.05 and log2 fold change �2 or log2 fold change �2 for up-regulated and down-regulated genes, respectively. Common genes at both time points were obtained by merging together the significant gene lists. These were further filtered by log2 fold change �2 at the latter time point generating common genes. Genes were visualised as a heat map created using the 'heatmply' R package v.1.1.0. Gene ontology (GO) enrichment analysis was performed using g:Profiler [82] (https://doi.org/10.1093/nar/gkz369)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 19
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 19 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 20
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 665.1,
+      "minX": 200,
+      "maxY": 675.2,
+      "maxX": 308.9,
+      "page": 20
+    }],
+    "text": "Quantitative RT-PCR"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 556.5,
+      "minX": 200,
+      "maxY": 657.2,
+      "maxX": 572.8,
+      "page": 20
+    }],
+    "text": "Total RNA was extracted from 6 whole flies, 25 heads, 10 dissected midguts or 10 headless bodies of adult flies at each time point using Trizol (Invitrogen) according to the manufacturer's instructions. 4 μg of total RNA for each sample was subjected to DNA digestion using DNAse I (Invitrogen), immediately followed by reverse transcription using the Superscript II system (Invitrogen) with oligo(dT) primers. Quantitative RT-PCR was performed using the QuantStudio 6 Flex detection system (Applied Biosystems) and SYBR Green (Invitrogen) as per the manufacturer's instructions. Each sample was analysed in duplicate, and the values are the mean of at least 4 independent biological repeats. The primers used were as follows:"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 232.7,
+      "minX": 200,
+      "maxY": 244.1,
+      "maxX": 350.8,
+      "page": 20
+    }],
+    "text": "Longevity and climbing assays"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 138.1,
+      "minX": 200,
+      "maxY": 225.8,
+      "maxX": 575.6,
+      "page": 20
+    }],
+    "text": "Flies were transferred to vials containing fresh food three times a week throughout life. The number of dead flies found during each transfer was recorded. Lifespan curves were analysed using a log-rank test. For climbing assays, 75 flies of each genotype were housed in groups of 15 in plastic vials held in a Drosoflipper (http://drosoflipper.com/). While video recording, the flies were tapped to the bottom and allowed to climb for 30 seconds. The numbers of flies in the top, middle and bottom thirds of each vial at 30 seconds were scored. A performance index was calculated as previously described [83]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 110.9,
+      "minX": 200,
+      "maxY": 121.6,
+      "maxX": 334.2,
+      "page": 20
+    }],
+    "text": "Germ-free (GF) conditions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 103.1,
+        "maxX": 568.7,
+        "page": 20
+      },
+      {
+        "minY": 665.9,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 575,
+        "page": 21
+      }
+    ],
+    "text": "Flies were rendered GF as previously described [84]. Axenic food was prepared with 50 mg/L tetracycline (Sigma-Aldrich, T3258) and 400 mg/L streptomycin (Sigma-Aldrich, S9137). In brief, embryos were collected on grape juice agar plates for 24 hours and transferred to a nylon basket. Embryos were dechorionated in 50% bleach for 2 minutes, washed twice in 70% EtOH for 1 minute and then washed in dH2O for 10 minutes. Dechorionated embryos were then transferred onto antibiotic food. Flies were processed at 3 weeks of age."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 20
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 20 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 21
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 636.9,
+      "minX": 200,
+      "maxY": 648.2,
+      "maxX": 307,
+      "page": 21
+    }],
+    "text": "Western blot analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 464.3,
+      "minX": 200,
+      "maxY": 629.9,
+      "maxX": 576,
+      "page": 21
+    }],
+    "text": "For Western blotting, 10 fly heads or 8 guts per sample were homogenized in 2× Laemmli loading buffer (100 mM Tris 6.8, 20% glycerol, 4% SDS) containing 5% β-mercaptoethanol and then boiled for 5 minutes. Approximately 8 μl of protein extract was loaded per lane. Proteins were separated on precast 4%\u201312% NuPage Bis-Tris gels (Invitrogen) and transferred to a PVDF membrane. The membranes were then blocked in 5% BSA in TBST (TBS with 0.05% Tween 20) for 1 hour at room temperature, after which they were probed with primary antibodies diluted in 5% BSA in TBST overnight at 4 C. Blots were developed using the ECL detection system. Primary antibodies used: mouse DHSB Draper 5D14 (1:500); rabbit anti-GABARAP (ab109364, 1:2000); rabbit anti-Ref(2)P (ab178440, 1:500). The secondary antibody (Abcam) was diluted 1:10.000 (goat anti-mouse: ab6789 or goat anti-rabbit: ab672) in 5% BSA in TBST for 1 hour at room temperature. Bands were visualized with Luminata Forte (Millipore). All blots were imaged with ImageQuant LAS4000 (GE Healthcare Life Science). Quantification was performed using the ImageJ program (National Institutes of Health)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 435.3,
+      "minX": 200,
+      "maxY": 446.6,
+      "maxX": 366.6,
+      "page": 21
+    }],
+    "text": "Immunofluorescence microscopy"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 236.6,
+      "minX": 200,
+      "maxY": 428.3,
+      "maxX": 575.9,
+      "page": 21
+    }],
+    "text": "Tissue dissections were modified from [85]. Brains, guts or fat bodies were dissected in PBS and fixed, nutating in 4% paraformaldehyde (in PBS) for 20 minutes. Dissected tissues were washed twice with PBS-T (PBS, 0.5% TritonX), followed by 3x 20-minutes washes in PBS-T. Tissues were then incubated in block solution (PBS-T with 5% H1 horse serum (Gibco) for 1 hour before transferral to block containing primary antibody overnight at 4̊C. Tissues were then washed twice in PBS-T followed by 3x 20 minutes in PBS-T and transferred to block solution containing secondary antibody overnight at 4 C. Tissues were then washed twice in PBS-T, followed by 3x 20 minutes in PBS-T and mounted in Vectashield antifade mounting medium with DAPI (Vector Labs, H1200). For experiments co-staining alongside mCherry, antibody incubations were reduced to 2 hours at room temperature to preserve mCherry signal. Antibody working concentrations were as follows: rabbit anti-Phospho-Histone H3 (Cell Signalling 9701, 1:100), mouse anti-Draper 5D14 (DSHB, 1:500), mouse anti-Repo 8D12 (DSHB, 1:200), mouse anti-Elav 958A9 (DSHB, 1:200), rabbit anti-Ref(2)P (ab178440, 1:200), mouse anti-FK2 (Sigma 04263, 1: 800). The secondary antibodies used: goat anti-mouse Alexa488 (A11001) and goat-rabbit Alexa568 (A11036), used at 1:250."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 207.7,
+      "minX": 200,
+      "maxY": 219,
+      "maxX": 305.4,
+      "page": 21
+    }],
+    "text": "LysoTracker staining"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 152,
+      "minX": 200,
+      "maxY": 200.7,
+      "maxX": 570.3,
+      "page": 21
+    }],
+    "text": "Fly guts were dissected in PBS and stained with LysoTracker, an acidophilic dye that labels lysosomes (LysoTracker Red DND-99; Thermo Fisher Scientific; 1:2000) and Hoeschst 33342 (Sigma, 1mg/ml; 1:1000) for 3 minutes. Immediately after staining, guts were washed 2x for 5 min with PBS, mounted in Vectashield and imaged."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 123.1,
+      "minX": 200,
+      "maxY": 134.1,
+      "maxX": 300,
+      "page": 21
+    }],
+    "text": "DptA-LacZ staining"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 116.1,
+        "maxX": 575.9,
+        "page": 21
+      },
+      {
+        "minY": 652.9,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 573.8,
+        "page": 22
+      }
+    ],
+    "text": "DptA-LacZ expressing abdomens were dissected in ice-cold PBS and immediately fixed in 4% PFA for 20 minutes. Abdomens were washed in PBS and transferred into staining solution (10 mM potassium ferricyanide, 10mM potassium ferrocyanide, 1mM MgCl2, 150mM NaCl, 0.1% Triton in PBS), pre-warmed to 37 C and containing 1:20 X-gal (1 mg/ml in DMSO) and incubated overnight in the dark. Abdomens were washed 3x in pre-warmed PBS, mounted and immediately imaged on a Leica M165C light microscope. LacZ intensity was quantified by splitting RGB channels, inverting the image and quantifying the entire abdomen, with the background subtracted."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 21
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 21 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 22
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 626.4,
+      "minX": 200,
+      "maxY": 637.6,
+      "maxX": 456.6,
+      "page": 22
+    }],
+    "text": "Gut transit time and faecal deposit characterisation"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 583.6,
+      "minX": 200,
+      "maxY": 619.3,
+      "maxX": 575.9,
+      "page": 22
+    }],
+    "text": "Flies were placed on a SY diet containing 0.5% Bromophenol Blue (BPB) (Sigma-Aldrich, B5525- 10G) for 36 hours, then transferred into empty glass vials every 2 hours. Faecal deposits were then manually counted at each timepoint and assessed for ROD morphology."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 557,
+      "minX": 200,
+      "maxY": 568.5,
+      "maxX": 398.8,
+      "page": 22
+    }],
+    "text": "Gut permeability analysis (Smurf assay)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 514.4,
+      "minX": 200,
+      "maxY": 550.1,
+      "maxX": 560.8,
+      "page": 22
+    }],
+    "text": "Gut barrier efficiency was analysed by placing flies on blue food prepared using 2.5% (w/v) FD&C blue dye n 1 (Fastcolors) as previously described [32]. Aged flies were kept on blue food for 6 days and subsequently scored for dye perfusion throughout the interstitial space."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 487.7,
+      "minX": 200,
+      "maxY": 499.2,
+      "maxX": 321.8,
+      "page": 22
+    }],
+    "text": "Food intake (Cafe assay)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 432.2,
+      "minX": 200,
+      "maxY": 480.8,
+      "maxX": 575.9,
+      "page": 22
+    }],
+    "text": "In the capillary feeder (CAFE) assay, one single female fly was presented with liquid food using a 10 μL calibrated capillary per chamber (n = 12 per condition). Changes in liquid meniscus height were measured over three consecutive days. The feeding volume was calculated after background subtraction of measurements from empty chambers without flies."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 405.5,
+      "minX": 200,
+      "maxY": 416.9,
+      "maxX": 273.2,
+      "page": 22
+    }],
+    "text": "Image analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 337.1,
+      "minX": 200,
+      "maxY": 398.6,
+      "maxX": 572.9,
+      "page": 22
+    }],
+    "text": "All images were acquired on a Zeiss LSM 700 confocal microscope and all settings were kept the same within an experiment. For Draper staining, a maximum intensity 10 μm z-stack with 1μm intervals encompassing the antennal lobes was taken. Regions of interest, encompassing the soma, were generated using the DAPI channel as a guide. Intensity relative to the antennal lobe neuropil was measured."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 296.3,
+      "minX": 200,
+      "maxY": 321.7,
+      "maxX": 557.6,
+      "page": 22
+    }],
+    "text": "Preparation of template DNA for 16S ribosomal RNA sequencing on fly midgut tissue"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 162.7,
+      "minX": 200,
+      "maxY": 289.3,
+      "maxX": 576,
+      "page": 22
+    }],
+    "text": "Extracted midguts were added to an Eppendorf tube containing 180 μL Lysis buffer (20 mM Tris-HCl pH 8.0, 2 mM EDTA pH 8.0, 1.2% Triton X-100 (Sigma-Aldrich), 20mg/mL fresh lysozyme from chicken egg (Sigma-Aldrich L7651)). 200 μL QIAGEN buffer AL was added to each Eppendorf tube containing 40 midguts. Following lysis with a Kontes pellet pestle, 20 μL proteinase K (QIAGEN) was added. The samples were then incubated at 56 C for 3 h. To remove any RNA, 10 μL of 10 μg/mL RNase A (Sigma-Aldrich R4875) was added and the samples were incubated at 37C̊ for 30 minutes. 200 μL ethanol was then added and the standard QIAGEN spin column protocol was followed. The DNA concentration was then assessed using a Nanodrop 2000 Spectrophotometer (Thermo Fisher Scientific) and sent to LC Sciences (Houston, USA) on dry ice for 16S/18S/ITS1/ITS2 RNA-sequencing."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 136.1,
+      "minX": 200,
+      "maxY": 147.4,
+      "maxX": 357.3,
+      "page": 22
+    }],
+    "text": "16S ribosomal RNA sequencing"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 129.1,
+        "maxX": 575.4,
+        "page": 22
+      },
+      {
+        "minY": 548.8,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 575.9,
+        "page": 23
+      }
+    ],
+    "text": "The V3-V4 region of the prokaryotic (including bacterial and archaeal) small-subunit (16S) rRNA gene was amplified with slightly modified versions of primers 338F (5'- ACTCCTA CGGGAGGCAGCAG-3') and 806R (5'- GGACTACHVGGGTWTCTAAT-3'). The 5' ends of the primers were tagged with specific barcodes and sequencing universal primers. PCR amplification was performed in 25 μL of reactions containing 25 ng of template DNA, 12.5 μL of PCR premix, 2.5 μL of each primer, and PCR-grade water. The PCR conditions for amplifying the prokaryotic 16S fragments comprise the following steps: initial denaturation at 98 C for 30 seconds; 35 cycles of denaturation at 98̊C for 10 seconds, annealing at 54C̊/52̊C for 30 seconds, and extension at 72 C for 45 seconds; and final extension at 72̊C for 10 minutes. PCR products were confirmed with electrophoresis in 2% agarose gel. Ultrapure water was used as the negative control to exclude false positives. PCR products were purified by AMPure XT beads (Beckman Coulter Genomics, Danvers, MA, USA) and quantified by Qubit (Invitrogen, USA). The size and quantity of the amplicon library were assessed with Agilent 2100 Bioanalyzer (Agilent, USA) and Library Quantification Kit for Illumina (Kapa Biosciences, Woburn, MA, USA), respectively. PhiX control library (v3) (Illumina) was combined with the amplicon library (at a fraction of 30%). The libraries were sequenced on Illumina MiSeq (300 bp 2, pair-ended) using the standard Illumina sequencing primers."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 22
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 22 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 23
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 517.7,
+      "minX": 200,
+      "maxY": 529,
+      "maxX": 423.7,
+      "page": 23
+    }],
+    "text": "16S ribosomal RNA sequencing data analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 332,
+      "minX": 200,
+      "maxY": 510.7,
+      "maxX": 575.3,
+      "page": 23
+    }],
+    "text": "Paired-end reads were assigned to samples based on their unique barcodes before barcode and primer sequences were trimmed. The trimmed reads were merged using FLASH. Quality filtering on the raw tags were performed to obtain high-quality clean tags withfqtrim (v0.94). Chimeric sequences were filtered using Vsearch (v2.3.4). Sequences with �97% similarity were assigned to the same operational taxonomic units (OTUs) by Vsearch (v2.3.4). Representative sequences were chosen for each OUT, followed by taxonomic assignment using the RDP (Ribosomal Database Project) classifier. The differences of the dominant species in different groups and multiple sequence alignment were conducted by mafft software (v7.310). OTU abundance information was estimated after rarefaction with the least sequence number obtained for the project. Alpha diversity was applied for analyzing complexity of species diversity with 5 measurements, including Chao1, Observed species, Goods_coverage, Shannon and Simpson, which were calculated by QIIME (v1.8.0). Beta diversity was calculated by PCoA analysis to evaluate differences of samples in species complexity. Cluster analysis was performed by QIIME software (v1.8.0)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 301.1,
+      "minX": 200,
+      "maxY": 312.3,
+      "maxX": 418.9,
+      "page": 23
+    }],
+    "text": "16S qPCR quantification of microbiota load"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 232.3,
+      "minX": 200,
+      "maxY": 293.9,
+      "maxX": 573.3,
+      "page": 23
+    }],
+    "text": "DNA was extracted from samples containing 5 female flies. Each fly was first sterilized with 70% ethanol to remove external bacteria and then washed with 1x PBS. After this step, the same protocol as described above was used to extract the DNA for the 16S Ribosomal RNA gene sequencing. qPCR was then performed on total genomic DNA to determine the bacterial load to fly DNA in each sample by normalizing it to the Drosophila GAPDH gene."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 201.1,
+      "minX": 200,
+      "maxY": 212.4,
+      "maxX": 400.7,
+      "page": 23
+    }],
+    "text": "CFUs and analysis of culturable bacteria"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 194.1,
+        "maxX": 575.9,
+        "page": 23
+      },
+      {
+        "minY": 694.2,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 570.6,
+        "page": 24
+      }
+    ],
+    "text": "Culture-dependent methods were used to quantify and identify culturable bacteria present in the fly gut. Guts were dissected from female flies in Tris-HCl 50 mM, pH 7.5 and homogenized with a Kontes pellet pestle in 300μL de Man, Rogosa and Sharpe (MRS) broth. Each sample was then serially diluted and 50 μL from each dilution was plated onto MRS agar plates. Plates were incubated at 28̊C for three days and isolated colonies present in each plate were counted using a digital colony counter (Fisher Scientific). Five colonies for each morphological type were re-streaked onto new plates. To identify each isolate, a PCR was performed using part of a colony as a DNA template and 16S universal primers (27F and 1495R). The amplified amplicon was cleaned up using a PCR purification kit (Qiagen) and sent to Source Biosciences for sequencing. Identified isolates were grown in liquid medium containing 25% of glycerol (v/v) and frozen at -80 C."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 23
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 23 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 24
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 659.8,
+      "minX": 200,
+      "maxY": 671,
+      "maxX": 419.8,
+      "page": 24
+    }],
+    "text": "Oral infection with Lactobacillus plantarum"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 539,
+      "minX": 200,
+      "maxY": 654.2,
+      "maxX": 575.1,
+      "page": 24
+    }],
+    "text": "Dissected guts from 6 w1118 control female flies (previously washed in EtOH and PBS) were homogenised and plated onto MRS agar medium and incubated at 25 C for two days. Colonies were then isolated and identified by 16S Ribosome Gene Sequencing (Source Bioscience). A single colony of Lactobacillus plantarum was then grown overnight in 400 ml of MRS broth at 25̊C. The cell culture was centrifuged at 5000 rpm (10 min), washed in PBS and resuspended in 5 ml of 2.5% of sucrose. 200 μl of this suspension or 2.5% sucrose vehicle was pipetted onto 2 filter papers (Whatman filter paper Chroma circles 2.1 cm) in a vial containing 1.5% agarose. 3-week-old flies were transferred to vials containing either 2.5% sucrose and Lactobacillus or 2.5% sucrose alone. After 72 hours of feeding, fly death was scored."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 506.8,
+      "minX": 200,
+      "maxY": 518.2,
+      "maxX": 438.5,
+      "page": 24
+    }],
+    "text": "Micro-injection of flies with heat-killed bacteria"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 464.1,
+      "minX": 200,
+      "maxY": 499.8,
+      "maxX": 575.9,
+      "page": 24
+    }],
+    "text": "Newly eclosed flies were reared at 25C̊ on SY food until approximately 3 weeks of age. They were then subjected to an injection into the thorax with 32 nl heat-killed Staphylococcus aureus NCTC8325-4 (BAC) or PBS using a microinjector (Nanoject II; from Drummond Scientific)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 431.9,
+      "minX": 200,
+      "maxY": 443.3,
+      "maxX": 293.1,
+      "page": 24
+    }],
+    "text": "Statistical analyses"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 363.3,
+      "minX": 200,
+      "maxY": 424.9,
+      "maxX": 575.9,
+      "page": 24
+    }],
+    "text": "Statistical analyses were performed with Prism6 (GraphPad Software, USA). Data were tested for normal distribution and equal variance and accordingly analysed using adequate statistical tests as described in the legend of each figure. Statistical differences were considered significant at p<0.05. Log-rank test on lifespan data were performed in Microsoft Excel (template 351 available at http://piperlab.org/resources/) and data was plotted using Prism 6."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 331.4,
+      "minX": 200,
+      "maxY": 342.8,
+      "maxX": 332.1,
+      "page": 24
+    }],
+    "text": "Supporting information"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 314.6,
+      "minX": 200,
+      "maxY": 325.9,
+      "maxX": 563.6,
+      "page": 24
+    }],
+    "text": "S1 Fig. Innate immune system genes are up-regulated in the heads of Gba1b-/- flies com-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.4,
+        "minX": 200,
+        "maxY": 311.1,
+        "maxX": 576,
+        "page": 24
+      },
+      {
+        "minY": 692.7,
+        "minX": 200,
+        "maxY": 714.5,
+        "maxX": 533.8,
+        "page": 25
+      }
+    ],
+    "text": "pared to controls. (A-B) Volcano plots showing differentially expressed genes in the heads of Gba1b-/- flies at 1 week (A) and 3 weeks (B) of age relative to their controls. Differential expression analysis was performed using DESeq2 (https://bioconductor.org/packages/release/bioc/ html/DESeq2.html) and identified 11,324 differentially expressed genes at week 1 and 11,883 differentially expressed genes at week 3. Of these genes, 247 and 2545 were significant (S), (p-adjusted <0.05) at 1 week and 3 weeks, respectively. Of the significant genes (light grey) at 1 week, 34 were up-regulated (red) and 18 were down-regulated (blue). The significant genes at 3 weeks comprised of 178 up-regulated and 72 down-regulated genes. The up- and down-regulated genes were selected using the criteria p-adjusted <0.05 and log2 fold change of ± 2 (dotted lines). In addition to the non-significant (NS) genes (dark grey), the two fly Gba1 genes, Gba1a and Gba1b are also highlighted and are up-regulated and down-regulated respectively at both time points. (C-D) The top 10 up-regulated (up) and down-regulated (down) genes ranked by the log2 fold change (Log2FC) at 1 week (C) and 3 weeks (D). (E-F) The top 50 KEGG pathways of the significant genes at both time points. KEGG pathways of the significant genes at week 1 (247, red) and at week 3 (2545, blue) were obtained using the KEGG database (https://www.genome.jp/kegg/pathway.html). Top pathways were calculated using the phyper package to compute significance (shown as p-value) between the number of genes in the query and the total genes associated with a particular pathway. Ranking was calculated as -log10 of the adjusted p-value and only the pathways with adjusted p-values <0.05 are shown. (EPS)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 24
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 24 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 25
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 672.9,
+      "minX": 200,
+      "maxY": 684.3,
+      "maxX": 555.1,
+      "page": 25
+    }],
+    "text": "S2 Fig. Innate immune pathways are up-regulated peripherally in Gba1b-/- flies. (A-B)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 608.7,
+      "minX": 200,
+      "maxY": 669.5,
+      "maxX": 574.3,
+      "page": 25
+    }],
+    "text": "Quantitative RT-PCR confirms up-regulation of the IMD (DptA) and JAK-STAT (TotA) reporter genes in the headless bodies of 3-week-old Gba1b-/- flies compared to controls (Drs, p = 0.64; DptA, *p = 0.035; TotA, *p = 0.0102). All target gene expression levels are normalized to tubulin. Unpaired t-tests; data are presented as mean ± SD (n = 5\u20137 per genotype). (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 589,
+      "minX": 200,
+      "maxY": 598.5,
+      "maxX": 568,
+      "page": 25
+    }],
+    "text": "S3 Fig. The innate immune pathways are not altered in the heads, guts or headless bodies"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 511.7,
+      "minX": 200,
+      "maxY": 587.3,
+      "maxX": 575.9,
+      "page": 25
+    }],
+    "text": "of Gba1a-/- flies. Quantitative RT-PCR analysis confirms that there is no significant up-regulation of the Toll (Drs), IMD (DptA) and JAK-STAT (TotA) reporter genes in (A) the heads (B) guts and (C) headless bodies of 3-week-old Gba1a-/- flies compared to controls. All target gene expression levels are normalized to tubulin. Unpaired t-tests (normal distributed data) or Mann -Whitney test (non-normal distributed data); data are presented as mean ± SD (n = 5\u20136 per genotype). (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 491.9,
+      "minX": 200,
+      "maxY": 501.6,
+      "maxX": 562.1,
+      "page": 25
+    }],
+    "text": "S4 Fig. Gba1b is expressed in the brain, fat body and gut. (A) The Gba1b gene expression"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 375.7,
+      "minX": 200,
+      "maxY": 488.5,
+      "maxX": 574.7,
+      "page": 25
+    }],
+    "text": "pattern, as assessed by the expression of mCherry under the Gba1b endogenous promoter (red channel), overlaps with immunostaining for the glial marker Repo (green channel, top panel), but not with the neuronal marker Elav (green channel, bottom panel). Scale bars 50 μm. (B) Representative confocal image of Gba1b expression in abdominal tissues (white lines separate fat body from nephrocyte cells centrally). Gba1b expression, as indicated by mCherry expression driven under the Gba1b endogenous promoter (red channel), is highly expressed in fat body cells (magenta arrows) but not in nephrocytes (blue arrows). (C) Gba1b is highly expressed in the gut of 3-week-old flies (red channel). (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 355.9,
+      "minX": 200,
+      "maxY": 367.3,
+      "maxX": 573.7,
+      "page": 25
+    }],
+    "text": "S5 Fig. Gba1b-/- flies exhibit microbiome dysbiosis. (A) Heatmap showing the relative abun-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.7,
+      "minX": 200,
+      "maxY": 354.3,
+      "maxX": 576,
+      "page": 25
+    }],
+    "text": "dance of bacterial genera present in the midguts of Gba1b-/- flies compared to their respective controls. Relative abundance is shown as a log2 transformed Z-scale, n = 5 per genotype. (B) No significant differences are found in food consumption between aged Gba1b-/- and age-matched control flies using the CAFE assay. Unpaired t-test p = 0.7738, n = 12 per condition. (C) CFUs assay performed on gut tissue to determine the number of Lactobacillus plantarum bacteria fed to 3-week-old GF control and Gba1b-/- flies. Both fly genotypes were fed with similar levels of bacteria (p = 0.3702, t-test). (D) Whole body Drs levels are significantly elevated in Gba1b-/- flies compared to controls following an intrathoracic injection of heat-killed Staphylococcus aureus (Gba1b-/- 0 vs 24 hrs **p = 0.00424; 24 vs 96 hrs ***p = <0.0001). Fold change in Drs expression between PBS and bacterial injection is shown normalized to tubulin. Two-way ANOVA followed by multiple comparison tests; data are presented as mean ± 95% confidence intervals (n = 4\u20136 per condition). (E) Lifespan of Gba1b-/- and control flies after an intrathoracic injection of heat killed Staphylococcus aureus or PBS vehicle at 3 weeks of age. The survival curves demonstrate that there is no significant difference in lifespan of control flies treated with either bacterial or PBS injection (p = 0.062). Gba1b-/- flies display reduced survival following heat-killed bacterial injection compared to flies receiving PBS vehicle injection (p = 2.5x10-11). Log-rank tests, n = 108\u2013140 flies per condition. (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 103,
+      "minX": 200,
+      "maxY": 112.4,
+      "maxX": 552.3,
+      "page": 25
+    }],
+    "text": "S6 Fig. Germ-free treatment decreases innate immune signalling without altering the"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 89.8,
+        "minX": 200,
+        "maxY": 101.3,
+        "maxX": 559.7,
+        "page": 25
+      },
+      {
+        "minY": 536.7,
+        "minX": 199.8,
+        "maxY": 715.4,
+        "maxX": 575.9,
+        "page": 26
+      }
+    ],
+    "text": "autophagy defects in Gba1b-/- flies. (A) Gba1b-/- fly heads display significant reduction of AttA (**p = 0.0045), PGRPSc2 (***p<0.0001), CecC (*p = 0.0367) and Dro (*p = 0.0181) under GF conditions. Two-way ANOVA followed by uncorrected Fisher's multiple comparison tests. (B) Western blot analysis on the fly heads of 3-week-old Gba1b-/- and control flies raised under GF and non-GF conditions shows no significant difference in Ref(2)P or the ratio of Atg8a-II/Atg8a-I between the two conditions for both genotypes. Two-way ANOVA followed by uncorrected Fisher's multiple comparison tests; data presented as mean ± SD. (C) LysoTracker staining and immunostaining for Ref(2)P and Ubiquitin (Ub) in brains of control and Gba1b-/- flies. Under non-GF conditions there is an increase in LysoTracker positive puncta (***p<0.0001) and percentage of puncta area (***p<0.0001) in the brains of Gba1b-/- flies compared to control fly brains. Ref(2)P and Ub puncta are also increased in the brains of Gba1b-/- flies (***p<0.0001) compared to control fly brains. No alterations in these parameters are observed under GF conditions for both genotypes. Two-way ANOVA followed by Tukey's multiple comparison tests; data are presented as mean ± SEM. Scale bar 100μM. (EPS)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 25
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 25 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 26
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 517,
+      "minX": 200,
+      "maxY": 528.3,
+      "maxX": 576,
+      "page": 26
+    }],
+    "text": "S7 Fig. Modulation of the IMD pathway is toxic to Gba1b-/- flies. (A) Gba1b-/-, RelE20 double"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 309.7,
+      "minX": 200,
+      "maxY": 515.3,
+      "maxX": 575.9,
+      "page": 26
+    }],
+    "text": "mutant flies display reduced levels of Drs compared with Gba1b-/- flies (***p = 0.0005). There are also significant differences for the following comparison: Control vs Gba1b-/- **p = 0.0015; Gba1b-/- vs RelE20 *p = 0.049. One-way ANOVA followed by Tukey's multiple comparison test, data are presented as mean ± SD (n = 4 per condition). (B) Oral infection with Lactobacillus plantarum leads to a high mortality rate of Gba1b-/-, RelE20 flies. It also moderately affects Gba1b-/- and RelE20 single mutants but not control flies. (C) Overexpression of Rel in the fat body using the CG-Gal4 driver results in higher expression levels of the Rel transcript in the headless bodies of CG>Rel (*p = 0.014) and CG>Rel, Gba1b-/- flies (**p = 0.0013) compared to the driver alone in control and Gba1b-/- backgrounds. One-way ANOVA followed by multiple comparison tests, data are presented as mean ± SD (n = 4,5 per condition). (D) qRT-PCR analysis reveals increased levels of TotA expression in CG>Rel, Gba1b-/- flies (***p<0.0001) versus the driver alone in the Gba1b-/- background. There are also significant differences in the expression of TotA in Cg, Gba1b-/- flies versus CG driver alone (*p = 0.0153). One-way ANOVA followed by multiple comparison tests, data are presented as mean ± SD (n = 4,5 per condition). (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 290,
+      "minX": 200,
+      "maxY": 301.3,
+      "maxX": 574.4,
+      "page": 26
+    }],
+    "text": "S8 Fig. Rapamycin stimulates autophagy in control and Gba1b-/- fly guts. (A) Immunoblot-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 212.7,
+      "minX": 200,
+      "maxY": 286.5,
+      "maxX": 576,
+      "page": 26
+    }],
+    "text": "ing for Atg8a in the fly gut in 3-week-old flies treated with Rapa shows a significantly increased ratio of Atg8a-II/Atg8a-I upon drug treatment in Gba1b-/- flies but not in treated controls (***p = 0.001). Two-way ANOVA followed by Fisher's multiple comparison tests. (B) The number of LysoTracker positive puncta increases in the gut of 3-week-old mutant and control flies treated with Rapa. (EPS)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 175.6,
+      "minX": 200,
+      "maxY": 186.8,
+      "maxX": 305.3,
+      "page": 26
+    }],
+    "text": "Acknowledgments"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 132.7,
+      "minX": 200,
+      "maxY": 168.3,
+      "maxX": 575.4,
+      "page": 26
+    }],
+    "text": "We thank John Labbadia, Nathaniel Woodling, Daniel Fabian, Matias Fuentealba, Nirvan Marathe and all members of the Institute of Healthy Ageing, as well as Hugo Bellen and Liping Wang (Baylor College of Medicine) for their critical input."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 104.8,
+      "minX": 200,
+      "maxY": 113.8,
+      "maxX": 320.1,
+      "page": 26
+    }],
+    "text": "Author Contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 85.4,
+      "minX": 200,
+      "maxY": 95.1,
+      "maxX": 493.6,
+      "page": 26
+    }],
+    "text": "Conceptualization: Magda L. Atilano, Alexander Hull, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 26
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 26 / 32"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 27
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 704.9,
+      "minX": 200,
+      "maxY": 714.5,
+      "maxX": 334.3,
+      "page": 27
+    }],
+    "text": "Data curation: Magda L. Atilano."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 673.8,
+      "minX": 200,
+      "maxY": 696.5,
+      "maxX": 545.2,
+      "page": 27
+    }],
+    "text": "Formal analysis: Magda L. Atilano, Alexander Hull, Catalina-Andreea Romila, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 655.8,
+      "minX": 200,
+      "maxY": 665.5,
+      "maxX": 360.8,
+      "page": 27
+    }],
+    "text": "Funding acquisition: Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 624.9,
+      "minX": 200,
+      "maxY": 647.5,
+      "maxX": 558.5,
+      "page": 27
+    }],
+    "text": "Investigation: Magda L. Atilano, Alexander Hull, Mirjam L. Adams, Jacob Wildfire, Enric Ureña, Miranda Dyson, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 596.3,
+      "minX": 200,
+      "maxY": 616.5,
+      "maxX": 558.8,
+      "page": 27
+    }],
+    "text": "Methodology: Magda L. Atilano, Alexander Hull, Mirjam L. Adams, Jacob Wildfire, Enric Ureña."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 575.8,
+      "minX": 200,
+      "maxY": 585.5,
+      "maxX": 372.1,
+      "page": 27
+    }],
+    "text": "Project administration: Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 557.9,
+      "minX": 200,
+      "maxY": 567.5,
+      "maxX": 384.5,
+      "page": 27
+    }],
+    "text": "Resources: Alexander Hull, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 539.8,
+      "minX": 200,
+      "maxY": 549.5,
+      "maxX": 326.3,
+      "page": 27
+    }],
+    "text": "Supervision: Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 508.9,
+      "minX": 200,
+      "maxY": 531.5,
+      "maxX": 534.1,
+      "page": 27
+    }],
+    "text": "Visualization: Magda L. Atilano, Alexander Hull, Jorge Ivan-Castillo-Quan, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 490.8,
+      "minX": 200,
+      "maxY": 500.5,
+      "maxX": 449.6,
+      "page": 27
+    }],
+    "text": "Writing \u2013 original draft: Magda L. Atilano, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 459.8,
+      "minX": 200,
+      "maxY": 482.5,
+      "maxX": 551.1,
+      "page": 27
+    }],
+    "text": "Writing \u2013 review & editing: Magda L. Atilano, Alexander Hull, Linda Partridge, Kerri J. Kinghorn."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 422.3,
+      "minX": 200,
+      "maxY": 431.2,
+      "maxX": 264,
+      "page": 27
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 388.2,
+      "minX": 204.9,
+      "maxY": 414.9,
+      "maxX": 573.3,
+      "page": 27
+    }],
+    "text": "1. Migdalska-Richards A, Schapira AH. The relationship between glucocerebrosidase mutations and Parkinson disease. J Neurochem. 2016; 139 Suppl 1(Suppl Suppl 1):77\u201390. Epub 2016/02/11. https://doi. org/10.1111/jnc.13385 PMID: 26860875; PubMed Central PMCID: PMC5111601."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 357.9,
+      "minX": 204.9,
+      "maxY": 382.9,
+      "maxX": 572.1,
+      "page": 27
+    }],
+    "text": "2. Schapira AH. Glucocerebrosidase and Parkinson disease: Recent advances. Mol Cell Neurosci. 2015; 66(Pt A):37\u201342. Epub 2015/03/25. https://doi.org/10.1016/j.mcn.2015.03.013 PMID: 25802027; PubMed Central PMCID: PMC4471139."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 325.8,
+      "minX": 204.9,
+      "maxY": 350.9,
+      "maxX": 568.5,
+      "page": 27
+    }],
+    "text": "3. Cox TM. Gaucher disease: clinical profile and therapeutic developments. Biologics. 2010; 4:299\u2013313. Epub 2011/01/07. https://doi.org/10.2147/BTT.S7582 PMID: 21209725; PubMed Central PMCID: PMC3010821."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 284.3,
+      "minX": 204.9,
+      "maxY": 318.9,
+      "maxX": 569.5,
+      "page": 27
+    }],
+    "text": "4. Zunke F, Moise AC, Belur NR, Gelyana E, Stojkovska I, Dzaferbegovic H, et al. Reversible Conformational Conversion of alpha-Synuclein into Toxic Assemblies by Glucosylceramide. Neuron. 2018; 97 (1):92\u2013107 e10. Epub 2018/01/02. https://doi.org/10.1016/j.neuron.2017.12.012 PMID: 29290548; PubMed Central PMCID: PMC6013314."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 250.8,
+      "minX": 204.9,
+      "maxY": 277.4,
+      "maxX": 575.3,
+      "page": 27
+    }],
+    "text": "5. Alcalay RN, Levy OA, Waters CC, Fahn S, Ford B, Kuo SH, et al. Glucocerebrosidase activity in Parkinson's disease with and without GBA mutations. Brain. 2015; 138(Pt 9):2648\u201358. Epub 2015/06/29. https://doi.org/10.1093/brain/awv179 PMID: 26117366; PubMed Central PMCID: PMC4564023."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 218.7,
+      "minX": 204.9,
+      "maxY": 245.4,
+      "maxX": 574.7,
+      "page": 27
+    }],
+    "text": "6. Gegg ME, Burke D, Heales SJ, Cooper JM, Hardy J, Wood NW, et al. Glucocerebrosidase deficiency in substantia nigra of parkinson disease brains. Ann Neurol. 2012; 72(3):455\u201363. Epub 2012/10/05. https://doi.org/10.1002/ana.23614 PMID: 23034917; PubMed Central PMCID: PMC3638323."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 178.8,
+      "minX": 204.9,
+      "maxY": 213.4,
+      "maxX": 572.3,
+      "page": 27
+    }],
+    "text": "7. Spillantini MG, Crowther RA, Jakes R, Hasegawa M, Goedert M. alpha-Synuclein in filamentous inclusions of Lewy bodies from Parkinson's disease and dementia with lewy bodies. Proc Natl Acad Sci U S A. 1998; 95(11):6469\u201373. Epub 1998/05/30. https://doi.org/10.1073/pnas.95.11.6469 PMID: 9600990; PubMed Central PMCID: PMC27806."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 146.9,
+      "minX": 204.9,
+      "maxY": 171.9,
+      "maxX": 575.8,
+      "page": 27
+    }],
+    "text": "8. Elfil M, Kamel S, Kandil M, Koo BB, Schaefer SM. Implications of the Gut Microbiome in Parkinson's Disease. Mov Disord. 2020; 35(6):921\u201333. Epub 2020/02/25. https://doi.org/10.1002/mds.28004 PMID: 32092186."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 113.8,
+      "minX": 204.9,
+      "maxY": 139.9,
+      "maxX": 563.5,
+      "page": 27
+    }],
+    "text": "9. Parashar A, Udayabanu M. Gut microbiota: Implications in Parkinson's disease. Parkinsonism Relat Disord. 2017; 38:1\u20137. Epub 2017/02/17. https://doi.org/10.1016/j.parkreldis.2017.02.002 PMID: 28202372; PubMed Central PMCID: PMC7108450."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 82.9,
+      "minX": 200.5,
+      "maxY": 107.9,
+      "maxX": 572.7,
+      "page": 27
+    }],
+    "text": "10. Chu K, Zhou X, Luo BY. Cytokine gene polymorphisms and Parkinson's disease: a meta-analysis. Can J Neurol Sci. 2012; 39(1):58\u201364. Epub 2012/03/06. https://doi.org/10.1017/s0317167100012695 PMID: 22384497."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 27
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 27 / 32"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 28
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 678.5,
+      "minX": 200.5,
+      "maxY": 714.6,
+      "maxX": 572.9,
+      "page": 28
+    }],
+    "text": "11. Holmans P, Moskvina V, Jones L, Sharma M, International Parkinson's Disease Genomics C, Vedernikov A, et al. A pathway-based analysis provides additional support for an immune-related genetic susceptibility to Parkinson's disease. Hum Mol Genet. 2013; 22(5):1039\u201349. Epub 2012/12/12. https://doi. org/10.1093/hmg/dds492 PMID: 23223016; PubMed Central PMCID: PMC3561909."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 629.1,
+      "minX": 200.5,
+      "maxY": 673.1,
+      "maxX": 575.4,
+      "page": 28
+    }],
+    "text": "12. International Parkinson Disease Genomics C, Nalls MA, Plagnol V, Hernandez DG, Sharma M, Sheerin UM, et al. Imputation of sequence variants for identification of genetic risks for Parkinson's disease: a meta-analysis of genome-wide association studies. Lancet. 2011; 377(9766):641\u20139. Epub 2011/02/05. https://doi.org/10.1016/S0140-6736(10)62345-8 PMID: 21292315; PubMed Central PMCID: PMC3696507."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 595.5,
+      "minX": 200.5,
+      "maxY": 622,
+      "maxX": 574.7,
+      "page": 28
+    }],
+    "text": "13. Zhao J, Han X, Xue L, Zhu K, Liu H, Xie A. Association of TLR4 gene polymorphisms with sporadic Parkinson's disease in a Han Chinese population. Neurol Sci. 2015; 36(9):1659\u201365. Epub 2015/04/25. https://doi.org/10.1007/s10072-015-2227-9 PMID: 25908385."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 555.6,
+      "minX": 200.5,
+      "maxY": 590.1,
+      "maxX": 565.4,
+      "page": 28
+    }],
+    "text": "14. Aflaki E, Moaven N, Borger DK, Lopez G, Westbroek W, Chae JJ, et al. Lysosomal storage and impaired autophagy lead to inflammasome activation in Gaucher macrophages. Aging Cell. 2016; 15 (1):77\u201388. Epub 2015/10/22. https://doi.org/10.1111/acel.12409 PMID: 26486234; PubMed Central PMCID: PMC4717273."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 522,
+      "minX": 200.5,
+      "maxY": 548.6,
+      "maxX": 574.3,
+      "page": 28
+    }],
+    "text": "15. Buchon N, Silverman N, Cherry S. Immunity in Drosophila melanogaster\u2014from microbial recognition to whole-organism physiology. Nat Rev Immunol. 2014; 14(12):796\u2013810. Epub 2014/11/26. https://doi. org/10.1038/nri3763 PMID: 25421701; PubMed Central PMCID: PMC6190593."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 491.6,
+      "minX": 200.5,
+      "maxY": 516.6,
+      "maxX": 562.6,
+      "page": 28
+    }],
+    "text": "16. Lemaitre B, Hoffmann J. The host defense of Drosophila melanogaster. Annu Rev Immunol. 2007; 25:697\u2013743. Epub 2007/01/05. https://doi.org/10.1146/annurev.immunol.25.022106.141615 PMID: 17201680."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 450.1,
+      "minX": 200.5,
+      "maxY": 484.6,
+      "maxX": 575.2,
+      "page": 28
+    }],
+    "text": "17. Cao Y, Chtarbanova S, Petersen AJ, Ganetzky B. Dnr1 mutations cause neurodegeneration in Drosophila by activating the innate immune response in the brain. Proc Natl Acad Sci U S A. 2013; 110(19): E1752\u201360. Epub 2013/04/25. https://doi.org/10.1073/pnas.1306220110 PMID: 23613578; PubMed Central PMCID: PMC3651420."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 418.1,
+      "minX": 200.5,
+      "maxY": 443,
+      "maxX": 574.5,
+      "page": 28
+    }],
+    "text": "18. Biasizzo M, Kopitar-Jerala N. Interplay Between NLRP3 Inflammasome and Autophagy. Front Immunol. 2020; 11:591803. Epub 2020/11/10. https://doi.org/10.3389/fimmu.2020.591803 PMID: 33163006; PubMed Central PMCID: PMC7583715."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 376.6,
+      "minX": 200.5,
+      "maxY": 411.1,
+      "maxX": 576,
+      "page": 28
+    }],
+    "text": "19. Leader DP, Krause SA, Pandit A, Davies SA, Dow JAT. FlyAtlas 2: a new version of the Drosophila melanogaster expression atlas with RNA-Seq, miRNA-Seq and sex-specific data. Nucleic Acids Res. 2018; 46(D1):D809\u2013D15. Epub 2017/10/27. https://doi.org/10.1093/nar/gkx976 PMID: 29069479; PubMed Central PMCID: PMC5753349."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 335.1,
+      "minX": 200.5,
+      "maxY": 369.6,
+      "maxX": 572.7,
+      "page": 28
+    }],
+    "text": "20. Cabasso O, Paul S, Dorot O, Maor G, Krivoruk O, Pasmanik-Chor M, et al. Drosophila melanogaster Mutated in its GBA1b Ortholog Recapitulates Neuronopathic Gaucher Disease. J Clin Med. 2019; 8(9). Epub 2019/09/12. https://doi.org/10.3390/jcm8091420 PMID: 31505865; PubMed Central PMCID: PMC6780790."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 292.6,
+      "minX": 200.5,
+      "maxY": 328.1,
+      "maxX": 575.3,
+      "page": 28
+    }],
+    "text": "21. Davis MY, Trinh K, Thomas RE, Yu S, Germanos AA, Whitley BN, et al. Glucocerebrosidase Deficiency in Drosophila Results in alpha-Synuclein-Independent Protein Aggregation and Neurodegeneration. PLoS Genet. 2016; 12(3):e1005944. Epub 2016/03/29. https://doi.org/10.1371/journal.pgen.1005944 PMID: 27019408; PubMed Central PMCID: PMC4809718."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 242.6,
+      "minX": 200.5,
+      "maxY": 286.6,
+      "maxX": 575.5,
+      "page": 28
+    }],
+    "text": "22. Kinghorn KJ, Gronke S, Castillo-Quan JI, Woodling NS, Li L, Sirka E, et al. A Drosophila Model of Neuronopathic Gaucher Disease Demonstrates Lysosomal-Autophagic Defects and Altered mTOR Signalling and Is Functionally Rescued by Rapamycin. J Neurosci. 2016; 36(46):11654\u201370. Epub 2016/11/18. https://doi.org/10.1523/JNEUROSCI.4527-15.2016 PMID: 27852774; PubMed Central PMCID: PMC5125225."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 201.1,
+      "minX": 200.5,
+      "maxY": 235.6,
+      "maxX": 572.6,
+      "page": 28
+    }],
+    "text": "23. Maor G, Cabasso O, Krivoruk O, Rodriguez J, Steller H, Segal D, et al. The contribution of mutant GBA to the development of Parkinson disease in Drosophila. Hum Mol Genet. 2016; 25(13):2712\u201327. Epub 2016/05/11. https://doi.org/10.1093/hmg/ddw129 PMID: 27162249; PubMed Central PMCID: PMC6390410."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 168.1,
+      "minX": 200.5,
+      "maxY": 194.1,
+      "maxX": 576,
+      "page": 28
+    }],
+    "text": "24. Doherty J, Logan MA, Tasdemir OE, Freeman MR. Ensheathing glia function as phagocytes in the adult Drosophila brain. J Neurosci. 2009; 29(15):4768\u201381. Epub 2009/04/17. https://doi.org/10.1523/ JNEUROSCI.5951-08.2009 PMID: 19369546; PubMed Central PMCID: PMC2674269."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 135.4,
+      "minX": 200.5,
+      "maxY": 162.1,
+      "maxX": 559.1,
+      "page": 28
+    }],
+    "text": "25. MacDonald JM, Beach MG, Porpiglia E, Sheehan AE, Watts RJ, Freeman MR. The Drosophila cell corpse engulfment receptor Draper mediates glial clearance of severed axons. Neuron. 2006; 50 (6):869\u201381. Epub 2006/06/15. https://doi.org/10.1016/j.neuron.2006.04.028 PMID: 16772169."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 95.6,
+      "minX": 200.5,
+      "maxY": 130.1,
+      "maxX": 576.1,
+      "page": 28
+    }],
+    "text": "26. Wang L, Lin G, Zuo Z, Li Y, Byeon SK, Pandey A, et al. Neuronal activity induces glucosylceramide that is secreted via exosomes for lysosomal degradation in glia. Sci Adv. 2022; 8(28):eabn3326. Epub 2022/ 07/21. https://doi.org/10.1126/sciadv.abn3326 PMID: 35857503; PubMed Central PMCID: PMC9278864."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 28
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 28 / 32"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 29
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 689.6,
+      "minX": 200.5,
+      "maxY": 714.6,
+      "maxX": 570.5,
+      "page": 29
+    }],
+    "text": "27. Lee PT, Zirin J, Kanca O, Lin WW, Schulze KL, Li-Kroeger D, et al. A gene-specific T2A-GAL4 library for Drosophila. Elife. 2018; 7. Epub 2018/03/23. https://doi.org/10.7554/eLife.35574 PMID: 29565247; PubMed Central PMCID: PMC5898912."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 657.6,
+      "minX": 200.5,
+      "maxY": 682.6,
+      "maxX": 575.8,
+      "page": 29
+    }],
+    "text": "28. Devos D, Lebouvier T, Lardeux B, Biraud M, Rouaud T, Pouclet H, et al. Colonic inflammation in Parkinson's disease. Neurobiol Dis. 2013; 50:42\u20138. Epub 2012/09/29. https://doi.org/10.1016/j.nbd.2012.09. 007 PMID: 23017648."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 624,
+      "minX": 200.5,
+      "maxY": 650.6,
+      "maxX": 571.2,
+      "page": 29
+    }],
+    "text": "29. Cognigni P, Bailey AP, Miguel-Aliaga I. Enteric neurons and systemic signals couple nutritional and reproductive status with intestinal homeostasis. Cell Metab. 2011; 13(1):92\u2013104. Epub 2011/01/05. https://doi.org/10.1016/j.cmet.2010.12.010 PMID: 21195352; PubMed Central PMCID: PMC3038267."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 582.5,
+      "minX": 200.5,
+      "maxY": 618.6,
+      "maxX": 571.6,
+      "page": 29
+    }],
+    "text": "30. Forsyth CB, Shannon KM, Kordower JH, Voigt RM, Shaikh M, Jaglin JA, et al. Increased intestinal permeability correlates with sigmoid mucosa alpha-synuclein staining and endotoxin exposure markers in early Parkinson's disease. PLoS One. 2011; 6(12):e28032. Epub 2011/12/07. https://doi.org/10.1371/ journal.pone.0028032 PMID: 22145021; PubMed Central PMCID: PMC3228722."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 542.6,
+      "minX": 200.5,
+      "maxY": 577.1,
+      "maxX": 567.7,
+      "page": 29
+    }],
+    "text": "31. Schwiertz A, Spiegel J, Dillmann U, Grundmann D, Burmann J, Fassbender K, et al. Fecal markers of intestinal inflammation and intestinal permeability are elevated in Parkinson's disease. Parkinsonism Relat Disord. 2018; 50:104\u20137. Epub 2018/02/20. https://doi.org/10.1016/j.parkreldis.2018.02.022 PMID: 29454662."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 501.1,
+      "minX": 200.5,
+      "maxY": 535.6,
+      "maxX": 575,
+      "page": 29
+    }],
+    "text": "32. Regan JC, Khericha M, Dobson AJ, Bolukbasi E, Rattanavirotkul N, Partridge L. Sex difference in pathology of the ageing gut mediates the greater response of female lifespan to dietary restriction. Elife. 2016; 5:e10956. Epub 2016/02/18. https://doi.org/10.7554/eLife.10956 PMID: 26878754; PubMed Central PMCID: PMC4805549."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 458.6,
+      "minX": 200.5,
+      "maxY": 494.1,
+      "maxX": 575.2,
+      "page": 29
+    }],
+    "text": "33. Dutta SK, Verma S, Jain V, Surapaneni BK, Vinayek R, Phillips L, et al. Parkinson's Disease: The Emerging Role of Gut Dysbiosis, Antibiotics, Probiotics, and Fecal Microbiota Transplantation. J Neurogastroenterol Motil. 2019; 25(3):363\u201376. Epub 2019/07/23. https://doi.org/10.5056/jnm19044 PMID: 31327219; PubMed Central PMCID: PMC6657920."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 445,
+      "minX": 200.5,
+      "maxY": 452.6,
+      "maxX": 526.7,
+      "page": 29
+    }],
+    "text": "34. Heller D. The Gut Microbiome in Health and Disease. 1 ed: Springer Cham; 2018. 389 p."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 405.1,
+      "minX": 200.5,
+      "maxY": 439.6,
+      "maxX": 567.6,
+      "page": 29
+    }],
+    "text": "35. Lin CH, Chen CC, Chiang HL, Liou JM, Chang CM, Lu TP, et al. Altered gut microbiota and inflammatory cytokine responses in patients with Parkinson's disease. J Neuroinflammation. 2019; 16(1):129. Epub 2019/06/30. https://doi.org/10.1186/s12974-019-1528-y PMID: 31248424; PubMed Central PMCID: PMC6598278."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 362.6,
+      "minX": 200.5,
+      "maxY": 398.1,
+      "maxX": 566.6,
+      "page": 29
+    }],
+    "text": "36. Nakahira K, Haspel JA, Rathinam VA, Lee SJ, Dolinay T, Lam HC, et al. Autophagy proteins regulate innate immune responses by inhibiting the release of mitochondrial DNA mediated by the NALP3 inflammasome. Nat Immunol. 2011; 12(3):222\u201330. Epub 2010/12/15. https://doi.org/10.1038/ni.1980 PMID: 21151103; PubMed Central PMCID: PMC3079381."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 322.1,
+      "minX": 200.5,
+      "maxY": 356.6,
+      "maxX": 567.7,
+      "page": 29
+    }],
+    "text": "37. Prabakaran T, Bodda C, Krapp C, Zhang BC, Christensen MH, Sun C, et al. Attenuation of cGASSTING signaling is mediated by a p62/SQSTM1-dependent autophagy pathway activated by TBK1. EMBO J. 2018; 37(8). Epub 2018/03/03. https://doi.org/10.15252/embj.201797858 PMID: 29496741; PubMed Central PMCID: PMC5897779."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 288.5,
+      "minX": 200.5,
+      "maxY": 315.1,
+      "maxX": 573.5,
+      "page": 29
+    }],
+    "text": "38. Tsapras P, Petridi S, Chan S, Geborys M, Jacomin AC, Sagona AP, et al. Selective autophagy controls innate immune response through a TAK1/TAB2/SH3PX1 axis. Cell Rep. 2022; 38(4):110286. Epub 2022/01/27. https://doi.org/10.1016/j.celrep.2021.110286 PMID: 35081354."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 248.6,
+      "minX": 200.5,
+      "maxY": 283.1,
+      "maxX": 574,
+      "page": 29
+    }],
+    "text": "39. Tusco R, Jacomin AC, Jain A, Penman BS, Larsen KB, Johansen T, et al. Kenny mediates selective autophagic degradation of the IKK complex to control innate immune responses. Nat Commun. 2017; 8 (1):1264. Epub 2017/11/04. https://doi.org/10.1038/s41467-017-01287-9 PMID: 29097655; PubMed Central PMCID: PMC5668318."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 215.6,
+      "minX": 200.5,
+      "maxY": 241.6,
+      "maxX": 562.3,
+      "page": 29
+    }],
+    "text": "40. Mauvezin C, Ayala C, Braden CR, Kim J, Neufeld TP. Assays to monitor autophagy in Drosophila. Methods. 2014; 68(1):134\u20139. Epub 2014/03/29. https://doi.org/10.1016/j.ymeth.2014.03.014 PMID: 24667416; PubMed Central PMCID: PMC4048785."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 192.5,
+      "minX": 200.5,
+      "maxY": 209.6,
+      "maxX": 561.7,
+      "page": 29
+    }],
+    "text": "41. Kirkin V, McEwan DG, Novak I, Dikic I. A role for ubiquitin in selective autophagy. Mol Cell. 2009; 34 (3):259\u201369. Epub 2009/05/20. https://doi.org/10.1016/j.molcel.2009.04.026 PMID: 19450525."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 151.6,
+      "minX": 200.5,
+      "maxY": 187.1,
+      "maxX": 575.4,
+      "page": 29
+    }],
+    "text": "42. Nezis IP, Simonsen A, Sagona AP, Finley K, Gaumer S, Contamine D, et al. Ref(2)P, the Drosophila melanogaster homologue of mammalian p62, is required for the formation of protein aggregates in adult brain. J Cell Biol. 2008; 180(6):1065\u201371. Epub 2008/03/19. https://doi.org/10.1083/jcb.200711108 PMID: 18347073; PubMed Central PMCID: PMC2290837."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 119,
+      "minX": 200.5,
+      "maxY": 145.6,
+      "maxX": 566,
+      "page": 29
+    }],
+    "text": "43. Fan X, Liang Q, Lian T, Wu Q, Gaur U, Li D, et al. Rapamycin preserves gut homeostasis during Drosophila aging. Oncotarget. 2015; 6(34):35274\u201383. Epub 2015/10/03. https://doi.org/10.18632/ oncotarget.5895 PMID: 26431326; PubMed Central PMCID: PMC4742104."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 87,
+      "minX": 200.5,
+      "maxY": 113.6,
+      "maxX": 575.7,
+      "page": 29
+    }],
+    "text": "44. Schinaman JM, Rana A, Ja WW, Clark RI, Walker DW. Rapamycin modulates tissue aging and lifespan independently of the gut microbiota in Drosophila. Sci Rep. 2019; 9(1):7824. Epub 2019/05/28. https:// doi.org/10.1038/s41598-019-44106-5 PMID: 31127145; PubMed Central PMCID: PMC6534571."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 29
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 29 / 32"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 30
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 680.1,
+      "minX": 200.5,
+      "maxY": 714.6,
+      "maxX": 563.4,
+      "page": 30
+    }],
+    "text": "45. Schondorf DC, Aureli M, McAllister FE, Hindley CJ, Mayer F, Schmid B, et al. iPSC-derived neurons from GBA1-associated Parkinson's disease patients show autophagic defects and impaired calcium homeostasis. Nat Commun. 2014; 5:4028. Epub 2014/06/07. https://doi.org/10.1038/ncomms5028 PMID: 24905578."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 638.6,
+      "minX": 200.5,
+      "maxY": 673.1,
+      "maxX": 570.3,
+      "page": 30
+    }],
+    "text": "46. Mauthe M, Orhon I, Rocchi C, Zhou X, Luhr M, Hijlkema KJ, et al. Chloroquine inhibits autophagic flux by decreasing autophagosome-lysosome fusion. Autophagy. 2018; 14(8):1435\u201355. Epub 2018/06/27. https://doi.org/10.1080/15548627.2018.1474314 PMID: 29940786; PubMed Central PMCID: PMC6103682."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 605,
+      "minX": 200.5,
+      "maxY": 631.6,
+      "maxX": 571.5,
+      "page": 30
+    }],
+    "text": "47. Uhlen M, Fagerberg L, Hallstrom BM, Lindskog C, Oksvold P, Mardinoglu A, et al. Proteomics. Tissue-based map of the human proteome. Science. 2015; 347(6220):1260419. Epub 2015/01/24. https://doi. org/10.1126/science.1260419 PMID: 25613900."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 574.6,
+      "minX": 200.5,
+      "maxY": 599.6,
+      "maxX": 572.4,
+      "page": 30
+    }],
+    "text": "48. Hickman S, Izzy S, Sen P, Morsett L, El Khoury J. Microglia in neurodegeneration. Nat Neurosci. 2018; 21(10):1359\u201369. Epub 2018/09/28. https://doi.org/10.1038/s41593-018-0242-x PMID: 30258234; PubMed Central PMCID: PMC6817969."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 542.6,
+      "minX": 200.5,
+      "maxY": 567.6,
+      "maxX": 571.3,
+      "page": 30
+    }],
+    "text": "49. McGeer PL, Itagaki S, Akiyama H, McGeer EG. Rate of cell death in parkinsonism indicates active neuropathological process. Ann Neurol. 1988; 24(4):574\u20136. Epub 1988/10/01. https://doi.org/10.1002/ ana.410240415 PMID: 3239957."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 509,
+      "minX": 200.5,
+      "maxY": 535.6,
+      "maxX": 564.4,
+      "page": 30
+    }],
+    "text": "50. Gerhard A, Pavese N, Hotton G, Turkheimer F, Es M, Hammers A, et al. In vivo imaging of microglial activation with [11C](R)-PK11195 PET in idiopathic Parkinson's disease. Neurobiol Dis. 2006; 21 (2):404\u201312. Epub 2005/09/27. https://doi.org/10.1016/j.nbd.2005.08.002 PMID: 16182554."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 469.1,
+      "minX": 200.5,
+      "maxY": 503.6,
+      "maxX": 565.8,
+      "page": 30
+    }],
+    "text": "51. Mullin S, Stokholm MG, Hughes D, Mehta A, Parbo P, Hinz R, et al. Brain Microglial Activation Increased in Glucocerebrosidase (GBA) Mutation Carriers without Parkinson's disease. Mov Disord. 2021; 36(3):774\u20139. Epub 2020/12/06. https://doi.org/10.1002/mds.28375 PMID: 33278043; PubMed Central PMCID: PMC8048428."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 435.5,
+      "minX": 200.5,
+      "maxY": 462.1,
+      "maxX": 570.8,
+      "page": 30
+    }],
+    "text": "52. Terada T, Yokokura M, Yoshikawa E, Futatsubashi M, Kono S, Konishi T, et al. Extrastriatal spreading of microglial activation in Parkinson's disease: a positron emission tomography study. Ann Nucl Med. 2016; 30(8):579\u201387. Epub 2016/06/15. https://doi.org/10.1007/s12149-016-1099-2 PMID: 27299437."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 395.6,
+      "minX": 200.5,
+      "maxY": 430.1,
+      "maxX": 570.6,
+      "page": 30
+    }],
+    "text": "53. Farfel-Becker T, Vitner EB, Pressey SN, Eilam R, Cooper JD, Futerman AH. Spatial and temporal correlation between neuron loss and neuroinflammation in a mouse model of neuronopathic Gaucher disease. Hum Mol Genet. 2011; 20(7):1375\u201386. Epub 2011/01/22. https://doi.org/10.1093/hmg/ddr019 PMID: 21252206."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 362,
+      "minX": 200.5,
+      "maxY": 388.6,
+      "maxX": 567.7,
+      "page": 30
+    }],
+    "text": "54. Massaro G, Mattar CNZ, Wong AMS, Sirka E, Buckley SMK, Herbert BR, et al. Fetal gene therapy for neurodegenerative disease of infants. Nat Med. 2018; 24(9):1317\u201323. Epub 2018/07/18. https://doi. org/10.1038/s41591-018-0106-7 PMID: 30013199; PubMed Central PMCID: PMC6130799."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 330.5,
+      "minX": 200.5,
+      "maxY": 356.6,
+      "maxX": 568.8,
+      "page": 30
+    }],
+    "text": "55. Cabasso O, Paul S, Maor G, Pasmanik-Chor M, Kallemeijn W, Aerts J, et al. The Uncovered Function of the Drosophila GBA1a-Encoded Protein. Cells. 2021; 10(3). Epub 2021/04/04. https://doi.org/10. 3390/cells10030630 PMID: 33809074; PubMed Central PMCID: PMC8000066."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 307.5,
+      "minX": 200.5,
+      "maxY": 324.6,
+      "maxX": 567,
+      "page": 30
+    }],
+    "text": "56. Barak V, Acker M, Nisman B, Kalickman I, Abrahamov A, Zimran A, et al. Cytokines in Gaucher's disease. Eur Cytokine Netw. 1999; 10(2):205\u201310. Epub 1999/07/10. PMID: 10400826."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 267.6,
+      "minX": 200.5,
+      "maxY": 302.1,
+      "maxX": 569.9,
+      "page": 30
+    }],
+    "text": "57. Williams-Gray CH, Wijeyekoon R, Yarnall AJ, Lawson RA, Breen DP, Evans JR, et al. Serum immune markers and disease progression in an incident Parkinson's disease cohort (ICICLE-PD). Mov Disord. 2016; 31(7):995\u20131003. Epub 2016/03/22. https://doi.org/10.1002/mds.26563 PMID: 26999434; PubMed Central PMCID: PMC4957620."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 234,
+      "minX": 200.5,
+      "maxY": 260.6,
+      "maxX": 573.2,
+      "page": 30
+    }],
+    "text": "58. Perez-Pardo P, Dodiya HB, Engen PA, Forsyth CB, Huschens AM, Shaikh M, et al. Role of TLR4 in the gut-brain axis in Parkinson's disease: a translational study from men to mice. Gut. 2019; 68(5):829\u201343. Epub 2018/12/17. https://doi.org/10.1136/gutjnl-2018-316844 PMID: 30554160."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 194.1,
+      "minX": 200.5,
+      "maxY": 228.6,
+      "maxX": 576.1,
+      "page": 30
+    }],
+    "text": "59. Pal GD, Shaikh M, Forsyth CB, Ouyang B, Keshavarzian A, Shannon KM. Abnormal lipopolysaccharide binding protein as marker of gastrointestinal inflammation in Parkinson disease. Front Neurosci. 2015; 9:306. Epub 2015/09/22. https://doi.org/10.3389/fnins.2015.00306 PMID: 26388718; PubMed Central PMCID: PMC4555963."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 162.1,
+      "minX": 200.5,
+      "maxY": 187.1,
+      "maxX": 571.4,
+      "page": 30
+    }],
+    "text": "60. Michie L, Tucker HO. Influence of Commensal Microbiota in Barrier Function of Intestinal Mucosal Epithelium. Adv Res Endocrinol Metab. 2019; 1(1):33\u20136. Epub 2019/01/01. PMID: 32405628; PubMed Central PMCID: PMC7220026."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 128.6,
+      "minX": 200.5,
+      "maxY": 155,
+      "maxX": 573.8,
+      "page": 30
+    }],
+    "text": "61. Liu X, Hodgson JJ, Buchon N. Drosophila as a model for homeostatic, antibacterial, and antiviral mechanisms in the gut. PLoS Pathog. 2017; 13(5):e1006277. Epub 2017/05/05. https://doi.org/10.1371/ journal.ppat.1006277 PMID: 28472194; PubMed Central PMCID: PMC5417715."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 106,
+      "minX": 200.5,
+      "maxY": 123.1,
+      "maxX": 571.3,
+      "page": 30
+    }],
+    "text": "62. Heine H, Rietschel ET, Ulmer AJ. The biology of endotoxin. Mol Biotechnol. 2001; 19(3):279\u201396. Epub 2001/11/28. https://doi.org/10.1385/MB:19:3:279 PMID: 11721624."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 83.5,
+      "minX": 200.5,
+      "maxY": 100.6,
+      "maxX": 574.6,
+      "page": 30
+    }],
+    "text": "63. Dai H, Otsuka A, Tanabe K, Yanagita T, Nakayama J, Kitagaki H. Glucosylceramide Changes Bacterial Metabolism and Increases Gram-Positive Bacteria through Tolerance to Secondary Bile Acids In Vitro."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 30
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 30 / 32"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 31
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 699.1,
+      "minX": 221.5,
+      "maxY": 714.6,
+      "maxX": 570.6,
+      "page": 31
+    }],
+    "text": "Int J Mol Sci. 2022; 23(10). Epub 2022/05/29. https://doi.org/10.3390/ijms23105300 PMID: 35628110; PubMed Central PMCID: PMC9141989."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 665.5,
+      "minX": 200.5,
+      "maxY": 692.1,
+      "maxX": 576,
+      "page": 31
+    }],
+    "text": "64. Lee HY, Lee SH, Lee JH, Lee WJ, Min KJ. The role of commensal microbes in the lifespan of Drosophila melanogaster. Aging (Albany NY). 2019; 11(13):4611\u201340. Epub 2019/07/13. https://doi.org/10.18632/ aging.102073 PMID: 31299010; PubMed Central PMCID: PMC6660043."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 635.1,
+      "minX": 200.5,
+      "maxY": 660.1,
+      "maxX": 568.7,
+      "page": 31
+    }],
+    "text": "65. Caputi V, Giron MC. Microbiome-Gut-Brain Axis and Toll-Like Receptors in Parkinson's Disease. Int J Mol Sci. 2018; 19(6). Epub 2018/06/09. https://doi.org/10.3390/ijms19061689 PMID: 29882798; PubMed Central PMCID: PMC6032048."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 584.1,
+      "minX": 200.5,
+      "maxY": 628.1,
+      "maxX": 575.4,
+      "page": 31
+    }],
+    "text": "66. Vidal-Martinez G, Chin B, Camarillo C, Herrera GV, Yang B, Sarosiek I, et al. A Pilot Microbiota Study in Parkinson's Disease Patients versus Control Subjects, and Effects of FTY720 and FTY720-Mitoxy Therapies in Parkinsonian and Multiple System Atrophy Mouse Models. J Parkinsons Dis. 2020; 10 (1):185\u201392. Epub 2019/09/29. https://doi.org/10.3233/JPD-191693 PMID: 31561385; PubMed Central PMCID: PMC7029363."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 542.6,
+      "minX": 200.5,
+      "maxY": 577.1,
+      "maxX": 572.7,
+      "page": 31
+    }],
+    "text": "67. Clark RI, Salazar A, Yamada R, Fitz-Gibbon S, Morselli M, Alcaraz J, et al. Distinct Shifts in Microbiota Composition during Drosophila Aging Impair Intestinal Function and Drive Mortality. Cell Rep. 2015; 12 (10):1656\u201367. Epub 2015/09/01. https://doi.org/10.1016/j.celrep.2015.08.004 PMID: 26321641; PubMed Central PMCID: PMC4565751."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 501.1,
+      "minX": 200.5,
+      "maxY": 535.6,
+      "maxX": 569.4,
+      "page": 31
+    }],
+    "text": "68. Harach T, Marungruang N, Duthilleul N, Cheatham V, Mc Coy KD, Frisoni G, et al. Reduction of Abeta amyloid pathology in APPPS1 transgenic mice in the absence of gut microbiota. Sci Rep. 2017; 7:41802. Epub 2017/02/09. https://doi.org/10.1038/srep41802 PMID: 28176819; PubMed Central PMCID: PMC5297247."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 467.5,
+      "minX": 200.5,
+      "maxY": 494.1,
+      "maxX": 575,
+      "page": 31
+    }],
+    "text": "69. Kim MS, Kim Y, Choi H, Kim W, Park S, Lee D, et al. Transfer of a healthy microbiota reduces amyloid and tau pathology in an Alzheimer's disease animal model. Gut. 2020; 69(2):283\u201394. Epub 2019/09/01. https://doi.org/10.1136/gutjnl-2018-317431 PMID: 31471351."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 388,
+      "minX": 200.5,
+      "maxY": 462.1,
+      "maxX": 573.7,
+      "page": 31
+    }],
+    "text": "70. Westfall S, Lomis N, Prakash S. A novel synbiotic delays Alzheimer's disease onset via combinatorial gut-brain-axis signaling in Drosophila melanogaster. PLoS One. 2019; 14(4):e0214985. Epub 2019/04/ 23. https://doi.org/10.1371/journal.pone.0214985 PMID: 31009489; PubMed Central PMCID: PMC6476497 in a US provisional patent entitled \"A novel probiotic formulation for alleviation of meta-bolic stress, inflammation, oxidative stress and neurodegeneration\" (62/629328) by the authors SW and SP. The patent was filed by Proviva Pharma, Canada, of which SW and SP are co-founders. The authors received no financial contributions or incentives from the company. This does not alter our adherence to PLOS ONE policies on sharing data and materials."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 348.1,
+      "minX": 200.5,
+      "maxY": 382.6,
+      "maxX": 568,
+      "page": 31
+    }],
+    "text": "71. Sampson TR, Debelius JW, Thron T, Janssen S, Shastri GG, Ilhan ZE, et al. Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease. Cell. 2016; 167(6):1469\u201380 e12. Epub 2016/12/03. https://doi.org/10.1016/j.cell.2016.11.018 PMID: 27912057; PubMed Central PMCID: PMC5718049."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 316.1,
+      "minX": 200.5,
+      "maxY": 341.1,
+      "maxX": 563,
+      "page": 31
+    }],
+    "text": "72. Brown GC. The endotoxin hypothesis of neurodegeneration. J Neuroinflammation. 2019; 16(1):180. Epub 2019/09/15. https://doi.org/10.1186/s12974-019-1564-7 PMID: 31519175; PubMed Central PMCID: PMC6744684."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 284.1,
+      "minX": 200.5,
+      "maxY": 309.1,
+      "maxX": 566.7,
+      "page": 31
+    }],
+    "text": "73. Duerkop BA, Vaishnava S, Hooper LV. Immune responses to the microbiota at the intestinal mucosal surface. Immunity. 2009; 31(3):368\u201376. Epub 2009/09/22. https://doi.org/10.1016/j.immuni.2009.08. 009 PMID: 19766080."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 251.1,
+      "minX": 200.5,
+      "maxY": 277,
+      "maxX": 575.9,
+      "page": 31
+    }],
+    "text": "74. Fukui H. Increased Intestinal Permeability and Decreased Barrier Function: Does It Really Influence the Risk of Inflammation? Inflamm Intest Dis. 2016; 1(3):135\u201345. Epub 2016/10/01. https://doi.org/10.1159/ 000447252 PMID: 29922669; PubMed Central PMCID: PMC5988153."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 209.6,
+      "minX": 200.5,
+      "maxY": 245.1,
+      "maxX": 572.6,
+      "page": 31
+    }],
+    "text": "75. Logsdon AF, Meabon JS, Cline MM, Bullock KM, Raskind MA, Peskind ER, et al. Blast exposure elicits blood-brain barrier disruption and repair mediated by tight junction integrity and nitric oxide dependent processes. Sci Rep. 2018; 8(1):11344. Epub 2018/07/29. https://doi.org/10.1038/s41598-018-29341-6 PMID: 30054495; PubMed Central PMCID: PMC6063850."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 169.1,
+      "minX": 200.5,
+      "maxY": 203.6,
+      "maxX": 576.1,
+      "page": 31
+    }],
+    "text": "76. Keshavarz M, Jo YH, Edosa TT, Han YS. Two Roles for the Tenebrio molitor Relish in the Regulation of Antimicrobial Peptides and Autophagy-Related Genes in Response to Listeria monocytogenes. Insects. 2020; 11(3). Epub 2020/03/20. https://doi.org/10.3390/insects11030188 PMID: 32188156; PubMed Central PMCID: PMC7142762."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 135.4,
+      "minX": 200.5,
+      "maxY": 162.1,
+      "maxX": 576.1,
+      "page": 31
+    }],
+    "text": "77. Nandy A, Lin L, Velentzas PD, Wu LP, Baehrecke EH, Silverman N. The NF-kappaB Factor Relish Regulates Atg1 Expression and Controls Autophagy. Cell Rep. 2018; 25(8):2110\u201320 e3. Epub 2018/11/22. https://doi.org/10.1016/j.celrep.2018.10.076 PMID: 30463009; PubMed Central PMCID: PMC6329390."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 104.1,
+      "minX": 200.5,
+      "maxY": 130.1,
+      "maxX": 567.2,
+      "page": 31
+    }],
+    "text": "78. Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C, Jha S, et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics. 2013; 29(1):15\u201321. Epub 2012/10/30. https://doi.org/10.1093/ bioinformatics/bts635 PMID: 23104886; PubMed Central PMCID: PMC3530905."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 31
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 31 / 32"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 744,
+      "minX": 35,
+      "maxY": 753.6,
+      "maxX": 576.1,
+      "page": 32
+    }],
+    "text": "PLOS GENETICS Microbiome-immune-autophagy axis drives pathology in Gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 689.6,
+      "minX": 200.5,
+      "maxY": 714.6,
+      "maxX": 573.3,
+      "page": 32
+    }],
+    "text": "79. Liao Y, Smyth GK, Shi W. featureCounts: an efficient general purpose program for assigning sequence reads to genomic features. Bioinformatics. 2014; 30(7):923\u201330. Epub 2013/11/15. https://doi.org/10. 1093/bioinformatics/btt656 PMID: 24227677."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 656.5,
+      "minX": 200.5,
+      "maxY": 682.6,
+      "maxX": 570.9,
+      "page": 32
+    }],
+    "text": "80. Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014; 15(12):550. Epub 2014/12/18. https://doi.org/10.1186/s13059-0140550-8 PMID: 25516281; PubMed Central PMCID: PMC4302049."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 633.5,
+      "minX": 200.5,
+      "maxY": 650.6,
+      "maxX": 568.6,
+      "page": 32
+    }],
+    "text": "81. Benjamini. YH Y. Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing. Journal of the Royal Statistical Society: Series B (Methodological). 1995; 57(1):289\u2013300."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 593.6,
+      "minX": 200.5,
+      "maxY": 628,
+      "maxX": 565.5,
+      "page": 32
+    }],
+    "text": "82. Raudvere U, Kolberg L, Kuzmin I, Arak T, Adler P, Peterson H, et al. g:Profiler: a web server for functional enrichment analysis and conversions of gene lists (2019 update). Nucleic Acids Res. 2019; 47 (W1):W191\u2013W8. Epub 2019/05/09. https://doi.org/10.1093/nar/gkz369 PMID: 31066453; PubMed Central PMCID: PMC6602461."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 551.1,
+      "minX": 200.5,
+      "maxY": 586.6,
+      "maxX": 568.2,
+      "page": 32
+    }],
+    "text": "83. Yu Y, Niccoli T, Ren Z, Woodling NS, Aleyakpo B, Szabadkai G, et al. PICALM rescues glutamatergic neurotransmission, behavioural function and survival in a Drosophila model of Abeta42 toxicity. Hum Mol Genet. 2020; 29(14):2420\u201334. Epub 2020/06/28. https://doi.org/10.1093/hmg/ddaa125 PMID: 32592479; PubMed Central PMCID: PMC7424762."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 528,
+      "minX": 200.5,
+      "maxY": 545.1,
+      "maxX": 573.1,
+      "page": 32
+    }],
+    "text": "84. Sabat DJ E.M.;, Abhinay A.; Jayabalan R.; Mishra M. A Protocol to Generate Germ Free Drosophila for Microbial Interaction Studies. Advanced Techniques in Biology and Medicine. 2015; S1 001."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 497.6,
+      "minX": 200.5,
+      "maxY": 522.6,
+      "maxX": 576,
+      "page": 32
+    }],
+    "text": "85. Wu JS, Luo L. A protocol for dissecting Drosophila melanogaster brains for live imaging or immunostaining. Nat Protoc. 2006; 1(4):2110\u20135. Epub 2007/05/10. https://doi.org/10.1038/nprot.2006.336 PMID: 17487202."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 36,
+      "maxY": 42.2,
+      "maxX": 576,
+      "page": 32
+    }],
+    "text": "PLOS Genetics | https://doi.org/10.1371/journal.pgen.1011063 December 21, 2023 32 / 32"
+  }}
+]}

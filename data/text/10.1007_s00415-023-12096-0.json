@@ -1,0 +1,1747 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 632.8,
+      "minX": 51,
+      "maxY": 683.7,
+      "maxX": 483.7,
+      "page": 1
+    }],
+    "text": "Long\u2011term safety and efficacy of cipaglucosidase alfa plus miglustat in individuals living with Pompe disease: an open\u2011label phase I/II study (ATB200\u201102)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 566.9,
+      "minX": 51,
+      "maxY": 615.1,
+      "maxX": 499,
+      "page": 1
+    }],
+    "text": "Barry J. Byrne1 · Benedikt Schoser2 · Priya S. Kishnani3 · Drago Bratkovic4 · Paula R. Clemens5 · Ozlem Goker\u2011Alpan6 · Xue Ming7,8 · Mark Roberts9 · Matthias Vorgerd10 · Kumaraswamy Sivakumar11 · Ans T. van der Ploeg12 · Mitchell Goldman13 · Jacquelyn Wright13 · Fred Holdbrook13 · Vipul Jain13 · Elfrida R. Benjamin13 · Franklin Johnson13 · Sheela Sitaraman Das13 · Yasmine Wasfi13 · Tahseen Mozaffar14"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 501,
+      "minX": 51,
+      "maxY": 508.2,
+      "maxX": 89.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 324,
+      "minX": 51,
+      "maxY": 495.5,
+      "maxX": 544.8,
+      "page": 1
+    }],
+    "text": "Cipaglucosidase alfa plus miglustat (cipa + mig) is a novel, two-component therapy for Pompe disease. We report data from the Phase I/II ATB200-02 study for up to 48 months of treatment. Four adult cohorts, including one non-ambulatory ERT-experienced (n = 6) and three ambulatory cohorts, (two enzyme replacement therapy [ERT]-experienced cohorts [2\u20136 years (n = 11) and ≥ 7 years (n = 6)]), one ERT-naïve cohort (n = 6), received 20 mg/kg intravenous-infused cipa plus 260 mg oral mig biweekly. Change from baseline (CFBL) for multiple efficacy endpoints at 12, 24, 36, and 48 months, pharmacodynamics, pharmacokinetics, safety, and immunogenicity data were assessed. Six-minute walking distance (% predicted) improved at 12, 24, 36, and 48 months: pooled ambulatory ERT-experienced cohorts, mean(± standard deviation [SD]) CFBL: 6.1(± 7.84), n = 16; 5.4(± 10.56), n = 13; 3.4(± 14.66), n = 12; 5.9(± 17.36), n = 9, respectively; ERT-naïve cohort: 10.7(± 3.93), n = 6; 11.0(± 5.06), n = 6; 9.0(± 7.98), n = 5; 11.7(± 7.69), n = 4, respectively. Percent predicted forced vital capacity was generally stable in ERT-experienced cohorts, mean(± SD) CFBL − 1.2(± 5.95), n = 16; 1.0(± 7.96), n = 13; − 0.3(± 6.68), n = 10; 1.0(± 6.42), n = 6, respectively, and improved in the ERT-naïve cohort: 3.2(± 8.42), n = 6; 4.7(± 5.09), n = 6; 6.2(± 3.35), n = 5; 8.3(± 4.50), n = 4, respectively. Over 48 months, CK and Hex4 biomarkers improved in ambulatory cohorts. Overall, cipa + mig was well tolerated with a safety profile like alglucosidase alfa. ATB200-02 results show the potential benefits of cipa + mig as a long-term treatment option for Pompe disease. Trial registration number: NCT02675465 January 26, 2016."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 286.5,
+      "minX": 51,
+      "maxY": 308.2,
+      "maxX": 517.4,
+      "page": 1
+    }],
+    "text": "Keywords Glycogen storage disease type II · Alpha glucosidases · Myozyme · n-Butyldeoxynojirimycin · Lysosomal storage diseases · Pharmacokinetics"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 198.6,
+      "minX": 51,
+      "maxY": 207.9,
+      "maxX": 216.1,
+      "page": 1
+    }],
+    "text": "1 University of Florida, Gainesville, FL, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 173.6,
+      "minX": 51,
+      "maxY": 192.8,
+      "maxX": 270.7,
+      "page": 1
+    }],
+    "text": "2 Friedrich-Baur-Institute at the Department of Neurology, LMU University Hospital, LMU Munich, Munich, Germany"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 158.5,
+      "minX": 51,
+      "maxY": 167.8,
+      "maxX": 244.7,
+      "page": 1
+    }],
+    "text": "3 Duke University Medical Center, Durham, NC, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 134.2,
+      "minX": 51,
+      "maxY": 152.8,
+      "maxX": 267.2,
+      "page": 1
+    }],
+    "text": "4 PARC Research Clinic, Royal Adelaide Hospital, Adelaide, SA, Australia"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 98.5,
+      "minX": 51,
+      "maxY": 127.8,
+      "maxX": 264.1,
+      "page": 1
+    }],
+    "text": "5 Department of Neurology, University of Pittsburgh School of Medicine and VA Pittsburgh Healthcare System, Pittsburgh, PA, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 74.1,
+      "minX": 51,
+      "maxY": 92.8,
+      "maxX": 254,
+      "page": 1
+    }],
+    "text": "6 Lysosomal and Rare Disorders Research and Treatment Center, Fairfax, VA, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 220.4,
+      "minX": 306.1,
+      "maxY": 237.8,
+      "maxX": 529.4,
+      "page": 1
+    }],
+    "text": "7 Neurology, Rutgers New Jersey Medical School, Newark, NJ, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 203.6,
+      "minX": 306.1,
+      "maxY": 212.9,
+      "maxX": 475.8,
+      "page": 1
+    }],
+    "text": "8 Guam Regional Medical City, Dededo, Guam"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 188.6,
+      "minX": 306.1,
+      "maxY": 197.8,
+      "maxX": 492.4,
+      "page": 1
+    }],
+    "text": "9 Salford Royal NHS Foundation Trust, Salford, UK"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 153.5,
+      "minX": 306.1,
+      "maxY": 182.8,
+      "maxX": 505.3,
+      "page": 1
+    }],
+    "text": "10 Department of Neurology, University Hospital Bergmannsheil, Heimer Institute for Muscle Research, Bochum, Germany"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 130.2,
+      "minX": 306.1,
+      "maxY": 147.8,
+      "maxX": 517.3,
+      "page": 1
+    }],
+    "text": "11 Neuromuscular Clinic and Research Center, Phoenix, AZ, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 105.2,
+      "minX": 306.1,
+      "maxY": 122.7,
+      "maxX": 499.1,
+      "page": 1
+    }],
+    "text": "12 Erasmus MC University Medical Center, Rotterdam, Netherlands"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 88.4,
+      "minX": 306.1,
+      "maxY": 97.7,
+      "maxX": 481.5,
+      "page": 1
+    }],
+    "text": "13 Amicus Therapeutics, Inc., Princeton, NJ, USA"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 306.1,
+      "maxY": 82.7,
+      "maxX": 544.2,
+      "page": 1
+    }],
+    "text": "14 University of California, Irvine, Irvine, CA, USA Vol.:(011233456789)"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 2
+    }],
+    "text": "1788"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 724,
+      "minX": 51,
+      "maxY": 732.6,
+      "maxX": 118.7,
+      "page": 2
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 471.9,
+      "minX": 51,
+      "maxY": 705.9,
+      "maxX": 289.3,
+      "page": 2
+    }],
+    "text": "Pompe disease is a rare, multisystemic, and progressive lysosomal disorder caused by inherited pathogenic variants in the acid α-glucosidase (GAA) gene [1, 2]. This results in partial-to-full deficiency of the GAA enzyme that is responsible for the breakdown of lysosomal glycogen [1]. The functional deficiency of GAA leads to the accumulation of lysosomal glycogen, dysregulated autophagy and cellular damage in many tissues, most prominently skeletal muscle, smooth muscle and, in infantile-onset Pompe disease (IOPD), cardiac muscle [1]. Pompe disease can be broadly classified into two subtypes: IOPD and late-onset Pompe disease (LOPD) [3, 4]. The latter is generally less severe and slower progressing, with a broad phenotypic spectrum and residual GAA enzyme activity reported to be between ~ 1% and 30\u201340% [3\u20137]. Nonetheless, LOPD remains a debilitating disorder that eventually leads to wheelchair use and ventilator-assisted breathing and places a significant burden on patients, families, and healthcare systems [5, 6, 8]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.6,
+      "minX": 51,
+      "maxY": 468.4,
+      "maxX": 289.3,
+      "page": 2
+    }],
+    "text": "For many patients with LOPD, enzyme replacement therapy (ERT) initially improves parameters such as muscle strength, motor skills, and pulmonary function [9\u201312]. Alglucosidase alfa, a recombinant human GAA (rhGAA), was the first approved Pompe disease\u2013specific ERT [3, 13\u201317]. However, treatment with alglucosidase alfa does not prevent disease progression [9]. A plateau is typically reached 2\u20133 years after treatment initiation, followed by progressive decline [9\u201312, 18, 19], highlighting a critical unmet need for new therapies with a more durable treatment response. The suboptimal outcomes observed with alglucosidase alfa led to research to better understand the possible mechanistic challenges of delivering a rhGAA to skeletal muscle [20, 21]. First, rhGAA, which is most active at lysosomal pH, is less stable at the near-neutral pH of the bloodstream, resulting in rapid inactivation after infusion [20]. Second, less than 1% of rhGAA reaches skeletal muscle, meaning that efficient uptake requires that the rhGAA contains bis-phosphorylated mannose6-phosphate (bis-M6P) N-glycans for high-affinity uptake through the cation-independent M6P receptor (CI-MPR) [20]. Lastly, an rhGAA requires processing (proteolytic and N-glycan trimming) to enhance enzyme activity and affinity for the glycogen substrate [21]. The need to improve cellular enzyme uptake and glycogen clearance in target tissue to enhance clinical outcomes has led to the development of next-generation ERTs for Pompe disease [20, 22\u201327]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 84.4,
+        "minX": 51,
+        "maxY": 118.4,
+        "maxX": 289.2,
+        "page": 2
+      },
+      {
+        "minY": 535.9,
+        "minX": 306.1,
+        "maxY": 732.4,
+        "maxX": 544.5,
+        "page": 2
+      }
+    ],
+    "text": "Cipaglucosidase alfa plus miglustat (cipa + mig) is a novel, two-component Pompe disease therapy designed to address these challenges and ensure efficient rhGAA delivery to the muscle [28, 29]. Cipaglucosidase alfa is enriched with Chinese hamster ovary (CHO) cell (naturally)-derived bis-M6P N-glycans to mediate high-affinity binding and effective uptake into muscle via CI-MPR. [30, 31]. Inside the cell, enzyme activity is maximized due to enhanced CHO cell-derived glycosylation; this ensures both proteolytic and N-glycan processing into a mature form of the enzyme that has maximal catalytic activity [21, 28]. In addition, the amount of rhGAA available for uptake and processing is maximized by adding the enzyme stabilizer, miglustat [28, 29, 31]. This stabilizes cipaglucosidase alfa in the circulation so that catalytic activity is maintained upon uptake into muscles\u2014where miglustat detaches from cipaglucosidase alfa in muscle cell lysosomes\u2014as well as increasing biodistribution of the enzyme [28, 31]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 2
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 399.1,
+      "minX": 306.1,
+      "maxY": 532.4,
+      "maxX": 544.4,
+      "page": 2
+    }],
+    "text": "The Phase III PROPEL clinical study compared the efficacy and safety of cipa + mig and alglucosidase alfa in adults with LOPD [32]. Overall, patients treated with cipa + mig (n = 85) showed greater clinically meaningful improvements in absolute and % predicted 6-min walk distance (6MWD) and % predicted forced vital capacity (FVC); however, differences in absolute and % predicted 6MWD did not reach statistical significance, and the difference in % predicted FVC was nominally statistically significant. Nominal significance was also reached in the ERT-experienced group for both 6MWD and FVC [32]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 335.9,
+      "minX": 306.1,
+      "maxY": 394.9,
+      "maxX": 544.3,
+      "page": 2
+    }],
+    "text": "Here we present data from the ongoing, open-label, phase I/II ATB200-02 clinical trial that aims to evaluate the long-term (up to 48 months) efficacy of cipa + mig in adults with Pompe disease. Pharmacodynamics (PD), pharmacokinetics (PK), safety, and immunogenicity were also evaluated."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 300.5,
+      "minX": 306.1,
+      "maxY": 309.1,
+      "maxX": 353.4,
+      "page": 2
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 273.2,
+      "minX": 306.1,
+      "maxY": 283.4,
+      "maxX": 365.6,
+      "page": 2
+    }],
+    "text": "Study design"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 135.9,
+      "minX": 306.1,
+      "maxY": 257.5,
+      "maxX": 544.7,
+      "page": 2
+    }],
+    "text": "The ATB200-02 (NCT02675465) study is being conducted at 17 sites in six countries (Australia, Germany, the Netherlands, New Zealand, the UK, and the US). The first patient was enrolled in April 2016. The study design is depicted in Fig. 1. The primary treatment period consisted of stage 1 (6 weeks) and stage 2 (12 weeks). Stage 3 was a 2-year treatment period and stage 4 is an ongoing long-term extension (Fig. 1). The primary objective was to evaluate the safety and tolerability of cipa + mig; the primary objectives of stages 3 and 4 included the evaluation of long-term efficacy."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 110.7,
+      "minX": 306.1,
+      "maxY": 120.9,
+      "maxX": 390.4,
+      "page": 2
+    }],
+    "text": "Study participants"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.4,
+        "minX": 306.1,
+        "maxY": 95,
+        "maxX": 544.2,
+        "page": 2
+      },
+      {
+        "minY": 349.4,
+        "minX": 51,
+        "maxY": 383.4,
+        "maxX": 289.3,
+        "page": 3
+      },
+      {
+        "minY": 174.8,
+        "minX": 51,
+        "maxY": 233.6,
+        "maxX": 289.1,
+        "page": 3
+      },
+      {
+        "minY": 74.4,
+        "minX": 51,
+        "maxY": 158.4,
+        "maxX": 289.3,
+        "page": 3
+      },
+      {
+        "minY": 324.4,
+        "minX": 306.1,
+        "maxY": 383.4,
+        "maxX": 544.3,
+        "page": 3
+      }
+    ],
+    "text": "The study enrolled four cohorts of patients 18\u201375 years old (18\u201365 years in cohorts 1\u20133; 18\u201375 years in cohort 4) with a diagnosis of Pompe disease based on documented deficiency of GAA enzyme activity or by two pathogenic variants in the GAA gene: upright FVC: 30\u201380% of predicted normal value) \u2022 Cohort 4: ERT experienced (≥ 7 years), ambulatory (≥ 7 years prior ERT with alglucosidase alfa every 2 weeks; 6MWD: 75\u2013600 m; upright FVC: 30\u201385% of predicted normal value) Key exclusion criteria included prior use of any investigational therapy, including adjunctive therapy for Pompe disease within 30 days or five half-lives of the therapy or treatment, whichever was longer; requirement for invasive ventilatory support or non-invasive ventilatory support ≥ 6 h a day while awake (except cohort 2); history of anaphylactic reaction to alglucosidase alfa (except cohort 3); history of high sustained anti-rhGAA antibodies (except cohort 3); presence of active systemic autoimmune disease (all patients with autoimmune disease must have been discussed with the sponsor's medical monitor). Full inclusion and exclusion criteria are provided in Supplementary Table S1."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 3
+    }],
+    "text": "1789"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 410.4,
+      "minX": 51,
+      "maxY": 478.1,
+      "maxX": 289.1,
+      "page": 3
+    }],
+    "text": "Fig. 1 ATB200-02 study design: 18-week primary treatment period with long-term extension. Stage 3 was a 2-year treatment period during which patients received 20 mg/kg of IV-infused cipaglucosidase alfa co-administered with 260 mg of miglustat administered orally every 2 weeks. Stage 4 is an ongoing long-term extension to provide additional safety and efficacy data. aWith 20 mg/kg alglucosidase alfa Q2W; bPK assessments for GAA activity; total GAA protein and"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 237,
+      "minX": 51,
+      "maxY": 333.4,
+      "maxX": 289.2,
+      "page": 3
+    }],
+    "text": "\u2022 Cohort 1: ERT experienced (2\u20136 years), ambulatory (2\u20136 years prior ERT with alglucosidase alfa every 2 weeks; 6MWD: 200\u2013500 m; upright FVC: 30\u201380% of predicted normal value) \u2022 Cohort 2: ERT experienced (≥ 2 years), non-ambulatory (≥ 2 years prior ERT with alglucosidase alfa; wheelchair use and unable to walk unassisted) \u2022 Cohort 3: ERT naïve, ambulatory (6MWD: 200\u2013500 m;"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 301.5,
+      "minX": 306.1,
+      "maxY": 309,
+      "maxX": 358.1,
+      "page": 3
+    }],
+    "text": "Treatments"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 124.4,
+      "minX": 306.1,
+      "maxY": 283.4,
+      "maxX": 544.9,
+      "page": 3
+    }],
+    "text": "Across all study stages, cipaglucosidase alfa was intravenously (IV)-infused every 2 weeks over approximately 4 h (± 15 min) with gradually increased infusion rates; the patient's body weight determined the total volume of infusion. The infusion was performed at a hospital or infusion center by qualified study personnel; for some eligible patients, the infusion could be performed at home by a trained home-infusion nurse. Changes in the duration of cipaglucosidase alfa infusion due to safety or tolerability issues were documented. In stages 2, 3, and 4, miglustat oral capsules were administered 1 h prior to infusion of cipaglucosidase alfa, with a 2-h fasting period before and after miglustat administration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 306.1,
+        "maxY": 120.9,
+        "maxX": 544.3,
+        "page": 3
+      },
+      {
+        "minY": 561.8,
+        "minX": 51,
+        "maxY": 733.4,
+        "maxX": 289.3,
+        "page": 4
+      }
+    ],
+    "text": "The dosing regimen was determined by evaluating single and multiple ascending doses in the initial cohort of ERT-experienced ambulatory patients (cohort 1) using a sentinel dosing approach at each study stage (Fig. 1). In stage 1, cohort 1 received cipaglucosidase alfa as a single agent (5, 10, or 20 mg/kg). In stage 2, cohort 1 received cipaglucosidase alfa 20 mg/kg co-administered with miglustat 130 mg or 260 mg for three consecutive doses each. Once an appropriate regimen had been determined, and safety assessed by the external data monitoring committee, the additional cohorts of non-ambulatory (cohort 2), ERT-naïve (cohort 3), and ERT-experienced (cohort 4) patients were enrolled into stage 3. In stages 3 and 4, all cohorts received cipaglucosidase alfa 20 mg/kg co-administered with miglustat 260 mg. A sentinel dosing approach was used for cohorts 2 and 3 but not cohort 4, as this cohort had similar baseline characteristics to cohort 1 and was enrolled at a later stage when almost 2 years of safety data for cohort 1 were available."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 3
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 4
+    }],
+    "text": "1790"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 538.9,
+      "minX": 51,
+      "maxY": 546.7,
+      "maxX": 175.6,
+      "page": 4
+    }],
+    "text": "Assessments and outcomes"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 176.4,
+      "minX": 51,
+      "maxY": 520.8,
+      "maxX": 289.3,
+      "page": 4
+    }],
+    "text": "Efficacy outcomes, assessed over 48 months, included the change from baseline (CFBL) in 6MWD (% predicted and absolute CFBL in meters), % predicted sitting FVC, manual muscle test (MMT), patient-reported outcomes (PROs; Rasch-built Pompe-specific Activity [R-PAct] scale, Rotterdam Handicap Scale [RHS] and Fatigue Severity Scale [FSS]) and PD outcomes (the biomarkers urine glucose tetrasaccharide [Hex4] and serum creatine kinase [CK]). Efficacy was assessed every 3 months in stage 3, and every 6 months in stage 4. In addition, Subject and Physician Global Impression of Change (SGIC and PGIC, respectively) were completed during stages 3 and 4. Safety evaluations included adverse event (AE) monitoring (including infusion-associated reactions [IARs]), clinical laboratory profiles (serum chemistry, hematology, and urinalysis), vital signs, 12-lead electrocardiograms, and physical examinations. Further details on efficacy and safety assessments are provided in Supplementary Sect. S1. In addition, blood and urine sampling was carried out to enable characterization of PD (urinary Hex4 and serum CK) measurements, PK (plasma total GAA protein and plasma miglustat) parameters, and immunogenicity (anti-cipaglucosidase alfa [drug] antibodies [ADAs], neutralizing antibodies [NAbs], antibodies cross-reactive to alglucosidase alfa, and anti-rhGAA immunoglobulin E [IgE] antibodies) measurements (Supplementary Section S1). PK data from stage 1, cohort 1 are reported here and full PK details are provided in Supplementary Section S2."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 149.3,
+      "minX": 51,
+      "maxY": 170.8,
+      "maxX": 289.1,
+      "page": 4
+    }],
+    "text": "The COVID-19 pandemic had minimal impact on the study with respect to missed infusions and appointments."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 124.1,
+      "minX": 51,
+      "maxY": 134.2,
+      "maxX": 111.4,
+      "page": 4
+    }],
+    "text": "Data analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.3,
+      "minX": 51,
+      "maxY": 108.3,
+      "maxX": 289.3,
+      "page": 4
+    }],
+    "text": "No formal sample size calculation was performed because this study began as a first-in-human trial, which did not involve statistical testing of any hypothesis or comparison."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 4
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 649.3,
+      "minX": 306.1,
+      "maxY": 733.3,
+      "maxX": 544.8,
+      "page": 4
+    }],
+    "text": "However, a sample size of between 18 and 34 patients was considered adequate for this study. No inferential statistics were used in this study. In general, continuous variables were summarized using descriptive statistics. Due to the staggered timing of patient enrollment, the number of patients with data available decreases at later time points; these patients are still participating in the study."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 361.8,
+      "minX": 306.1,
+      "maxY": 645.8,
+      "maxX": 544.4,
+      "page": 4
+    }],
+    "text": "Efficacy and PD (CK and Hex4) analyses were conducted in the efficacy population (patients who took at least one dose of 20 mg/kg cipaglucosidase alfa + 260 mg miglustat co-administration in stage 3 and had both a baseline and at least one post-baseline assessment for any efficacy endpoint). Efficacy and pharmacodynamic analyses are presented for pooled ERT-experienced ambulatory patients (i.e., cohort 1 and cohort 4), as the baseline demographics for patients in these cohorts are similar except for the duration of prior ERT, and separately for ERT-naïve ambulatory patients (cohort 3) and ERT-experienced non-ambulatory patients (cohort 2). Pharmacokinetics (plasma total GAA protein and plasma miglustat) are characterized using descriptive statistics. Full details are given in Supplementary Sect. S2. Safety evaluations were conducted on the safety population (patients who were exposed to at least one dose of the study drug; for stages 3 and 4, this included all cohort 1 patients who entered stage 3 and received at least one dose of 20 mg/kg cipaglucosidase alfa + 260 mg miglustat co-administration). Immunogenicity evaluations were conducted for patients in all cohorts, with blood samples collected at each visit before the infusion of the study drug. Further details are provided in Supplementary Sect. S1."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 326.4,
+      "minX": 306.1,
+      "maxY": 335,
+      "maxX": 344.7,
+      "page": 4
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 299.2,
+      "minX": 306.1,
+      "maxY": 309.2,
+      "maxX": 536.2,
+      "page": 4
+    }],
+    "text": "Baseline demographics and disease characteristics"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 111.8,
+      "minX": 306.1,
+      "maxY": 283.3,
+      "maxX": 544.4,
+      "page": 4
+    }],
+    "text": "Twenty-nine patients were screened and enrolled from April 1, 2016, to June 7, 2019. Three patients (two in cohort 1 and one in cohort 2) discontinued the study during stage 3 (in the first 2 years of treatment with cipaglucosidase alfa + miglustat) before the data cutoff date of December 13, 2021 (Fig. 2). Mean (standard deviation [SD]) treatment duration during the study of the ERT-experienced patients was 51.8 (21.46), 46.3 (22.86) and 37.7 (4.13) months in cohorts 1, 2 and 4, respectively, and 54.7 (12.14) months for the ERT-naïve patients in cohort 3. Treatment compliance was high (mean ≥ 95.6%) for all stages of the study. Due to the staggered enrollment dates, some patients, who were still ongoing in the study, were yet to reach the 48-month timepoint at the data cutoff date."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 108.3,
+        "maxX": 544.7,
+        "page": 4
+      },
+      {
+        "minY": 324.8,
+        "minX": 51,
+        "maxY": 483.5,
+        "maxX": 289.2,
+        "page": 5
+      }
+    ],
+    "text": "Patient demographics at baseline were representative of the adult Pompe disease population [32, 33]. The mean (SD) duration of treatment with alglucosidase alfa at baseline was 7.8 (3.75) years in the ERT-experienced cohorts (cohorts 1, 2, and 4); all ERT-experienced patients received 20 mg/kg every 2 weeks before study enrollment except two patients in cohort 2 who received 40 mg/kg every 2 weeks. Mean baseline values for % predicted 6MWD were similar between cohorts 1 and 4 (61.0 and 59.0, respectively), and slightly numerically larger in cohort 3 (67.8). The mean MMT lower extremity score (hip and knee muscle groups) was generally similar across cohorts 1, 4, and 3 (Table 1). The mean % predicted sitting FVC was similar for cohorts 1 and 3 (52.6 and 57.2, respectively), higher in cohort 4 (65.3), and lower for the non-ambulatory ERT-experienced cohort 2 (42.3; Table 1)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 5
+    }],
+    "text": "1791"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 504.9,
+      "minX": 51,
+      "maxY": 542.6,
+      "maxX": 289.2,
+      "page": 5
+    }],
+    "text": "Fig. 2 Patient disposition. Cohort 1: ERT experienced (2\u20136 years), ambulatory; cohort 2: ERT experienced (≥ 2 years), non-ambulatory; cohort 3: ERT naïve, ambulatory (1 patient in cohort 3 received a single dose of alglucosidase alfa before moving to Australia where"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 262.8,
+      "minX": 51,
+      "maxY": 296.9,
+      "maxX": 231,
+      "page": 5
+    }],
+    "text": "Efficacy outcomes: ambulatory patients (ERT\u2011experienced pooled cohorts 1 + 4 and ERT\u2011naïve cohort 3)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 239,
+      "minX": 51,
+      "maxY": 246.2,
+      "maxX": 111.5,
+      "page": 5
+    }],
+    "text": "Motor function"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 51,
+        "maxY": 220.9,
+        "maxX": 289.3,
+        "page": 5
+      },
+      {
+        "minY": 461.9,
+        "minX": 306.1,
+        "maxY": 483.5,
+        "maxX": 544.4,
+        "page": 5
+      }
+    ],
+    "text": "Both the ERT-experienced and ERT-naïve cohorts showed durable mean improvements from baseline in % predicted 6MWD up to 48 months (Fig. 3a and b; Supplementary Table S2), with 8/9 (88.9%) of ERT-experienced patients and 4/4 (100%) of ERT-naïve patients experiencing an improvement from baseline in % predicted 6MWD at month 48 (Supplementary Fig. S1). Absolute data for 6MWD in meters are summarized in Supplementary Table S2. After 12, 24, 36, and 48 months of follow-up, 6MWD in meters improved numerically from baseline in 13/16, 9/13, 6/12, and 6/9 ERT-experienced patients, respectively. After 12, 24, 36, and 48 months of follow-up, 6MWD in meters improved numerically from baseline in 6/6, 6/6, 4/5, and 4/4 ERT-naïve patients, respectively."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 436.9,
+      "minX": 306.1,
+      "maxY": 446.2,
+      "maxX": 388.3,
+      "page": 5
+    }],
+    "text": "Respiratory function"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 199.4,
+      "minX": 306.1,
+      "maxY": 421.1,
+      "maxX": 544.4,
+      "page": 5
+    }],
+    "text": "Mean CFBL in % predicted sitting FVC was generally stable (CFBL ± 3% points) for up to 48 months of follow-up in the ERT-experienced cohorts (Fig. 4a; Supplementary Table S2), with improvements (CFBL ≥ 3% points) at month 48 in 66.7% of ERT-experienced patients with available data (Supplementary Fig. S1). After 12, 24, 36, and 48 months of follow-up, % predicted sitting FVC improved (≥ 3% points) or remained stable (± 3% points) from baseline in 9/16, 11/13, 8/10, and 4/6 ERT-experienced patients, respectively. This is further supported by mean CFBL in % predicted maximum expiratory pressure (MEP) results that also improved numerically from baseline at 12, 24, 36, and 48 months of follow-up in ERT-experienced patients (Supplementary Table S2). Mean CFBL in % predicted maximum inspiratory pressure (MIP) initially improved numerically at 12 and 24 months of follow-up but declined numerically after 36 and 48 months of follow-up from baseline in ERT-experienced patients (Supplementary Table S2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 306.2,
+        "maxY": 196.1,
+        "maxX": 544.3,
+        "page": 5
+      },
+      {
+        "minY": 74.4,
+        "minX": 51,
+        "maxY": 183.6,
+        "maxX": 289.3,
+        "page": 6
+      },
+      {
+        "minY": 149.4,
+        "minX": 306.1,
+        "maxY": 183.6,
+        "maxX": 544.3,
+        "page": 6
+      }
+    ],
+    "text": "In the ERT-naïve cohort, mean CFBL in % predicted sitting FVC improved at 3 months and then remained generally stable up to 48 months of follow-up (Fig. 4b; Supplementary Table S2), except for a steep drop at month 21 where one patient experienced a large drop in % predicted sitting FVC, which returned to previous levels at the next visit at month 24. After 48 months of follow-up, 75% of ERT-naïve patients with available data showed improvements (≥ 3% points) in % predicted sitting FVC (Supplementary Fig. S1). While mean baseline values for % predicted sitting FVC in the ERT-naïve cohort (57.2%) and the ERT-experienced cohort (57.4%) were similar, mean improvements over 48 months of follow-up were more marked in the ERT-naïve cohort (Fig. 4b; Supplementary Table S2). After 12, 24, 36, and 48 months of follow-up, % predicted sitting FVC improved (≥ 3% points) or remained stable (± 3% points) from baseline in 5/6, 6/6, 5/5, and 4/4 in ERT-naïve patients, respectively. Percent predicted sitting FVC data were supported by similar outcomes in other pulmonary measures in ERT-naïve patients, including mean CFBL in % predicted MIP and MEP, which improved numerically at 12, 24, 36, and 48 months of follow-up (Supplementary Table S2)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 5
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 6
+    }],
+    "text": "1792"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 205.2,
+      "minX": 178.6,
+      "maxY": 213.2,
+      "maxX": 505.2,
+      "page": 6
+    }],
+    "text": "aN= 1 ERT-naïve patient received one dose of alglucosidase alfa > 6 months prior to study entry"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 6
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 112,
+      "minX": 306.1,
+      "maxY": 133.7,
+      "maxX": 531.2,
+      "page": 6
+    }],
+    "text": "6MWD and % predicted sitting FVC clinically meaningful changes from baseline"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 306.1,
+        "maxY": 95.9,
+        "maxX": 544.3,
+        "page": 6
+      },
+      {
+        "minY": 186.9,
+        "minX": 51,
+        "maxY": 346.1,
+        "maxX": 289.3,
+        "page": 7
+      }
+    ],
+    "text": "At 48 months of follow-up, six ERT-experienced and three ERT-naïve ambulatory patients had available data for both 6MWD in meters and % predicted sitting FVC. In ERT-experienced patients, two demonstrated clinically meaningful improvements in both 6MWD and % predicted sitting FVC, four demonstrated clinically meaningful improvements or stabilization for at least one of 6MWD or % predicted sitting FVC, and none demonstrated clinically meaningful worsening for both 6MWD and % predicted sitting FVC. In ERT-naïve patients, one demonstrated clinically meaningful improvements in both 6MWD and % predicted sitting FVC, two demonstrated clinically meaningful improvements or stabilization for at least one of 6MWD or % predicted sitting FVC, and none demonstrated clinically meaningful worsening for both 6MWD and % predicted sitting FVC."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 606.6,
+      "minX": 51,
+      "maxY": 732.7,
+      "maxX": 159.4,
+      "page": 7
+    }],
+    "text": "Fig. 3 CFBL in % predicted 6MWD in ambulatory a ERT-experienced and b ERT-naïve patients. Pooled data from cohorts 1 and 4 for ERT-experienced patients. No applicable data are available for cohort 2 (non-ambulatory patients). 6MWD 6-min walking distance, CFBL change from baseline, ERT enzyme replacement therapy, SD standard deviation, SE standard error"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 719.8,
+      "minX": 190.9,
+      "maxY": 729.8,
+      "maxX": 222.4,
+      "page": 7
+    }],
+    "text": "a 20"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 444.5,
+      "minX": 217.9,
+      "maxY": 454.6,
+      "maxX": 236.9,
+      "page": 7
+    }],
+    "text": "0 0.0"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 162,
+      "minX": 51,
+      "maxY": 171.1,
+      "maxX": 115.4,
+      "page": 7
+    }],
+    "text": "Muscle strength"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 51,
+        "maxY": 145.9,
+        "maxX": 289.3,
+        "page": 7
+      },
+      {
+        "minY": 274.4,
+        "minX": 306.1,
+        "maxY": 346,
+        "maxX": 544.4,
+        "page": 7
+      }
+    ],
+    "text": "Irrespective of ERT-treatment status at baseline, ambulatory patients experienced early improvements in muscle strength based on MMT lower extremity scores, which were maintained for up to 48 months of follow-up (Fig. 5; Supplementary Table S2). After 12, 24, 36, and 48 months of follow-up, the MMT lower extremity score improved numerically from baseline in 14/15, 11/13, 10/10, and 8/8 ERT-experienced patients and 4/5, 4/5, 4/4, and 3/4 ERT-naïve patients, respectively. MMT upper body scores (shoulder and elbow muscle groups) improved or stabilized from baseline in ambulatory ERT-experienced and ERT-naïve patients up to 48 months of follow-up (Supplementary Table S2)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 251.5,
+      "minX": 306.1,
+      "maxY": 258.6,
+      "maxX": 351.6,
+      "page": 7
+    }],
+    "text": "PRO results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.4,
+      "minX": 306.1,
+      "maxY": 233.4,
+      "maxX": 544.4,
+      "page": 7
+    }],
+    "text": "PROs supported the improvements observed for motor function, muscle strength, and pulmonary function tests. At baseline, all patients were significantly impacted by fatigue, which improved after 48 months of follow-up, as shown by the favorable mean CFBL in FSS. After 48 months of follow-up, all ambulatory patients reported stable R-PAct scores and RHS compared with baseline scores (Supplementary Table S2). SGIC outcomes for overall physical wellbeing improved in most patients across all cohorts after 48 months of follow-up (Supplementary Table S3). PGIC results indicated an improvement or stabilization for all cohorts after 48 months of follow-up and supported the results of other efficacy outcomes (Supplementary Table S3)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 7
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 8
+    }],
+    "text": "1794"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 586.7,
+      "minX": 51,
+      "maxY": 732.7,
+      "maxX": 159.7,
+      "page": 8
+    }],
+    "text": "Fig. 4 CFBL in % predicted FVC in ambulatory a ERT-experienced and b ERT-naïve patients. Pooled data from cohorts 1 and 4 for ERT-experienced patients. aOne patient in the ERT-naïve cohort experienced a large drop in % predicted FVC at month 21, which returned to previous levels at the following visit (month 24). CFBL change from baseline, FVC forced vital capacity, SD standard deviation, SE standard error"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 467.6,
+      "minX": 214.3,
+      "maxY": 480.3,
+      "maxX": 381.9,
+      "page": 8
+    }],
+    "text": "\u20132 0.0 \u20131.7a"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 363.9,
+      "minX": 51,
+      "maxY": 370.8,
+      "maxX": 103.8,
+      "page": 8
+    }],
+    "text": "PD outcomes"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 51,
+        "maxY": 345.8,
+        "maxX": 289.3,
+        "page": 8
+      },
+      {
+        "minY": 250.2,
+        "minX": 306.2,
+        "maxY": 370.9,
+        "maxX": 544.4,
+        "page": 8
+      }
+    ],
+    "text": "During the 48 months of follow-up, cipa + mig was associated with mean reductions from baseline in plasma CK in both ERT-experienced and ERT-naive ambulatory cohorts (Fig. 6a; Supplementary Table S2). After 12, 24, 36, and 48 months of follow-up, plasma CK levels decreased numerically or remained stable from baseline in 13/15, 14/15, 9/11, and 8/9 ERT-experienced patients and 6/6, 6/6, 5/5, and 4/5 ERT-naïve patients, respectively (plasma CK levels increased in the remaining patients). Among patients who had CK data available at baseline and month 48, 6 of 9 (66.7%) ERT-experienced patients had abnormal CK levels at baseline and 2 of these (33.3%) had normal CK levels at month 48; 2 of 5 (40.0%) ERT-naïve patients had abnormal CK levels at baseline that remained abnormal at month 48. Overall, similar trends were observed with urine Hex4, which decreased numerically or remained stable from baseline after 12, 24, 36, and 48 months of follow-up in 16/16, 11/14, 11/12, and 6/9 ERT-experienced patients and 5/6, 5/6, 4/5, and 4/5 ERT-naïve patients, respectively (urine Hex4 levels increased in the remaining patients; Fig. 6b; Supplementary Table S2). In the ERT-experienced cohort, individual outlier values from different patients contributed to the peaks in mean Hex4 CFBL at months 21, 24, and 48, but these outliers did not affect the overall observed trends (Fig. 6b; Supplementary Table S2). Among patients who had Hex4 data available at baseline and at month 48, 5 out of 9 (55.6%) ERT-experienced patients had abnormal Hex4 levels at baseline, and 4 of these (80.0%) had normal Hex4 levels at month 48; 4 out of 5 (80.0%) ERT-naïve ambulatory patients had abnormal Hex4 measurements at baseline, and 1 of these (25.0%) returned to normal Hex4 levels at month 48, while the other 3 remained elevated."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 8
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 199.4,
+      "minX": 306.1,
+      "maxY": 221.9,
+      "maxX": 468.8,
+      "page": 8
+    }],
+    "text": "Efficacy outcomes: non\u2011ambulatory ERT\u2011experienced patients (cohort 2)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 74.4,
+      "minX": 306.1,
+      "maxY": 183.4,
+      "maxX": 544.4,
+      "page": 8
+    }],
+    "text": "Limited long-term efficacy data are available for the non-ambulatory ERT-experienced cohort 2. Percent predicted sitting FVC data were available for 2 non-ambulatory ERT-experienced patients after 36 months and 1 patient at 48 months of follow-up. After 36 months of follow-up, 1 patient improved and the other worsened compared with baseline. The patient with available data after 48 months of follow-up was generally stable compared with baseline (Supplementary Table S2)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 605.6,
+      "minX": 51,
+      "maxY": 732.6,
+      "maxX": 190.8,
+      "page": 9
+    }],
+    "text": "Fig. 5 Absolute CFBL in MMT a lower extremity score in ambulatory a ERT-experienced and b ERT-naïve patients. Pooled data from cohorts 1 and 4 for ERT-experienced patients. No applicable data are available for cohort 2 (non-ambulatory patients). CFBL change from baseline, ERT enzyme replacement therapy, MMT manual muscle test, SD standard deviation, SE standard error"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 495.6,
+      "minX": 185.5,
+      "maxY": 502.9,
+      "maxX": 191.6,
+      "page": 9
+    }],
+    "text": "b"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 9
+    }],
+    "text": "1795"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 161.9,
+      "minX": 51,
+      "maxY": 270.9,
+      "maxX": 289.3,
+      "page": 9
+    }],
+    "text": "Non-ambulatory ERT-experienced patients showed durable mean percent reductions from baseline in plasma CK levels: 20.8% (n = 5), 25.3% (n = 5), 27.1% (n = 3), and 23.7% (n = 2) at 12, 24, 36, and 48 months, respectively. In addition, a consistent decrease was also seen in urine Hex4 levels from baseline over the follow-up period. After 12, 24, 36, and 48 months, the mean percent decrease from baseline in Hex4 levels were 15.6% (n = 5), 34.1% (n = 5), 36.5% (n = 4), and 9.4% (n = 2), respectively (Supplementary Table S2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 51,
+        "maxY": 158.4,
+        "maxX": 289.2,
+        "page": 9
+      },
+      {
+        "minY": 199.4,
+        "minX": 306.1,
+        "maxY": 270.9,
+        "maxX": 544.2,
+        "page": 9
+      }
+    ],
+    "text": "PRO results are available for 2 non-ambulatory ERT-experienced patients up to 48 months of follow-up and demonstrate improved FSS and stable RHS scores compared with baseline. R-PAct scores also showed a mean improvement from baseline up to 48 months of follow-up in the 2 non-ambulatory ERT-experienced patients, indicating an improved ability to perform daily activities and participate in social situations (Supplementary Table S2). One patient reported no change, and 1 reported an improvement from baseline in SGIC's overall physical wellbeing. The PGIC results for the 2 ERT-experienced non-ambulatory patients showed no change for 1 patient and a decline for the other (Supplementary Table S3)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 176.5,
+      "minX": 306.1,
+      "maxY": 184.3,
+      "maxX": 430,
+      "page": 9
+    }],
+    "text": "Pharmacokinetic outcomes"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.4,
+        "minX": 306.1,
+        "maxY": 158.4,
+        "maxX": 544.4,
+        "page": 9
+      },
+      {
+        "minY": 563.9,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.3,
+        "page": 11
+      }
+    ],
+    "text": "Blood sampling for plasma GAA protein and miglustat concentrations was taken for cohort 1 (ERT experienced) and cohort 3 (ERT naïve) only. Blood sampling for PK was not performed for cohort 2 (non-ambulatory ERT-experienced) or cohort 4 (ERT-experienced) due to the expected similarity in PK assessments to cohort 1 and to prevent any undue burden on patients. Plasma total GAA protein, measured by signature peptide T09, increased dose-dependently after single ascending doses of 5 mg/kg, 10 mg/kg and 20 mg/kg cipaglucosidase alfa (Supplementary Fig. S2). Generally, the median time of peak signature peptide T09 concentrations (tmax) was similar across all treatments and consistent with the duration of cipaglucosidase infusion of approximately 4 h. Exposures (Cmax and the area under the plasma drug concentration\u2013time curve [AUC]) increased dose-dependently. Plasma total GAA protein exposures were similar between cohort 1 and cohort 3 ambulatory patients. Plasma miglustat exposures increased dose-dependently in cohort 1 ambulatory patients. PK outcomes are summarized in Supplementary Tables S4 and S5."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 9
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 10
+    }],
+    "text": "1796"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 596.7,
+      "minX": 51,
+      "maxY": 732.6,
+      "maxX": 159.9,
+      "page": 10
+    }],
+    "text": "Fig. 6 Percentage CFBL in a serum CK and b urine Hex4 in ambulatory patients over 48 months. Pooled data from cohorts 1, and 4 for ERT-experienced patients. aLower normal CK limit = 26 IU/L, upper normal CK limit = 192 IU/L. CFBL change from baseline, CK serum creatine kinase, ERT enzyme replacement therapy, Hex4 urine glucose tetrasaccharide, SD standard deviation, SE standard error"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 10
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 449.3,
+      "minX": 51,
+      "maxY": 558.3,
+      "maxX": 289.2,
+      "page": 11
+    }],
+    "text": "Plasma total GAA protein by signature peptide T09 AUCs were estimated by population PK analysis (median: 1700 µg·h/mL, range: 1520 to 1870 µg·h/mL) at 24 months from cohorts 1 and 3. The data were similar to AUCs estimated by noncompartmental analysis (median: 1796 µg·h/mL, range: 1240 to 2652 µg·h/mL) following the first and third doses at 20 mg/kg cipaglucosidase alfa + 260 mg miglustat from cohort 1 and cohort 3 (Supplementary Fig. S3)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 301.4,
+      "minX": 51,
+      "maxY": 445.8,
+      "maxX": 289.3,
+      "page": 11
+    }],
+    "text": "Administration of miglustat 1 h before cipaglucosidase alfa infusion resulted in greater AUCs than 20 mg/ kg cipaglucosidase alfa alone (Supplementary Fig. S2). The distribution phase half-life was increased by 26.7% and 47.7% following 130 mg and 260 mg miglustat co-administration, respectively (mean t1/2α [CV%, percentage coefficient of variation]: cipaglucosidase alfa 20 mg/ kg, 1.52 h [9.2]; cipaglucosidase alfa 20 mg/kg + miglustat 130 mg first dose, 1.9 h [10.6]; cipaglucosidase alfa 20 mg/kg + miglustat 260 mg first dose, 2.2 h [19.1]; Supplementary Table S4). Miglustat was rapidly cleared from circulation."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 11
+    }],
+    "text": "1797"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 723.3,
+      "minX": 306.1,
+      "maxY": 733.6,
+      "maxX": 335.3,
+      "page": 11
+    }],
+    "text": "Safety"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 536,
+      "minX": 306.1,
+      "maxY": 707.5,
+      "maxX": 544.4,
+      "page": 11
+    }],
+    "text": "Cipa + mig was generally well tolerated; safety outcomes are shown in Table 2. The most frequently reported treatment-emergent adverse events (TEAEs; > 40% of patients) for the overall population were falls, nasopharyngitis, diarrhea, headache, and arthralgia. Most TEAEs were mild or moderate in severity. TEAEs leading to study withdrawal occurred in 2 patients: 1 patient in cohort 1 had diffuse large B-cell lymphoma, which the investigator assessed as unrelated to treatment, and 1 patient in cohort 2 had a drug-related TEAE of urticaria, considered to be an IAR. The incidence of IARs was similar between ERT-experienced (48%) and ERT-naïve (50%) cohorts. Most patients who experienced IARs responded well to pre-infusion medications given to mitigate IARs and continued on study treatment."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 510.8,
+      "minX": 306.1,
+      "maxY": 520.9,
+      "maxX": 428.4,
+      "page": 11
+    }],
+    "text": "Immunogenicity outcomes"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 286,
+        "minX": 306.1,
+        "maxY": 495,
+        "maxX": 544.6,
+        "page": 11
+      },
+      {
+        "minY": 662.6,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.2,
+        "page": 12
+      }
+    ],
+    "text": "Immunogenicity data up to the data cutoff date of December 13, 2021, are presented. The mean (SD) duration of cipa + mig treatment was 48.4 (18.04) months for patients tested for ADAs at the data cutoff date. At baseline, ADAs were present in 21/23 ERT-experienced patients (median titer 12,800 [range 200\u20131,638,400]) and 1/6 ERT-naïve patients (titer 400), based on a cutoff established using 75 ERT-naïve human plasma samples (Supplementary Section S1). In patients with available data after 48 months of follow-up, the median (range) ADA titer was 9600 (1600\u20131,638,400; n = 9) for ERT-experienced patients and 3200 (800\u20131,638,400; n = 5) for ERT-naïve patients. After treatment with cipa + mig, ADAs were present in all patients, meaning that 2 ERT-experienced patients seroconverted with a median peak titer of 1,664,000 (interquartile range [IQR] calculated as the difference between the upper and lower quartiles [Q3\u2013Q1], 1,612,800) and 5 ERT-naïve patients seroconverted, with a median peak titer of 102,400 (IQR, 51,200). In ERT-experienced patients with ADAs at baseline, titers increased by ≥ fourfold in 17 patients with a median peak titer of 102,400 (IQR, 102,400). In the ERT-naïve patient with ADAs at baseline, the peak titer was 3,276,800 after treatment."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 74.1,
+      "minX": 178.6,
+      "maxY": 92.1,
+      "maxX": 544.2,
+      "page": 11
+    }],
+    "text": "aPooled data for ERT-experienced cohorts 1, 2 and 4 (includes both ambulatory and non-ambulatory patients)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 11
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 12
+    }],
+    "text": "1798"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 561.8,
+      "minX": 51,
+      "maxY": 658.6,
+      "maxX": 289.3,
+      "page": 12
+    }],
+    "text": "Most ERT-experienced patients (22, 95.7%) and all ERT-naïve patients tested positive for at least one type of NAb at intermittent time points (Supplementary Section S1). At baseline, 12 ERT-experienced patients and no ERT-naïve patients tested positive for antibodies cross-reactive to alglucosidase alfa. After treatment, 17 ERT-experienced patients and 5 ERT-naïve patients were positive for antibodies cross-reactive to alglucosidase alfa."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 449.3,
+      "minX": 51,
+      "maxY": 558.3,
+      "maxX": 289.3,
+      "page": 12
+    }],
+    "text": "Anti-rhGAA IgE antibodies were measured at baseline for 21 of 23 ERT-experienced patients and all 6 ERT-naïve patients and after treatment only if anaphylaxis or a moderate to severe IAR occurred, as determined by the study investigator. One ERT-experienced patient and none of the ERT-naïve patients were positive for anti-rhGAA IgE antibodies at baseline. Six patients were tested for anti-rhGAA IgE antibodies post-treatment (after an IAR), and 1 ERT-naïve patient tested positive."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 413.9,
+      "minX": 51,
+      "maxY": 422.4,
+      "maxX": 108,
+      "page": 12
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 187.4,
+      "minX": 51,
+      "maxY": 395.8,
+      "maxX": 289.3,
+      "page": 12
+    }],
+    "text": "The therapeutic limitations of treatment for Pompe disease with alglucosidase alfa created an unmet need for new therapies to treat this debilitating disease. Long-term studies with alglucosidase alfa have shown that, despite initial improvement or stabilization, patients eventually experience a plateau or decline in muscle strength and motor and respiratory function [9, 10]. Additionally, the instability of alglucosidase alfa in the bloodstream and low bis-M6P N-glycan phosphorylation of alglucosidase alfa results in poor biodistribution and inefficient uptake by muscle cells [20]. Only a small amount of infused enzyme reaches the intended muscle tissue due to liver filtration, so efficient uptake of the remaining molecules is essential for maximal activity [20]. Novel treatments are needed to provide more efficient rhGAA delivery to muscle cells and offer patients durable and sustained improvements over the longer term [9\u201312]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 51,
+        "maxY": 183.3,
+        "maxX": 289.2,
+        "page": 12
+      },
+      {
+        "minY": 524.3,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.4,
+        "page": 12
+      }
+    ],
+    "text": "Cipa + mig is a novel two-component therapy designed to overcome the challenges associated with alglucosidase alfa treatment [28, 29]. Cipaglucosidase alfa is enriched with bis-M6P N-glycans, which mediates more efficient delivery to skeletal muscle cells by improved CI-MPR uptake [20, 28, 31]. The CHO-derived cipaglucosidase alfa retains its ability to be fully processed into a mature form of the GAA enzyme within the target cell, thus maximizing catalytic activity [28, 31]. Combining cipaglucosidase alfa with the enzyme stabilizer miglustat enhances its stabilization in the bloodstream, improves biodistribution, and maintains the catalytic activity of cipaglucosidase alfa before muscle cell uptake [28, 29, 31]. Animal models support the proposed mode of action for cipa + mig. Cipa + mig improved multiple defects along the Pompe disease pathogenic cascade in GAA knock-out mice, including reduced lysosomal enlargement and autophagic build-up, resulting in improved muscle quality, architecture, and strength compared with alglucosidase alfa-treated or untreated mice [31, 34]. The potential for long-term benefits of cipa + mig was also suggested by early results of the Phase I/II ATB200-02 study [35] and the 12-month Phase III PROPEL study, in which clinically meaningful improvements were seen in crucial motor and respiratory functions for cipa + mig compared with alglucosidase alfa in patients with LOPD [32]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 12
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 411.8,
+      "minX": 306.1,
+      "maxY": 520.8,
+      "maxX": 544.4,
+      "page": 12
+    }],
+    "text": "Data from the ATB200-02 study provide credible evidence for durable long-term improved outcomes with cipa + mig treatment. In ATB200-02, ambulatory ERT-experienced patients showed long-lasting mean improvements in 6MWD and maintained stable respiratory function up to 48 months of follow-up. Taken together, these results represent an encouraging improvement relative to the expected decline in motor and respiratory function experienced by many patients receiving long-term ERT [10]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 324.3,
+      "minX": 306.1,
+      "maxY": 408.3,
+      "maxX": 544.3,
+      "page": 12
+    }],
+    "text": "Results for the ambulatory ERT-naïve population in ATB200-02 provide the first evidence for the long-term durability of the effect of cipa + mig on motor and respiratory function for up to 48 months of follow-up in previously untreated patients. The ongoing PROPEL long-term extension study will provide further opportunities to collect long-term data for treatment in this patient population [36]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 186.8,
+      "minX": 306.1,
+      "maxY": 320.8,
+      "maxX": 544.4,
+      "page": 12
+    }],
+    "text": "Overall, stability in PROs (FSS, R-PAct, RHS) indicated a treatment benefit and supports the observed clinical outcomes of motor function, muscle strength, and pulmonary function in ERT-experienced and ERT-naïve ambulatory cohorts. Additionally, the SGIC and PGIC signaled an improvement or stabilization in ERT-experienced and ERT-naïve ambulatory cohorts after 48 months of follow-up. These results suggest that the positive clinical outcomes observed with cipa + mig treatment for up to 48 months translate into tangible benefits for ambulatory patients' wellbeing and quality of life independent of their ERT status."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 183.3,
+        "maxX": 544.7,
+        "page": 12
+      },
+      {
+        "minY": 713.9,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.1,
+        "page": 13
+      }
+    ],
+    "text": "This is the first interventional study in adult patients with Pompe disease to include non-ambulatory, ERT-experienced patients. Due to the small sample size and because enrollment in this cohort only started in stage 3 of the study, more data are needed to determine the long-term efficacy in the non-ambulatory ERT-experienced cohort. Nevertheless, the durable reductions from baseline in plasma CK levels and consistent decrease in urine Hex4 levels from baseline over the 48-month follow-up period suggest the potential of cipa + mig as an effective treatment option in patients with severe disease burden."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 526.4,
+      "minX": 51,
+      "maxY": 708.3,
+      "maxX": 289.3,
+      "page": 13
+    }],
+    "text": "Overall, the PD data support clinical outcome data. The persistent decreases seen in CK and Hex4 levels from baseline throughout the 48-month follow-up period in the current study for all cohorts provide adjunctive evidence for the benefits of cipa + mig. While these markers have not been clinically validated in LOPD, serum CK and urinary Hex4 are biomarkers of muscle damage and skeletal glycogen clearance, respectively, and are elevated in patients with Pompe disease [37, 38]. Correlations between improvements in these biomarkers and improvements in clinical outcomes have been demonstrated in a population of pediatric LOPD and IOPD patients [39]. Therefore, reductions of these elevated CK and Hex4 levels in ambulatory and non-ambulatory patients treated with cipa + mig in the current study may indicate a clinical benefit in adult LOPD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 386.8,
+      "minX": 51,
+      "maxY": 520.8,
+      "maxX": 289.7,
+      "page": 13
+    }],
+    "text": "The observed increase in cipaglucosidase alfa AUC with 260 mg miglustat relative to cipaglucosidase alfa alone is focused during the terminal elimination distribution phase, resulting in an approximate 47% increase in the alpha phase terminal half-life. This increase of partial AUC from tmax (end of infusion) to 24 h after the start of infusion observed with miglustat suggests that miglustat stabilizes cipaglucosidase alfa in the blood and therefore increases its availability for cellular uptake. This further indicates that adding miglustat may meaningfully contribute to the clinical response of cipaglucosidase alfa over the therapy duration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 236.8,
+      "minX": 51,
+      "maxY": 383.3,
+      "maxX": 289.2,
+      "page": 13
+    }],
+    "text": "The safety profile of cipa + mig was similar to that reported for alglucosidase alfa [16]. These safety data are consistent with observations in the PROPEL study in that cipa + mig was generally well tolerated with a favorable safety profile [32]. Additionally, no unexpected safety events were seen over the extended treatment period. Most TEAEs were mild or moderate in severity, and two TEAEs led to study withdrawal (one unrelated event of diffuse large B cell lymphoma and one related IAR of urticaria). Ongoing data collection from the PROPEL study open-label extension will further improve understanding of the long-term cipa + mig safety profile."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 51,
+        "maxY": 233.3,
+        "maxX": 289.4,
+        "page": 13
+      },
+      {
+        "minY": 686.8,
+        "minX": 306.1,
+        "maxY": 733.3,
+        "maxX": 544.6,
+        "page": 13
+      }
+    ],
+    "text": "After 48 or more months of follow-up, ADAs were detected in all patients. Some ERT-experienced patients who tested positive for ADAs at baseline had peak titers that were higher than baseline during the study. At 48 months, the ERT-experienced median ADA titer was similar to the baseline, although the ADA titer range varied widely across patients. It is important to note that, due to differences in assay methodology between clinical trials, direct comparisons of the incidence or titers of ADAs in clinical trials of other rhGAA products are not possible. Most enrolled patients tested positive for NAbs throughout the 48-month follow-up period. Further studies are needed to investigate if an increase in ADA titers correlates with reduced efficacy or leads to safety concerns. At baseline, only 1 ERT-experienced patient from the 29 patients enrolled in the study tested positive for anti-rhGAA IgE antibodies. Of the 6 patients tested after treatment, only 1 ERT-naïve patient tested positive for anti-rhGAA IgE antibodies."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 13
+    }],
+    "text": "1799"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 361.8,
+      "minX": 306.1,
+      "maxY": 683.3,
+      "maxX": 544.8,
+      "page": 13
+    }],
+    "text": "Given the progressive nature of Pompe disease [1, 6, 33] and long-term decline with standard-of-care treatment [9\u201312], the positive mobility and respiratory findings seen in the current study are encouraging. Worsening mobility necessitates wheelchair use, associated with a significant reduction in quality of life, greater disability, and greater burden on caregivers [9, 10, 40]. Respiratory failure and the need for ventilator support represents a second significant and negative milestone for patients with Pompe disease and is associated with an exceptionally high disease burden and a reduced quality of life [9, 10, 40]. While minimal clinically important differences for absolute 6MWD in meters and % predicted sitting FVC have not yet been established for LOPD, previous studies of other chronic diseases have identified an absolute CFBL in 6MWD change of 24\u201354 m (equivalent to a relative CFBL of 5\u201311%) and an absolute CFBL in % predicted sitting FVC change of 2\u20136% (equivalent to a relative CFBL of 3\u20139%) as clinically meaningful [40]. Our 48-month data, with a mean absolute CFBL of 30.4 m in ambulatory patients, along with improvements in muscle function, suggest that patients may be able to maintain their mobility over the long term with cipa + mig treatment. Additionally, our 48-month data, with a mean CFBL of 3.9% in sitting FVC in ambulatory patients, suggest a marked clinical benefit and the potential to delay the need for ventilatory assistance."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 338.9,
+      "minX": 306.1,
+      "maxY": 347.4,
+      "maxX": 366.7,
+      "page": 13
+    }],
+    "text": "Limitations"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 174.3,
+      "minX": 306.1,
+      "maxY": 320.8,
+      "maxX": 544.4,
+      "page": 13
+    }],
+    "text": "As might be expected for a phase I/II study of a rare disease therapy, the sample size was relatively small. Additionally, the heterogeneity between patients in each cohort may have introduced variability into the dataset due to the inherently variable nature of Pompe disease, which spans a broad spectrum of manifestations, disease severity, progression rates, and treatment responses. As the data set was relatively small, outcomes were only analyzed descriptively, with no statistical comparisons. Further data collection in the PROPEL long-term extension study will provide additional insight into the long-term outcomes of patients treated with cipa + mig [36]."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 138.9,
+      "minX": 306.1,
+      "maxY": 147.5,
+      "maxX": 370.4,
+      "page": 13
+    }],
+    "text": "Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.3,
+        "minX": 306.1,
+        "maxY": 120.8,
+        "maxX": 544.4,
+        "page": 13
+      },
+      {
+        "minY": 686.8,
+        "minX": 51,
+        "maxY": 733.3,
+        "maxX": 289.6,
+        "page": 14
+      }
+    ],
+    "text": "In this long-term (48-month) clinical trial, cipa + mig treatment showed sustained improvements or stabilization in motor and pulmonary function with a well-tolerated safety profile. When viewed alongside the phase III clinical data [32], the durable improvements shown in our study provide further evidence for the benefits of cipa + mig as a long-term treatment option to address the current unmet needs of patients with Pompe disease."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 13
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 51,
+      "maxY": 757.3,
+      "maxX": 67.2,
+      "page": 14
+    }],
+    "text": "1800"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 326.4,
+      "minX": 51,
+      "maxY": 334.2,
+      "maxX": 108.9,
+      "page": 14
+    }],
+    "text": "Declarations"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 51,
+      "maxY": 54.9,
+      "maxX": 93.1,
+      "page": 14
+    }],
+    "text": "1 3"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 132.4,
+      "minX": 306.1,
+      "maxY": 141.1,
+      "maxX": 365,
+      "page": 14
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 98.1,
+      "minX": 309.8,
+      "maxY": 115.8,
+      "maxX": 544.3,
+      "page": 14
+    }],
+    "text": "1. Cabello J, Marsden D (2017) Pompe disease: clinical perspectives. Orphan Drugs: Res Rev 7:1\u201310"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 51,
+      "maxY": 757.7,
+      "maxX": 193.7,
+      "page": 15
+    }],
+    "text": "Journal of Neurology (2024) 271:1787\u20131801"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 635.7,
+      "minX": 54.7,
+      "maxY": 733.3,
+      "maxX": 289.4,
+      "page": 15
+    }],
+    "text": "2. Niño MY, in't Groen SLM, Bergsma AJ et al (2019) Extension of the Pompe mutation database by linking disease-associated variants to clinical severity. Hum Mutat 40:1954\u20131967 3. Cupler EJ, Berger KI, Leshner RT et al (2012) Consensus treatment recommendations for late-onset Pompe disease. Muscle Nerve 45:319\u2013333 4. American Association of Neuromuscular Electrodiagnostic Medicine (2009) Diagnostic criteria for late-onset (childhood and adult) Pompe disease. Muscle Nerve 40:149\u2013160 5. Kishnani PS, Howell RR (2004) Pompe disease in infants and"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 615.7,
+      "minX": 54.7,
+      "maxY": 633.4,
+      "maxX": 289.1,
+      "page": 15
+    }],
+    "text": "children. J Pediatr 144:S35-43 6. Kishnani PS, Steiner RD, Bali D et al (2006) Pompe disease diag-"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 595.7,
+      "minX": 54.7,
+      "maxY": 613.3,
+      "maxX": 289.1,
+      "page": 15
+    }],
+    "text": "nosis and management guideline. Genet Med 8:267\u2013288 7. van der Ploeg AT, Reuser AJ (2008) Pompe's disease. Lancet"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 325.8,
+      "minX": 51,
+      "maxY": 593.4,
+      "maxX": 289.2,
+      "page": 15
+    }],
+    "text": "372:1342\u20131353 8. Hagemans MLC, Janssens ACJW, Winkel LPF et al (2004) Late-onset Pompe disease primarily affects quality of life in physical health domains. Neurology 63:1688 9. Gutschmidt K, Musumeci O, Diaz-Manera J et al (2021) STIG study: real-world data of long-term outcomes of adults with Pompe disease under enzyme replacement therapy with alglucosidase alfa. J Neurol 268:2482\u20132492 10. Harlaar L, Hogrel JY, Perniconi B et al (2019) Large variation in effects during 10 years of enzyme therapy in adults with Pompe disease. Neurology 93:e1756\u2013e1767 11. Schoser B, Stewart A, Kanters S et al (2016) Survival and long-term outcomes in late-onset Pompe disease following alglucosidase alfa treatment: a systematic review and meta-analysis. J Neurol 264:621\u2013630 12. Semplicini C, De Antonio M, Taouagh N et al (2020) Long-term benefit of enzyme replacement therapy with alglucosidase alfa in adults with Pompe disease: prospective analysis from the French Pompe Registry. J Inherit Metab Dis 43:1219\u20131231 13. Tarnopolsky M, Katzberg H, Petrof BJ et al (2016) Pompe disease: diagnosis and management. Evidence-based guidelines from a Canadian expert panel. Can J Neurol Sci 43:472\u2013485 14. van der Ploeg AT, Kruijshaar ME, Toscano A et al (2017) European consensus for starting and stopping enzyme replacement therapy in adult patients with Pompe disease: a 10-year experience. Eur J Neurol 24:768-e31 15. European Medicines Agency Committee for Medicinal Products"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 276.2,
+      "minX": 51,
+      "maxY": 323.5,
+      "maxX": 289.2,
+      "page": 15
+    }],
+    "text": "for Human Use (CHMP) opinion on Myozyme 2014 16. van der Ploeg AT, Clemens PR, Corzo D et al (2010) A randomized study of alglucosidase alfa in late-onset Pompe's disease. N Engl J Med 362:1396\u2013406 17. Kishnani PS, Corzo D, Nicolino M et al (2007) Recombinant"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 175.9,
+      "minX": 51,
+      "maxY": 273.5,
+      "maxX": 289.3,
+      "page": 15
+    }],
+    "text": "human acid α-glucosidase. Neurology 68:99 18. Kuperus E, Kruijshaar ME, Wens SCA et al (2017) Long-term benefit of enzyme replacement therapy in Pompe disease: a 5-year prospective study. Neurology 89:2365\u20132373 19. Stockton DW, Kishnani P, van der Ploeg A et al (2020) Respiratory function during enzyme replacement therapy in late-onset Pompe disease: longitudinal course, prognostic factors, and the impact of time from diagnosis to treatment start. J Neurol 267:3038\u20133053 20. Do HV, Khanna R, Gotschall R (2019) Challenges in treating"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 75.9,
+      "minX": 51,
+      "maxY": 173.5,
+      "maxX": 289.4,
+      "page": 15
+    }],
+    "text": "Pompe disease: an industry perspective. Ann Transl Med 7:291 21. Selvan N, Mehta N, Venkateswaran S et al (2021) Endolysosomal N-glycan processing is critical to attain the most active form of the enzyme acid alpha-glucosidase. J Biol Chem 296:100769 22. Punnoose AR, Jeng LJB, Maynard JW et al (2022) Regulatory news: avalglucosidase alfa-ngpt (Nexviazyme) for late-onset Pompe disease-FDA approval summary. J Inherit Metab Dis 45:1015\u20131017 23. Kishnani PS, Diaz-Manera J, Toscano A et al (2023) Efficacy and safety of avalglucosidase alfa in patients with late-onset Pompe"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 751.6,
+      "minX": 528.1,
+      "maxY": 757.3,
+      "maxX": 544.3,
+      "page": 15
+    }],
+    "text": "1801"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 476,
+      "minX": 306.1,
+      "maxY": 733.6,
+      "maxX": 544.4,
+      "page": 15
+    }],
+    "text": "disease after 97 weeks: a phase 3 randomized clinical trial. JAMA Neurol 80:558\u2013567 24. Straub V, Kishnani PS, Díaz-Manera J et al. (2023) Efficacy and safety of avalglucosidase alfa in participants with late-onset Pompe disease after 145 weeks of treatment during the COMET trial. In: Poster presented at MDA Clinical and Scientific Conference, Dallas, Texas, USA 25. Pena LDM, Barohn RJ, Byrne BJ et al (2019) Safety, tolerability, pharmacokinetics, pharmacodynamics, and exploratory efficacy of the novel enzyme replacement therapy avalglucosidase alfa (neoGAA) in treatment-naive and alglucosidase alfa-treated patients with late-onset Pompe disease: a phase 1, open-label, multicenter, multinational, ascending dose study. Neuromuscul Disord 29:167\u2013186 26. Dimachkie MM, Barohn RJ, Byrne B et al (2022) Long-term safety and efficacy of avalglucosidase alfa in patients with late-onset Pompe disease. Neurology 99:e536\u2013e548 27. de Visser M, Argov Z (2022) Greater efficacy of avalglucosidase vs aglucosidase alfa in adult Pompe disease? The jury is still out. Neurology 99:183\u2013184 28. Johnson FK, Kang J, Mondick J et al. (2022) Mechanism of action, plasma total GAA protein profiles and PK/PD relationships differ between cipaglucosidase alfa/miglustat and alglucosidase alfa in patients with late-onset Pompe disease. In: WORLD Symposium, San Diego CA, USA. 29. Blair HA (2023) Cipaglucosidase alfa: first approval. Drugs"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 426,
+      "minX": 306.1,
+      "maxY": 473.7,
+      "maxX": 544.4,
+      "page": 15
+    }],
+    "text": "83:739\u2013745 30. Tihanyi B, Nyitray L (2020) Recent advances in CHO cell line development for recombinant protein production. Drug Discov Today Technol 38:25\u201334 31. Xu S, Lun Y, Frascella M et al (2019) Improved efficacy of a next-"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 176.1,
+      "minX": 306.1,
+      "maxY": 423.7,
+      "maxX": 544.7,
+      "page": 15
+    }],
+    "text": "generation ERT in murine Pompe disease. JCI Insight 4:e125358 32. Schoser B, Roberts M, Byrne BJ et al (2021) Safety and efficacy of cipaglucosidase alfa plus miglustat versus alglucosidase alfa plus placebo in late-onset Pompe disease (PROPEL): an international, randomised, double-blind, parallel-group, phase 3 trial. Lancet Neurol 20:1027\u20131037 33. Byrne BJ, Kishnani PS, Case LE et al (2011) Pompe disease: design, methodology, and early findings from the Pompe Registry. Mol Genet Metab 103:1\u201311 34. Meena NK, Ralston E, Raben N et al (2020) Enzyme replacement therapy can reverse pathogenic cascade in Pompe disease. Mol Ther Methods Clin Dev 18:199\u2013214 35. Byrne BJ, Schoser B, Kishnani P et al (2022) AANEM annual meeting abstract guide Nashville, TN | September, 21\u201324, 2022. Muscle Nerve 66:S1\u2013S144 36. Schoser B, Bratkovic D, Byrne B et al. (2023) Long-term efficacy and safety of cipaglucosidase alfa/miglustat in ambulatory patients with Pompe disease: a Phase III open-label extension study (ATB200-07). In: WORLDSymposium, Orlando, Florida, USA 37. An Y, Young SP, Kishnani PS et al (2005) Glucose tetrasaccharide as a biomarker for monitoring the therapeutic response to enzyme replacement therapy for Pompe disease. Mol Genet Metab 85:247\u201354 38. Brancaccio P, Lippi G, Maffulli N (2010) Biochemical markers"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 97.9,
+      "minX": 306.1,
+      "maxY": 173.8,
+      "maxX": 544.7,
+      "page": 15
+    }],
+    "text": "of muscular damage. Clin Chem Lab Med 48:757\u201367 39. Khan AA, Case LE, Herbert M et al (2020) Higher dosing of alglucosidase alfa improves outcomes in children with Pompe disease: a clinical study and review of the literature. Genet Med 22:898\u2013907 40. Lachmann R, Schoser B (2013) The clinical relevance of outcomes used in late-onset Pompe disease: can we do better? Orphanet J Rare Dis 8:160"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 43.9,
+      "minX": 502.2,
+      "maxY": 54.9,
+      "maxX": 544.2,
+      "page": 15
+    }],
+    "text": "1 3"
+  }}
+]}

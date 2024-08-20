@@ -1,0 +1,940 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.6,
+      "maxY": 757.3,
+      "maxX": 259.5,
+      "page": 1
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 745.8,
+      "minX": 433.8,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "Orphanet Journal of"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 733.1,
+      "minX": 467.7,
+      "maxY": 741.7,
+      "maxX": 538.1,
+      "page": 1
+    }],
+    "text": "Rare Diseases"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 687.9,
+      "minX": 61.8,
+      "maxY": 699.4,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "RESEARCH Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 595.6,
+      "minX": 56.6,
+      "maxY": 669.4,
+      "maxX": 492.4,
+      "page": 1
+    }],
+    "text": "Development and evaluation of a patient-reported outcome measure specific for Gaucher disease with or without"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 569.1,
+      "minX": 56.6,
+      "maxY": 591.4,
+      "maxX": 379.9,
+      "page": 1
+    }],
+    "text": "neurological symptoms in Japan"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 536.2,
+      "minX": 56.6,
+      "maxY": 559.9,
+      "maxX": 506.4,
+      "page": 1
+    }],
+    "text": "Aya Narita1, Yuta Koto2, Shinichi Noto3, Masafumi Okada4, Midori Ono5, Terumi Baba5, Rieko Sagara5 and Norio Sakai6*"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 488,
+      "minX": 63.1,
+      "maxY": 495.5,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 410.9,
+      "minX": 63.1,
+      "maxY": 480.3,
+      "maxX": 525.4,
+      "page": 1
+    }],
+    "text": "Background Patients with Gaucher disease (GD), a rare lysosomal storage disorder, have reduced health-related quality of life (HRQOL). A patient-reported outcome measure (PROM) for HRQOL developed for type 1 GD (GD1) is not appropriate for patients with neuronopathic GD (nGD) types 2 (GD2) and 3 (GD3). In this study, we developed a new PROM for use in all GD types. We previously reported the qualitative analysis of interviews with Japanese patients with nGD, which was used to create nGD-specific PROM items. Here we evaluated the full PROM combining the type 1 questionnaire with the new nGD-specific items."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 335.9,
+      "minX": 63.1,
+      "maxY": 405.4,
+      "maxX": 525.7,
+      "page": 1
+    }],
+    "text": "Methods Patients with confirmed GD were recruited (Association of Gaucher Disease Patients in Japan or leading doctors) for pre-testing (May 2021) or the main survey (October\u2013December 2021). The PROM had three parts: Parts 1 and 2 were translated into Japanese from the pre-existing GD1 PROM, whereas Part 3 was newly developed. Patients (or their caregivers, where necessary) completed the PROM questionnaire on paper and returned it by mail. Mean scores were determined overall and by GD type. Inter-item correlations, content consistency (Cronbach's alpha), and test\u2013retest reliability (Cohen's kappa; main survey only, taken 2 weeks apart) were calculated."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 261.2,
+      "minX": 63.1,
+      "maxY": 330.3,
+      "maxX": 522.1,
+      "page": 1
+    }],
+    "text": "Results Sixteen patients (three with GD1; six with GD2; seven with GD3) and 33 patients (nine with GD1; 13 with GD2; 11 with GD3) participated in the pre-test and main survey, respectively. All GD2 patients and one-third (6/18) of GD3 patients required caregivers to complete the questionnaire. Mean scores indicated that the burden was highest in GD2 and lowest in GD1. In the main survey, internal consistency was high (Cronbach's alpha = 0.898 overall, 0.916 for Part 3), and test\u2013retest reliability was high for Part 3 (kappa > 0.60 for 13/16 items) but low for Part 1 (kappa < 0.60 for 12/15 items)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 234.1,
+      "minX": 63.1,
+      "maxY": 255.4,
+      "maxX": 526.9,
+      "page": 1
+    }],
+    "text": "Conclusions We have developed a flexible and reliable PROM that can be tailored for use in all types of GD and propose using Parts 1 and 2 for GD1, Parts 2 and 3 for GD2, and Parts 1, 2, and 3 for GD3."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 206.9,
+      "minX": 63.1,
+      "maxY": 228.4,
+      "maxX": 482.8,
+      "page": 1
+    }],
+    "text": "Keywords Gaucher disease, Japan, Patient reported outcome measures, Quality of life, Burden of disease, Neuronopathic Gaucher disease, Reliability, Validity"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 2
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 692.4,
+      "minX": 56.7,
+      "maxY": 701.9,
+      "maxX": 112.4,
+      "page": 2
+    }],
+    "text": "Background"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 260.2,
+      "minX": 56.7,
+      "maxY": 689.7,
+      "maxX": 290.7,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD) is a rare, autosomal recessively inherited, lysosomal storage disorder with a worldwide prevalence of 0.7 to 1.75 per 100,000 [1]. In Japan, the prevalence is estimated to be 1 in 330,000 [2], and a total of 211 patients are estimated to have GD [3]. Typical symptoms of GD include fatigue, anemia, thrombocytopenia, and hepatosplenomegaly [4]. GD is categorized into three clinical phenotypes based on the presence or absence of neurological symptoms: type 1 GD (GD1; Mendelian Inheritance in Man [MIM] code #230800) is non-neuronopathic GD, whereas types 2 (GD2; MIM code #230900) and 3 (GD3; MIM code #231000) have neurological symptoms, including abnormal eye movements, seizure, and developmental delay, and are collectively known as neuronopathic GD (nGD) [4]. GD1 accounts for approximately 94% of cases in non-Japanese populations [5]. In contrast, the proportion of patients with nGD in Japan is higher compared with other countries, and GD2 and GD3 account for approximately 60% of GD cases [3, 6, 7]. GD2, the most severe and rapidly progressive form, has a stereotypical presentation and death in infancy [8]. However, the phenotypic heterogeneity of GD2 has been increasingly recognized in recent decades, and multiple therapeutic approaches have prolonged survival in these patients [8, 9]. GD3 is a chronically progressive form of nGD with symptoms occurring before 20 years of age; the clinical course is variable and more heterogeneous than GD2, with affected individuals requiring assistance to fulfill activities of daily life [4]. In Japan, patients with nGD receive the standard treatment, enzyme replacement therapy (ERT), similar to patients with GD1. In addition, patients with nGD receive supportive care such as tracheostomy, home ventilator use, and antiepileptic drugs, depending on their symptoms. These treatments allow patients with nGD to live at home for longer than was previously possible."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.2,
+        "minX": 56.7,
+        "maxY": 257.5,
+        "maxX": 290.7,
+        "page": 2
+      },
+      {
+        "minY": 584.9,
+        "minX": 304.7,
+        "maxY": 702.1,
+        "maxX": 539.3,
+        "page": 2
+      }
+    ],
+    "text": "Rare genetic diseases such as GD are chronic, and patients experience not only physical symptoms, but also psychological and social consequences that adversely affect long-term quality of life. Patient-reported outcome measures (PROMs) have been developed as a method to obtain and quantify patients' views of their functional ability, symptoms, and health-related quality of life (HRQOL) [10]. As well as being a tool for use in clinical trials, PROMs can be used in clinical practice to improve communications between patients and clinicians about their disease progression and treatment outcomes [11]. Previous studies have assessed HRQOL in patients with GD [12, 13]; however, these studies did not use GD-specific measures of HRQOL and included only patients with GD1. General HRQOL measures do not provide sufficient information, and may not be sensitive enough to detect changes resulting from treatment, because many of the characteristics of GD, such as bone and neurological symptoms, are wide-ranging and have substantial effects on long-term quality of life. Although a GD-specific PROM questionnaire was recently developed for GD1 [14, 15], there is no PROM questionnaire that contains items on neurological symptoms or is specific for nGD. Therefore, a disease-specific measure of HRQOL for patients with GD, including nGD, is needed to assess the effectiveness of treatment and support."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 368.7,
+      "minX": 304.7,
+      "maxY": 582.1,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "The aim of this study was to develop a new PROM questionnaire that can be used to evaluate the burden of GD in all subtypes. In the first stage of the development of the PROM questionnaire, qualitative analysis of transcripts from interviews with Japanese patients with nGD and/or their caregivers was conducted [16]. The analysis included creating a coding list using text-mining software, followed by hierarchical cluster analysis and cooccurrence network analysis to identify keywords, major themes, and specific topics related to disease burden [16]. The results of these analyses were used to create a new set of PROM items specific for neurological symptoms that could be used in conjunction with a Japanese language\u2013validated version of the existing GD PROM [14]. Here we report the subsequent development and evaluation of the combined PROM questionnaire, consisting of pre-testing followed by validation of the PROM in the main survey of Japanese patients."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 347,
+      "minX": 304.7,
+      "maxY": 354.4,
+      "maxX": 337.8,
+      "page": 2
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 212.9,
+      "minX": 304.7,
+      "maxY": 318.2,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "A total of 16 patients with GD (three with GD1, six with GD2, and seven with GD3) participated in the pre-test (Table 1). The mean age at diagnosis was 4.3, 1.0, and 6.6 years, and the mean current age was 46.3, 9.0, and 28.4 years in patients with GD1, GD2, and GD3, respectively. All three patients with GD1 and 4/7 (57.1%) patients with GD3 completed the PROM themselves, whereas all six patients with GD2 required a proxy to complete the PROM."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 104.9,
+      "minX": 304.7,
+      "maxY": 186.2,
+      "maxX": 538.7,
+      "page": 2
+    }],
+    "text": "The PROM questionnaire consisted of three parts (Additional file 1: Table S1; Additional file 2: Table S2): Parts 1 and 2 were translated into Japanese from the previously published PROM for GD1 [14], whereas Part 3 was newly developed. Part 1 assessed patient experiences over the previous month, whereas Parts 2 and 3 assessed experiences over the previous week."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.7,
+        "minX": 304.7,
+        "maxY": 102.2,
+        "maxX": 538.6,
+        "page": 2
+      },
+      {
+        "minY": 490.1,
+        "minX": 56.7,
+        "maxY": 702.9,
+        "maxX": 290.7,
+        "page": 4
+      }
+    ],
+    "text": "For Part 1, mean (standard deviation [SD]) total scores were 27.5 (10.6) and 38.8 (27.2) for GD2 and GD3, respectively, out of a maximum of 150 (highest possible burden) (Table 2). Mean scores were not calculated for GD1 because data were not fully collected for all three patients. Data were also not fully collected for 4/6 (66.7%) and 3/7 (42.9%) patients with GD2 and GD3, respectively. In reviewing the answers to Item 14 (\"Over the past month, all of my health concerns have been about Gaucher's disease\"), it appeared that the Japanese translation was misinterpreted as how large a burden GD was instead of the burden of other health concerns relative to GD. For this reason, the scores for this item were reversed for analysis. For the 15 individual items, the mean (SD) score in the overall pre-test population was lowest (0.625 [1.77]) for Part 1 Item 3 (P1-3) \"Over the past month, my Gaucher disease has restricted my ability to have intimate relationships with my spouse/partner\" and highest (6.00 [3.38]) for P1-14 \"Over the past month, all of my medical concerns have been Gaucher-related\" (Additional file 3: Table S3)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 3
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 4
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 370.1,
+      "minX": 56.7,
+      "maxY": 487,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "For Part 2, mean (SD) total scores were 17.0 (8.19), 45.8 (24.1), and 16.2 (15.7) for GD1, GD2, and GD3, respectively, out of a maximum of 90 (Table 2). For the nine individual items, the mean (SD) score in the overall pre-test population was lowest (1.53 [3.23]) for P2-2 \"Over the past week, how visibly big or swollen has your abdomen looked because of your Gaucher disease?\" and highest (5.69 [4.67]) for P2-1 \"Over the past week, how dependent on others have you been because of your Gaucher disease?\" (Additional file 3: Table S3)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 201.4,
+      "minX": 56.6,
+      "maxY": 366.9,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "For Part 3, mean (SD) total scores were 79.0 (41.4) and 25.7 (12.7) for GD2 and GD3, respectively, out of a maximum of 150 (Table 2). Mean scores were not calculated for GD1 because all three patients had data that were not fully collected. Data were also not fully collected for 3/6 (50.0%) and 4/7 (57.1%) patients with GD2 and GD3, respectively. For the 15 individual items, the mean (SD) score in the overall pre-test population was lowest (1.90 [2.69]) for the item \"Over the past week, have you had any pain in the body?\" (P3-6 in the pre-test, P3-7 in the main survey) and highest (5.90 [3.11]) for the item \"Have you ever felt physically tired after visiting the hospital or treatment?\" (P3-12 in the pre-test, P3-13 in the main survey) (Additional file 3: Table S3)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 142.6,
+      "minX": 56.7,
+      "maxY": 174.8,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "Cronbach's alpha, an indicator of content consistency, was calculated as 0.926 for the overall PROM, 0.841 for Part 1, 0.902 for Part 2, and 0.934 for Part 3."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 56.7,
+        "maxY": 114.8,
+        "maxX": 290.6,
+        "page": 4
+      },
+      {
+        "minY": 633.4,
+        "minX": 304.7,
+        "maxY": 702.9,
+        "maxX": 538.7,
+        "page": 4
+      }
+    ],
+    "text": "Inter-item correlations were mapped in a correlation matrix (Additional file 4: Figure S1). In general, most items in Part 2 were positively correlated with items in Part 3. P1-7 (\"Because of my Gaucher disease, I am concerned I will be at risk of cancers\") was negatively correlated with other items in Part 1 and with several items in Parts 2 and 3, but positively correlated with P3-1 (\"Over the past week, have you had any difficulty hearing?\"). Most items in all three parts were negatively correlated with patient age and duration of disease."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 501.4,
+      "minX": 304.7,
+      "maxY": 606.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "Interviews with the seven patients and nine caregiver proxies who completed the pre-test provided insights into the usefulness of the PROM for different GD types. For example, the items in Part 3 that focus on neurological symptoms are not applicable to GD1. In addition, patients with GD2 or GD3 who have cognitive or speaking difficulties were not able to convey their emotions to a proxy who completed the PROM; therefore, items related to emotions may not be useful for these patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 359.7,
+      "minX": 304.7,
+      "maxY": 498.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "The interviews also identified potential areas for improvement of the PROM. As a result of patient feedback and discussion among the authors, \"swallowing food\" and \"speaking\" were considered to be separate symptoms; therefore, the item \"Over the past week, have you had any difficulty swallowing food or speaking?\" was divided into two items in the main survey. Patients with all types of GD and/or their proxies found the 0\u201310 scale used in Parts 2 and 3 difficult to use; however, because the original English version of Part 2 used a 0\u201310 scale [14], we did not change the scale in either Part 2 or Part 3."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 201.5,
+      "minX": 304.7,
+      "maxY": 318.9,
+      "maxX": 538.7,
+      "page": 4
+    }],
+    "text": "A total of 33 patients with GD (nine with GD1, 13 with GD2, and 11 with GD3) participated in the main survey (Table 1). About half (51.5%) of the patients were female. The mean age at diagnosis was 23.4, 0.6, and 8.1 years, and the mean current age was 58.6, 10.0, and 37.1 years in patients with GD1, GD2, and GD3, respectively. All patients with GD1 and 8/11 (72.7%) patients with GD3 completed the questionnaire themselves, whereas all patients with GD2 required a parent to complete the questionnaire as a proxy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.5,
+        "minX": 304.7,
+        "maxY": 174.9,
+        "maxX": 538.7,
+        "page": 4
+      },
+      {
+        "minY": 597.5,
+        "minX": 56.7,
+        "maxY": 702.9,
+        "maxX": 290.7,
+        "page": 5
+      }
+    ],
+    "text": "For Part 1, mean (SD) total scores were 42.1 (31.5), 13.8 (12.4), and 65.0 (21.3) for GD1, GD2, and GD3, respectively, out of a maximum of 150 (Table 2). Data were not fully collected for 3/9 (33.3%), 11/13 (84.6%), and 7/11 (63.6%) patients with GD1, GD2, and GD3, respectively, suggesting that the items in Part 1 were particularly difficult for patients with nGD to answer. In addition, many of the Part 1 items are not applicable to children with nGD (e.g. questions about how GD affects jobs, intimate relationships, financial burden, etc.). For the individual items, the mean (SD) score in the overall main survey population was lowest (1.17 [2.81]) for P1-3 \"Over the past month, my Gaucher disease has restricted my ability to have intimate relationships with my spouse/partner\" and highest (5.15 [2.65]) for P1-14 \"Over the past month, all of my medical concerns have been Gaucher-related\" (Additional file 3: Table S3), consistent with the pre-test findings."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 5
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 465.5,
+      "minX": 56.7,
+      "maxY": 595,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "For Part 2, mean (SD) total scores were 17.0 (8.47), 38.7 (21.5), and 26.5 (20.6) for GD1, GD2, and GD3, respectively, out of a maximum of 90 (Table 2). For the individual items, the mean (SD) score in the overall main survey population was lowest (1.03 [2.01]) in P2-2 \"Over the past week, how visibly big or swollen has your abdomen looked because of your Gaucher disease?\" and highest (5.12 [4.25]) in P2-1 \"Over the past week, how dependent on others have you been because of your Gaucher disease?\" (Additional file 3: Table S3), consistent with the pre-test findings."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 237.6,
+      "minX": 56.7,
+      "maxY": 462.9,
+      "maxX": 290.7,
+      "page": 5
+    }],
+    "text": "For Part 3, mean (SD) total scores were 24.2 (16.5), 79.7 (42.5), and 52.1 (30.2) for GD1, GD2, and GD3, respectively, out of a maximum of 160 (Table 2). Data were not fully collected for 3/9 (33.3%), 1/13 (7.7%), and 1/11 (9.1%) patients with GD1, GD2, and GD3, respectively. Notably, the percentage of patients with nGD who could complete Part 3 was much higher in the main survey (90.9\u201392.3%) than in the pre-test (42.9\u201350.0%), indicating that the modifications to Part 3 made it easier for patients to complete. For the individual items, the mean (SD) score in the overall main survey population was lowest (1.94 [2.86]) in P3-11 \"During the past week, have you had any concerns about continuing treatment for Gaucher's disease?\" and highest (5.48 [3.44]) in P3-13 \"Have you ever felt physically tired when you went to the hospital or after treatment?\" (Additional file 3: Table S3). Scores for P3-13 were consistently high across GD subtypes, indicating that fatigue related to hospital visits and treatment was a burden for all patients with GD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 179.7,
+      "minX": 56.7,
+      "maxY": 210.8,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "Cronbach's alpha was calculated as 0.898 for the overall PROM, 0.896 for Part 1, 0.882 for Part 2, and 0.916 for Part 3."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 56.7,
+        "maxY": 150.8,
+        "maxX": 290.7,
+        "page": 5
+      },
+      {
+        "minY": 597.5,
+        "minX": 304.7,
+        "maxY": 702.9,
+        "maxX": 538.7,
+        "page": 5
+      }
+    ],
+    "text": "Patients in the main analysis repeated the questionnaire twice, 2 weeks apart, and test\u2013retest reliability was assessed by calculating Cohen's kappa. In the overall study population, the highest kappa coefficients were for P3-4 (0.988), P2-1 (0.971), and P3-5 (0.961), and the lowest were for P1-10 (0.097), P3-9 (0.266), and P1-7 (0.286) (Table 3). Overall, most items in Part 1 had low reliability (except P1-3) and most items in Part 3 had high reliability (except P3-9). Patterns of test\u2013retest reliability differed between the subtypes (Table 3). In patients with GD1, most items in Parts 1 and 2 had generally good reliability, whereas items in Part 3 tended to have lower reliability. In patients with GD2, items in Part 1 had low reliability, items in Part 2 had intermediate reliability, and items in Part 3 had high reliability. In patients with GD3, most items in all three parts had high reliability."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 177.6,
+      "minX": 304.7,
+      "maxY": 570.8,
+      "maxX": 538.7,
+      "page": 5
+    }],
+    "text": "In the overall main survey population, Part 1 Items 8\u201312 (which cover concerns about risk of Parkinson's disease, financial burden, effect of budget on therapy, access to expert physicians, and GD problems compared with non-GD health problems) tended to be negatively correlated with items in Parts 2 and 3 regarding specific symptoms (Fig. 1). Most items in Part 2 were positively correlated with items in Part 3. Most items in Parts 2 and 3 were negatively correlated with patient age and duration of disease, primarily in patients with GD2 (Fig. 3); the strongest negative correlation with age and disease duration was for P2-1, which asks about dependence on others. Specific correlation patterns were seen for the different GD types. In GD1, most Part 1 items were negatively correlated with P2-2 (abdomen swelling) and positively correlated with P3-16 (participation in GD patient support group) (Fig. 2). P2-4 (physical weakness) was strongly negatively correlated with P1-14 (all medical concerns were GD related) and P2-7 (GD-related worries), and P3-1 (difficulty hearing) was negatively correlated with P2-3 (fatigue). In GD2, Items P1-8 to P1-12 were negatively correlated with most Part 2 and 3 items, as seen for the overall survey population (Fig. 3). In GD3, Items P1-7 to P1-10 (concerns about risk of cancer, risk of Parkinson's disease, financial burden, and how budget may affect therapy) were negatively correlated with most Part 3 items (except P3-14 [lack of understanding of GD by public service office] and P3-15 [lack of social support]) (Fig. 4). P1-3 (restricted intimate relationships) was positively correlated with most Part 3 items (except P3-12 [worried or nervous about going out]), and P3-7 (pain in the body) was strongly positively correlated with P2-5 (bone pain)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 155.7,
+      "minX": 304.7,
+      "maxY": 163,
+      "maxX": 353.6,
+      "page": 5
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 304.7,
+        "maxY": 150.8,
+        "maxX": 538.6,
+        "page": 5
+      },
+      {
+        "minY": 112,
+        "minX": 56.7,
+        "maxY": 265.4,
+        "maxX": 290.6,
+        "page": 7
+      }
+    ],
+    "text": "In this study, we developed and evaluated a GD-specific PROM that can be used for patients with any type of GD as well as for patients from Japan. The PROM consists of Parts 1 and 2 translated from an English questionnaire primarily developed for GD1 [14], plus a newly created Part 3 based on qualitative interviews of Japanese patients with nGD [16]. Part 3 was developed through the collaboration of healthcare professionals who have expertise in GD together with experts in HRQOL questionnaire design. The questions were tailored to Japanese culture and revised as needed in response to patient and caregiver feedback after the pre-test. Analysis of PROM answers from a total of 49 Japanese patients with GD (or their proxies) indicated that the PROM has high internal consistency and test\u2013retest reliability and can be adapted for use in all types of GD. Future use of the PROM is expected to provide insights into the experience of patients with GD, including the extent of burden, factors that contribute to burden, and the effects of medical management and treatment on burden."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 6
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11 Page 6 of 14"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11 Page 7 of 14"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 294,
+      "minX": 62.7,
+      "maxY": 319.8,
+      "maxX": 527.9,
+      "page": 7
+    }],
+    "text": "Fig. 1 Inter-item correlations in the main analysis of all patients with GD. The magnitude of the correlation coefficients is indicated by the color (as shown on the scale; blue indicates a positive correlation, red indicates a negative correlation). GD: Gaucher disease; P: Part; PROM: patient-reported outcome measure"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64,
+        "minX": 56.7,
+        "maxY": 109.4,
+        "maxX": 290.6,
+        "page": 7
+      },
+      {
+        "minY": 112,
+        "minX": 304.7,
+        "maxY": 265.4,
+        "maxX": 538.7,
+        "page": 7
+      }
+    ],
+    "text": "Analysis indicated that the PROM has high consistency and test\u2013retest reliability, although there may be some repetition between items. The Cronbach's alpha was > 0.8 for all three parts, indicating excellent internal consistency. This is supported by the positive inter-item correlations within each part. However, the exceptionally high Cronbach's alpha for Part 3 (0.916 in the main survey) suggests that there may be some redundancy between items within this part [17]. Additionally, inter-item correlation analysis suggested that most items in Part 2 were positively correlated with items in the newly developed Part 3, which possibly reflects some repetition between these two parts [18]. However, Part 3 had a high level of test\u2013retest reproducibility, indicated by kappa coefficients > 0.60 for 13/16 items. These results suggest that although the current PROM is consistent and reliable, further refinement may be needed for optimization."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64,
+        "minX": 304.7,
+        "maxY": 109.4,
+        "maxX": 538.7,
+        "page": 7
+      },
+      {
+        "minY": 66.2,
+        "minX": 56.7,
+        "maxY": 265.4,
+        "maxX": 290.6,
+        "page": 8
+      },
+      {
+        "minY": 198.3,
+        "minX": 304.7,
+        "maxY": 265.4,
+        "maxX": 538.6,
+        "page": 8
+      }
+    ],
+    "text": "In both the pre-test and the main survey, the overall burden was highest in patients with GD2 and lowest in patients with GD1. The higher burden experienced by patients with GD2 may partly relate to their age, as these patients were mainly children whose PROM items were answered by a caregiver as a proxy, whereas all patients with GD1 were adults who completed the PROM themselves. Although obtaining answers directly from patients rather than caregivers would be ideal, this is not always possible in real-life circumstances, such as when patients are very young children or have severe neurological symptoms. Nevertheless, it is not unusual for questions to be answered by proxy for very young patients, such as in a previous study of HRQOL in children with GD1 [13]. In our study, patients with GD3 were intermediate in age, with both children and adults included, and reported an intermediate level of burden. In support of this, we found that older age and longer duration of GD were correlated with a lower level of burden indicated by most PROM items, particularly in Parts 2 and 3, in patients with GD2. These results are consistent with the natural history of neuronopathic GD2, which usually develops in late infancy and progresses rapidly [1, 19]. We speculate that burden may be especially high soon after diagnosis but may decrease with time as treatment stabilizes the patient's condition and caregivers become more proficient at care."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 8
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11 Page 8 of 14"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 292.4,
+      "minX": 62.7,
+      "maxY": 319.9,
+      "maxX": 522.9,
+      "page": 8
+    }],
+    "text": "Fig. 2 Inter-item correlations in the main analysis of patients with GD1. The magnitude of the correlation coefficients is indicated by the color (as shown on the scale; blue indicates a positive correlation, red indicates a negative correlation). An \"X\"indicates that there were insufficient data to determine a correlation coefficient. GD1: type 1 Gaucher disease; P: Part; PROM: patient-reported outcome measure"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64,
+        "minX": 304.7,
+        "maxY": 193.4,
+        "maxX": 538.6,
+        "page": 8
+      },
+      {
+        "minY": 196,
+        "minX": 56.7,
+        "maxY": 265.4,
+        "maxX": 290.6,
+        "page": 9
+      }
+    ],
+    "text": "Chronic fatigue is a well-known symptom of GD and, together with bone pain, contributes to reduced social interaction and quality of life [20]. Despite being a debilitating symptom, fatigue has not been investigated thoroughly in patients with GD, and there is no GD-specific instrument for measuring fatigue [21]. Although case reports suggest that ERT improves chronic fatigue [2224], exploratory modeling has not supported an association between fatigue and duration of ERT [25]. In the current study, the highest scoring item in Part 3 was P3-13, which refers to feeling tired after hospital visits or treatment. Scores for this item were consistently high across all GD types, indicating that chronic fatigue is an important unmet need for improving HRQOL. Thus, development of a GD-specific assessment scale that can be used to monitor the effect of treatment on fatigue would be highly useful."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 9
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11 Page 9 of 14"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 292.4,
+      "minX": 62.7,
+      "maxY": 319.9,
+      "maxX": 522.9,
+      "page": 9
+    }],
+    "text": "Fig. 3 Inter-item correlations in the main analysis of patients with GD2. The magnitude of the correlation coefficients is indicated by the color (as shown on the scale; blue indicates a positive correlation, red indicates a negative correlation). An \"X\"indicates that there were insufficient data to determine a correlation coefficient. GD2: type 2 Gaucher disease; P: Part; PROM: patient-reported outcome measure"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64,
+        "minX": 56.7,
+        "maxY": 193.4,
+        "maxX": 290.6,
+        "page": 9
+      },
+      {
+        "minY": 208.6,
+        "minX": 304.7,
+        "maxY": 265.4,
+        "maxX": 538.6,
+        "page": 9
+      }
+    ],
+    "text": "Regarding the use of this PROM, based on the test\u2013retest reliability and other results, we propose that the PROM can be tailored for use in each type of GD, with Parts 1 and 2 used for GD1 (as initially used by Elstein et al. [14]), Parts 2 and 3 for GD2, and Parts 1, 2, and 3 for GD3 (Fig. 5). The high proportion of incomplete answers to Part 1 for patients with GD2 (all of whom required a proxy) indicates that this section is unlikely to be applicable to these patients. Conversely, as the new Part 3 focuses on neurological symptoms, it is not applicable to patients with GD1. Additionally, before the PROM can be used in practice, a minimal important change in score (or subscores for each part) should be established in the future, which will allow the effects of therapy, as well as changes arising from the natural course of GD, on HRQOL to be evaluated [26, 27]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 64,
+        "minX": 304.7,
+        "maxY": 205.4,
+        "maxX": 539.3,
+        "page": 9
+      },
+      {
+        "minY": 381.6,
+        "minX": 56.6,
+        "maxY": 702.8,
+        "maxX": 290.7,
+        "page": 11
+      }
+    ],
+    "text": "The limitations of this study include sample sizes that were smaller than planned, which is often a challenge when recruiting patients with a rare disease. Moreover, recruitment of~ 50 patients represents a relatively large proportion of the estimated ~ 200 patients with GD in Japan [3]. For some items, a limited amount of data could be collected, which may reflect the difficulties some patients experienced in answering these items. However, because of their young age and/or neurological symptoms, all patients with GD2 and one-third of patients with GD3 required a caregiver to complete the PROM on their behalf, which may not accurately reflect the patients' perception of burden. Despite this, proxy reports are recognized as useful and necessary in cases where the patient is too young or too cognitively impaired to complete a PROM themselves [28]. Furthermore, it is important to compare the disease burden of GD with the burden of other lysosomal diseases that present with similar neurological symptoms, such as Niemann-Pick disease type C and mucopolysaccharidosis. Therefore, research is needed to examine whether this scale, developed as a GD-specific PROM, is comparable to scales developed for other diseases or if it could be modified for use in other diseases. Finally, additional refinement of the PROM may be needed to minimize repetition, and translated versions of Part 3 need to be validated in populations outside Japan. Although this study demonstrated that Part 3 of the Japanese PROM has good reliability, future studies are needed, including construct validation based on hypothesis verification methods, determination of minimal important changes in scores, and cognitive debriefing for the English-language version. Our study has demonstrated the linguistic validity of the Japanese translations of Parts 1 and 2, as well as validated the newly created Japanese Part 3. Once Part 3 has been linguistically and cross-culturally validated in English (or other languages), the PROM can be used for multinational comparison of HRQOL and burden in patients with GD."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 10
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11 Page 10 of 14"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 292.4,
+      "minX": 62.7,
+      "maxY": 319.9,
+      "maxX": 522.9,
+      "page": 10
+    }],
+    "text": "Fig. 4 Inter-item correlations in the main analysis of patients with GD3. The magnitude of the correlation coefficients is indicated by the color (as shown on the scale; blue indicates a positive correlation, red indicates a negative correlation). An \"X\"indicates that there were insufficient data to determine a correlation coefficient. GD3: type 3 Gaucher disease; P: Part; PROM: patient-reported outcome measure"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 72.3,
+      "minX": 62.7,
+      "maxY": 88.2,
+      "maxX": 519.5,
+      "page": 10
+    }],
+    "text": "Fig. 5 Recommendation for GD type\u2013specific PROM items. GD: Gaucher disease; GD1/2/3: type 1/2/3 Gaucher disease; PROM: patient-reported outcome measure"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 11
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 359.7,
+      "minX": 56.7,
+      "maxY": 367.1,
+      "maxX": 107.4,
+      "page": 11
+    }],
+    "text": "Conclusion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 309.4,
+      "minX": 56.7,
+      "maxY": 354.8,
+      "maxX": 290.6,
+      "page": 11
+    }],
+    "text": "By combining an existing GD-specific PROM with a new set of items aimed at nGD, we have developed a flexible and reliable PROM that can be used to assess patient burden in all types of GD."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 287.7,
+      "minX": 56.7,
+      "maxY": 295.1,
+      "maxX": 97.3,
+      "page": 11
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 56.7,
+        "maxY": 270.8,
+        "maxX": 291.3,
+        "page": 11
+      },
+      {
+        "minY": 621.4,
+        "minX": 304.7,
+        "maxY": 702.8,
+        "maxX": 538.7,
+        "page": 11
+      }
+    ],
+    "text": "This was a cross-sectional observational study conducted in Japan that comprised three stages. Stage 1 consisted of qualitative interviews with patients with nGD to determine which domains in available GD PROMs were relevant to the development of a Japan-specific PROM; Stage 1 results have been published [16]. Stage 2, conducted May 10\u201320, 2021, consisted of pre-testing of the PROM (created based on Stage 1) in patients with GD (or their caregivers), followed by 1:1 interviews to collect feedback on the applicability and difficulties in completing the PROM. Stage 3, conducted from October 17 to December 31, 2021, consisted of the main PROM survey of patients (or their caregivers). In Stage 3, participants completed the same survey twice, 2 weeks apart. The study was conducted in accordance with the ethical principles that have their origin in the Declaration of Helsinki, the Guidelines for Good Pharmacoepidemiology Practices, and all applicable laws and regulations. The informed consent form and study protocol were approved by Osaka University Clinical Research Review Committee (No. 20342). Written informed consent was required from all participants or their legal representative before starting the study. Data collected during the study were de-identified and anonymized."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 417.4,
+      "minX": 304.7,
+      "maxY": 594.8,
+      "maxX": 538.6,
+      "page": 11
+    }],
+    "text": "Recruitment was conducted in partnership with a patient association group in Japan (Association of Gaucher Disease Patients in Japan) and by referral from leading doctors (main survey only). Eligible patients had a confirmed diagnosis of GD (types 1, 2, or 3) by a physician and had been treated for GD; undiagnosed patients were not included. For patients < 16 years old, a caregiver (≥ 20 years old) participated on behalf of the patient and answered items if patients had difficulty answering themselves, such as for patients who had severe neurological symptoms. Participants were excluded if they were not fluent in Japanese. Participants were included in the study only once (i.e. in the pre-test or in the main test, not both). Each participant who completed the questionnaire received a gift card for 2000 Japanese yen."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 129.4,
+      "minX": 304.7,
+      "maxY": 390.9,
+      "maxX": 538.7,
+      "page": 11
+    }],
+    "text": "The questionnaire consisted of three parts (Additional file 1: Table S1; Additional file 2: Table S2). Parts 1 and 2 were translated into Japanese from the previously published PROM [14], with linguistic validation involving two specialist GD physicians. Part 1 consisted of 15 items, each answered on a 1\u20135-point scale; the score was decreased by 1 to create a 0\u20134-point scale and then multiplied by 2.5, resulting in a 0\u201310-point scale with a maximum (highest burden) total of 150 points. Part 2 consisted of nine items, each on a scale of 0\u201310 points, with a maximum total of 90 points. Part 3 initially consisted of 15 newly developed items, each on a 0\u201310-point scale, for a maximum total score of 150 points. However, in response to feedback from patients in the pre-test stage, one item (\"Over the past week, have you had any difficulty swallowing food or speaking?\") was divided into two items for the main survey (\"Over the past week, have you had any difficulty swallowing food?\" and \"Over the past week, have you had any difficulty speaking?\"). Therefore, there were 16 items in the main survey questionnaire, with a maximum total score of 160 points. All items in this report refer to the final PROM numbering."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 304.7,
+        "maxY": 102.9,
+        "maxX": 538.7,
+        "page": 11
+      },
+      {
+        "minY": 585.4,
+        "minX": 56.6,
+        "maxY": 702.9,
+        "maxX": 290.6,
+        "page": 12
+      }
+    ],
+    "text": "Paper questionnaires (pre-test and main survey) were mailed from Osaka University to participants through the patient association group. In the pre-test survey (Stage 2), participants completed the questionnaire once prior to an online interview. In the main survey (Stage 3), participants completed each round of the questionnaire and returned the completed questionnaires and consent form to Osaka University. When the paper survey was returned, study personnel checked that the answers were valid before manually entering the data into a preconfigured electronic spreadsheet. Demographic and clinical characteristic questions were included as screening questions in the survey."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 12
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 505.3,
+      "minX": 56.7,
+      "maxY": 550.4,
+      "maxX": 290.6,
+      "page": 12
+    }],
+    "text": "In the pre-testing, patients and their caregivers participated in a 1:1 interview to provide feedback on the applicability and difficulties in completing the pre-test questionnaire."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 469.3,
+      "minX": 56.7,
+      "maxY": 502.4,
+      "maxX": 290.6,
+      "page": 12
+    }],
+    "text": "Interviews were conducted in Japanese by independent, qualified interviewers (IQVIA Solutions Japan K.K.); Y. Koto was also present for some interviews."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 306.9,
+      "minX": 56.7,
+      "maxY": 434.1,
+      "maxX": 290.6,
+      "page": 12
+    }],
+    "text": "Consistent with the study objectives, sample sizes were based primarily on the expected feasibility of recruiting patients with a rare disease. The planned sample size for pre-testing was 20 patients. Based on a feasibility assessment and the unbalanced distribution of GD types in Japan, a sample of 50 patients was planned for the main survey. A two-sided 95% confidence interval (CI), assuming 60% of patients with GD (all types) in Japan have had at least one symptom in the past 6 months, would equate to 13.86% precision, and a sample size of 40\u201350 patients with GD was calculated as sufficient."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 160.8,
+      "minX": 56.7,
+      "maxY": 302.1,
+      "maxX": 290.7,
+      "page": 12
+    }],
+    "text": "Descriptive analysis was performed on all collected data for the overall study population and for GD type subgroups. Total scores for each part (Parts 1, 2, and 3) and scores for individual items were analyzed for the overall study population and for GD type subgroups. Inter-item correlation coefficients were calculated for the pre-test and the main survey. Content consistency was evaluated by Cronbach's alpha, calculated using all cases with complete answers, for both the pre-test and the main survey. Test\u2013retest reliability was evaluated by Cohen's kappa (with CI) using responses from the two rounds of questionnaires in the main survey."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 76.7,
+      "minX": 56.7,
+      "maxY": 158.1,
+      "maxX": 290.6,
+      "page": 12
+    }],
+    "text": "Data that were not collected were not imputed. No sensitivity analysis was conducted. Multiplicity was not applicable for this study, and no adjustments for confounding variables or bias were performed. The R, Version 4.0.2 was used for analysis of the pre-test and main survey questionnaires (R Foundation for Statistical Computing, Vienna, Austria)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 590,
+      "minX": 304.7,
+      "maxY": 599.7,
+      "maxX": 433,
+      "page": 12
+    }],
+    "text": "Supplementary Information"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 13
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 365.7,
+      "minX": 56.7,
+      "maxY": 463.6,
+      "maxX": 290.3,
+      "page": 13
+    }],
+    "text": "1Division of Child Neurology, Faculty of Medicine, Institute of Neurological Science, Tottori University, Yonago, Japan. 2School of Nursing, Faculty of Health Science, Osaka Aoyama University, Osaka, Japan. 3Department of Rehabilitation, Niigata University of Health and Welfare, Niigata, Japan. 4Real-World Evidence Solutions & HEOR, IQVIA Solutions Japan K.K., Tokyo, Japan. 5Japan Medical Office, Takeda Pharmaceutical Company Limited, Tokyo, Japan. 6Child Healthcare and Genetic Science Laboratory, Division of Health Sciences, Osaka University Graduate School of Medicine, 1-7 Yamadaoka, Suita, Osaka 565-0871, Japan. Received: 12 April 2023 Accepted: 13 December 2023"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 259.6,
+      "page": 14
+    }],
+    "text": "Narita et al. Orphanet Journal ofRare Diseases (2024) 19:11"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 646.1,
+      "minX": 56.7,
+      "maxY": 653.5,
+      "maxX": 130.9,
+      "page": 14
+    }],
+    "text": "Publisher's Note"
+  }}
+]}

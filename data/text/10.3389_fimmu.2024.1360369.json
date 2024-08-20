@@ -1,0 +1,1353 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 565.4,
+      "minX": 221.7,
+      "maxY": 705.5,
+      "maxX": 521.6,
+      "page": 1
+    }],
+    "text": "An updated management approach of Pompe disease patients with high-sustained anti-rhGAA IgG antibody titers: experience with bortezomib-based immunomodulation"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 520.3,
+      "minX": 221.7,
+      "maxY": 546.8,
+      "maxX": 529.1,
+      "page": 1
+    }],
+    "text": "Ankit K. Desai 1, Garima Shrivastava 1, Christina L. Grant 2, Raymond Y. Wang 3,4, Trevor D. Burt 5,6 and Priya S. Kishnani 1*"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 450.2,
+      "minX": 221.7,
+      "maxY": 510.6,
+      "maxX": 535.1,
+      "page": 1
+    }],
+    "text": "1Division of Medical Genetics, Department of Pediatrics, Duke University Medical Center, Durham, NC, United States, 2Division of Genetics and Metabolism, Children's National Hospital, Washington, DC, United States, 3Division of Metabolic Disorders, Children's Hospital of Orange County, Orange, CA, United States, 4Department of Pediatrics, University of California-Irvine School of Medicine, Orange, CA, United States, 5Division of Neonatology, Department of Pediatrics, Duke University School of Medicine, Durham, NC, United States, 6Children's Health and Discovery Initiative, Duke University School of Medicine, Durham, NC, United States"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 2
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 457,
+      "minX": 49.6,
+      "maxY": 466.7,
+      "maxX": 137.7,
+      "page": 2
+    }],
+    "text": "1 Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 307.9,
+      "minX": 49.6,
+      "maxY": 441.6,
+      "maxX": 290.9,
+      "page": 2
+    }],
+    "text": "Pompe disease (OMIM no. 232300, glycogen storage disease type II) is an autosomal recessive neuromuscular disorder caused by pathogenic variants in the GAA gene (OMIM no. 606800) encoding acid alpha-glucosidase (GAA) enzyme. Deficiency ofGAA results in pathological glycogen accumulation in the lysosomes of multiple tissues, especially cardiac, skeletal, and smooth muscles (1). Infantile-onset Pompe disease (IOPD) presents in the first few days to weeks of life (1). It is characterized by progressive muscle weakness, hypertrophic cardiomyopathy, respiratory distress, hypotonia, and if left untreated, death within two years of life due to cardiorespiratory failure (1, 2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 95.4,
+      "minX": 49.6,
+      "maxY": 304.1,
+      "maxX": 290.9,
+      "page": 2
+    }],
+    "text": "Enzyme replacement therapy (ERT) with recombinant human acid alpha-glucosidase (rhGAA) has significantly improved overall, and ventilator-free survival, and resulted in an improvement in motor milestones in many children with IOPD but has certain limitations (3, 4). The response to ERT has been heterogeneous and is affected by multiple factors including cross-reactive immunologic material (CRIM) status (i.e., presence or absence of any GAA expression), anti-rhGAA antibodies, age at diagnosis, dose of ERT (recommended dose \u2013 20 mg/kg every other week), and extent ofmuscle damage at the time of treatment initiation (5). The development of high titer IgG antibodies against ERT can affect pharmacokinetics, and result in the need for invasive ventilation associated with disease progression despite high doses of ERT. It can also result in infusion-associated reactions (IARs) (6\u20138). The rapid elimination ofcells that produce high titer anti-rhGAA IgG antibodies is very important in IOPD because disease progression is extremely rapid, and a delay in initiation of treatment by even a few days can impact the outcome (9\u201311)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.4,
+        "minX": 49.6,
+        "maxY": 91.6,
+        "maxX": 290.7,
+        "page": 2
+      },
+      {
+        "minY": 272.6,
+        "minX": 304.9,
+        "maxY": 466.6,
+        "maxX": 546.1,
+        "page": 2
+      }
+    ],
+    "text": "The combination of rituximab, methotrexate, and IVIG has been shown to be most successful in inducing immune tolerance to ERT in high-risk, CRIM-negative IOPD patients when initiated in ERT-naïve settings (12). For patients who are CRIM-positive, who are typically considered to be at lower risk of developing anti-rhGAA antibodies, ITI with transient low-dose methotrexate (TLD-MTX) has been successful at inducing tolerance (13). Despite the progress made in immunomodulation approaches used in the ERT-naïve setting, some patients have a break in tolerance. The use of plasma cell targeting agents such as bortezomib (a proteasome inhibitor that affects both short-lived and long-lived plasma cells) and daratumumab (an anti-CD38 monoclonal antibody) in combination with rituximab, methotrexate, and IVIG has been successful in eliminating high-sustained anti-rhGAA antibody titers (HSAT) against ERT in patients with Pompe disease and other lysosomal storage diseases (LSDs) (14, 15). However, elimination of HSAT is a challenge, often requiring prolonged immune suppression to ensure long-term immune tolerance."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 70.4,
+      "minX": 304.9,
+      "maxY": 266.6,
+      "maxX": 546.8,
+      "page": 2
+    }],
+    "text": "We originally reported on three Pompe disease patients who were successfully immune tolerized with a bortezomib-based immunomodulation regimen after experiencing clinical decline due to the development ofHSAT (14, 16). In these 3 cases (Table 1; patients 1, 2, and 3), immunomodulation with a bortezomib-based regimen resulted in a significant reduction in antibody titers; patient 1 had a 2,048-fold (1:204,800 to 1:100) and patients 2 (1:409,600 to 1:6400) and 3 (1:204,600 to 1:3,200) had a 64-fold reduction in anti-rhGAA antibodies with no side-effects. The reduction in anti-rhGAA IgG antibody titers led to the improvement in overall clinical status; a decrease in left ventricular mass index (LVMI) with normalization of LVMI in two patients, a significant reduction in urinary glucose tetrasaccharide (Glc4), less dependence on mechanical ventilation and enteral feeding, and improvement in motor status. Despite the success of the protocol, the duration of immune suppression was necessarily long to overcome the entrenched anti-rhGAA immune response."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 2
+    }],
+    "text": "Frontiers in Immunology 02 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 3
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 144.6,
+      "minX": 49.6,
+      "maxY": 365.7,
+      "maxX": 291.5,
+      "page": 3
+    }],
+    "text": "To better understand antibody titer trends that could help us differentiate IOPD patients who are at risk for HSAT vs. low titers in the early phase of ERT treatment, potentially identifying patients who would benefit from earlier intervention, longitudinal anti-rhGAA antibody response in 37 CRIM-positive IOPD patients was analyzed (20). Of these 37 patients, 12 (32%) patients developed antibody titers of ≥12,800. In these patients who developed HSAT (n=12), the median time since ERT to first develop a titer of ≥12,800 was 10 weeks (range, 4-24 weeks). Twenty-five CRIM-positive IOPD patients who maintained antibody titers of <12,800 were classified as low titer patients. The median time to seroconversion in the low titer group was 8 weeks (range, 4-64 weeks) on ERT. The data suggested that the Pompe disease patients who will not tolerize to ERT are those who mount titers of ≥12,800 and an upward trend of antibody titers within the first 24 weeks on ERT. The data generated from this chart review identified different arcs in immune response to ERT after the initial exposure, which has allowed us to identify high-risk patients earlier in order to initiate bortezomib-based ITI."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.5,
+        "minX": 49.6,
+        "maxY": 140.7,
+        "maxX": 290.9,
+        "page": 3
+      },
+      {
+        "minY": 282,
+        "minX": 304.9,
+        "maxY": 365.7,
+        "maxX": 546.1,
+        "page": 3
+      }
+    ],
+    "text": "In this article, we summarize the lessons learned from patients previously reported who received a bortezomib-based ITI regimen and report on two new CRIM-positive IOPD patients who developed high antibody titers (14, 16\u201319). Both newly reported patients failed to achieve durable immune tolerance despite routine immune modulation with TLD-MTX in the ERT-naïve setting. Both patients subsequently received rescue ITI with a bortezomib-based protocol at the earliest recognition of elevated titers. The number of bortezomib cycles at the time of initiation differed, however, which drastically changed the trajectory of the response. Through these cases and our previously published cases, we highlight the need for close monitoring of anti-rhGAA antibodies and an aggressive approach at the outset to allow for success in reducing anti-rhGAA antibodies."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 246.6,
+      "minX": 304.9,
+      "maxY": 256.5,
+      "maxX": 370.7,
+      "page": 3
+    }],
+    "text": "2 Methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209.1,
+      "minX": 304.9,
+      "maxY": 230.4,
+      "maxX": 460.8,
+      "page": 3
+    }],
+    "text": "2.1 Study design and patient inclusion criteria"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.5,
+        "minX": 304.9,
+        "maxY": 190.7,
+        "maxX": 546,
+        "page": 3
+      },
+      {
+        "minY": 544.9,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 291.5,
+        "page": 4
+      }
+    ],
+    "text": "A retrospective chart review on two CRIM-positive IOPD patients (patient 6 and 8) who received ITI with bortezomib, rituximab, methotrexate, and IVIG after developing HSAT was performed (16). The clinical data including GAA variants, CRIM status, age at ERT, anti-rhGAA antibody titer trends, and biomarkers were analyzed. Upon identification of a Pompe disease patient with HSAT, the detailed ITI protocol including the dosing schedule of immunomodulatory agents (bortezomib, rituximab, methotrexate, and IVIG) and safety monitoring was shared with the patient's treating physician. Anti-rhGAA IgG antibody titers were determined by Sanofi Genzyme and/or LabCorp as previously described (36). Urinary Glc4 was determined as described previously (21, 22). All the relevant information was extracted from medical records provided by the principal care provider or physician of the respective patient. These patients' medical records were examined and analyzed up until April 2023. The lessons from 37 CRIM-positive IOPD cases treated with ERT monotherapy previously published by our group helped in defining optimal timing for initiating a Pompe disease patient on a bortezomib-based ITI protocol (20). The endpoints such as age at diagnosis, age at ERT initiation, highest anti-rhGAA IgG antibody titer, time on ERT at bortezomib initiation, duration between development HSAT titer to bortezomib initiation, number of bortezomib cycles, and antibody titer at study end were compared to six previously published patients (patients 1, 2, 3, 4, 5, and 7) who were treated with the same ITI approach (14, 16, 17). Patients 1, 2, 4, and 7 had IOPD and patients 3 and 5 had late-onset Pompe disease (LOPD)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 3
+    }],
+    "text": "Frontiers in Immunology 03 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 4
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 501.4,
+      "minX": 49.6,
+      "maxY": 512.5,
+      "maxX": 152,
+      "page": 4
+    }],
+    "text": "2.2 Study approval"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 414.1,
+      "minX": 49.6,
+      "maxY": 485.3,
+      "maxX": 291.6,
+      "page": 4
+    }],
+    "text": "Both newly reported patients were enrolled in a Duke institutional review board (IRB) approved study protocol (Pro00001562; Determination of Cross-Reactive Immunological Material [CRIM] Status) and/or Longitudinal Follow-up of Individual and Pompe disease (Pro100010830). A written informed consent was provided by the respective parents/guardians."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 371.2,
+      "minX": 49.6,
+      "maxY": 383.6,
+      "maxX": 140.2,
+      "page": 4
+    }],
+    "text": "3 Case reports"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 309.1,
+      "minX": 49.6,
+      "maxY": 355.3,
+      "maxX": 290.7,
+      "page": 4
+    }],
+    "text": "Patient demographics, anti-rhGAA antibody titers, creatinine kinase (CK), urinary Glc4, and longitudinal immunoglobulin levels for both newly reported patients (patient 6 and 8) are shown in Table 2; Supplementary Figure 1."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 273.7,
+      "minX": 49.6,
+      "maxY": 282.5,
+      "maxX": 118.1,
+      "page": 4
+    }],
+    "text": "3.1 Patient 6"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 71.6,
+      "minX": 49.6,
+      "maxY": 255.3,
+      "maxX": 291.6,
+      "page": 4
+    }],
+    "text": "Patient 6 is a 6 years 9 months old Caucasian female who was clinically diagnosed with IOPD at the age of 3.7 months. At 2 days of life, the patient presented with a hypertrophic cardiomyopathy. At age 3 months, she had severe concentric left ventricular hypertrophy with mild subaortic flow acceleration from dynamic compression (LVM; 264.7 gm/m2), very poor feeding, and elevated CK levels (759 U/L). At age 3.7 months, the patient was diagnosed with CRIM-positive IOPD and ERT was initiated at 4.2 months of age with a dose of 20 mg/kg/week along with TLD-MTX ITI as previously published (Table 2) (13). Due to viral and Respiratory Syncytial Virus (RSV) infection, the 2nd and 3rd cycles of methotrexate were postponed and administered with 4th and 5th infusions instead of 2nd and 3rd ERT infusions. ERT dose was increased to 30 mg/kg/week at week 4 and was further increased to 40 mg/kg/week at week 7."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 71.4,
+      "minX": 304.9,
+      "maxY": 280.1,
+      "maxX": 546.8,
+      "page": 4
+    }],
+    "text": "The patient seroconverted at week 4 (antibody titer 400) with increased antibody titers of 12,800 and 25,600 noted at weeks 8 and week 22, respectively. The increase in anti-rhGAA antibodies was associated with a plateau of gross developmental progress, marked oropharyngeal dysphagia, and high levels of CK (896 U/L), AST (356 U/L), ALT (213 U/L), and LVMI (144.19 gm/m2). At this point, the patient (age 9 months) received the first cycle of bortezomib-based immunomodulation at 22 weeks on ERT (14). After 4 doses of bortezomib (cycle 1), the patient received rituximab every 8 weeks for 6 months which was later stretched to every 12 weeks with monthly IVIG, and eventually discontinued with the last dose given week 134 (Figure 1). Methotrexate was spaced out and then was discontinued due to neutropenia and mouth sores that significantly impacted oral feeds. After receiving the initial cycle of ITI with bortezomib, anti-rhGAA antibody titers decreased from 25,600 (week 21) to 400 (week 73) and the patient continued to maintain low antibody titers in ranges of 200-800 until week 147."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 4
+    }],
+    "text": "Frontiers in Immunology 04 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 5
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 455.7,
+      "minX": 60.8,
+      "maxY": 459.8,
+      "maxX": 84.7,
+      "page": 5
+    }],
+    "text": "FIGURE 1"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 331.7,
+      "minX": 49.6,
+      "maxY": 402.9,
+      "maxX": 290.7,
+      "page": 5
+    }],
+    "text": "Urinary Glc4 decreased from 45.8 mmol/mol creatinine (week 1) to 13.2 mmol/mol creatinine (week 33). CK levels gradually decreased from 896 U/L (week 8) to 337 U/L (week 118) and remained low. At week 137, AST (136 U/L) and ALT (70 U/L) were improved, and the patient gained physical strength, could jump, run, and tumble sault achieved age-appropriate major motor milestones (week 120)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.2,
+        "minX": 49.6,
+        "maxY": 327.9,
+        "maxX": 291.6,
+        "page": 5
+      },
+      {
+        "minY": 308.9,
+        "minX": 304.9,
+        "maxY": 402.9,
+        "maxX": 546,
+        "page": 5
+      }
+    ],
+    "text": "Following the first round of ITI, a complete recovery of B cells (normalization of CD19%) was observed at week 152. At that time, a steady rise in antibody titers was noted with antibody titers reaching 12,800 and 25,600 at weeks 177 and 182, respectively (Figure 1). An increase in the frequency offalls was noted. CK (353 U/L), AST (103 U/L), and ALT (53U/L) remained at her baseline. Considering the history and increasing titers, a 2nd round of bortezomib-based ITI with two consecutive cycles (8 doses) of bortezomib was initiated at week 182. An additional 4 doses of bortezomib were given at week 192 to avoid a further rise in titer. After 3 cycles of bortezomib, anti-rhGAA antibody titers decreased from 25,600 (week 182) to 800 (week 210), eventually becoming undetectable by week 286. The patient received maintenance rituximab, methotrexate, and subcutaneous IgG (due to a national shortage of IVIG during the COVID-19 pandemic) (Figure 1). The patient's physical assessments in the period between recovery of B cells and developing high anti-rhGAA antibody titers were deferred due to COVID-19 restrictions and limited lab tests were done with the help of a home nurse. The patient did not lose physical milestones attained after the first round of bortezomib-based ITI but had an increase in dysphagia, speech delay, and hypernasal speech (week 179). No major infections leading to interruption in treatment were reported in the patient. However, there was an increase in the length of viral upper respiratory tract infection compared to healthy sibling while on IVIG that was normalized on Subcutaneous IgG and more stable IgG levels. At 331 weeks on ERT, chronic Haemophilus influenzae pneumonia was diagnosed based on bronchoscopy and was successfully treated with oral antibiotics."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 131.7,
+      "minX": 304.9,
+      "maxY": 302.9,
+      "maxX": 546,
+      "page": 5
+    }],
+    "text": "Formal gross motor skills evaluations were performed at the initiation of the second round of ITI using Peabody Developmental Motor Scales. Stationary motor skills were measured at 33-month age equivalent, 9%ile for age, locomotion score was 52-month age equivalent, 75%ile for age (week 183, patient chronological age 46 months) with notable abnormal posture including increased lumbar lordosis, scapular winging, genu valgum, and pes planus. In-person, outpatient physical therapy was performed on hospital treatment days (her usual outpatient physical therapy had been entirely virtual due to the COVID pandemic). By week 209, stationary gross motor scores increased to 75%ile for age, and locomotive skills remained 75%ile for age. These scores have been maintained; at week 262 stationary score is 63%ile for age and locomotive score is 84%ile for age."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.2,
+        "minX": 304.9,
+        "maxY": 127.9,
+        "maxX": 546.1,
+        "page": 5
+      },
+      {
+        "minY": 646.3,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 290.8,
+        "page": 6
+      }
+    ],
+    "text": "At the time of the report (week 267), the patient had significantly improved pulmonary condition with a few respiratory issues. Per her treating physician, she has minimal feeding difficulty, no significant cardiac involvement (normal LVMI; 45.4 gm/m2 at week 266), no significant motor skills deficit, and leads a functionally active lifestyle including riding a bicycle. A continued downward trend was noted in biomarkers with AST (28 U/L), ALT (48 U/L), and CK (153 U/L) remaining close to upper normal limits at week 286. The patient has not received any immunizations other than the annual flu shot due to ongoing immunosuppression and absence of B cells (week 282). At the last follow-up, the patient is receiving ERT infusions at 40 mg/kg/ week, rituximab (every 16 weeks) and subcutaneous IgG (every 2 weeks) and is under observation for any break in tolerance; anti-rhGAA antibodies remain undetectable."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 5
+    }],
+    "text": "Frontiers in Immunology 05 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 6
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 608.7,
+      "minX": 49.6,
+      "maxY": 617.5,
+      "maxX": 119.2,
+      "page": 6
+    }],
+    "text": "3.2 Patient 8"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 456.6,
+      "minX": 49.6,
+      "maxY": 590.3,
+      "maxX": 290.8,
+      "page": 6
+    }],
+    "text": "Patient 8 is a 2-year-10-month-old Caucasian male who was diagnosed via newborn screening (NBS) with CRIM-positive IOPD. Two pathogenic (c.1913G>T and c.307T>G) variants were identified. At age 2 weeks, the patient presented with ventricular hypertrophy, feeding difficulty, and hypotonia. Left ventricular mass index (LVMI) (112 g/m2), urinary Glc4 (27.6 mmol/mol creatinine), CK (483 U/L), AST (144 U/L), and ALT (80 U/L) were elevated. The patient was initiated on ERT at age 2.3 weeks with a dose of 15 mg/kg weekly with TLD-MTX as previously published (13). The patient completed the ITI with TLD-MTX safely without any deviation in the protocol."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 406.6,
+        "minX": 49.6,
+        "maxY": 452.8,
+        "maxX": 290.9,
+        "page": 6
+      },
+      {
+        "minY": 669.1,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.1,
+        "page": 6
+      }
+    ],
+    "text": "Around 4 weeks into ERT initiation (one week after completion of TLD-MTX), an upward trend in antibody titers with a peak antibody titer of 25,600 at week 10 was noted. AST (94 U/L) and ALT (66 U/L) were still high at week 10. Due to rising antibody titers, ITI with bortezomib, rituximab, methotrexate, and IVIG was initiated at 13 weeks of ERT as previously published (Figure 1) (16). The patient received 2 consecutive cycles (8 doses) of bortezomib with the goal of eliminating antibody-secreting short- and long-lived plasma cells. ITI was discontinued at week 39 on ERT and since then the patient has continued to receive ERT without any additional immunomodulation. ERT dose was increased to 40 mg/ kg/week at week 39 on ERT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 407.3,
+        "minX": 304.9,
+        "maxY": 665.3,
+        "maxX": 546.9,
+        "page": 6
+      },
+      {
+        "minY": 719.5,
+        "minX": 49.6,
+        "maxY": 765.5,
+        "maxX": 290.8,
+        "page": 7
+      }
+    ],
+    "text": "Anti-rhGAA antibody titers decreased from a peak titer of 25,600 (week 10) and remained negative from week 57 until the most recent follow-up (134 weeks) (Figure 2). A significant improvement in motor status was noted along with a reduction in antibody titers. At week 19 (4.8 months of age), the patient had delayed motor development (Peabody Developmental Motor Scales-2 (PDMS-2) indicated 3 months age equivalency on the stationery and locomotion subsets) with head-lag, hypotonia, and overall decreased functional abilities. At week 50 on ERT (age 1 year), the patient was performing at an 11-month age equivalency on the stationary subtest, 8-month age equivalency on the locomotion subtest, and 12-month age equivalency on the object manipulation subtest. His gross motor quotient was in the 23rd percentile. At week 45, the patient was feeding orally and did not require respiratory support in comparison to feeding problems observed at the baseline. At week 83, urinary Glc4 (4.6 mmol/mol creatinine), CK (237 U/L), and ALT (29 U/L) had normalized; AST (60 U/L) was slightly above the upper limits of normal. The patient received the last dose of rituximab and methotrexate at week 37 and week 39 on ERT, respectively. Complete reconstitution of B cells (i.e., normalization of CD19%) was noted at week 76 on ERT. IVIG was discontinued at week 104 once IgG levels were within normal range. The patient did not have any bacterial infections during immune suppression. At week 34 on ERT, the patient was found to have respiratory syncytial virus (RSV) but did not require hospitalization."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 101.1,
+      "minX": 60.8,
+      "maxY": 105.1,
+      "maxX": 85.1,
+      "page": 6
+    }],
+    "text": "FIGURE 2"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 6
+    }],
+    "text": "Frontiers in Immunology 06 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 806.4,
+      "maxX": 545.9,
+      "page": 7
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 595.1,
+      "minX": 49.6,
+      "maxY": 715.5,
+      "maxX": 290.9,
+      "page": 7
+    }],
+    "text": "At the follow-up at age 22 months (week 93 on ERT), the patient showed age-appropriate normal development, was feeding by mouth, had a normal LVMI, and normal biomarkers. At week 130 on ERT (age 30.5 months), AST, ALT, and CK were 51 U/L, 24 U/L, and 104 U/L, respectively. No serious adverse events related to ITI were noted. The patient was up to date on the routine vaccinations. The patient has been off all ITI medication, is seronegative for anti-rhGAA (week 134) antibodies, and has been receiving ERT at 40 mg/kg/week since week 22 on ERT (age 5.5 months)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 558.9,
+      "minX": 49.6,
+      "maxY": 568.6,
+      "maxX": 127.9,
+      "page": 7
+    }],
+    "text": "4 Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 231.8,
+      "minX": 49.6,
+      "maxY": 540.5,
+      "maxX": 290.8,
+      "page": 7
+    }],
+    "text": "The development of high anti-rhGAA antibody titers can negatively affect the treatment efficacy and clinical outcomes in patients with IOPD. To minimize the negative impact of anti-rhGAA antibodies, immune modulation approaches in the ERT-naïve settings have been utilized with great success and have become a standard of care in patients with IOPD, especially CRIM-negative IOPD. However, a subset of CRIM-positive IOPD patients (32%) can develop significant anti-rhGAA antibodies leading to suboptimal clinical response (20, 23). CRIM-positive IOPD patients who are likely to develop HSAT to ERT show an upward antibody titer trend with titers of ≥12,800 within the first 24 weeks on ERT (20). Published literature has demonstrated that prophylactic ITI is associated with shorter immune suppression and minimal side effects compared to therapeutic ITI. Additionally, patients who have been tolerant to ERT can have a break in tolerance as seen in Patient 5 who developed HSAT after been immune tolerant to ERT for 11 years (18). Considering these, both patients in this report were treated with TLD-MTX ITI in the ERT-naïve setting. Patient 8 completed the protocol without any deviations whereas the ITI administration schedule was altered in Patient 6 due to RSV, viral infections, and severe mucositis. The knowledge gained from an ERT-treated historical cohort of CRIM-positive IOPD patients allowed us to recognize the break in tolerance in these patients, and these data have helped us predict the trajectory of patients destined to develop HSAT (20, 23)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.3,
+        "minX": 49.6,
+        "maxY": 228,
+        "maxX": 290.7,
+        "page": 7
+      },
+      {
+        "minY": 581.8,
+        "minX": 304.9,
+        "maxY": 765.5,
+        "maxX": 546,
+        "page": 7
+      }
+    ],
+    "text": "A combination of rituximab, methotrexate, and IVIG has been successful in inducing immune tolerance in ERT-naïve settings, however, this combination had limited success in HSAT patients, most likely due to the presence of short- and long-lived plasma cells. Rituximab targets and effectively depletes cells that express CD20, which includes most members of the B cell lineage from pro-B cells to memory B cells (24). CD19+CD20- plasma cells, however, and certain subsets of long-lived memory B cells are resistant to rituximab and have been detected in the weeks to months after treatment for various antibody-mediated diseases (25, 26). Furthermore, B cells with decreased or absent cell-surface CD20 have been frequently detected after rituximab treatment, and are thought to survive as a result of epitope masking, antigen modulation by CD20 internalization, and/or trogocytosis that can allow for B cell escape and persistence [reviewed in (27)]. While treatment of idiopathic thrombocytopenia purpura (ITP) with rituximab to eliminate anti-platelet B cells is initially effective for many (~60%) patients, rituximab treatment itself has also been associated with enhanced differentiation and establishment of long-lived plasma cells in some patients with non-responsive or recurrent disease (25). Data from mouse studies demonstrated that rituximab's enhancing effect on long-lived plasma cells depends on the influence of splenic CD4+ T cells and the cytokine B-cell activating factor (BAFF) (28). Given that some plasma cells and memory B cells can escape depletion by rituximab alone, we recognized the importance of targeting plasma cells by using an agent such as bortezomib during the induction ofimmune tolerance following the development of HSAT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 371.5,
+      "minX": 304.9,
+      "maxY": 578,
+      "maxX": 546.8,
+      "page": 7
+    }],
+    "text": "In previous studies, we have demonstrated the safety and efficacy of ITI with bortezomib, rituximab, methotrexate, and IVIG in inducing immune tolerance in patients with HSAT (14, 16\u201319). These include the first known cases where bortezomib was successful in inducing long-term immune tolerance in patients with Pompe disease who developed HSAT. Despite the initial success of the bortezomib-based approach in inducing immune tolerance, we recognized the potential to optimize this approach by identifying patients earlier and using shorter courses of ITI (Supplementary Figure 2). The antibody titers in patients 1, 2, 3, and 4 (previously published) peaked at 204,800 to 819,200 and had HSAT for a duration of 22 to 111 weeks before initiation of bortezomib-based ITI (Table 1). These cases demonstrated that a delay in intervention and/or lapse in monitoring can result in reduced efficacy of ERT and long-term irreversible tissue damage. All 4 patients (patients 14) received a single cycle of bortezomib (4 doses) at the time of ITI initiation."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 119.5,
+      "minX": 304.9,
+      "maxY": 365.5,
+      "maxX": 546.8,
+      "page": 7
+    }],
+    "text": "To achieve tolerance with fewer doses of immunomodulatory drugs, we have focused on improving our management approach for patients with HSAT. We have made it a priority to identify and intervene in these patients as early as possible with the goals of minimizing the impact of anti-rhGAA antibodies on the long-term outcome, shortening the total duration of immunomodulation, and avoiding any serious adverse events from immune suppression. Based on historical data of CRIM-positive IOPD patients, those who ultimately developed HSAT typically seroconverted by a median time of 4 weeks on ERT (range, 4-8 weeks) and had antibody titers of 12,800 by a median time of 10 weeks on ERT (range, 4-24 weeks) (20). The upward trend of antibody titers within the first 24 weeks on ERT stood out as a key feature that differentiated patients with HSAT from those that had persistent low titers; the low titer group did not demonstrate an upward trend in antibody titers after initial exposure to ERT, suggesting their effective immune tolerance to ERT. The data generated from this analysis and the lessons learned from our earlier cases treated with bortezomib-based ITI became the new benchmark that reshaped our approach to immune modulation in patients with HSAT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.3,
+        "minX": 304.9,
+        "maxY": 115.6,
+        "maxX": 546.1,
+        "page": 7
+      },
+      {
+        "minY": 556.8,
+        "minX": 49.6,
+        "maxY": 765.5,
+        "maxX": 290.7,
+        "page": 8
+      }
+    ],
+    "text": "In our current approach, a patient with anti-rhGAA antibody titers of 12,800 at two or more time points with or without evidence of a clinical decline/plateau is initiated on a bortezomib-based ITI regimen (29). The first example of our updated approach was presented in a recent case report, in which we reported on a CRIM-negative IOPD patient (patient 7) who was treated with immunomodulation with rituximab, methotrexate, and IVIG with weekly ERT at 40 mg/kg at the age of 4.5 months (Table 1) (19). The patient had noticeable initial progress in clinical response to treatment, however, a gradual increase in antibody titers was noticed with antibody titers peaking at 12,800 (week 24). To avoid loss of clinical gains and based on our learning from the historical CRIM-positive IOPD cohort, bortezomib-based ITI (2 consecutive cycles) was initiated without any delay at week 24 which was effective in eliminating anti-rhGAA antibodies (i.e., patient reverted to seronegative). High-dose weekly ERT and timely initiation of ITI with bortezomib allowed the CRIM-negative IOPD patient to achieve normal cardiac function, normal level of skeletal biomarkers, and independent walking at the age of 30 months (19). At the study closure, the patient had been off ITI for 4 months and continued to be seronegative."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.4,
+      "minX": 49.6,
+      "maxY": 40.9,
+      "maxX": 545.9,
+      "page": 7
+    }],
+    "text": "Frontiers in Immunology 07 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 806.4,
+      "maxX": 545.9,
+      "page": 8
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 169.5,
+      "minX": 49.6,
+      "maxY": 553,
+      "maxX": 291.5,
+      "page": 8
+    }],
+    "text": "The two IOPD patients presented herein, who developed HSAT in spite of their CRIM-positive status, serve as examples of the importance of identifying high-risk CRIM-positive IOPD patients by regular monitoring of anti-rhGAA antibody titers. Both patients received TLD-MTX ITI in an ERT-naïve setting, and while a major deviation in the administration schedule may have contributed to the failure of the initial ITI regimen in patient 6, patient 8 had no such deviation. Furthermore, patient 8 developed antibodies to ERT despite early identification and initiation of ERT within one month of age. As shown in the present study, both patients were initiated on bortezomib-based ITI at the earliest evidence of high titers. A reduction in antibody titers was observed in both cases with antibody titers decreasing from 25,600 to seronegative at the study end. During their initial treatment with bortezomib, patient 8 received 2 consecutive cycles (8 doses) of bortezomib whereas patient 6 received only 1 cycle (4 doses) of bortezomib. The impact of this difference can be seen in the outcome of these two patients; patient 8 required an overall shorter duration of immunomodulation to bring antibody titers down and tolerize to ERT, continued to receive ERT without any ITI, and maintained low antibody titers even after B cell recovery. In contrast, patient 6 required an additional 3 cycles of bortezomib to bring antibody titers down and is still receiving rituximab and subcutaneous IgG. The sum of these experiences (current and previously published cases) strongly suggests that adopting a strategy of early and aggressive intervention at the earliest recognition of high anti-ERT antibody titers may ultimately result in optimized long-term immune tolerance and improved clinical outcomes. Furthermore, the success of a therapeutic regimen meant to eliminate HSAT relies on the inclusion of an agent that effectively targets and eliminates the plasma cells that are responsible for anti-ERT antibodies, such as bortezomib."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.3,
+        "minX": 49.6,
+        "maxY": 165.6,
+        "maxX": 291.6,
+        "page": 8
+      },
+      {
+        "minY": 531.8,
+        "minX": 304.9,
+        "maxY": 765.5,
+        "maxX": 546.9,
+        "page": 8
+      }
+    ],
+    "text": "Bortezomib is a proteasome inhibitor that was initially used for hematologic malignancies such as multiple myeloma, and targets cells with high rates of protein production by inducing cell death via the terminal unfolded protein response (30). After the discovery that it also targets short- and long-lived plasma cells as a result of their active antibody production (30), it has been found to be efficacious for the treatment of antibody-mediated autoimmune diseases and solid-organ transplant rejection (31). One of bortezomib's most attractive features in the treatment of antibody-mediated disease is its ability to target non-dividing plasma cells that have high rates of antibody production. Given the ability of CD19+CD20- plasma cells to escape death by anti-CD20 targeting agents like rituximab, bortezomib provides a crucial adjunctive therapy to eliminate plasma cells that are generated after ERT therapy is initiated in IOPD. The existence of such cells is demonstrated by the presence of high-titer anti-ERT antibodies. A challenge remains, however, that some memory B cells also appear to be able to survive rituximab therapy by down-regulating CD20, and may therefore be able to re-emerge and participate in recurrent antibody responses (27, 32). In addition to these surviving memory B cells, nascent naïve B cells may participate in recurrent HSAT responses (32). Given that the patients described in this report were able to mount primary HSAT responses despite their CRIM-positive status and their initial ITI, it may suggest that these patients also have an underlying heightened risk for recurrence due to nascent naïve B cells. This further supports our recommendation for close monitoring of such high-risk patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 356.8,
+      "minX": 304.9,
+      "maxY": 528,
+      "maxX": 546.1,
+      "page": 8
+    }],
+    "text": "From our experience in managing patients with Pompe disease and ITI approaches, we learned that: (1) the dose of bortezomib needed to eliminate the anti-rhGAA antibodies is directly proportional to the duration of anti-rhGAA antibodies, (2) once there is an upward trend of antibody titers, patients do not tolerize by themselves and require some form of intervention to induce tolerance to ERT (20), (3) early intervention with ITI that includes bortezomib allows immune tolerance induction with shorter duration of immune suppression, (4) a minimum of two consecutive cycles of bortezomib is important during the initial round of rescue ITI, and this duration of therapy may therefore be required to optimally target plasma cells, and (5) maintenance rituximab and methotrexate following bortezomib are important to induce long-term tolerance to ERT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.3,
+        "minX": 304.9,
+        "maxY": 353,
+        "maxX": 546.9,
+        "page": 8
+      },
+      {
+        "minY": 706.8,
+        "minX": 49.6,
+        "maxY": 765.5,
+        "maxX": 291.5,
+        "page": 10
+      }
+    ],
+    "text": "Based on our experience, we have updated our approach to immunomodulation in the setting of an established/entrenched antibody response \u2013 (1) a patient with sustained titers of ≥12,800 may benefit from ITI with bortezomib, and (2) ITI is initiated with 2 consecutive cycles of bortezomib (8 doses) with the option to continue for additional cycles based on patient response (Figure 3). Further studies are needed to assess the extent of clinical benefits gained by early intervention with ITI in this cohort. In a recently published study, we published the results of multiparameter immunophenotyping and multiplex array analysis elucidating the cellular subsets and cytokine mediators that drive the immune response to ERT in IOPD patients (33). The comparison of low-risk IOPD patients treated with ERT monotherapy with high-risk IOPD patients who received ITI (rituximab, methotrexate, and IVIG) in ERT-naïve, the data suggested that the immune profile of high-risk IOPD patients was similar to low-risk IOPD patients which might be attributed to treatment with ITI. The data suggested that ITI administration changes the immune profile of IOPD patients who were at higher risk of mounting immune response to ERT to more of the immune profile of IOPD patients who have some level of natural tolerance to ERT. This study further demonstrated the success of ITI in inducing immune tolerance, however, identifying these high-risk patients remains a challenge. More importantly, additional methods to identify these high-risk Pompe disease patients at outset are needed; such methods could be incorporated in the Newborn screening algorithm to maximize the benefits of enzyme replacement."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.4,
+      "minX": 49.6,
+      "maxY": 40.9,
+      "maxX": 545.9,
+      "page": 8
+    }],
+    "text": "Frontiers in Immunology 08 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 9
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 286.5,
+      "minX": 60.8,
+      "maxY": 290.5,
+      "maxX": 85.1,
+      "page": 9
+    }],
+    "text": "FIGURE 3"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 9
+    }],
+    "text": "Frontiers in Immunology 09 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 806.4,
+      "maxX": 545.9,
+      "page": 10
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 668.8,
+      "minX": 49.6,
+      "maxY": 681.2,
+      "maxX": 213.2,
+      "page": 10
+    }],
+    "text": "Data availability statement"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 619.3,
+      "minX": 49.6,
+      "maxY": 653,
+      "maxX": 290.7,
+      "page": 10
+    }],
+    "text": "The original contributions presented in the study are included in the article/Supplementary Materials, further inquiries can be directed to the corresponding author."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 583.9,
+      "minX": 49.6,
+      "maxY": 593.6,
+      "maxX": 153.3,
+      "page": 10
+    }],
+    "text": "Ethics statement"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 469.3,
+      "minX": 49.6,
+      "maxY": 565.5,
+      "maxX": 290.8,
+      "page": 10
+    }],
+    "text": "The studies involving humans were approved by Duke University Health System Institutional Review Board. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation in this study was provided by the participants' legal guardians/next of kin. Written informed consent was obtained from the minor(s)' legal guardian/next of kin for the publication of any potentially identifiable images or data included in this article."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 433.9,
+      "minX": 49.6,
+      "maxY": 443.6,
+      "maxX": 179.3,
+      "page": 10
+    }],
+    "text": "Author contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 269.3,
+      "minX": 49.6,
+      "maxY": 415.5,
+      "maxX": 290.9,
+      "page": 10
+    }],
+    "text": "AD: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Supervision, Visualization, Writing \u2013 original draft, Writing \u2013 review & editing. GS: Data curation, Formal analysis, Methodology, Writing \u2013 original draft, Writing \u2013 review & editing. CG: Data curation, Validation, Writing \u2013 review & editing. RW: Data curation, Validation, Writing \u2013 review & editing. TB: Formal analysis, Methodology, Visualization, Writing \u2013 review & editing. PK: Conceptualization, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Supervision, Writing \u2013 original draft, Writing \u2013 review & editing."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 231.3,
+      "minX": 49.6,
+      "maxY": 243.7,
+      "maxX": 99.7,
+      "page": 10
+    }],
+    "text": "Funding"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.3,
+        "minX": 49.6,
+        "maxY": 215.5,
+        "maxX": 290.7,
+        "page": 10
+      },
+      {
+        "minY": 732,
+        "minX": 304.9,
+        "maxY": 765.5,
+        "maxX": 545.9,
+        "page": 10
+      }
+    ],
+    "text": "The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This research was supported by a grant from Sanofi Genzyme (Cambridge, Massachusetts, USA), and in part by the Lysosomal Disease Network (LDN). LDN (2U54NS065768-06) is a part of the National Center for Advancing Translational Sciences (NCATS) Rare Diseases Clinical Research Network (RDCRN). RDCRN is an initiative of the Office of Rare Diseases Research (ORDR), NCATS, funded through a collaboration between the NCATS, the National Institute of Neurological Disorders and Stroke (NINDS), and the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). The content is solely the responsibility ofthe authors and does not necessarily represent the official views of the NIH. The funders had no role in study design, data collection, and analysis, decision to publish, or preparation of the manuscript."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 696.5,
+      "minX": 304.9,
+      "maxY": 706.3,
+      "maxX": 421.9,
+      "page": 10
+    }],
+    "text": "Conflict of interest"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 494.3,
+      "minX": 304.9,
+      "maxY": 678,
+      "maxX": 546.1,
+      "page": 10
+    }],
+    "text": "AD has received grant support from Sanofi Genzyme and the Lysosomal Disease Network. AD has received honoraria from Sanofi Genzyme. CG has received Honoraria from Sanofi, Amicus Therapeutics, and RegenX Bio. RW serves on the Scientific Advisory Board for and owns equity in M6P Therapeutics. PK has received research/grant support from Sanofi Genzyme and Amicus Therapeutics. PK has received consulting fees and honoraria from Sanofi Genzyme, Amicus Therapeutics, Maze Therapeutics, Bayer, and Asklepios Biopharmaceutical, Inc. (AskBio). PK is a member of the Pompe and Gaucher Disease Registry Advisory Board for Sanofi Genzyme, Pompe Disease Advisory Board for Amicus Therapeutics, and Advisory Board for Babies. PK has equity with Maze Therapeutics and has held equity in Asklepios Biopharmaceuticals and may receive milestone payments related to that equity in the future."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 456.9,
+      "minX": 304.9,
+      "maxY": 490.5,
+      "maxX": 545.9,
+      "page": 10
+    }],
+    "text": "The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be constructed as a potential conflict of interest."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 416.5,
+      "minX": 304.9,
+      "maxY": 426.3,
+      "maxX": 403.9,
+      "page": 10
+    }],
+    "text": "Publisher's note"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 339.3,
+      "minX": 304.9,
+      "maxY": 398,
+      "maxX": 546,
+      "page": 10
+    }],
+    "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those oftheir affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 299.3,
+      "minX": 304.9,
+      "maxY": 311.8,
+      "maxX": 452.9,
+      "page": 10
+    }],
+    "text": "Supplementary material"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 249.8,
+      "minX": 304.9,
+      "maxY": 283.5,
+      "maxX": 546,
+      "page": 10
+    }],
+    "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fimmu.2024.1360369/ full#supplementary-material"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.4,
+      "minX": 49.6,
+      "maxY": 40.9,
+      "maxX": 545.9,
+      "page": 10
+    }],
+    "text": "Frontiers in Immunology 10 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 801.1,
+      "minX": 49.6,
+      "maxY": 806.1,
+      "maxX": 84.9,
+      "page": 11
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 750.1,
+      "minX": 49.6,
+      "maxY": 759.9,
+      "maxX": 118.9,
+      "page": 11
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 707.5,
+      "minX": 49.6,
+      "maxY": 730.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "1. Kishnani PS, Hwu WL, Mandel H, Nicolino M, Yong F, Corzo D. A retrospective, multinational, multicenter study on the natural history of infantile-onset Pompe disease. J Pediatr. (2006) 148:671\u20136. doi: 10.1016/j.jpeds.2005.11.033"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 672.6,
+      "minX": 49.6,
+      "maxY": 703.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "2. van den Hout HM, Hop W, van Diggelen OP, Smeitink JA, Smit GP, Poll-The BT, et al. The natural course of infantile Pompe's disease: 20 original cases compared with 133 cases from the literature. Pediatrics. (2003) 112:332\u201340. doi: 10.1542/ peds.112.2.332"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 645.5,
+      "minX": 49.6,
+      "maxY": 668.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "3. Kishnani PS, Corzo D, Nicolino M, Byrne B, Mandel H, Hwu WL, et al. Recombinant human acid [alpha]-glucosidase: major clinical benefits in infantile-onset Pompe disease. Neurology. (2007) 68:99\u2013109. doi: 10.1212/01.wnl.0000251268.41188.04"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 618.6,
+      "minX": 49.6,
+      "maxY": 641.2,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "4. Kishnani PS, Corzo D, Leslie ND, Gruskin D, van der Ploeg A, Clancy JP, et al. Early treatment with alglucosidase alpha prolongs long-term survival of infants with Pompe disease. Pediatr Res. (2009) 66:329\u201335. doi: 10.1203/PDR.0b013e3181b24e94"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 591.5,
+      "minX": 49.6,
+      "maxY": 614.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "5. Berrier KL, Kazi ZB, Prater SN, Bali DS, Goldstein J, Stefanescu MC, et al. CRIM-negative infantile Pompe disease: characterization of immune responses in patients treated with ERT monotherapy. Genet Med. (2015) 17:912\u20138. doi: 10.1038/gim.2015.6"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 556.5,
+      "minX": 49.6,
+      "maxY": 587.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "6. Rosenberg AS, Pariser AR, Diamond B, Yao L, Turka LA, Lacana E, et al. A role for plasma cell targeting agents in immune tolerance induction in autoimmune disease and antibody responses to therapeutic proteins. Clin Immunol. (2016) 165:55\u20139. doi: 10.1016/j.clim.2016.02.009"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 523,
+      "minX": 49.6,
+      "maxY": 552.2,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "7. van Gelder CM, Hoogeveen-Westerveld M, Kroos MA, Plug I, van der Ploeg AT, Reuser AJ. Enzyme therapy and immune response in relation to CRIM status: the Dutch experience in classic infantile Pompe disease. J Inherit Metab Dis. (2015) 38:30514. doi: 10.1007/s10545-014-9707-6"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 496,
+      "minX": 49.6,
+      "maxY": 517.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "8. Chakrapani A, Vellodi A, Robinson P, Jones S, Wraith JE. Treatment of infantile Pompe disease with alglucosidase alpha: the UK experience. J Inherit Metab Dis. (2010) 33:747\u201350. doi: 10.1007/s10545-010-9206-3"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 467.6,
+      "minX": 49.6,
+      "maxY": 490.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "9. Chien YH, Lee NC, Thurberg BL, Chiang SC, Zhang XK, Keutzer J, et al. Pompe disease in infants: improving the prognosis by newborn screening and early treatment. Pediatrics. (2009) 124:e1116\u201325. doi: 10.1542/peds.2008-3667"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 432.5,
+      "minX": 49.6,
+      "maxY": 463.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "10. Amalfitano A, Bengur AR, Morse RP, Majure JM, Case LE, Veerling DL, et al. Recombinant human acid alpha-glucosidase enzyme therapy for infantile glycogen storage disease type II: results of a phase I/II clinical trial. Genet Med. (2001) 3:132\u20138. doi: 10.1038/gim200127"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 405.5,
+      "minX": 49.6,
+      "maxY": 428.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "11. Kishnani PS, Goldenberg PC, DeArmey SL, Heller J, Benjamin D, Young S, et al. Cross-reactive immunologic material status affects treatment outcomes in Pompe disease infants. Mol Genet Metab. (2010) 99:26\u201333. doi: 10.1016/j.ymgme.2009.08.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 371.1,
+      "minX": 49.6,
+      "maxY": 401.3,
+      "maxX": 291.4,
+      "page": 11
+    }],
+    "text": "12. Desai AK, Baloh CH, Sleasman JW, Rosenberg AS, Kishnani PS. Benefits of prophylactic short-course immune tolerance induction in patients with infantile pompe disease: demonstration of long-term safety and efficacy in an expanded cohort. Front Immunol. (2020) 11:1727. doi: 10.3389/fimmu.2020.01727"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 335.6,
+      "minX": 49.6,
+      "maxY": 366.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "13. Kazi ZB, Desai AK, Troxler RB, Kronn D, Packman S, Sabbadini M, et al. An immune tolerance approach using transient low-dose methotrexate in the ERT-naive setting of patients treated with a therapeutic protein: experience in infantile-onset Pompe disease. Genet Med. (2019) 21:887\u201395. doi: 10.1038/s41436-018-0270-7"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 300.5,
+      "minX": 49.6,
+      "maxY": 331.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "14. Banugaria SG, Prater SN, McGann JK, Feldman JD, Tannenbaum JA, Bailey C, et al. Bortezomib in the rapid reduction of high sustained antibody titers in disorders treated with therapeutic protein: lessons learned from Pompe disease. Genet Med. (2013) 15:123\u201331. doi: 10.1038/gim.2012.110"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 265.5,
+      "minX": 49.4,
+      "maxY": 296.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "15. Kim KH, Messinger YH, Burton BK. Successful reduction ofhigh-sustained anti-idursulfase antibody titers by immune modulation therapy in a patient with severe mucopolysaccharidosis type II. Mol Genet Metab Rep. (2015) 2:20\u20134. doi: 10.1016/ j.ymgmr.2014.11.007"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 238.5,
+      "minX": 49.6,
+      "maxY": 261.3,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "16. Kazi ZB, Prater SN, Kobori JA, Viskochil D, Bailey C, Gera R, et al. Durable and sustained immune tolerance to ERT in Pompe disease with entrenched immune responses. JCI Insight. (2016) 1. doi: 10.1172/jci.insight.86821"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 219.5,
+      "minX": 49.6,
+      "maxY": 234.2,
+      "maxX": 290.7,
+      "page": 11
+    }],
+    "text": "17. Stenger EO, Kazi Z, Lisi E, Gambello MJ, Kishnani P. Immune tolerance strategies in siblings with infantile pompe disease-advantages for a preemptive"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 448.6,
+      "maxY": 806.4,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "10.3389/fimmu.2024.1360369"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 715.5,
+      "minX": 304.9,
+      "maxY": 730.3,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "approach to high-sustained antibody titers. Mol Genet Metab Rep. (2015) 4:30\u20134. doi: 10.1016/j.ymgmr.2015.05.004"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 680.5,
+      "minX": 304.9,
+      "maxY": 711.3,
+      "maxX": 546.2,
+      "page": 11
+    }],
+    "text": "18. Kim KH, Desai AK, Vucko ER, Boggs T, Kishnani PS, Burton BK. Development of high sustained anti-drug antibody titers and corresponding clinical decline in a late-onset Pompe disease patient after 11+ years on enzyme replacement therapy. Mol Genet Metab Rep. (2023) 36:100981. doi: 10.1016/j.ymgmr.2023.100981"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 637.5,
+      "minX": 304.7,
+      "maxY": 676.3,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "19. Curelaru S, Desai AK, Fink D, Zehavi Y, Kishnani PS, Spiegel R. A favorable outcome in an infantile-onset Pompe patient with cross reactive immunological material (CRIM) negative disease with high dose enzyme replacement therapy and adjusted immunomodulation. Mol Genet Metab Rep. (2022) 32:100893. doi: 10.1016/ j.ymgmr.2022.100893"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 602.5,
+      "minX": 304.9,
+      "maxY": 633.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "20. Desai AK, Kazi ZB, Bali DS, Kishnani PS. Characterization of immune response in Cross-Reactive Immunological Material (CRIM)-positive infantile Pompe disease patients treated with enzyme replacement therapy. Mol Genet Metab Rep. (2019) 20:100475. doi: 10.1016/j.ymgmr.2019.100475"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 567.5,
+      "minX": 304.9,
+      "maxY": 598.3,
+      "maxX": 546.1,
+      "page": 11
+    }],
+    "text": "21. Klinge L, Straub V, Neudorf U, Schaper J, Bosbach T, Gorlinger K, et al. Safety and efficacy of recombinant acid alpha-glucosidase (rhGAA) in patients with classical infantile Pompe disease: results of a phase II clinical trial. Neuromuscul Disord. (2005) 15:24\u201331. doi: 10.1016/j.nmd.2004.10.009"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 540.5,
+      "minX": 304.9,
+      "maxY": 563.2,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "22. Kishnani PS, Nicolino M, Voit T, Rogers RC, Tsai AC, Waterson J, et al. Chinese hamster ovary cell-derived recombinant human acid alpha-glucosidase in infantile-onset Pompe disease. J Pediatr. (2006) 149:89\u201397. doi: 10.1016/j.jpeds.2006.02.035"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 507,
+      "minX": 304.9,
+      "maxY": 536.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "23. Banugaria SG, Prater SN, Ng YK, Kobori JA, Finkel RS, Ladda RL, et al. The impact of antibodies on clinical outcomes in diseases treated with therapeutic protein: lessons learned from infantile Pompe disease. Genet Med. (2011) 13:729\u201336. doi: 10.1097/GIM.0b013e3182174703"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 480,
+      "minX": 304.9,
+      "maxY": 501.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "24. Mahevas M, Michel M, Weill JC, Reynaud CA. Long-lived plasma cells in autoimmunity: lessons from B-cell depleting therapy. Front Immunol. (2013) 4:494. doi: 10.3389/fimmu.2013.00494"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 452.1,
+      "minX": 304.7,
+      "maxY": 474.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "25. Mahevas M, Patin P, Huetz F, Descatoire M, Cagnard N, Bole-Feysot C, et al. B cell depletion in immune thrombocytopenia reveals splenic long-lived plasma cells. J Clin Invest. (2013) 123:432\u201342. doi: 10.1172/JCI65689"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 416.5,
+      "minX": 304.9,
+      "maxY": 447.2,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "26. Mahevas M, Michel M, Vingert B, Moroch J, Boutboul D, Audia S, et al. Emergence of long-lived autoreactive plasma cells in the spleen of primary warm autoimmune hemolytic anemia patients treated with rituximab. J Autoimmun. (2015) 62:22\u201330. doi: 10.1016/j.jaut.2015.05.006"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 397.5,
+      "minX": 304.9,
+      "maxY": 412.3,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "27. Roeser A, Lazarus AH, Mahevas M. B cells and antibodies in refractory immune thrombocytopenia. Br J Haematol. (2023) 203:43\u201353. doi: 10.1111/bjh.18773"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 370.6,
+      "minX": 304.9,
+      "maxY": 393.3,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "28. Thai LH, Le Gallou S, Robbins A, Crickx E, Fadeev T, Zhou Z, et al. BAFF and CD4(+) T cells are major survival factors for long-lived splenic plasma cells in a B-celldepletion context. Blood. (2018) 131:1545\u201355. doi: 10.1182/blood-2017-06-789578"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 343.5,
+      "minX": 304.9,
+      "maxY": 366.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "29. Abbott MA, Prater SN, Banugaria SG, Richards SM, Young SP, Rosenberg AS, et al. Atypical immunologic response in a patient with CRIM-negative Pompe disease. Mol Genet Metab. (2011) 104:583\u20136. doi: 10.1016/j.ymgme.2011.08.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 316.6,
+      "minX": 304.9,
+      "maxY": 339.2,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "30. Neubert K, Meister S, Moser K, Weisel F, Maseda D, Amann K, et al. The proteasome inhibitor bortezomib depletes plasma cells and protects mice with lupuslike disease from nephritis. Nat Med. (2008) 14:748\u201355. doi: 10.1038/nm1763"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 291,
+      "minX": 304.9,
+      "maxY": 312.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "31. Pasquale R, Giannotta JA, Barcellini W, Fattizzo B. Bortezomib in autoimmune hemolytic anemia and beyond. Ther Adv Hematol. (2021) 12:20406207211046428. doi: 10.1177/20406207211046428"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 256,
+      "minX": 304.9,
+      "maxY": 285.3,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "32. Crickx E, Chappert P, Sokal A, Weller S, Azzaoui I, Vandenberghe A, et al. Rituximab-resistant splenic memory B cells and newly engaged naive B cells fuel relapses in patients with immune thrombocytopenia. Sci Transl Med. (2021) 13. doi: 10.1126/scitranslmed.abc3961"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 221,
+      "minX": 304.9,
+      "maxY": 250.3,
+      "maxX": 546,
+      "page": 11
+    }],
+    "text": "33. Desai AK, Smith PB, Yi JS, Rosenberg AS, Burt TD, Kishnani PS. Immunophenotype associated with high sustained antibody titers against enzyme replacement therapy in infantile-onset Pompe disease. Front Immunol. (2024) 14. doi: 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.4,
+      "minX": 49.6,
+      "maxY": 40.9,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "Frontiers in Immunology 11 frontiersin.org"
+  }}
+]}

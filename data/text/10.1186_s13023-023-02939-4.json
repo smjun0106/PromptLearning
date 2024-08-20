@@ -1,0 +1,1238 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 733.1,
+      "minX": 433.8,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "Orphanet Journal of Rare Diseases"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 687.9,
+      "minX": 61.8,
+      "maxY": 699.4,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "RESEARCH Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 621.6,
+      "minX": 56.6,
+      "maxY": 669.7,
+      "maxX": 499.4,
+      "page": 1
+    }],
+    "text": "Real life data: follow\u2011up assessment on Spanish Gaucher disease patients treated"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 595.3,
+      "minX": 56.6,
+      "maxY": 617.4,
+      "maxX": 389.4,
+      "page": 1
+    }],
+    "text": "with eliglustat. TRAZELGA project"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 476.2,
+      "minX": 56.6,
+      "maxY": 585.9,
+      "maxX": 532,
+      "page": 1
+    }],
+    "text": "Irene Serrano\u2011Gonzalo1,2, Laura López de Frutos1,3, Carlos Lahoz\u2011Gil1, Francisco Delgado\u2011Mateos3,4, María Ángeles Fernández\u2011Galán3,5, Montserrat Morales\u2011Conejo6, María Victoria Calle\u2011Gordo3,7, Daiana Ibarretxe\u2011Gerediaga8, Andrés Madinaveitia\u2011Ochoa9, Antonio Albarracin\u2011Arraigosa10, José Balanzat\u2011Muñoz3,11, Patricia Correcher\u2011Medina12, Luis Javier García\u2011Frade3,13, Jesús María Hernández\u2011Rivas3,14, Francesca Labbadia3,15, Jesus Miguel López\u2011Dupla16, María Luisa Lozano\u2011Almela3,17, Elvira Mora\u2011Casterá3,18, María Soledad Noya\u2011Pereira3,19, María Ángeles Ruíz\u2011Guinaldo3,20, María del Mar Tormo\u2011Díaz3,21, Isidro Vitoria\u2011Miñana12, Isidro Arévalo\u2011Vargas1,2, Marcio Andrade\u2011Campos1,3 and Pilar Giraldo1,3,22*"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 431,
+      "minX": 63.1,
+      "maxY": 438.5,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 389.9,
+      "minX": 63.1,
+      "maxY": 423.4,
+      "maxX": 529,
+      "page": 1
+    }],
+    "text": "Background The availability of multiple treatments for type 1 Gaucher disease increases the need for real\u2011life studies to evaluate treatment efficacy and safety and provide clinicians with more information to choose the best personal\u2011 ized therapy for their patients."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 363.2,
+      "minX": 63.1,
+      "maxY": 384.3,
+      "maxX": 526.1,
+      "page": 1
+    }],
+    "text": "Aims To determine whether treatment with eliglustat produces, in adult GD1 patients, ans optimal response in daily clinical practice."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 263.9,
+      "minX": 63.1,
+      "maxY": 357.4,
+      "maxX": 529.8,
+      "page": 1
+    }],
+    "text": "Methods We designed a real\u2011life study with 2 years of follow\u2011up (TRAZELGA [GEE\u2011ELI\u20112017\u201101]) to uniformly evaluate the response and adverse events to eliglustat treatment. This study, conducted in 30 patients across Spain and previ\u2011 ously treated with other therapies, included the evaluation of safety and efficacy by assessing visceral enlargement, bone disease (DEXA and T and Z scores), concomitant treatments and adverse events, as well as a quality of life evaluation (SF\u201136). In addition, the quantification of classical biomarkers (chitotriosidase activity, CCL18/PARC and glu\u2011 cosylsphingosine (GluSph)) and new candidates for GD biomarkers (YKL\u201140, cathepsin S, hepcidin and lipocalin\u20112 determined by immunoassay) were also assessed. Non\u2011parametric statistical analysis was performed and p < 0.05 was considered statistically significant."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 188.9,
+      "minX": 63.1,
+      "maxY": 258.4,
+      "maxX": 526.8,
+      "page": 1
+    }],
+    "text": "Main Results Thirty patients were enrolled in the study. The median age was 41.5 years and the male\u2013female ratio was 1.1:1. 84% of the patients had received ERT and 16% SRT as previous treatment. The most common symptoms at baseline were fatigue (42%) and bone pain (38%), no patient had a bone crisis during the study, and two years after switching, 37% had reduced their use of analgesics. Patient\u2011reported outcomes showed a significant increase in physical function scores (p = 0.027) and physical pain scores (p = 0.010). None of the enrolled patients discontinued treatment due to adverse events, which were mild and transient in nature, mainly gastrointestinal and skin dryness."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 2
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390 Page 2 of 12"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 662.1,
+      "minX": 63.9,
+      "maxY": 695.5,
+      "maxX": 529.7,
+      "page": 2
+    }],
+    "text": "None of the biomarkers show a significant increase or decompensation after switching. CCL18/PARC (p = 0.0012), YKL\u2011 40 (p = 0.00004) and lipocalin\u20112 (p = 0.0155) improved after two years and GluSph after one year (p = 0.0008) and two years (p = 0.0245) of oral therapy."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 623.1,
+      "minX": 63.9,
+      "maxY": 656.5,
+      "maxX": 526.3,
+      "page": 2
+    }],
+    "text": "Conclusion In summary, this real\u2011life study, showed that eliglustat maintains stability and can improve quality of life with few side effects. Significant reductions in classic and other novel biomarkers were observed after two years of therapy."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 608.1,
+      "minX": 63.9,
+      "maxY": 617.4,
+      "maxX": 482.6,
+      "page": 2
+    }],
+    "text": "Keywords Type 1 Gaucher disease, Biomarkers, Glucosylsphingosine, Lipocalin\u20112, YKL\u201140, SF\u201136, Eliglustat"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 575.1,
+      "minX": 56.7,
+      "maxY": 582.5,
+      "maxX": 114.8,
+      "page": 2
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 405.5,
+      "minX": 56.7,
+      "maxY": 570.3,
+      "maxX": 290.6,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD) (MIM#230800; #230900; #231000) is an autosomal recessive inherited disorder caused by a functional defect in the enzyme acid glucocerebrosidase (GluCer) (EC3.2.1.45) induced by pathogenic variants in the GBA1 gene (MIM*606463). This defect leads to an accumulation of glucocerebroside, mainly in the lysosomes of macrophages, and causes deterioration of the organs and tissues in which it is stored. The accumulation of undegraded substrate induces a multisystemic disease of variable expression in terms of clinical manifestations, course and severity [1]. The disease is classified into three forms according to neurological involvement, with the most common form being type 1 Gaucher disease (GD1; MIM#230800) [2]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 273,
+      "minX": 56.7,
+      "maxY": 402.2,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "The clinical spectrum of GD1 is highly variable, ranging from mild phenotypes with no clinical manifestations to others with severe symptoms; among the complications, bone disease is the most disabling and painful. In addition, GD is characterized by a latent state of chronic inflammation secondary to macrophage activation, expressed by an imbalance in proinflammatory cytokine production, hyperferritinaemia, hypergammaglobulinaemia, impaired calcium homeostasis and metabolic syndrome, which are likely to influence the development of disease complications [3, 4]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 176.8,
+      "minX": 56.7,
+      "maxY": 270.2,
+      "maxX": 290.6,
+      "page": 2
+    }],
+    "text": "Treatment of the disease involves two different modes of action. Enzyme replacement therapy (ERT) was the first to be approved, with two different drugs available in Spain (imiglucerase [5]. and velaglucerase alfa [6]), both administered intravenously every 15 days. The second mode of action is substrate reduction therapy (SRT), also with two different drugs (miglustat [7]. and eliglustat [8]), which are administered orally."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.8,
+        "minX": 56.7,
+        "maxY": 174.2,
+        "maxX": 290.6,
+        "page": 2
+      },
+      {
+        "minY": 430,
+        "minX": 304.7,
+        "maxY": 582.7,
+        "maxX": 538.7,
+        "page": 2
+      }
+    ],
+    "text": "ERT has been widely used for more than 25 years to treat both type 1 and type 3 patients. The therapy is usually well tolerated and considered safe, but there are aspects not covered by the treatment, such as neurological involvement and, in some patients, skeletal complications [9, 10]. Eliglustat (Cerdelga®, Sanofi Genzyme, Cambridge, MA, USA) is the last approved treatment, available in Spain since 2015 for the treatment of adult GD1 patients as first or second line therapy [8]. This drug inhibits the enzyme glucosylceramide synthase (EC2.4.1.80) by reducing glucosylceramide synthesis and thus intralysosomal accumulation. Eliglustat is primarily metabolized by the cytochrome CYP2D6 pathway and is not available to patients with ultra-rapid metabolism (10%) [11]. Results from clinical trials have shown that eliglustat, as first-line therapy or when switching from an ERT, provides an optimal response with improvement or stabilization of clinical features [12\u201314]. Following approval of the drug, several \"real-world\" studies have been conducted to determine safety and efficacy outside the clinical trial setting, with similar results [15\u201318]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 226.1,
+      "minX": 304.7,
+      "maxY": 426.7,
+      "maxX": 538.7,
+      "page": 2
+    }],
+    "text": "Several biomarkers have been used to screen for suspected disease and to monitor treatment compliance [19]. Chitotriosidase activity (ChT) [20], cytokine CCL18/PARC [21] and glucosylsphingosine (GluSph) [22] levels were found to be elevated in patients with GD at diagnosis compared to healthy controls and decreased during treatment. Other potential biomarkers, such as chitinase YKL-40, have been found to be elevated in cellular and animal models of GD [23]. In addition, molecules involved in the inflammatory milieu have been identified by gene array in the spleen of GD mice as potential biomarkers, including lipocalin-2 and cathepsin S [24]. Subsequent studies have shown statistically significant differences between controls and GD patients for both YKL-40 and cathepsin S, and in the case of cathepsin S also between untreated and ERT-treated patients [25]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 129.3,
+      "minX": 304.7,
+      "maxY": 222.7,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "The regulation of iron metabolism is limited to the inhibition of iron absorption in the intestine by hepcidin, a peptide produced by hepatocytes whose production is influenced by inflammatory cytokines [26]. Significant differences in hepcidin concentration have been observed in GD patients treated with miglustat compared to untreated patients, while no differences were found between GD patients and healthy controls [27]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 69.3,
+      "minX": 304.7,
+      "maxY": 126.7,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "The main objective of this project was to determine whether treatment with eliglustat in adult GD1 patients provides an optimal response in daily clinical practice. Furthermore, whether this response is reflected in plasmatic biomarkers and patients' quality of life."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 3
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 694.4,
+      "minX": 56.7,
+      "maxY": 701.9,
+      "maxX": 97.3,
+      "page": 3
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 550.4,
+      "minX": 56.7,
+      "maxY": 677.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "The study was performed between May 2019- September 2022 and included adult patients with GD1 from all over Spain who were being treated with eliglustat. Patients were enrolled at the discretion of their physician (in accordance with the indications specified in the SPC of the drug) [8] and on the basis of their own willingness to participate. All participants signed a study specific informed consent, which was approved by the Research Ethics Committee of the Community of Aragón (Spain). The inclusion/exclusion criteria are detailed in Additional file 1: Table S1."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 500.4,
+      "minX": 56.7,
+      "maxY": 545.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "In addition all patients, previously to start therapy with eliglustat are evaluated by a cardiologist and perform an ECG and echocardiogram, it is a recommendation in Spanish patients before prescription."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 380.4,
+      "minX": 56.6,
+      "maxY": 473.5,
+      "maxX": 290.7,
+      "page": 3
+    }],
+    "text": "GBA1 genotype, clinical data, liver and spleen volumes, blood counts, biochemical and hemostatic parameters were collected before the switch to eliglustat treatment and after 1 and 2 years on this therapy and were provided by the physicians, as well as bone density assessment (DEXA). T- and Z-scores were analyzed taking into account the age and sex of the patients, as previously reported [28]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 332.9,
+      "minX": 56.7,
+      "maxY": 377.7,
+      "maxX": 290.7,
+      "page": 3
+    }],
+    "text": "Magnetic resonance imaging (MRI) was analyzed by the same expert before the treatment change and one and two years later. S-MRI was calculated as previously published [29]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 284.2,
+      "minX": 56.7,
+      "maxY": 329.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "The CYP2D6 metabolizer profile was assessed in all patients prior to switching, as previously published [30]. In addition, the CYP2D6 activity score was calculated according to the recommendations of Gaedigk et al. [31]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 224.2,
+      "minX": 56.7,
+      "maxY": 257.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "The presence of adverse events during the study was reported by the patients' physicians in a form filled out at the same time that the biological sample was collected."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 152.9,
+      "minX": 56.7,
+      "maxY": 221.7,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "Patient-reported outcomes (PROs) were assessed using the Short Form Health Survey quality of life questionnaire before starting eliglustat treatment and after the first and second year of treatment. This information was compared with general Spanish population data published [32]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 116.4,
+      "minX": 56.7,
+      "maxY": 149.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "All patients were inquiry about the intake of analgesic and NSAIDs in order to have indirect information about the pain level."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 68.2,
+      "minX": 56.7,
+      "maxY": 89.5,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "The panel of biomarkers was evaluated at baseline and every 6 months during therapy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 584.7,
+      "minX": 304.7,
+      "maxY": 702,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "ChT activity was measured by fluorometry using 4-methylumbelliferone-b-D-triacetylchitotriosidase as substrate (Sigma Chemical Co., St. Louise, MO, USA), as previously described [33]. Concentrations of the cytokines CCL18/PARC, YKL-40, cathepsin S, hepcidin and lipocalin-2 were analyzed by immunoassay according to the manufacturer's instructions (DY394, DY2599, DY1183, DY8307 and DY1757, respectively, R&D Systems Europe, Ltd). Finally, GluSph concentration was measured by LC\u2013MS/MS as previously published [34]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 502.9,
+      "minX": 304.7,
+      "maxY": 558,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Statistical analyses were performed using R software (version R-4.2.0). Descriptive analysis was performed with median and interquartile range for quantitative variables and percentages and frequencies for qualitative variables."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 464.7,
+      "minX": 304.7,
+      "maxY": 498.1,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "The non-parametric Wilcoxon test was used to assess differences for biomarkers before eliglustat treatment and at one and two years."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 440.7,
+      "minX": 304.7,
+      "maxY": 462.1,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "For PROs, means were compared by t-test between baseline and two years."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 416.7,
+      "minX": 304.7,
+      "maxY": 438.1,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Differences with p value < 0.05 were considered statistically significant."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 395,
+      "minX": 304.7,
+      "maxY": 402.4,
+      "maxX": 337.8,
+      "page": 3
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 284.7,
+      "minX": 304.7,
+      "maxY": 378,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Thirty patients were enrolled in the study. None of the patients were naïve, and most were switched to eliglustat after several years of ERT (84%). All patients had completed 24 months of eliglustat therapy. The median age of the patients was 41.5 (Q1\u2013Q3: 30.50\u201355.00) years, and the gender distribution was 47% female and 53% male. GBA1 genotype, median years on therapy prior to eliglustat and prior therapies are detailed in Table 1."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 142.9,
+      "minX": 304.7,
+      "maxY": 246,
+      "maxX": 539.3,
+      "page": 3
+    }],
+    "text": "Pain information was reported by 13 patients before switching and after two years of treatment with eliglustat. Before the switch, 5 patients (38%) reported pain, two of them diffuse and three localized. After two years of treatment, 5 patients also reported pain, but two of them did not before the switch, both reporting localized pain. In addition, two patients did not report pain after the switch, one with diffuse and one with localized pain before the switch."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 68.7,
+      "minX": 304.7,
+      "maxY": 138.1,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Information about fatigue was reported by 12 patients, 5 of them (42%) reported this symptom before the switch and 4 of them did so after 2 years of treatment (33%). Two patients reported an improvement of this symptom with the new treatment, while one patient reported a worsening of the symptom."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 4
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390 Page 4 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 295,
+      "minX": 56.7,
+      "maxY": 340.4,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "Eight patients reported intake additional drugs as analgesics, NSAIDs, antidiabetic, antihypertensive or antidepressants. A 37% reduction in analgesic drug use two years after switching were reported in these patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 259.2,
+      "minX": 56.7,
+      "maxY": 292.4,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "At the time of inclusion, 23% of patients had comorbidities such as diabetes, arterial hypertension or cardiovascular event, previous neoplasia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 199,
+        "minX": 56.7,
+        "maxY": 232.4,
+        "maxX": 290.6,
+        "page": 4
+      },
+      {
+        "minY": 271,
+        "minX": 304.7,
+        "maxY": 340.4,
+        "maxX": 538.6,
+        "page": 4
+      }
+    ],
+    "text": "Four of the patients underwent splenectomy prior to conversion (13%) and were excluded from the assessment of splenomegaly. Of the remaining patients, only 17 reported information on the spleen, with mild enlargement in 7 patients (41%) before the switch and maintained in the same patients after one and two years of treatment. 15 patients reported information on liver size, only one of them had a mild hepatomegaly that was reduced after two years of treatment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 235.2,
+      "minX": 304.7,
+      "maxY": 268.4,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "In Table 2 we have detailed the clinical manifestations collected by the physicians during the baseline and follow-up visits."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 5
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 599.9,
+      "minX": 56.7,
+      "maxY": 691,
+      "maxX": 291.3,
+      "page": 5
+    }],
+    "text": "In terms of global bone involvement, the mean S-MRI at baseline was 5.2 (Q1\u2013Q3: 3.34\u20137.08), after 1 year of therapy it was 4.7 (Q1\u2013Q3: 2.86\u20136.45) (p = 0.008316) and after 2 years of eliglustat therapy it decreased to 4.2 (Q1\u2013Q3: 2.57\u20136.05) (p = 0.003434). It should be noted that more than 50% of patients had residual bone complications such as avascular necrosis, infarcts, joint replacement that are not reversible."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 525.7,
+      "minX": 56.7,
+      "maxY": 595,
+      "maxX": 291.3,
+      "page": 5
+    }],
+    "text": "Eight patients report information on bone mineral density assessment before switching and after two years of treatment. One patient (13%) recovered from osteoporotic status to normal, while two (25%) deteriorated from normal status to osteopenia. 5 patients (62%) maintained their DEXA values without changes since the switch."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 405.7,
+      "minX": 56.7,
+      "maxY": 523.1,
+      "maxX": 291.2,
+      "page": 5
+    }],
+    "text": "T and Z values at the lumbar spine were reported by 7 patients before the switch and after two years. Three of them met the evaluation criteria for T-score, with values of -1.3 (− 1.86/− 0.62) before the switch and − 2.2 (− 2.45/− 1.95) two years after the switch. The other 5 patients had Z-scores in the same range, with median and interquartile range values of − 1.6 (− 1.95/− 1.55) and − 0.5 (− 1.40/− 0.25) before and after 2 years, respectively. The differences were not statistically significant (p = 0.180 and p = 0.285, respectively)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 271.3,
+      "minX": 56.7,
+      "maxY": 364.6,
+      "maxX": 291.3,
+      "page": 5
+    }],
+    "text": "During the first year of treatment with eliglustat, patients generally reported good tolerability with mild and transient adverse events. After two years of treatment with eliglustat, only 26 patients reported adverse events. Grade 1 dyspepsia was reported by 27% (7/26) of patients, dry skin by 11% (3/26), and anxiety, hallucinations, headache, and constipation by 4% (1/26) each. One patient had a Helycobacter pilory infection."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 127,
+      "minX": 56.7,
+      "maxY": 242.1,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "As the study was conducted during the COVID-19 pandemic, physicians were asked for information on whether any patients had developed severe symptoms of COVID-19 or undergone changes in GD treatment, during lockdown in Spain. During the first 12 months, none of the patients experienced symptoms of COVID19 or a change in treatment regimen. After two years, most patients had adhered to the established vaccination schedule and 7 patients reported mild coronavirus infection."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.2,
+        "minX": 56.7,
+        "maxY": 95.6,
+        "maxX": 290.6,
+        "page": 5
+      },
+      {
+        "minY": 597.5,
+        "minX": 304.7,
+        "maxY": 702.8,
+        "maxX": 538.6,
+        "page": 5
+      }
+    ],
+    "text": "At baseline, both physical and mental health domains showed significant differences between GD patients compared to the Spanish general population. The main differences were observed in physical functioning, bodily pain, general health, vitality and emotional role. The comparative study was conducted between baseline and after two years of eliglustat therapy. A significant increase in physical function (p = 0.027), bodily pain (p = 0.010) and a trend in mental health (p = 0.067) was observed in this cohort after two years of eliglustat therapy compared to baseline (Fig. 1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 524.9,
+      "minX": 304.7,
+      "maxY": 558.3,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Hematological and biochemical information was collected before the treatment switch, at 12 months, and at 24 months on the new therapy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 453,
+      "minX": 304.7,
+      "maxY": 522.3,
+      "maxX": 539.3,
+      "page": 5
+    }],
+    "text": "Most of the values were in the normal range before starting eliglustat, with the exception of glucose and ferritin, both of which increased when compared to normal ranges for the adult population. The mean of the collected analytical data remained stable after two years of therapy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 357,
+      "minX": 304.7,
+      "maxY": 450.3,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Ferritin was higher than reference values, with a greater increase in men than in women. After 24 months of eliglustat treatment, levels were close to the normal range, with a notable decrease in men. (Table 3). Protein profile data showed two patients with gammopathies at baseline (7%), one monoclonal and the other polyclonal. Table 3. Analytical results."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 296.6,
+      "minX": 304.7,
+      "maxY": 317.8,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "At the first year checkpoint, two patients were lost to follow-up due to COVID-19 lockdown."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 72.4,
+      "minX": 310.7,
+      "maxY": 148.2,
+      "maxX": 522.1,
+      "page": 5
+    }],
+    "text": "Fig. 1 Results of SF\u201136 enquiry. Radial plot of all categories of the SF\u201136 questionnaire and global punctuation for the healthy population (data previously published by Alonso et al. [30]) and for our study population before switching and after 2 years with the new treatment. P.F: physical functioning; R.F: physical role functioning; B.P.: bodily pain; G.H.: general health perception; Vit: vitality; S.P.: social role functioning; E.R.: emotional role functioning; M.H.: mental health"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 6
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390 Page 6 of 12"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 322.5,
+      "minX": 56.7,
+      "maxY": 353.6,
+      "maxX": 291.3,
+      "page": 6
+    }],
+    "text": "ChT activity Chitotriosidase activity was null in three of the included patients. They were excluded from the analysis of this biomarker."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 296.3,
+        "minX": 56.7,
+        "maxY": 317.6,
+        "maxX": 290.6,
+        "page": 6
+      },
+      {
+        "minY": 308.2,
+        "minX": 304.7,
+        "maxY": 365.4,
+        "maxX": 538.6,
+        "page": 6
+      }
+    ],
+    "text": "Three of the patients have normal levels for this biomarker before switching to eliglustat (10%), but after one year of treatment, only one patient maintained levels in the normal range, while the other two patients increased their levels. After two years of treatment, three patients returned to the normal range and three others reached it (20%; 6 patients)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 71.5,
+      "minX": 62.7,
+      "maxY": 99,
+      "maxX": 531.9,
+      "page": 6
+    }],
+    "text": "Fig. 2 Boxplot comparing the classical biomarkers before the switch and after one and two years of treatment. Graphical representation of the mean results for the classical biomarkers before eliglustat treatment and after one and two years A ChT activity; B CCL18/PARC concentration; C GluSph concentration. ChT: Chitotriosidase activity; GluSph: glucosilsphingosine. *p value < 0.05; **p value < 0.01; ***p value < 0.001"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 7
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 657.4,
+      "minX": 56.7,
+      "maxY": 702.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "After the first year of treatment with eliglustat, most of the patients reduce the ChT values (60%; 18 patients) with a reduction of about 1.1 fold, which is not statistically significant (p = 0.0714; Fig. 2A)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 597.4,
+      "minX": 56.7,
+      "maxY": 654.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "Comparing the results before the switch and after two years of treatment, the number of patients with reduced ChT activity increased slightly (63%; 19 patients), with a 1.75 fold reduction. However, this change was not statistically significant (p = 0.1529, Fig. 2A)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 525.6,
+      "minX": 56.7,
+      "maxY": 582.8,
+      "maxX": 291.3,
+      "page": 7
+    }],
+    "text": "CCL18/PARC concentration Most patients achieve normal levels before switching to eliglustat (57%; 17 patients). This percentage decreased after one year of treatment (50%; 15 patients) and increased again after two years of treatment (73%; 22 patients)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 477.5,
+      "minX": 56.7,
+      "maxY": 522.8,
+      "maxX": 291.3,
+      "page": 7
+    }],
+    "text": "After one year on the new treatment, about half of the patients had a decrease in CCL18 levels (53%; 16 patients), while the other half had an increase, resulting in no change in mean levels (p = 0.2488; Fig. 2B)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 405.5,
+      "minX": 56.7,
+      "maxY": 474.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "Two years after the change, the reduction of the concentration affects more patients (83%, 25 patients) with a change on the mean values about 1.55 fold, this reduction being statistically significant when compared with the values before the change of treatment (p = 0.0012; Fig. 2B)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 346.1,
+      "minX": 56.7,
+      "maxY": 390.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "GluSph concentration Before switching to eliglustat, only 9 patients had undetectable values for GluSph (30%), after one year of treatment this number increased to 25 (83%) (See details data in Additional file 2: Table S2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 285.5,
+      "minX": 56.7,
+      "maxY": 342.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "Comparing the results between before the switch and the first year with the new treatment, almost all patients reduce the GluSph concentration (83%, 25 patients), with a 1.37 fold mean decrease. This decrease was higher two years after the switch, being about 1.64 fold."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 237.4,
+      "minX": 56.7,
+      "maxY": 282.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "The difference between the mean concentration before the switch and after one and two years was statistically significant (p = 0.0008 and p = 0.0245, respectively; Fig. 2C)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 141.6,
+      "minX": 56.7,
+      "maxY": 210.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "To look forward, the identification and characterization of new molecules may lead to innovative biochemical diagnostic approaches and follow-up of response to therapy on GD. In this line, we have evaluated the results at baseline and in the follow-up at 12 and 24 months YKL40, cathepsin S, hepcidine and lipocaline-2."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 93.4,
+      "minX": 56.7,
+      "maxY": 126.8,
+      "maxX": 290.6,
+      "page": 7
+    }],
+    "text": "YKL\u201140 After one year of treatment, the levels of this chemokine were reduced by about 1.35 times, but this change is not statistically significant (p = 0.6819)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 56.7,
+        "maxY": 90.8,
+        "maxX": 290.6,
+        "page": 7
+      },
+      {
+        "minY": 681.4,
+        "minX": 304.7,
+        "maxY": 702.9,
+        "maxX": 538.6,
+        "page": 7
+      }
+    ],
+    "text": "Meanwhile, after two years, this change was approximately 2.35 fold with a statistically significant difference compared to the values before switching (p = 0.00004; Fig. 3D)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 609.4,
+      "minX": 304.7,
+      "maxY": 666.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Cathepsin S After one year, median cathepsin S levels were about the same as before switching to eliglustat; after two years, these median levels increased 1.35 fold, but it was not statistically significant (p = 0.1936 and p = 0.0961 for one and two years, respectively) (Fig. 3C)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 525.4,
+      "minX": 304.5,
+      "maxY": 594.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Hepcidine The change in median values between pre-switch and post-switch values after one year of treatment was approximately 1.27 fold, decreasing to 1.1 fold after two years of treatment. None of these differences were statistically significant (p = 0.0941 and p = 0.7496, respectively) (Fig. 3A)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 453.6,
+      "minX": 304.5,
+      "maxY": 510.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Lipocaline\u20112 Differences between GD patients at baseline and healthy controls were analyzed for this new biomarker because no previous information was available, we observed an increase of lipocalin-2 in GD patients compared to controls (data not shown)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 381.5,
+      "minX": 304.7,
+      "maxY": 450.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "After one year of treatment with eliglustat, lipocalin-2 concentration decreased approximately 1.07 fold, and this reduction was higher after two years of treatment (approximately 1.27 fold), being statistically significant after this period (p = 0.3109 and p = 0.0155, respectively) (Fig. 3B)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 237.4,
+      "minX": 304.7,
+      "maxY": 342.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "We have analyzed separately patients previously treated with miglustat or ERT in order to to explore whether there are differences in biomarker follow-up at two years of treatment. In spite of the scarce number of patients included in miglustat group (N = 6) we have observed after two years on eliglustat therapy a significant reduction only in CCL18/PARC (p = 0.031) and YKL24 levels (p = 0.031) while in the ERT group was also observe in Lipocalin-2 (p = 0.017) (Fig. 4)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 215.7,
+      "minX": 304.7,
+      "maxY": 223,
+      "maxX": 353.6,
+      "page": 7
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 155.6,
+      "minX": 304.7,
+      "maxY": 210.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "GD1 is one of the rare diseases with several treatment options [5\u20138], this availability implies the need to evaluate the safety and efficacy of these treatments in real life, outside the standardized follow-up performed during clinical trials."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 93.4,
+      "minX": 304.7,
+      "maxY": 150.8,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "The availability of different treatments and the extensive screening of GD in Spain, where almost all patients are identified and treated if necessary [35, 36], is the reason why this study did not report information about patients with eliglustat as first-line treatment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 304.7,
+        "maxY": 90.8,
+        "maxX": 538.7,
+        "page": 7
+      },
+      {
+        "minY": 73.8,
+        "minX": 56.7,
+        "maxY": 190.4,
+        "maxX": 291.3,
+        "page": 8
+      }
+    ],
+    "text": "The clinical results obtained in this study after two years of treatment with eliglustat generally show stability of the measured parameters. Since these are patients with a median exposure to ERT of 17.0 years and most patients were stable in normal parameters, the extent of improvement is limited, but a finding of no worsening after switching is already important. These results are consistent with data collected in pre-approval clinical trials, such as the ENCORE study [13, 14]. In the ENGAGE study, in which eliglustat was administered as first-line therapy, improvements in some parameters such as visceral volume were observed [12]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 8
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390 Page 8 of 12"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 216,
+      "minX": 62.7,
+      "maxY": 243.4,
+      "maxX": 528.2,
+      "page": 8
+    }],
+    "text": "Fig. 3 Boxplot comparing the new biomarkers before the switch and after one and two years of treatment. Graphical representation of the mean results for the new biomarkers before eliglustat treatment and after one and two years A Hepcidine concentration; B Lipocaline\u20112 concentration; C Catepsine\u2011S concentration; D)YKL\u201140 concentration. *p value < 0.05; **p value < 0.01; ***p value < 0.001 and ****p value < 0.0001"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.2,
+        "minX": 304.7,
+        "maxY": 190.4,
+        "maxX": 539.3,
+        "page": 8
+      },
+      {
+        "minY": 482,
+        "minX": 56.7,
+        "maxY": 515.4,
+        "maxX": 290.6,
+        "page": 9
+      }
+    ],
+    "text": "Most patients with GD1 have bone symptoms, which are one of the most limiting factors in their daily lives. In the ENGAGE study, improvements in bone and bone marrow disease indicators were observed, while in the ENCORE study the values remained stable [12\u201314]. In addition, these real-world studies have shown stability in bone symptoms [15\u201317], but the results of our study did not show any changes in bone mineral density or T and Z scores after switching treatment, probably because of disease stabilization with previous treatment or the short duration of the study. It is important to consider the gender and age of patients as physiological factors that may affect the loss of bone mineral density."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 9
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390 Page 9 of 12"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 543.8,
+      "minX": 62.7,
+      "maxY": 571.1,
+      "maxX": 516.3,
+      "page": 9
+    }],
+    "text": "Fig. 4 Boxplot comparing the new biomarkers before the switch and after two years of treatment in patients previously treated with miglustat or ERT. Graphical representation of the mean results for the new biomarkers before eliglustat treatment and after two years A CCL18/PARC concentration; B YKL\u201140 concentration; C Lipocalin\u20112 concentration. *p value < 0.05; **p value < 0.01"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 350.8,
+      "minX": 56.7,
+      "maxY": 479.4,
+      "maxX": 291.3,
+      "page": 9
+    }],
+    "text": "Regarding health-related quality of life, it was maintained from the switch throughout treatment for one and two years in oral therapy patients, which may be attributed to the low severity of treatment-related adverse effects, most of them gastrointestinal symptoms. In contrast to other publications with discontinuation rates of 10\u201337%, none of the patients in our cohort required discontinuation [18, 37]. In addition, none of our patients, as well as none of the patients of Istaiti et al. reported cardiac AEs, probably due to the extensive pre-treatment evaluation [37]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 230,
+      "minX": 56.7,
+      "maxY": 347.4,
+      "maxX": 290.6,
+      "page": 9
+    }],
+    "text": "A significant increase was observed in physical function scores and in the reduction of bodily pain, with scores close to those of the general Spanish population. The mental health area also shows improvement, although it is not significant, but we consider that the study was conducted during the coronavirus pandemic and this point may be influenced by this circumstance. The change in drug administration may also be reflected in these results due to the gain of comfort and time availability with the oral therapy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.8,
+      "minX": 56.7,
+      "maxY": 227.4,
+      "maxX": 291.3,
+      "page": 9
+    }],
+    "text": "The discrepancies observed between the information obtained in the medical desk about pain and fatigue with the information provided by the patients in the quality of life surveys supports the physician's and patient's different perceptions of these symptoms and their evaluation. The incorporation of PROMs indicators for understanding the impact of GD on quality of life and patient's perceptions on care, can guide in decision-making processes [38]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74,
+        "minX": 56.7,
+        "maxY": 119.4,
+        "maxX": 290.6,
+        "page": 9
+      },
+      {
+        "minY": 362.8,
+        "minX": 304.7,
+        "maxY": 515.4,
+        "maxX": 538.6,
+        "page": 9
+      }
+    ],
+    "text": "Regarding laboratory tests, the limitation is the same as before, as most of the values are within the normal range due to the previous treatment. As before, the ENGAGE study shows an improvement in hemoglobin levels and platelet counts when the treatment is administered as first line [12]. Ferritin is one of the biomarkers that did not follow this trend, obtaining values highly increased with the previous treatment in both sexes and, although the values were reduced after the change they did not reach the normal range in females and did it but in the higher range in males. The interpretation of this marker is difficult because of the limited number of patients and the unspecified of this inflammatory maker, involved in other underlying processes. This trend has been previously observed in patients treated with ERT, where levels decreased after treatment but remained above normal levels [26]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 242.8,
+      "minX": 304.7,
+      "maxY": 359.4,
+      "maxX": 539.3,
+      "page": 9
+    }],
+    "text": "The important role of biomarkers in GD has been previously described both at diagnosis and for follow-up during therapy [19]. Biomarker analysis showed, as in daily practice, a maintained stability of levels one and two years after treatment change. After 2 years and despite the effect of the previous treatment, the reduction of CCL18/PARC and GluSph was statistically significant. This result may be related to the stimulation after switching and is in agreement with those previously reported [18, 37, 39]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 122.2,
+      "minX": 304.7,
+      "maxY": 239.4,
+      "maxX": 538.6,
+      "page": 9
+    }],
+    "text": "Regarding other biomarkers not as well established as the previous ones, YKL-40, known as chitinase 3-like1, has previously been shown to have increased expression in GD patients and has been associated with disease activity in the compartment with low ERT response [25]. This biomarker has been associated with the musculoskeletal system and increased in malignant bone diseases [40, 41]. Following this thinking, the results we obtained could be an early identification of bone improvement that needs to be confirmed with extended follow-up."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74,
+        "minX": 304.7,
+        "maxY": 119.4,
+        "maxX": 538.6,
+        "page": 9
+      },
+      {
+        "minY": 645.4,
+        "minX": 56.7,
+        "maxY": 702.8,
+        "maxX": 290.6,
+        "page": 10
+      }
+    ],
+    "text": "In addition, lipocalin-2, previously described as a possible biomarker of GD [42], showed a significant improvement after eliglustat treatment. The decrease in levels may be due to the relationship between lipocalin-2 and inflammatory mechanisms [43]. It has been shown that this molecule is activated by proinflammatory cytokines, which are altered in patients with Gaucher disease compared to controls [44]. This reduction has been more evident in patients previously treated with ERT."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 10
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 549.6,
+      "minX": 56.7,
+      "maxY": 642.8,
+      "maxX": 291.3,
+      "page": 10
+    }],
+    "text": "In conclusion, in our study, treatment with eliglustat maintains the efficacy achieved with ERT in adult patients with GD1 in real life, both in clinical practice and in laboratory testing. In addition, a reduction in levels of classical biomarkers was achieved after switching, as well as a reduction in new biomarkers such as lipocalin-2 and YKL-40. Finally, the adverse events are not severe enough to require the previous treatment to be restarted."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 513,
+      "minX": 56.7,
+      "maxY": 522.8,
+      "maxX": 143.6,
+      "page": 10
+    }],
+    "text": "Limitation of study"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 428.9,
+      "minX": 56.7,
+      "maxY": 510.3,
+      "maxX": 290.6,
+      "page": 10
+    }],
+    "text": "The small number of patients is always one of the most important limitations of studies focused on rare diseases. In this case, it is also possible that we are limited by a selection bias regarding the clinical stability of the disease in the patients, since most of them had achieved therapeutic goals with ERT and had been treated for a long time (about 17.0 years)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 405,
+      "minX": 56.7,
+      "maxY": 414.8,
+      "maxX": 185,
+      "page": 10
+    }],
+    "text": "Supplementary Information"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 271.6,
+      "minX": 304.7,
+      "maxY": 549.5,
+      "maxX": 537.8,
+      "page": 10
+    }],
+    "text": "1Fundación Española para el Estudio y Terapéutica de la Enfermedad de Gau\u2011 cher y otras lisosomales (FEETEG), Saragossa, Spain. 2Grupo de Investigación de Enfermedad de Gaucher (GIIS\u2011012), Instituto de Investigación Sanitaria de Aragón, Saragossa, Spain. 3Grupo Español de Enfermedades de Depósito Lisosomal (GEEDL), Sociedad Española de Hematología y Hemoterapia, Saragossa, Spain. 4Servicio de Hematología, Hospital Punta de Europa, Cádiz, Spain. 5Servicio de Hematología, Hospital Virgen del Puerto, Plasencia, Spain. 6Servicio de Medicina Interna, Hospital Universitario, 12 de Octubre, Madrid, Spain. 7Servicio de Hematología, Hospital de Torrecardenas, Almería, Spain. 8Unitat de Medicina Vascular i Metabolisme (UVASMET), Unitat de Recerca en Lípids i Arteriosclerosis, Hospital Universitari San Joan, CIBER de Diabetes y Enfermedades Metabólicas Asociadas, Instituto de Salud Carlos III, IISPV, Universitat Rovira i Virgili, Reus, Spain. 9Servicio de Hematología, Hospital Comarcal de Alcañiz, Teruel, Spain. 10Servicio de Medicina Interna, Hospital Serranía de Ronda, Málaga, Spain. 11Servicio de Hematología, Hospital Can Misses, Ibiza, Spain. 12Unidad de Nutrición y Metabolopatías, Hospital Univer\u2011 sitari i Politècnic La Fe, Valencia, Spain. 13Servicio de Hematología, Hospital Universitario Río Hortega, Valladolid, Spain. 14Departamento de Medicina, Universidad de Salamanca and Servicio de Hematología, Hospital Universitario de Salamanca, Salamanca, Spain. 15Servicio de Hematología, Hospital de La Vega Lorenzo Guirao, Murcia, Spain. 16Servicio de Medicina Interna, Hospital Universitari Joan XXIII, Tarragona, Spain. 17Servicio de Hematología, Hospital General Universitario Morales Meseguer, IMIB\u2011Pascual Parrilla, CIBERER\u2011U765, Murcia, Spain. 18Servicio de Hematología, Hospital Universitari i Politècnic La Fe, Valencia, Spain. 19Servicio de Hematología, Hospital Teresa Herrera, A Coruña, Spain. 20Servicio de Hematología, Hospital Comarcal Francesc de Borja, Valencia, Spain. 21Servicio de Hematología, Hospital Clínico Universitario de Valencia, Valencia, Spain. 22Servicio de Hematología, Hospital QuirónSalud, Saragossa, Spain. Received: 9 March 2023 Accepted: 1 October 2023"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 11
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 298.1,
+      "page": 12
+    }],
+    "text": "Serrano\u2011Gonzalo et al. Orphanet Journal ofRare Diseases (2023) 18:390"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 385.1,
+      "minX": 56.7,
+      "maxY": 392.5,
+      "maxX": 130.9,
+      "page": 12
+    }],
+    "text": "Publisher's Note"
+  }}
+]}

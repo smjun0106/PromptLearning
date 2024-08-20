@@ -1,0 +1,67 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","# Exploring the Efficacy and Safety of Ambroxol in Gaucher Disease: An Overview of Clinical Studies
+
+## Feda E. Mohamed and Fatma Al-Jasmi
+
+### 1. Introduction
+
+#### 1.1 Overview of Gaucher Disease
+
+Gaucher disease (GD, OMIM #230800) is the second most prevalent lysosomal storage disorder. It has a worldwide incidence of about 1:40,000 to 1:60,000 births. GD is a rare autosomal recessive disorder caused by genetic variations in the GBA1 gene. This leads to defective glucocerebrosidase (GCase) enzyme characterized by low residual activity in affected tissues. More than 690 different variants in the GBA1 gene have been reported. Abnormal low GCase activity accumulates its glucosylceramide (GlcCer) substrate in organs like bone marrow, spleen, and liver. GD is categorized into types I, II, and III based on genetic variant nature, residual activity levels, neuronal involvement, disease severity, and prognosis. Type I is non-neuronopathic GD, while types II and III are neuronopathic-GD (nGD).
+
+GD presents a wide range of clinical manifestations. GD type I (GD1) is the most common form, primarily distinguished by the absence of neurological impairment. The average age of onset is 10–20 years old. Clinical features include splenomegaly, hepatomegaly, fatigue, gallstone formation, anemia, and thrombocytopenia. Bone involvement is seen in approximately 80% of GD1 cases. GD1 patients have a significantly higher risk of developing Parkinson's disease (PD). GD type III (GD3) patients are similarly affected with visceral symptoms but have neurological involvement before age 20. Systemic features include enlarged liver and spleen, anemia, thrombocytopenia, bone abnormalities, and early-onset horizontal supranuclear gaze palsy. Neurological symptoms range from cognitive impairment to muscle weakness. GD type II (GD2) is the rarest and most severe form, typically onset at 1–6 months of age with a mean survival age of 11.7 months. Neurological impairments appear initially as oculomotor abnormalities followed by brainstem involvement.
+
+#### 1.2 Current Medicational Options for GD
+
+Two categories of clinically approved medications for GD are Enzyme Replacement Therapy (ERT) and Substrate Reduction Therapy (SRT). ERT involves administering recombinant enzymes to replace the deficient enzyme. SRT focuses on reducing the production of the accumulated substrate. ERT drugs include Imiglucerase, Velaglucerase alfa, and Taliglucerase alfa. SRT drugs include Eliglustat and Miglustat. Small chemical chaperones are a promising approach for treating diseases caused by improperly folded proteins like GD. Ambroxol (ABX) has been identified as an EET agent for rescuing misfolded GCase enzymes. ABX binds and stabilizes the misfolded GCase enzyme in the ER, facilitating its trafficking to lysosomes.
+
+### 2. Ambroxol as a Pharmacological Chaperone Therapy
+
+ABX is an oral mucolytic drug available over the counter in various countries. It has been effective as an expectorant, anti-inflammatory, and antioxidant agent. ABX has shown an anesthetic effect by inhibiting Na+ channels, Ca2+ channels, and glutamate receptors. ABX is available in multiple prescription formulations. ABX's chaperoning activity demonstrated positive enhancement in mutated GCase expression, residual activity, and/or glucosylceramide accumulation for different GD variants. ABX interacts with both active and non-active site residues of the GCase enzyme. ABX's mechanism involves direct binding for enzyme stabilization, upregulation of expression, changes in lysosomal pH, and induction of GCase expression. ABX enhances both trafficking and activity of ER-retained GCase in patients' fibroblast cells. ABX has shown to boost lysosomal activity and facilitate the removal of protein aggregates. ABX induces mitochondrial activation and enhances mitochondrial mass and density.
+
+### 3. Clinical Studies on Ambroxol
+
+#### 3.1 Gaucher Disease Assessment Parameters and Monitoring
+
+There is no conclusive biomarker that can reliably predict the risk associated with all aspects of GD morbidity. Clinical parameters are the primary method for establishing treatment objectives and evaluating outcomes. Assessing enzymatic activity is key to determining the effectiveness of ABX treatment. Other biomarkers like substrate accumulation parameters can be measured. Platelet count monitoring is crucial for GD management. Abdominal MRI is used to measure liver and spleen dimensions. Bone abnormalities are best followed through radiology via bone MRI. Patients with nGD forms require additional neurological monitoring.
+
+#### 3.2 Ambroxol Effectiveness and Response Variability in Gaucher Disease Patients
+
+ABX repurposing efficacy in GD patients has been evaluated in 14 clinical trials. Positive responses have encouraged off-label use of ABX for GD. ABX has been safe and well-tolerated in most cases. Observational data involving 28 GD patients showed improved overall clinical status. A prospective open-label clinical trial assessed high-dose ABX in GD1 patients. ABX showed potential in improving platelet count, LysoGb1, and lumbar spine T-score. Shaare Zedek Medical Center's Gaucher Unit tested ABX in GD1 patients who had never been on ERT. ABX showed significant improvement in hemoglobin levels and platelet counts. ABX has shown analgesic properties by inhibiting calcium channels. ABX has been effective in managing pain associated with GD.
+
+#### 3.3 The Significance of Ambroxol Dosage and Its Role as a Supplementary Treatment
+
+Proper ABX dosage selection is crucial. Higher doses are probably unnecessary in GD1 patients. ABX has been investigated as a potential complementary therapy for GD patients. ABX has shown significant response in combination with ERT. Better responses in ABX-treated patients are associated with long-term ERT.
+
+#### 3.4 Preclinical Assessment
+
+Preclinical assessment can help optimize ABX treatment using patient-derived cells. The response to ABX chaperoning effect is mutation-specific. Factors other than genotype, such as age and genetic modifiers, can affect ABX response.
+
+#### 3.5 Safety and Adverse Effects
+
+ABX treatment has generally been safe with limited adverse effects. Most patients tolerate ABX well. Adverse effects are typically mild and transient. High-dosage ABX has shown promising results in managing various medical conditions. Careful monitoring is essential, especially with long-term administration and high dosages.
+
+### 4. Conclusion
+
+The use of ABX in GD treatment is associated with uncertainty due to unresolved clinical issues. Collaborative efforts are needed to support clinical studies involving more patients. Further research and long-term studies are needed to comprehensively assess the safety and potential adverse effects of ABX.
+
+### Author Contributions
+
+FM: Conceptualization, Writing–original draft, Writing–review and editing. FA-J: Funding acquisition, Supervision, Writing–review and editing.
+
+### Funding
+
+This research is supported by ASPIRE, the technology program management pillar of Abu Dhabi's Advanced Technology Research Council (ATRC), via the ASPIRE Precision Medicine Research Institute Abu Dhabi (ASPIREPMRIAD) award grant number VRI-20-10.
+
+### Conflict of Interest
+
+The authors declare no commercial or financial relationships that could be construed as a potential conflict of interest.
+
+### Publisher's Note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors, and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+### References
+
+[References not included in the extraction]"

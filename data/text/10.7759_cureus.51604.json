@@ -1,0 +1,786 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 752.6,
+      "minX": 183.3,
+      "maxY": 779.8,
+      "maxX": 490.8,
+      "page": 1
+    }],
+    "text": "Uncovering a New Family Cluster of Gaucher Disease: A Case Report"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 734,
+      "minX": 183.3,
+      "maxY": 740.2,
+      "maxX": 440.4,
+      "page": 1
+    }],
+    "text": "Ana Carvoeiro 1, Miguel Costa 2, Joana Silva 3, Paula Felgueiras 1, Diana Guerra 1"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 631.4,
+      "minX": 183.3,
+      "maxY": 640.1,
+      "maxX": 234.4,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "abstract",
+    "positions": [{
+      "minY": 516.1,
+      "minX": 183.3,
+      "maxY": 622.7,
+      "maxX": 527.8,
+      "page": 1
+    }],
+    "text": "Gaucher disease (GD) is a recessive autosomal lysosomal storage disorder caused by a deficiency in glucocerebrosidase, leading to the accumulation of undigested glycolipids in the lysosomes of monocytes and macrophages. Patients with GD exhibit a spectrum of phenotypic heterogeneity and are broadly classified into three subtypes. Type 1 is the most common and is not associated with neurological damage, while types 2 and 3 are more severe, presenting with acute neuropathic and subacute neuropathic symptoms, respectively. A thorough accurate initial multisystemic assessment is crucial for evaluating the damage to all potentially affected organs and determining the disease burden. This case report highlights the intricacies of GD type 1 by providing a thorough exploration of the clinical presentation and showcasing valuable insights into the unique manifestations of the disease. The key feature was his individual and family medical history, which allowed the identification and treatment of another case within the community."
+  }},
+  {"paragraph": {
+    "role": "abstract",
+    "positions": [{
+      "minY": 462.1,
+      "minX": 183.3,
+      "maxY": 485.5,
+      "maxX": 503,
+      "page": 1
+    }],
+    "text": "Categories: Genetics, Internal Medicine Keywords: enzyme replacement therapy, cytopenias, hepatosplenomegaly, deficiency in glucocerebrosidase, lysosomal storage disorder, gaucher disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 435.7,
+      "minX": 183.3,
+      "maxY": 444.5,
+      "maxX": 256.7,
+      "page": 1
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 371.5,
+      "minX": 183.3,
+      "maxY": 427.1,
+      "maxX": 526,
+      "page": 1
+    }],
+    "text": "First described in 1882, Gaucher disease (GD) is a recessive autosomal lysosomal storage disorder caused by a deficiency in glucocerebrosidase, leading to the accumulation of undigested glucocerebroside in the lysosomes of monocytes and macrophages [1]. Gaucher cells, the affected leukocytes, tend to accumulate primarily in the bone marrow, liver, spleen, and lungs, resulting in hepatosplenomegaly and cytopenias. Moreover, GD frequently encompasses neurological and skeletal manifestations, which are the most disabling features [2,3]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 257.5,
+      "minX": 183.3,
+      "maxY": 353.9,
+      "maxX": 530.3,
+      "page": 1
+    }],
+    "text": "The most prevalent mutations associated with this disease are N370S (p.Asn409Ser) and L444P (p.Leu483Pro) [4,5]. Patients with GD exhibit a spectrum of phenotypic heterogeneity and are broadly classified into three subtypes. Type 1 is the most common and it is not associated with acute/subacute neurological damage, while types 2 and 3 are more severe, presenting with acute neuropathic and subacute neuropathic symptoms, respectively [6]. Type 1 GD represents 90-95% of all cases of GD and, although not life-threatening, it diminishes the quality of life and increases morbidity [6,7]. Although it is a panethnic disorder, type 1 GD is especially prevalent among individuals of Ashkenazi Jewish descent [8]. In the last years, it has been reported that type 1 GD is associated with an increased risk of certain malignancies. Despite being considered a non-neuropathic type, in recent years, it has been recognized that type 1 GD may be associated with parkinsonism [9]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 204.6,
+      "minX": 183.3,
+      "maxY": 239.8,
+      "maxX": 522.6,
+      "page": 1
+    }],
+    "text": "The median age of diagnosis typically falls between 10 and 20 years, requiring the measurement of glucocerebrosidase activity in peripheral leukocytes and molecular analysis [10]. A throughout accurate initial multisystemic assessment is crucial for evaluating the damage to all potentially affected organs and determining the disease burden."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 141.6,
+      "minX": 183.3,
+      "maxY": 187,
+      "maxX": 529.5,
+      "page": 1
+    }],
+    "text": "This compelling case report highlights the intricacies of GD type 1 through a comprehensive analysis of a 40-year-old male patient. The report provides a throughout exploration of the clinical presentation, offering valuable insights into the unique manifestations of the disease. A distinctive aspect of this report lies in its emphasis on genetic and familial considerations, adding a critical dimension to the understanding of the disease's broader impact."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 115.2,
+      "minX": 183.3,
+      "maxY": 124,
+      "maxX": 293.2,
+      "page": 1
+    }],
+    "text": "Case Presentation"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 81.6,
+        "minX": 183.3,
+        "maxY": 106.6,
+        "maxX": 527.9,
+        "page": 1
+      },
+      {
+        "minY": 777.2,
+        "minX": 183.3,
+        "maxY": 781.8,
+        "maxX": 449.1,
+        "page": 2
+      }
+    ],
+    "text": "A 40-year-old Caucasian man presented to the emergency department with abdominal pain in the left lower quadrant lasting for one week, characterized by moderate intensity and only slight relief with paracetamol use every eight hours. The patient also reported abdominal distention, fatigue, and significant weight loss (eight kilograms in the past month, accounting for 14% of his normal body weight)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 704,
+      "minX": 183.3,
+      "maxY": 759.6,
+      "maxX": 527.5,
+      "page": 2
+    }],
+    "text": "His past medical records revealed moderate asymptomatic thrombocytopenia dating back to 2010 and never studied, with a recorded minimum platelet count of 78,000. He is a former smoker with a history of 10 packyears; he also had a well-documented family predisposition to unexplained thrombocytopenia. Multiple family members reported experiencing low platelet levels from a young age. Notably, his sister was recently diagnosed with moderate thrombocytopenia (platelets=68,000x10 12/L) during her hospital admission for the birth of her healthy child."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 671.6,
+      "minX": 183.3,
+      "maxY": 686.4,
+      "maxX": 530.7,
+      "page": 2
+    }],
+    "text": "During the physical examination, conjunctival pallor (+), hepatomegaly (5 cm below the right costal margin), and non-tender massive splenomegaly (10 cm below the left costal margin) were detected."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 577.9,
+      "minX": 183.3,
+      "maxY": 653.9,
+      "maxX": 529.2,
+      "page": 2
+    }],
+    "text": "Laboratory results revealed pancytopenia (hemoglobin=11.2g/dL, white blood cells=3.10x10 9/L, and platelets=34,000x10 12/L), an erythrocyte sedimentation rate (ESR) of 26 mm/hour, a serum C reactive protein of 3 mg/dL, and a procalcitonin of 0.05 ng/mL. Liver enzymes, serum proteins, albumin levels, kidney function tests, and urine analysis were unremarkable. Coagulation tests showed a prothrombin time (PT) of 13.4s (control 11.4s), an International Normalized Ratio (INR) of 1.17, and a partial thromboplastin time (PTT) of 33.8s (control 30.0s) (Table 1). Peripheral blood smear exhibited moderate anisocytosis without appreciable morphological changes or platelet aggregates. Tests for HIV, hepatitis B, and hepatitis C were negative."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 544.3,
+      "minX": 77.1,
+      "maxY": 549.4,
+      "maxX": 467.2,
+      "page": 2
+    }],
+    "text": "Parameter Result Reference Range"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 210.6,
+      "minX": 72.9,
+      "maxY": 246.1,
+      "maxX": 513.5,
+      "page": 2
+    }],
+    "text": "TABLE 1: Laboratory results revealing pancytopenia. Activity of glucocerebrosidase is below the reference range. The results also show a significant increase in the enzymatic activity of plasma β-D chitotriosidase and glucosylsphingosine (lyso-Gb1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 113.4,
+      "minX": 183.3,
+      "maxY": 158.8,
+      "maxX": 526.6,
+      "page": 2
+    }],
+    "text": "Abdominal ultrasound revealed significant enlargement of the portal vein, marked hepatomegaly, and massive splenomegaly with multiple hypoenhancing nodules scattered throughout the spleen lacking specificity. Subsequent abdominal/pelvic CT and MRI confirmed these findings, with the liver measuring 22 cm in the midclavicular line and the spleen 28.4 cm along the bipolar axis, excluding signs of splenic vein thrombosis (Figure 1)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 2
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 2 of 7"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 261.7,
+      "minX": 190.5,
+      "maxY": 297.2,
+      "maxX": 503.4,
+      "page": 3
+    }],
+    "text": "FIGURE 1: Abdominal and pelvic CT revealing significant hepatosplenomegaly and multiple hypoenhancing nodules scattered throughout the spleen."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 184.8,
+      "minX": 183.3,
+      "maxY": 230.2,
+      "maxX": 524.8,
+      "page": 3
+    }],
+    "text": "Given the identified hepatomegaly, massive splenomegaly, and pancytopenia, a myelogram and bone marrow biopsy were performed. Considering the patient's long-standing, non-studied thrombocytopenia, differential diagnosis included storage disease, hematological disorders (such as leukemia/lymphoma), and autoimmune diseases. A screening technique for storage diseases, the dried blood spot (DBS), was also conducted."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 111.6,
+      "minX": 183.3,
+      "maxY": 167.2,
+      "maxX": 527.5,
+      "page": 3
+    }],
+    "text": "The bone marrow aspirate showed no signs of hematological disease, but the biopsy indicated morphological and immunohistochemical characteristics suggestive of GD Type 1 (Figures 2-4). DBS results further supported the GD diagnosis, showing a partial deficit in β-glucosidase activity and a significant increase in the enzymatic activity of β-D-chitotriosidase, a marker used for treatment effectiveness and prognostic evaluation. Additionally, elevated levels of glucosylsphingosine (lyso-Gb1), a reliable biomarker, were detected (Table 1)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 3
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 3 of 7"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 490.3,
+      "minX": 190.5,
+      "maxY": 511.4,
+      "maxX": 519.2,
+      "page": 4
+    }],
+    "text": "FIGURE 2: Bone marrow biopsy revealing diffuse infiltration by Gaucher cells (some of them delimited by circles)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 109.8,
+      "minX": 190.5,
+      "maxY": 188.5,
+      "maxX": 511.4,
+      "page": 4
+    }],
+    "text": "FIGURE 3: Bone marrow histology showing macrophages laden with glucocerebroside (Gaucher cell, arrow). Periodic acid-Schiff (PAS) and periodic acid\u2013Schiff\u2013diastase (PASD) staining are positive in Gaucher cells (diastase resistant), which is translated by strongly positive granular or fibrillar material in the cytoplasm, with the characteristic 'wrinkled tissue paper' appearance."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 4
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 4 of 7"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 490.3,
+      "minX": 190.5,
+      "maxY": 511.4,
+      "maxX": 518.6,
+      "page": 5
+    }],
+    "text": "FIGURE 4: Immunohistochemical stain for CD68 helped identify isolated Gaucher's cells, which are hystiocytic in nature."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 413.5,
+      "minX": 183.3,
+      "maxY": 458.9,
+      "maxX": 518.3,
+      "page": 5
+    }],
+    "text": "GD was confirmed through leukocyte glucocerebrosidase enzyme activity assessment (1.0 nmol/hr/mg) (Table 1) and genetic analysis, revealing compound heterozygosity for N370S (p.Asn409Ser) and L44P (p.Leu483Pro) mutations. These comprehensive findings contribute significantly to the understanding of GD Type 1 in this patient, providing valuable insights for both clinical management and further research endeavors."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 330.1,
+      "minX": 183.3,
+      "maxY": 395.9,
+      "maxX": 528.1,
+      "page": 5
+    }],
+    "text": "While there is no cure for GD, enzyme replacement therapy with imiglucerase was initiated, leading to a definitive diagnosis. Afterward, another GD case within the patient's family was discovered: the patient's sister, previously diagnosed with thrombocytopenia of 68 000 platelets, had also a DBS showing partial enzyme deficit and she is currently being followed up at the same reference center where our patient is followed. This case not only emphasizes the importance of early diagnosis and treatment but also emphasizes the significance of detailed past and family medical history in identifying potential cases of rare diseases."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 303.7,
+      "minX": 183.3,
+      "maxY": 312.5,
+      "maxX": 250.5,
+      "page": 5
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 249.7,
+      "minX": 183.3,
+      "maxY": 295,
+      "maxX": 523.8,
+      "page": 5
+    }],
+    "text": "GD is a rare autosomal recessive genetic disorder caused by a deficiency of the lysosomal enzyme glucocerebrosidase/β-glucosidase, resulting in the accumulation of glucocerebroside in lysosomes of macrophages [1]. This disorder manifests with a broad spectrum of clinical presentations, including cytopenia, hepatosplenomegaly, skeletal manifestations, and, in some cases, neurological impairment, the latter being a particularly debilitating feature."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 207,
+      "minX": 183.3,
+      "maxY": 232,
+      "maxX": 521.7,
+      "page": 5
+    }],
+    "text": "GD is the most common lysosomal storage disease worldwide, with an estimated frequency of 1 in 40,000 individuals [2]. In Portugal, around 140 individuals are estimated to have GD being the birth prevalence in the Portuguese population of 1.4 per 100 000 live births [11-13]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 144,
+      "minX": 183.3,
+      "maxY": 189.4,
+      "maxX": 530.9,
+      "page": 5
+    }],
+    "text": "While this disorder can affect people of all races and ethnic backgrounds and may manifest at any age, a significant number of cases are typically diagnosed during adulthood [14]. Despite symptoms often emerging in the early twenties, the diagnosis of rare diseases like GD is frequently delayed [15]. One in six patients with GD may wait up to seven years before receiving a definitive diagnosis, primarily due to the challenge posed by other diseases with similar presentations [13]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 81,
+        "minX": 183.3,
+        "maxY": 126.4,
+        "maxX": 526.4,
+        "page": 5
+      },
+      {
+        "minY": 777.2,
+        "minX": 183.3,
+        "maxY": 781.8,
+        "maxX": 199.7,
+        "page": 6
+      }
+    ],
+    "text": "Three major phenotypic presentations of GD have been identified: Type 1, the most reported worldwide, does not exhibit associated neurological symptoms, while types 2 and 3 are characterized by neurological impairment. Type 1, considered \"the adult type,\" is marked by painless hepatosplenomegaly, leading to significant abdominal distension and cytopenias, often resulting from hypersplenism and bone marrow infiltration by Gaucher cells [4,16]. Notably, some patients with type 1 may only present with splenomegaly [6,7]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 5
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 5 of 7"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 734.6,
+      "minX": 183.3,
+      "maxY": 759.6,
+      "maxX": 530.9,
+      "page": 6
+    }],
+    "text": "Our patient, exhibiting massive splenomegaly, prompted a thorough investigation, given the limited number of conditions associated with such a presentation. Considering the patient's extreme weight loss and to exclude hematologic malignancy, a bone marrow examination was performed."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 692,
+      "minX": 183.3,
+      "maxY": 717,
+      "maxX": 530.8,
+      "page": 6
+    }],
+    "text": "The personal and family history of thrombocytopenia were key indicators, raising a high degree of diagnostic suspicion for a storage disorder. Nowadays, diagnosing lysosomal storage diseases is enabled by painless techniques such as DBS on filter paper [17], as applied in this case."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 649.4,
+      "minX": 183.3,
+      "maxY": 674.4,
+      "maxX": 526.3,
+      "page": 6
+    }],
+    "text": "After confirming a partial deficit in glucocerebrosidase activity through DBS, subsequent leukocyte assessment and genetic analysis identified two mutations, confirming GD. Additionally, biomarkers such as chitotriosidase and lyso-Gb1 [18-20] were measured for disease monitoring."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 623,
+      "minX": 183.3,
+      "maxY": 631.7,
+      "maxX": 258.9,
+      "page": 6
+    }],
+    "text": "Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 568.9,
+      "minX": 183.3,
+      "maxY": 614.3,
+      "maxX": 520.7,
+      "page": 6
+    }],
+    "text": "The authors highlight the need for prompt consideration of lysosomal storage diseases in cases of unexplained massive splenomegaly, as early detection significantly impacts patient management and prognosis. This case report contributes to the scientific community's understanding of a rarely suspected diagnostic possibility, emphasizing the importance of individual and family medical history in identifying and treating other cases within a community."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 542.5,
+      "minX": 183.3,
+      "maxY": 551.3,
+      "maxX": 317.6,
+      "page": 6
+    }],
+    "text": "Additional Information"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 526.3,
+      "minX": 183.3,
+      "maxY": 533.4,
+      "maxX": 286.4,
+      "page": 6
+    }],
+    "text": "Author Contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 501.7,
+      "minX": 183.3,
+      "maxY": 516.5,
+      "maxX": 532.1,
+      "page": 6
+    }],
+    "text": "All authors have reviewed the final version to be published and agreed to be accountable for all aspects of the work."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 479.5,
+      "minX": 183.3,
+      "maxY": 484.1,
+      "maxX": 398.1,
+      "page": 6
+    }],
+    "text": "Concept and design: Ana Carvoeiro, Joana Silva, Paula Felgueiras"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 457.3,
+      "minX": 183.3,
+      "maxY": 461.9,
+      "maxX": 500.9,
+      "page": 6
+    }],
+    "text": "Acquisition, analysis, or interpretation of data: Ana Carvoeiro, Miguel Costa, Joana Silva, Paula"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 447.1,
+        "minX": 183.3,
+        "maxY": 451.7,
+        "maxX": 262.4,
+        "page": 6
+      },
+      {
+        "minY": 424.9,
+        "minX": 183.3,
+        "maxY": 429.5,
+        "maxX": 411.5,
+        "page": 6
+      }
+    ],
+    "text": "Felgueiras, Diana Guerra Drafting of the manuscript: Ana Carvoeiro, Miguel Costa, Joana Silva"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 402.7,
+      "minX": 183.3,
+      "maxY": 407.3,
+      "maxX": 514.4,
+      "page": 6
+    }],
+    "text": "Critical review of the manuscript for important intellectual content: Ana Carvoeiro, Miguel Costa,"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 392.5,
+        "minX": 183.3,
+        "maxY": 397.1,
+        "maxX": 320.9,
+        "page": 6
+      },
+      {
+        "minY": 370.3,
+        "minX": 183.3,
+        "maxY": 374.9,
+        "maxX": 328.8,
+        "page": 6
+      }
+    ],
+    "text": "Joana Silva, Paula Felgueiras, Diana Guerra Supervision: Paula Felgueiras, Diana Guerra"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 345.1,
+      "minX": 183.3,
+      "maxY": 352.2,
+      "maxX": 241.1,
+      "page": 6
+    }],
+    "text": "Disclosures"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 269.5,
+      "minX": 183.3,
+      "maxY": 335.3,
+      "maxX": 529.8,
+      "page": 6
+    }],
+    "text": "Human subjects: Consent was obtained or waived by all participants in this study. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 243,
+      "minX": 183.3,
+      "maxY": 251.8,
+      "maxX": 251.2,
+      "page": 6
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 230.4,
+      "minX": 197.7,
+      "maxY": 234.7,
+      "maxX": 525.5,
+      "page": 6
+    }],
+    "text": "1. Hruska KS, LaMarca ME, Scott CR, Sidransky E: Gaucher disease: mutation and polymorphism spectrum in"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 211.2,
+      "minX": 197.7,
+      "maxY": 225,
+      "maxX": 526,
+      "page": 6
+    }],
+    "text": "the glucocerebrosidase gene (GBA). Hum Mutat. 2008, 29:567-83. 10.1002/humu.20676 2. Charrow J, Andersson HC, Kaplan P, et al.: The Gaucher registry: demographics and disease characteristics"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 192,
+      "minX": 197.7,
+      "maxY": 205.8,
+      "maxX": 524,
+      "page": 6
+    }],
+    "text": "of 1698 patients with Gaucher disease. Arch Intern Med. 2000, 160:2835-43. 10.1001/archinte.160.18.2835 3. Wenstrup RJ, Roca-Espiau M, Weinreb NJ, Bembi B: Skeletal aspects of Gaucher disease: a review . Br J"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 172.8,
+      "minX": 197.7,
+      "maxY": 186.6,
+      "maxX": 519.1,
+      "page": 6
+    }],
+    "text": "Radiol. 2002, 75 Suppl 1:A2-12. 10.1259/bjr.75.suppl_1.750002 4. Cassinerio E, Graziadei G, Poggiali E: Gaucher disease: a diagnostic challenge for internists . Eur J Intern"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 153.6,
+      "minX": 197.7,
+      "maxY": 167.4,
+      "maxX": 528.4,
+      "page": 6
+    }],
+    "text": "Med. 2014, 25:117-24. 10.1016/j.ejim.2013.09.006 5. de la Rocha AM: Co-morbidities, biochemical and genetic aspects in Gaucher's disease: molecular diagnosis"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 105.6,
+      "minX": 197.7,
+      "maxY": 148.2,
+      "maxX": 529.7,
+      "page": 6
+    }],
+    "text": "in Cuba (Article in Spanish). Rev Cub Gen. 2012, 6:8-19. 6. Kaplan P, Andersson HC, Kacena KA, Yee JD: The clinical and demographic characteristics of nonneuronopathic Gaucher disease in 887 children at diagnosis. Arch Pediatr Adolesc Med. 2006, 160:603-8. 10.1001/archpedi.160.6.603 7. Grabowski GA, Zimran A, Ida H: Gaucher disease types 1 and 3: phenotypic characterization of large"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 76.8,
+      "minX": 197.7,
+      "maxY": 100.2,
+      "maxX": 517.3,
+      "page": 6
+    }],
+    "text": "populations from the ICGG Gaucher Registry. Am J Hematol. 2015, 90 Suppl 1:S12-8. 10.1002/ajh.24063 8. Mistry PK, Lopez G, Schiffmann R, Barton NW, Weinreb NJ, Sidransky E: Gaucher disease: progress and ongoing challenges. Mol Genet Metab. 2017, 120:8-21. 10.1016/j.ymgme.2016.11.006"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 6
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 6 of 7"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 758.6,
+      "minX": 194.1,
+      "maxY": 782,
+      "maxX": 511.7,
+      "page": 7
+    }],
+    "text": "9. Gan-Or Z, Giladi N, Orr-Urtreger A: Differential phenotype in Parkinson's disease patients with severe versus mild GBA mutations. Brain. 2009, 132:e125. 10.1093/brain/awp161 10. Grabowski GA: Phenotype, diagnosis, and treatment of Gaucher's disease . Lancet. 2008, 372:1263-71."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 739.4,
+      "minX": 194.1,
+      "maxY": 753.2,
+      "maxX": 525.4,
+      "page": 7
+    }],
+    "text": "10.1016/S0140-6736(08)61522-6 11. Oliveira Sá A, Oliveira N: Gaucher disease and enzyme replacement therapy: sample of a service (Article in"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 720.2,
+      "minX": 194.1,
+      "maxY": 734,
+      "maxX": 528.7,
+      "page": 7
+    }],
+    "text": "Portuguese). RPMI [Internet]. 2022, 7:89-94. 10.24950/rspmi.632 12. Pinto R, Caseiro C, Lemos M, et al.: Prevalence of lysosomal storage diseases in Portugal . Eur J Hum Genet."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 701,
+      "minX": 194.1,
+      "maxY": 714.8,
+      "maxX": 520.8,
+      "page": 7
+    }],
+    "text": "2004, 12:87-92. 10.1038/sj.ejhg.5201044 13. Anemia, fatigue and tiredness: the \"unsuspected\" signs of Gaucher Disease . (2018). Accessed: August 20,"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 681.8,
+      "minX": 194.1,
+      "maxY": 695.6,
+      "maxX": 516.8,
+      "page": 7
+    }],
+    "text": "2021: 14. Mehta A: Epidemiology and natural history of Gaucher's disease . Eur J Intern Med. 2006, 17 Suppl:S2-5."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 633.8,
+      "minX": 194.1,
+      "maxY": 676.4,
+      "maxX": 526.1,
+      "page": 7
+    }],
+    "text": "10.1016/j.ejim.2006.07.005 15. Mehta A, Belmatoug N, Bembi B, et al.: Exploring the patient journey to diagnosis of Gaucher disease from the perspective of 212 patients with Gaucher disease and 16 Gaucher expert physicians. Mol Genet Metab. 2017, 122:122-9. 10.1016/j.ymgme.2017.08.002 16. Hughes D: Rare but important haematological conditions: Gaucher disease . Medicine. 2017, 45:256-9."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 605,
+      "minX": 194.1,
+      "maxY": 628.4,
+      "maxX": 520.9,
+      "page": 7
+    }],
+    "text": "10.1016/j.mpmed.2017.01.008 17. Trindade e Silva LP, Silva H, Cabrera H: Gaucher disease. Acta Med Port. 2007, 20:175-8. 18. Aerts JM, Kallemeijn WW, Wegdam W, et al.: Biomarkers in the diagnosis of lysosomal storage disorders:"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 547.3,
+      "minX": 194.1,
+      "maxY": 599.6,
+      "maxX": 521.4,
+      "page": 7
+    }],
+    "text": "proteins, lipids, and inhibodies. J Inherit Metab Dis. 2011, 34:605-19. 10.1007/s10545-011-9308-6 19. Aguilera B, Ghauharali-van der Vlugt K, Helmond MT, et al.: Transglycosidase activity of chitotriosidase: improved enzymatic assay for the human macrophage chitinase. J Biol Chem. 2003, 278:40911-6. 10.1074/jbc.M301804200 20. Revel-Vilk S, Fuller M, Zimran A: Value of glucosylsphingosine (Lyso-Gb1) as a biomarker in Gaucher disease: a systematic literature review. Int J Mol Sci. 2020, 21:7159. 10.3390/ijms21197159"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 46.2,
+      "minX": 28.5,
+      "maxY": 50.6,
+      "maxX": 566.3,
+      "page": 7
+    }],
+    "text": "2024 Carvoeiro et al. Cureus 16(1): e51604. DOI 10.7759/cureus.51604 7 of 7"
+  }}
+]}

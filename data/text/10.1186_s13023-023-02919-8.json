@@ -1,0 +1,770 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 735.3,
+      "minX": 409.1,
+      "maxY": 759.3,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "Orphanet Journal of Rare Diseases"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 688.7,
+      "minX": 60.8,
+      "maxY": 700.1,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "R E S E A R C H Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 540.9,
+      "minX": 56.7,
+      "maxY": 667.5,
+      "maxX": 480.7,
+      "page": 1
+    }],
+    "text": "Safety outcomes and patients' preferences for home-based intravenous enzyme replacement therapy (ERT ) in pompe disease and mucopolysaccharidosis type I (MPS I) disorder: COVID-19 and beyond"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 468,
+      "minX": 56.7,
+      "maxY": 521.9,
+      "maxX": 529.5,
+      "page": 1
+    }],
+    "text": "Antonio Toscano1* , Olimpia Musumeci2, Michele Sacchini3, Sabrina Ravaglia4, Gabriele Siciliano5, Agata Fiumara6, Elena Verrecchia7, Melania Maione8, Jennifer Gentile9, Rita Fischetto10, Grazia Crescimanno11, Roberta Taurisano12, Annalisa Sechi13, Serena Gasperini14, Vittoria Cianci15, Lorenzo Maggi16, Rossella Parini17, Antonino Lupica18 and Maurizio Scarpa19"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 430.1,
+      "minX": 63.2,
+      "maxY": 437.5,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 353,
+      "minX": 63.2,
+      "maxY": 422.4,
+      "maxX": 532.1,
+      "page": 1
+    }],
+    "text": "Background The Italian Medicines Agency (AIFA) demands precise information on benefit/risk profile of home-based enzyme replacement therapy (ERT) for the treatment of patients with Pompe disease and Mucopolysaccharidosis type I (MPS I). This passage is necessary to obtain the authorization for ERT home therapy, even after the coronavirus disease-19 (COVID-19) pandemic period. This research intends to evaluate the safety, treatment satisfaction, and compliance of MPS I patients treated with laronidase (Aldurazyme®) and Pompe Disease patients treated with alglucosidase alfa (Myozyme®) in a homecare setting."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 254.1,
+      "minX": 63.2,
+      "maxY": 347.4,
+      "maxX": 528.3,
+      "page": 1
+    }],
+    "text": "Results We report herein an early interim analysis of the HomERT (Home infusions of ERT) study, a multicenter, non-interventional, double-cohort study that retrospectively analyzed 38 patients from 14 sites in Italy: cohort A (Pompe disease − 32 patients) and cohort B (MPS I − 6 patients). Among the selected patients who started home therapy before enrollment, the average number of missed home-based infusions was 0.7 (1.3) in cohort A and 3.8 (6.4) in cohort B with no return to the hospital setting. Irrespective of the treatment location, 3 prior ADRs per cohort were reported. The majority of patients preferred home-based infusions (cohort A: 96.9%; cohort B: 100%): the main reason was attributed to treatment convenience (cohort A: 81.3%; cohort B: 83.3%). Despite the underlying conditions, most patients self-evaluated their health as \"good\" (cohort A: 50%; cohort B: 83.3%)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 227,
+      "minX": 63.2,
+      "maxY": 248.4,
+      "maxX": 530.5,
+      "page": 1
+    }],
+    "text": "Conclusions Evidence of favorable safety profile, improved treatment compliance and personal satisfaction validates the use of ERT with laronidase and alglucosidase alfa as a strong candidate for home therapy."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.3,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338 Page 2 of 11"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 681.7,
+      "minX": 62.9,
+      "maxY": 703.1,
+      "maxX": 493.8,
+      "page": 2
+    }],
+    "text": "Keywords Enzyme replacement therapy, Pompe disease, Home therapy, Mucopolysaccharidosis, Treatment adherence, Safety"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 649.6,
+      "minX": 56.7,
+      "maxY": 657,
+      "maxX": 114.8,
+      "page": 2
+    }],
+    "text": "Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 515.3,
+      "minX": 56.7,
+      "maxY": 644.8,
+      "maxX": 290.7,
+      "page": 2
+    }],
+    "text": "Lysosomal storage diseases (LSDs) are a group of at least 41 genetically distinctive [1] inherited rare metabolic disorders with overall incidence estimated at approximately 1 in 4,000 to 1 in 8,000 live births [1\u20136]. Each disorder is due to an individual enzyme deficiency [7], with Pompe disease and mucopolysaccharidoses (MPS) caused by deficiency of α-glucosidase and α-L-iduronidase, respectively. This leads to pathological accumulation of various substrates within the lysosomes, which causes a broad spectrum of clinical manifestations leading often to multiorgan damage [8, 9]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 323.5,
+      "minX": 56.7,
+      "maxY": 512.7,
+      "maxX": 290.7,
+      "page": 2
+    }],
+    "text": "Early diagnosis is essential to limit the irreversible organ damage associated with clinical progression. Extensive and real-world clinical studies have confirmed the efficacy and safety of enzyme replacement therapy (ERT) like alglucosidase alfa (Myozyme®) and laronidase (Aldurazyme®) to respectively treat Pompe disease and MPS. Although disease progression can be observed in both Pompe disease and MPS in patients with good treatment adherence, it tends to be much more rapid in patients without treatment or with poor treatment compliance [10\u201312]. Case reports of rapid cessation of ERT therapy suggested that prolonged interruptions cause not only a loss of the beneficial effects of therapy but also a significant worsening of clinical status [13\u201315]. These reports underline the importance of maintaining an appropriate treatment compliance."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 240,
+      "minX": 56.7,
+      "maxY": 320.7,
+      "maxX": 290.6,
+      "page": 2
+    }],
+    "text": "ERT is often administered in a hospital setting due to safety concerns. However, hospital-based therapy can be stressful and inconvenient over time causing a negative impact on quality of life (QoL) [16, 17]. Patients and their families feel that home-based therapy is less stressful and more comfortable than prolonged hospital-based treatment [18, 19]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 73.5,
+      "minX": 56.7,
+      "maxY": 236.8,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "The advent of the Coronavirus Disease-19 (COVID-19) pandemic imposed an unprecedented challenge on LSD patients for receiving ERT at hospitals and maintaining adherence. An Italian study assessing the impact of COVID-19-related healthcare crisis on LSD treatment demonstrated that patients were in favor of changing from hospital to home therapy, not only during the pandemic, but even after. Except for 1 patient who missed 1 injection, all patients on home treatment received their infusions without interruptions. Among patients on hospital-based ERT, 49% experienced treatment disruptions [20]. Thus, home therapy seemed to be the most efficient strategy to sustain therapeutic access during the outbreak."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 563.3,
+      "minX": 304.7,
+      "maxY": 656.8,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "Thus, the Agenzia Italiana del Farmaco (AIFA) temporarily and exceptionally, during the pandemic, authorized (341/2020) the home infusion in Italy for Pompe disease and MPS I patients who had already undergone hospital-based ERT for a certain period with no incidence of adverse events. To obtain permanent authorization even after the pandemic, AIFA demands continuous risk/benefit balance evaluation of home therapy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 491.3,
+      "minX": 304.7,
+      "maxY": 560.8,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "The HomERT (Home infusions of ERT) study aims to obtain safety information, infusion compliance and treatment satisfaction on home therapy of Pompe disease patients with Myozyme® (alglucosidase alfa) and of MPS I patients with Aldurazyme® (laronidase) in a real-world setting in Italy."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 469.6,
+      "minX": 304.7,
+      "maxY": 477,
+      "maxX": 345.3,
+      "page": 2
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 251.3,
+      "minX": 304.7,
+      "maxY": 440.7,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "This article describes the findings of an interim analysis from the HomERT study. The interim analysis was conducted at the end of the enrollment period of the HomERT study program to have a first insight of the safety, infusion compliance and treatment satisfaction of ERT in a homecare setting. Data on patient reports, infusion characteristics and Adverse Drug Reactions (ADRs) from Italian patients with Pompe disease and MPS I who started ERT infusions were collected from 14th October 2021 to 31st August 2022 and retrospectively analyzed. The observation started from the first ERT infusions in a homecare setting until the enrollment period. Treatment satisfaction questionnaire was administered at the enrollment visit by the Investigators. Only visits performed by the cut-off date (i.e., August 31st, 2022) were reported and analyzed."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 71.3,
+      "minX": 304.7,
+      "maxY": 224.7,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "The HomERT study is an Italian, multicenter, non-interventional, double-cohort study with both retrospective and prospective data collection to obtain information related to safety and patient satisfaction of treatment of Pompe disease and MPS I with ERT in a homecare setting. The HomERT study program is still ongoing for prospective observation that will last for 12 months from enrollment. There will be no imposed protocol visits or procedures. During the control visits conducted every 6\u201312 months, the Investigators will administer the questionnaires again to collect information on patientreported outcomes and will record any documented clinical data occurring during the home infusions."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 3
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 551.3,
+      "minX": 56.7,
+      "maxY": 704.7,
+      "maxX": 290.7,
+      "page": 3
+    }],
+    "text": "The study protocol and the questionnaire were approved by the local ethics committees of all participating sites. This study was conducted in accordance with the Declaration of Helsinki, and Good Pharmacoepidemiology Practices (GPPs). Informed consent was obtained from each participant before enrollment in the study. Eligibility of the participants were suggested by the physicians, usually treating patients at the hospital, and based on standard treatment options as determined by Italian regulations (including AIFA authorization 341/2020 for Pompe disease patients and MPS I patients). Dosage and dosage regimen were in accordance with the Summary of Product Characteristics (SmPC)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 349.5,
+      "minX": 56.7,
+      "maxY": 524.7,
+      "maxX": 290.7,
+      "page": 3
+    }],
+    "text": "The study population included 38 patients from 14 sites in Italy. The study population was categorized into 2 cohorts [cohort A (Pompe disease): n = 32 patients; cohort B (MPS I): n = 6 patients]. Inclusion criteria were (A) For cohort A: Pompe disease patients with confirmed acid alpha-glucosidase (GAA) enzyme deficiency receiving Myozyme® (alglucosidase alfa) in a homecare infusion setting, according to authorized clinical practice and the approved risk management plan document; and for cohort B: MPS I patients with confirmed deficiency of alpha-L-iduronidase receiving Aldurazyme® (laronidase) in a homecare infusion setting according to authorized clinical practice and the approved risk management plan document; (B) Written informed consent before enrollment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 299.3,
+      "minX": 56.7,
+      "maxY": 344.7,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "Also, for both cohorts the study included patients already in a home infusion setting prior to enrollment (or) patients selected for transfer to a home infusion setting at enrollment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 131.5,
+      "minX": 56.6,
+      "maxY": 272.7,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "A patient satisfaction questionnaire, designed \"ad hoc\", was used to assess patient satisfaction related to the home infusions, including potential benefits in terms of stress, time, health, and QoL. This questionnaire was specifically developed for this kind of survey. Satisfaction questionnaires were administered by the Investigators to the patients at the enrollment visit, at each control sitevisit and at the end of the study/discontinuation visit. In this interim analysis, questionnaires were completed by the patient/caregiver, as applicable, at the enrollment visit. Patients completing the questionnaire had received prior ERT home-based infusions."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.3,
+        "minX": 56.6,
+        "maxY": 104.7,
+        "maxX": 290.6,
+        "page": 3
+      },
+      {
+        "minY": 623.3,
+        "minX": 304.7,
+        "maxY": 704.7,
+        "maxX": 538.6,
+        "page": 3
+      }
+    ],
+    "text": "As the descriptive aim of the study is related to the observation of patients with rare diseases, sample size was estimated based on the feasibility to enroll patients treated in a homecare setting. Approximately 44 patients for cohort A and 16 patients for cohort B were estimated for this study. Descriptive statistics (n, mean, median, standard deviation (SD), range, min, max for continuous variables, and count and percentage for categorical variables) were used to summarize treatment exposure, safety outcomes and patient's characteristics. Data were analyzed and presented by cohorts (cohort A and cohort B)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 431.5,
+      "minX": 304.7,
+      "maxY": 620.7,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "The primary analysis evaluated the incidence of ADRs based on seriousness and intensity. The secondary analysis evaluated patient satisfaction assessed by means of a patient satisfaction questionnaire and treatment compliance was assessed as the number of missed infusions vs. planned and/or return to the hospital setting (with reasons). Analyses were performed on data of baseline demographics, including medical history based on the Medical Dictionary for Regulatory Activities (MedDRA). Results of vital signs and laboratory parameters were categorized as low/normal/high based on clinical normal ranges, and abnormal values were flagged. Also, abnormalities on physical examination were flagged. Statistical analyses were performed by means of SAS® release 9.4 (SAS Institute, Inc., Cary, NC, USA). Data from all sites were pooled and summarized."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 409.6,
+      "minX": 304.7,
+      "maxY": 417,
+      "maxX": 337.8,
+      "page": 3
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 253.5,
+      "minX": 304.7,
+      "maxY": 380.7,
+      "maxX": 538.7,
+      "page": 3
+    }],
+    "text": "Screened cases were patients who provided a written Informed Consent Form (ICF) to participate in the study or for whom written ICF was obtained from parent(s)/ legal guardian by the cut-off date, i.e., August 31st, 2022. A total of 38 patients were screened in the study. All of them passed screening (100%) and were enrolled in 2 cohorts. Of these, 32 patients were categorized into cohort A (Pompe disease) and 6 patients were categorized into cohort B (MPS I). An overview of patients' demographics and baseline characteristics is illustrated in Table 1."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 59.9,
+      "minX": 304.7,
+      "maxY": 248.8,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "The mean (SD) age was 45.9 (24.5) years in cohort A and 23.2 (13.7) years in cohort B; in both cohorts, males and females were each 50%. The more frequent age class was 56\u201370 years (11 patients, 34.4%) in cohort A, and 0\u201318 years (3 patients, 50%) in cohort B. In cohort A, 84.4% of patients reported Late-onset Pompe Disease (LOPD), with no cognitive delay. In cohort B, 50% patients each reported Hurler \u2013 Scheie and Scheie, and 33.3% patients with cognitive delay. The mean (SD) age at diagnosis was 31.3 (23.5) years in cohort A and 10 (9.1) years in cohort B. Mean (SD) age at start of ERT administration in a hospital setting was 35.4 (25.2) years in cohort A and 12.7 (9.8) years in cohort B; and mean (SD) time from diagnosis to start of ERT administration in a hospital setting was 50.5 (61.4) months in cohort A and 31.0 (60.3) months in cohort B."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 4
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.3,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338 Page 5 of 11"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 131.9,
+      "minX": 56.7,
+      "maxY": 248.8,
+      "maxX": 290.7,
+      "page": 5
+    }],
+    "text": "All the patients belonging to cohort B (6 patients, 100%) and a majority of cohort A (29 patients, 90.6%) started ERT at home even before enrollment in the study, while three patients started ERT at the hospital initially and were later shifted to home therapy. Mean age (SD) at start of ERT administration in a home setting was 47.9 (22.9) years in cohort A and 17.7 (15.6) years in cohort B; and mean (SD) time from diagnosis to start of ERT administration in a home setting was 173.2 (85.8) months in cohort A and 93.7 (126.5) months in cohort B."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.9,
+        "minX": 56.7,
+        "maxY": 128.7,
+        "maxX": 290.6,
+        "page": 5
+      },
+      {
+        "minY": 191.9,
+        "minX": 304.7,
+        "maxY": 248.8,
+        "maxX": 538.6,
+        "page": 5
+      }
+    ],
+    "text": "Main reasons for switching to home therapy in cohort A was COVID-related (63.3%), patient request (26.7%) and center distance (10%); and in cohort B was patient request (50%), other reasons (33.3%) (improvement in the subject's stature and medical considerations) and COVID-related (16.7%). Mean time to switch to a homecare setting was 119.2 (52.8) months in cohort A and 62.5 (75.78) months in cohort B. The mean time from start of ERT administration in a homecare setting to screening was 14.60 (7.5) months for cohort A and 69.50 (40.4) months for cohort B."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 83.3,
+      "minX": 304.7,
+      "maxY": 152.7,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Among the enrolled population who started the homecare setting before enrollment, only 2 patients/cohort (cohort A: 6.9%; cohort B: 33.3%) reported at least one prior ADR. Irrespective of hospital- or home-based setting, the proportion of patients with ADRs was low in both cohorts reflecting highly favorable tolerability."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.9,
+        "minX": 304.7,
+        "maxY": 80.7,
+        "maxX": 538.6,
+        "page": 5
+      },
+      {
+        "minY": 599.3,
+        "minX": 56.7,
+        "maxY": 704.8,
+        "maxX": 290.6,
+        "page": 6
+      },
+      {
+        "minY": 455.5,
+        "minX": 56.6,
+        "maxY": 548.7,
+        "maxX": 291.3,
+        "page": 6
+      }
+    ],
+    "text": "However, among the 3 prior ADRs reported per cohort, all 3 ADRs (100%) in cohort A and 1 out of 3 ADRs (33.3%) in cohort B occurred in a hospital setting. One patient (3.5%) each in both cohorts reported ADRs associated with hospital-based infusions limited to non-serious mild \"Erythema and itching\", serious moderate \"Urticaria\" and serious moderate \"Dyspnea\" in cohort A; and non-serious mild \"Rash\" in cohort B. ADRs associated with home-based infusions were not reported in any of the patients in cohort A and 1 patient in cohort B reported 2 events of non-serious mild \"Pyrexia\". (Table 2) Among enrolled patients who started the homecare setting before enrollment, favorable treatment adherence to ERT infusions was observed. (Table 2) The number of missed ERT infusions in a homecare setting was very low [0.7 (1.3) in cohort A and 3.8 (6.4) in cohort B]. After receiving ERT at home, there were no cases of patients who returned to receiving ERT administration at hospital."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 6
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 385.5,
+      "minX": 56.7,
+      "maxY": 452.8,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "The majority of the patients in cohort A (93.1%) were administered infusions for 4.7 (1.2) hours biweekly while weekly administration of 3.7 (0.5) hours was performed in cohort B (100%). About 24.1% in cohort A and 50% in cohort B underwent infusions following pre-medication administration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 299.9,
+      "minX": 56.7,
+      "maxY": 380.7,
+      "maxX": 290.7,
+      "page": 6
+    }],
+    "text": "In both cohorts, about one-fourth of the population (cohort A: 21.9%; cohort B: 33.3%) had venous access at home. In cohort A, \"peripheral intravenous\" (42.9%) and \"totally implanted venous device\" (42.9%) were the most commonly used venous devices. In cohort B, all the patients who had venous access used a \"peripherally inserted central catheter\" (100%)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 155.9,
+      "minX": 56.6,
+      "maxY": 272.8,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "All patients (100%) completed the home infusion satisfaction questionnaire at screening. Nearly all the patients (cohort A: 96.9%; cohort B: 100%) preferred to receive ERT infusions at home. Treatment preference to homecare therapy was attributed to more treatment convenience (cohort A: 81.3%; cohort B: 83.3%), less transportation requirement (cohort A: 65.6%; cohort B: 50%), perception of less stressfulness (cohort A: 62.5%; cohort B: 50%), and less impact on daily activities (cohort A: 43.8%; cohort B: 33.3%)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.3,
+        "minX": 56.7,
+        "maxY": 152.8,
+        "maxX": 290.6,
+        "page": 6
+      },
+      {
+        "minY": 683.3,
+        "minX": 304.7,
+        "maxY": 704.8,
+        "maxX": 538.6,
+        "page": 6
+      }
+    ],
+    "text": "Despite the underlying condition (LSD), a higher proportion of patients self-evaluated their health as \"good\" (cohort A: 50%; cohort B: 83.3%). Of significance, 1 patient (16.7%) in cohort B self-assessed his health as \"very good\", while in cohort A more variability was observed: 2 patients (6.3%) judged their health to be \"excellent\", 5 patients (15.6%) as \"very good health\", 4 patients (12.5%) responded \"fair health\", and the remaining 5 patients (15.6%) responded \"poor health\"."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 564,
+      "minX": 304.7,
+      "maxY": 680.7,
+      "maxX": 538.6,
+      "page": 6
+    }],
+    "text": "Clinical outcomes based on responses varied by cohort when comparing the improvement observed in physical health after receiving ERT at home versus at the hospital. In cohort A, 19 (59.4%) patients rated their physical health as \"about the same\", while 6 patients (18.75%) rated it as \"much better now\" or \"somewhat better now\". In cohort B, 3 patients (50%) rated their physical health as \"much better now\", 2 patients (33.33%) as \"somewhat better now\", and 1 patient (16.67%) as \"about the same\". (Table 3)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 541.6,
+      "minX": 304.7,
+      "maxY": 548.9,
+      "maxX": 353.6,
+      "page": 6
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 421.5,
+      "minX": 304.7,
+      "maxY": 536.7,
+      "maxX": 538.6,
+      "page": 6
+    }],
+    "text": "The results of this retrospective interim analysis of the HomERT study program provide healthcare policy makers and physicians with a new important dimension in the understanding of safety, treatment outcomes and treatment satisfaction of homecare therapy of Pompe disease and MPS I in Italy. Unprecedented challenges imposed by COVID-19 have urged the need to provide home-based infusions for LSD patients in order to avoid frequent travels and hospital admissions to receive periodical IV infusions of ERT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.3,
+        "minX": 304.7,
+        "maxY": 416.7,
+        "maxX": 539.3,
+        "page": 6
+      },
+      {
+        "minY": 95.3,
+        "minX": 56.7,
+        "maxY": 128.7,
+        "maxX": 290.6,
+        "page": 8
+      }
+    ],
+    "text": "Owing to safety concerns, home therapy of ERT infusions is not authorized in many countries. In this study, ~ 90% of the enrolled population started ERT administration in a homecare setting prior to enrollment and were on home therapy for 14.6 (7.5) months in cohort A and 69.5 (40.4) months in cohort B. In both groups, laboratory parameters (not shown), vital signs (not shown) and physical examination (not shown) were within the limits of normal clinical range with minimal clinically relevant anomalies, indicating that patients were stable at screening, irrespective of the treatment location (home vs. hospital). Safety data presented from the Italian cohorts exhibited uneventful infusions in a hospital setting with acceptable tolerability profile recommending the study patients as ideal candidates for complete transitioning to home-based treatment. Overall, as opposed to hospital-based infusion, the incidence of prior ADRs was lower on homecare infusions with good safety profile. Seriousness criteria and intensity of ADRs are the key factors that should be considered for safety. ADRs occurring in a homecare setting were not reported in any of the patients in cohort A and only 1 patient in cohort B, limited to 2 episodes of non-serious, mild \"Fever\". None of the reported ADRs warranted urgent medical intervention. The current findings are consistent with previous experiments on home-based infusion of ERT in MPS I patients [21] and Pompe disease [22], indicating that the rate of ADRs during home therapy was quite low with mild or moderate intensity and can be readily managed without treatment interruption. Precisely, the data from this interim analysis suggest that in patients with Pompe disease and MPS I, home-based ERT infusions are equivalently safe as hospital-based ERT infusions."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.3,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338 Page 7 of 11"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.3,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 538.6,
+      "page": 8
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338 Page 8 of 11"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 558.3,
+      "minX": 56.7,
+      "maxY": 585.9,
+      "maxX": 538.8,
+      "page": 8
+    }],
+    "text": "b Computed on the total number ofpriorADRs occurred within each considered group; Each subject could have more than one priorAdverse Drug Reaction, but they are counted only once for each condition/row. cTerms were coded using MedDRA, version 24.0."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.3,
+        "minX": 56.7,
+        "maxY": 92.7,
+        "maxX": 290.7,
+        "page": 8
+      },
+      {
+        "minY": 59.3,
+        "minX": 304.7,
+        "maxY": 128.8,
+        "maxX": 538.6,
+        "page": 8
+      },
+      {
+        "minY": 635.5,
+        "minX": 56.7,
+        "maxY": 704.8,
+        "maxX": 290.6,
+        "page": 9
+      }
+    ],
+    "text": "These results were also confirmed by a recent study conducted on 18,380 infusions with alglucosidase alfa in 121 adult patients; 4961 infusions (27.0%) were given in hospital and 13,419 (73.0%) were given at home. Infusion-associated reactions (IARs) occurred in 144 (2.9%) hospital infusions and 113 (0.8%) home infusions; 115 (79.9% of 144) IARs in hospital and 104 (92.0% of 113) IARs at home were mild, 25 IARs (17.4%) in hospital and 8 IARs (7.1%) at home were moderate, and very few severe IARs occurred (4 IARs in hospital [2.8%] and 1 IAR at home [0.9%]). Only one IAR in the home situation required immediate clinical evaluation in the hospital. The study concluded that alglucosidase alfa can be administered safely in the home situation, provided the appropriate infrastructure is present [23]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 9
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 313.5,
+      "minX": 56.7,
+      "maxY": 632.7,
+      "maxX": 290.7,
+      "page": 9
+    }],
+    "text": "Home therapy experience abroad [24] and in pandemic conditions [20] has shown that ERT infusions at home improve QoL by affording patients independence and control of the disease, and reduce hospital resource usage. In this study, transition to home infusion therapy was due to COVID-19, traveling reasons, upon patients' request and other reasons (i.e., For improvement in the subject's stature and medical considerations). Approximately 25% of patients had peripheral venous access or a totally implanted venous access device in situ at home. This study speculated that the majority of patients with Pompe disease and MPS I were more comfortable with a home-based infusion setting as the patients were able to perform an IV dilution independently with no change in the concentration of the dilution throughout the treatment period and adhered to the recommended dosage regimen of alglucosidase alfa [25] and laronidase [26]. In the present study, treatment compliance was measured by the number of missed ERT infusions as defined by Linthorst et al. [27] and the home infusion program positively influenced infusion compliance by reducing the number of therapy interruptions. Apparently, no instances of relapse into hospital infusion settings were observed. Having the derived results as evidence, we can argue that improved ERT compliance will inevitably have a positive impact on treatment outcomes over the long term."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 191.3,
+      "minX": 56.7,
+      "maxY": 308.7,
+      "maxX": 291.2,
+      "page": 9
+    }],
+    "text": "Since patients may have to travel considerable distance to some hospitals, regular visits may be stressful, timeconsuming, tiring and, sometimes, economically burdensome. Of significance, enrolled patients in this analysis had to spend time only for home-based infusions as there were no travel requirements. This is interesting, as data from a previous report indicated that hospital-based infusions, in addition to the infusion time, required an average of more than 2 h to travel and also the support of a caregiver to travel to the hospital [28]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 59.3,
+        "minX": 56.7,
+        "maxY": 188.7,
+        "maxX": 290.6,
+        "page": 9
+      },
+      {
+        "minY": 623.3,
+        "minX": 304.7,
+        "maxY": 704.8,
+        "maxX": 539.3,
+        "page": 9
+      }
+    ],
+    "text": "Irrespective of the cohorts, ~ 95% of patients claimed that home-based therapy increased their overall treatment satisfaction in terms of level of comfort, treatment convenience, flexibility, cancellation of travel costs and QoL while reducing their stress and, likewise, requirement of transportation. This result is in line with earlier published work, reporting that administering ERT IV infusions at home was more convenient, effective, less stressful, and had a lower impact on family life [18]. The observation of the current analysis differs from the outcomes of an Italian regional survey that elaborated that hospital ERT infusions were less stressful (40% of patients) and safer (93%) owing to the immense medical support and close monitoring from medical professionals. However, this preference towards hospital-based infusions is attributed to the enrollment of severe cases and the patients' caregivers had no professional obligations as they were retired. [16]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 467.3,
+      "minX": 304.7,
+      "maxY": 620.7,
+      "maxX": 539.3,
+      "page": 9
+    }],
+    "text": "With the HomERT observational study, the patients' perception of health was used as QoL indicator. Despite the LSD manifestations, the current cohort possessed an optimistic attitude about their health on ERT treatment administered in a homecare setting. The majority of respondents conveyed that their health on home therapy greatly improved or was comparable to the clinical effect of hospital care. Notably, a previous publication recommended that a successful home treatment program include a selection of stable patients at the discretion of a physician, equipped homecare nursing, education of patients' caretakers, and outlining management strategy for anticipated anaphylaxis and ADRs [29]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 143.5,
+      "minX": 304.7,
+      "maxY": 464.7,
+      "maxX": 538.7,
+      "page": 9
+    }],
+    "text": "One of the strengths of this study is that all recruited participants were enrolled from Italy, minimizing ethnic and cultural bias that may confound patient preference. The advantage of using data obtained from non-interventional studies implies obtaining data in a normal clinical setting under real-life conditions, which are more representative of the study population of interest and the clinical outcomes under observation. Despite the aforementioned strengths, there are potential limitations worth discussion. The main limitations of this interim analysis are attributed to its observational retrospective nature that may involve patient selection bias, incomplete or missing data and lack of internal validity (no control group), difficulty in interpreting or verifying documented information, and variability between patients in the quality of documentation. Furthermore, treatment satisfaction assessed through patient responses are subjective and may involve a risk of recall bias, hence some outcomes might not be accurate from a medical perspective. Enrolled patients were already in a home infusion setting prior to enrollment, and the preference for home therapy over hospital therapy by experienced person may differ from the judgment of a participant new to treatment. Lack of in-depth investigations that encompasses bigger cohort size or compare the attitudes between young and adult patients could have added a new opinion to treatment preference."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.3,
+        "minX": 304.7,
+        "maxY": 140.7,
+        "maxX": 539.3,
+        "page": 9
+      },
+      {
+        "minY": 683.5,
+        "minX": 56.7,
+        "maxY": 704.7,
+        "maxX": 290.5,
+        "page": 10
+      }
+    ],
+    "text": "The authors foresee conditioned regulatory approval of home therapy for LSDs as the main hinderance to establish home-based infusion of ERT in Italy. The authors advocate the Italian healthcare policy makers to take into consideration the positive outcomes gained from this interim analysis of the still ongoing HomERT program for further optimization of the protocol with ERT home-based infusions in Pompe disease and MPS I."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 10
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 661.6,
+      "minX": 56.7,
+      "maxY": 669,
+      "maxX": 107.4,
+      "page": 10
+    }],
+    "text": "Conclusion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 491.5,
+      "minX": 56.7,
+      "maxY": 656.7,
+      "maxX": 290.7,
+      "page": 10
+    }],
+    "text": "In summary, a large number of patients with Pompe disease and MPS I contemplated home-based therapy to be more convenient, more flexible, and less stressful than hospital-based therapy. The burden of hospital therapy on work and family life was minimized by seamlessly integrating infusions into the patients' daily routine through home therapy. Based on our real-world data retrospective interim analysis of the HomERT program, we found no evidence that the safety of laronidase and alglucosidase alfa substantially change with home infusion. This proved that for Pompe disease and MPS I, home-based ERT infusion is equally safe as hospital-based infusion, feasible and might alleviate the burden of life-long intravenous treatment in these patients."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 133.3,
+      "minX": 304.7,
+      "maxY": 539.5,
+      "maxX": 521.5,
+      "page": 10
+    }],
+    "text": "1Full Professor of Neurology, ERN-NMD Center of Messina for Neuromuscular Disorders, Department of Clinical and Experimental Medicine, University of Messina, AOU Policlinico \"G. Martino\", Via Consolare Valeria, 1, Messina 98125, Italy 2Unit of Neurology and Neuromuscular Disorders, Department of Clinical and Experimental Medicine, University of Messina, Messina 98125, ME, Italy 3DH Hereditary metabolic-muscular diseases Meyer Hospital, Ground floor \u2013 DH Viale Pieraccini, 24, Florence 50139, Italy 4IRCCS Fondazione Istituto Neurologico Nazionale C.Mondino, Via Mondino, 2, Pavia 27100, PV, Italy 5Department of Clinical and Experimental Medicine, S. Chiara Hospital - University of Pisa, Via Roma, 67, Pisa 56126, Italy 6A.O.U. Policlinico - Pediatric Clinic and Regional Referral Center for Inherited Metabolic Diseases, Via Santa Sofia, 78, Catania 95122, CT, Italy 7Department of Aging, Neurological, Orthopedic and Head and Neck Sciences, Agostino Gemelli University Hospital Foundation, Via Giuseppe Moscati, 31, Rome 00168, RM, Italy 8Medical Manager Pompe Disease \u2013 Rare Diseases Specialty Care, Sanofi S.r.l., Viale Luigi Bodio 37/b, Milano 20158, MI, Italy 9Medical Manager Gaucher, MPS & ASMD, Sanofi S.r.l., Viale Luigi Bodio 37/b, Milano 20158, MI, Italy 10Policlinico di Bari Stabilimento Pediatrico Giovanni XXIII, Metabolic and Genetic Diseases, Piazza Giulio Cesare, 11, Bari 70120, BA, Italy 11Institute for Biomedical Research and Innovation (IRIB), National Research Council (CNR), Via La Malfa 153, Palermo, Italy 12Bambin Gesù Pediatric Hospital Piazza Sant'Onofrio, Rome (RM) 4 00165, Italy 13Regional Coordination Center for Rare Diseases, Udine University Hospital, Udine 33100, UD, Italy 14Unit of Inherited Metabolic Disorders, Pediatric Department, IRCCS San Gerardo Foundation dei Tintori, Via Pergolesi, 33 \u2013 Monza (MB), Tintori, Italy 15Great Metropolitan Hospital \"Bianchi Melacrino Morelli\"\u2013 Neurology, Reggio Calabria (RC), Via Melacrino, Calabria 89100, Italy 16Neuroimmunology and Neuromuscular Diseases Unit, IRCCS Istituto Neurologico Besta, Via Celoria, 11, Milan 20133, MI, Italy 17ASST Monza - Rare Disease Center, San Gerardo hospital in Monza, Via Pergolesi, Monza 33 - 20900, MB, Italy 18AOU Policlinico P. Giaccone of Palermo, Via del Vespro 129, Palermo 90127, Italy 19Regional Coordinating Center for Rare Diseases, Udine University Hospital, Udine 33100, Italy Received: 28 June 2023 / Accepted: 18 September 2023"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 751.4,
+      "minX": 56.7,
+      "maxY": 758.7,
+      "maxX": 282.1,
+      "page": 11
+    }],
+    "text": "Toscano et al. Orphanet Journal of Rare Diseases (2023) 18:338"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 325.6,
+      "minX": 304.7,
+      "maxY": 333,
+      "maxX": 378.9,
+      "page": 11
+    }],
+    "text": "Publisher's Note"
+  }}
+]}

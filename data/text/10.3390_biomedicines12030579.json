@@ -1,0 +1,706 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 766.6,
+      "minX": 74.4,
+      "maxY": 782.3,
+      "maxX": 196.6,
+      "page": 1
+    }],
+    "text": "biomedicines"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 709.5,
+      "minX": 34.8,
+      "maxY": 722.7,
+      "maxX": 282,
+      "page": 1
+    }],
+    "text": "Women with Gaucher Disease"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 593,
+      "minX": 166.4,
+      "maxY": 634.6,
+      "maxX": 551.3,
+      "page": 1
+    }],
+    "text": "1 Department of Hematology, Hospital Universitario Ramón y Cajal-IRYCIS, 28034 Madrid, Spain 2 Department of Internal Medicine, Clínica Universidad de Navarra, 28027 Madrid, Spain 3 Department of Internal Medicine, Hospital Quirónsalud Sur, 28922 Madrid, Spain 4 Pediatric Metabolic Unit, Hospital Universitario Ramón y Cajal, European Reference Center (MetabERN),"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 157.8,
+      "minX": 166.4,
+      "maxY": 205.5,
+      "maxX": 560.5,
+      "page": 1
+    }],
+    "text": "Gaucher disease (GD) is a rare hereditary disease caused by mutations in the GBA1 gene, which encodes the enzyme glucocerebrosidase, resulting in a deficiency in this enzyme [1]. This deficiency leads to the accumulation of the substrate, glucosylceramide, mainly in macrophages of the liver, spleen, and bone marrow."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70,
+        "minX": 166.2,
+        "maxY": 155.3,
+        "maxX": 560.9,
+        "page": 1
+      },
+      {
+        "minY": 717.1,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 560.5,
+        "page": 2
+      }
+    ],
+    "text": "GD has been classified into three clinical phenotypes based on age of onset, progression, and neurological involvement. Type 1 GD is the non-neuronopathic form and is characterized by the presence of hematological abnormalities (such as anemia and thrombocytopenia), hepatosplenomegaly and bone involvement. Lung involvement is observed less frequently. Type 2 GD is the acute neuronopathic form and is characterized by significant involvement of the central nervous system at an early age, with a high mortality rate in childhood. Type 3 is also associated with neurological involvement, but with a less severe course than Type 2 and with a better prognosis. GD is also associated with other comorbidities, such as Parkinson's disease or the increase in hematology neoplasm, especially multiple myeloma [2]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Biomedicines 2024, 12, 579 2 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 579,
+      "minX": 166,
+      "maxY": 714.6,
+      "maxX": 560.5,
+      "page": 2
+    }],
+    "text": "Regarding treatment, we currently have two types of therapy: enzyme-replacement therapy (ERT), which consists of the intravenous administration of the active enzyme, currently available on the Spanish market as Imiglucerase (Cerezyme®) and Velaglucerase alfa (VPRIV®), and substrate-reduction therapy (SRT), which consists of the inhibition of the enzyme glucosylceramide synthetase. There are two products available on the Spanish market, one in the first line of treatment, eliglustat, and the other in the second line, miglustat. Miglustat is a second-line treatment indicated for the small group of patients with GD1 in whom first-line treatment is not medically possible. In contrast, eliglustat is a first-line treatment, like ERT, and is applicable to all patients with GD1 who are not ultra-rapid metabolizers of cytochrome CYP2D6 [3]. These treatments have increased the survival and the quality of life of the patients [4]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 541.4,
+      "minX": 166.4,
+      "maxY": 576.5,
+      "maxX": 559.4,
+      "page": 2
+    }],
+    "text": "Although there is an increasing amount of knowledge on the clinical characteristics of GD, there is little evidence on the behavior of the disease symptomatology in the different stages of a woman's life, as well as on its treatment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 415.6,
+      "minX": 166,
+      "maxY": 500,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Growth retardation in GD is characteristic [5,6], with some series observing an incidence of up to 50% of severe linear growth retardation in untreated patients during the first two decades of life [7]. The etiology is probably multifactorial: medullary infiltration via Gaucher cells, the production of inflammatory cytokines, the increased resting energy expenditure associated with the disease itself, or the deficiency of insulin-like growth factors in the context of liver involvement. These findings are more common in patients with severe disease but there are no differences based on sex [8]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 326.5,
+      "minX": 166.4,
+      "maxY": 386.8,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "A delay in puberty has been described in patients with GD, with a frequency of up to 60% in some series [5]. This is more frequent in patients with severe disease [8]. Delayed menarche has been described in women with GD compared to other family members and the general population [9]. Despite the pubertal delay, in all patients, sexual maturity is reached and no secondary alterations in fertility are observed [10,11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 226.7,
+      "minX": 166.1,
+      "maxY": 298.6,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Heavy menstrual bleeding or menorrhagia is a major problem in patients with GD. Excessive menstrual bleeding has been described in 73% of patients. This menorrhagia is not related to the severity of the GD but to the presence of thrombocytopenia, altered platelet function or coagulation in the GD [11,12]. In the Ashkenazi population, this is added with the frequent deficiency of factor XI [9,11]. On the contrary, the average duration of menstruation is within normal limits [11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 151.4,
+      "minX": 166,
+      "maxY": 223.3,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Menorrhagia can aggravate preexisting anemia in GD patients. In this context, treatment with iron supplementation and, in some cases, an antifibrinolytic agent, may be necessary. Treatment with oral contraceptives is considered a good therapeutic option for young patients with menorrhagia [4]. Increased menstrual bleeding associated with intrauterine devices (IUDs) has been reported in up to 50% of patients, especially if associated with severe disease [9]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.8,
+        "minX": 166.4,
+        "maxY": 122.5,
+        "maxX": 561,
+        "page": 2
+      },
+      {
+        "minY": 704.6,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 3
+      }
+    ],
+    "text": "Special consideration must be given to the psychosocial sphere in children and adolescents with GD. As with other chronic illnesses, it can be difficult to acknowledge the disease, and they may experience feelings of anger, denial, fear, insecurity and isolation [13]. Growth retardation and delayed puberty can influence body image and social functioning, resulting in psychosexual problems, as well as low self-esteem. The problems derived from bone involvement can prevent them from carrying out common physical activities in children, which worsens the feelings already described. In addition, chronic pain can affect school performance. However, there are no differences regarding sex in this scenario."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Biomedicines 2024, 12, 579 3 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 615.5,
+      "minX": 166,
+      "maxY": 663.2,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Reproductive planning is an increasingly frequent concern in women with GD. Although there is little information to help us with the decision-making process about the ideal contraceptive method in these patients, recent registries describe frequent management with oral contraceptives or surgical methods [14]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 540.2,
+      "minX": 166.2,
+      "maxY": 613,
+      "maxX": 561,
+      "page": 3
+    }],
+    "text": "There are no known specific contraindications for oral contraceptives in GD, unless there is coexisting severe liver disease [9]. Nevertheless, it is recommended to avoid copper IUDs for women with a history of menorrhagia [10]. In addition, the use of contraceptive methods is recommended to both men and women who are under treatment with SRT [11]. For women with GD who desire to plan a pregnancy, SRT must be interrupted 3 months before pregnancy and may be replaced by ERT [15]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 452.7,
+      "minX": 166.1,
+      "maxY": 512.3,
+      "maxX": 559.6,
+      "page": 3
+    }],
+    "text": "GD is an autosomal recessively inherited disorder due to mutations in the GBA1 gene. All patients with GD should undergo genetic counseling to know the specific risks related to their mutation. For instance, patients homozygous for the p.Asn409Ser mutation (N370S) usually present a milder disease than those who carry others, such as the c.84dup (84GG) [16]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 414.3,
+        "minX": 166.4,
+        "maxY": 449.5,
+        "maxX": 559.3,
+        "page": 3
+      },
+      {
+        "minY": 351.2,
+        "minX": 167.1,
+        "maxY": 396.3,
+        "maxX": 560.9,
+        "page": 3
+      }
+    ],
+    "text": "In addition, patients who desire to plan a pregnancy should be able to receive advice on the potential complications during pregnancy and the risk of transmitting her disease to her offspring: but there is no risk of affected children; - If the other parent is a carrier of a heterozygous mutation (risk in the general population 0.7\u20130.8% [17]), 25% of the children will be at risk of being affected by the disease, and 50% will be carriers of the mutation."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 398.8,
+      "minX": 167.1,
+      "maxY": 408.9,
+      "maxX": 560.5,
+      "page": 3
+    }],
+    "text": "- If the other parent is not a carrier of a GBA1 mutation, all their children will be carriers,"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 282.9,
+      "minX": 166.1,
+      "maxY": 343.1,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Beyond the pre-pregnancy probability of the transmission of the disease to the offspring, it is possible to perform a genetic study in the fetus by taking a sample of chorionic villus or by amniocentesis. Preimplantation diagnosis is also possible to select only embryos that do not carry the mutation, although it must be considered that in vitro fertilization is not a risk-free technique [18]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 245.2,
+      "minX": 166.4,
+      "maxY": 280.4,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Full genotyping can be offered to the parents. If the couple carries another pathogenic allelic variant, the predicted genotypes of the offspring and their expected phenotype require in-depth discussions [19]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 182.4,
+      "minX": 166,
+      "maxY": 242.7,
+      "maxX": 561,
+      "page": 3
+    }],
+    "text": "In addition, parents should be informed that all offspring carrying a mutant GBA1 allele will have a 4- to 10-fold increased risk of developing Parkinson's disease [19]. Most patients and their family members who are carriers do not develop Parkinson's, and those who have been informed about this issue do not change their decision to have children [20]. Even so, the psychological impact must be considered [21]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 81.7,
+      "minX": 166.4,
+      "maxY": 154.5,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "The potential complications associated with GD in the context of the physiological changes associated with pregnancy, such as splenic rupture, abnormalities in uterine growth, bone fractures or dysregulation of liver function, have traditionally been a potential contraindication when planning pregnancy in these patients. However, scientific advances in their pathophysiology and improvements in treatment in recent years have changed this approach."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "Biomedicines 2024, 12, 579 4 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 692,
+      "minX": 166.4,
+      "maxY": 752.3,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "It is important to evaluate the comorbidities of each patient, as well as to monitor the need for nutritional support and the appearance or worsening of organomegalies, bone and hematological manifestations associated with the disease, in order to establish clinical and therapeutic recommendations that allow gestation to develop in conditions comparable to those of the rest of the population [22\u201325]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 669.6,
+        "minX": 166.4,
+        "maxY": 679.6,
+        "maxX": 357.2,
+        "page": 4
+      },
+      {
+        "minY": 591.3,
+        "minX": 166.1,
+        "maxY": 664.1,
+        "maxX": 560.9,
+        "page": 4
+      }
+    ],
+    "text": "3.3.1. Vitamins and Other Supplementation Iron deficiency and folic-acid deficiency are frequent findings as gestational age advances, in relation to the increased nutritional requirements of the feto-placental unit. In addition, patients with GD usually present deficiencies of vitamin B12, calcium and vitamin D, which should be adequately supplemented during pregnancy. Although there are no specific recommendations for supplementation, in the case of vitamin D, it is recommended to maintain levels > 32 ng/mL [24,26]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 568.9,
+        "minX": 166.4,
+        "maxY": 578.9,
+        "maxX": 369.5,
+        "page": 4
+      },
+      {
+        "minY": 540.8,
+        "minX": 166.4,
+        "maxY": 563.4,
+        "maxX": 559.3,
+        "page": 4
+      }
+    ],
+    "text": "3.3.2. Organomegaly and Bone Manifestations It is advisable to have a baseline assessment of hepato/splenomegaly to monitor its evolution throughout gestation, usually via an ultrasound."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 465.5,
+      "minX": 166.4,
+      "maxY": 538.3,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "Once the patient's bone health has been assessed before the beginning of pregnancy, it is necessary to screen for bone lesions in the pelvic region and lower limbs, as well as to rule out the presence of avascular necrosis of the femoral head. The existence of prosthesis is not a contraindication for delivery, and vaginal delivery is recommended as a preferable option. Likewise, it is necessary to evaluate the loss of bone mass described during pregnancy and lactation to assess the initiation of specific treatment [24,26]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 443,
+        "minX": 166.4,
+        "maxY": 453.1,
+        "maxX": 316.4,
+        "page": 4
+      },
+      {
+        "minY": 276.9,
+        "minX": 166.1,
+        "maxY": 437.6,
+        "maxX": 561,
+        "page": 4
+      }
+    ],
+    "text": "3.3.3. Hematologic Manifestations The occurrence of hemorrhagic events is one of the symptoms described in approximately 20% of patients with GD. Although these are usually mucocutaneous bleeds, bleeding related to invasive procedures, pregnancy and postpartum have also been reported. Thrombocytopenia is a frequent finding in adult patients with GD, being evidenced in almost 60% of patients with GD type 1, with counts below 60 × 109/L in up to 15% of cases. These figures are variable, depending on the degree of splenomegaly, involvement of megakaryopoiesis by bone marrow infiltration or coexistence of immune pathologies, such as ITP [26\u201328]. In addition, the release of proinflammatory cytokines, such as IL-1, IL-6 or TNF-alpha, together with the accumulation of glucosylceramide and glucosylsphingosine, can produce alterations in platelet functionality and thrombin generation [29\u201331]. Coagulopathies of a very heterogeneous nature have been described, with a predominance of deficiencies of factors XI, II, V, VII and X [28,32]. With these results, the hypothesis of a possible chronic DIC associated with type 1 GD was raised [33]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 176.4,
+      "minX": 166,
+      "maxY": 274.4,
+      "maxX": 560.5,
+      "page": 4
+    }],
+    "text": "Due to the existing limitations in the different published studies, there are currently no specific recommendations to guide the follow-ups of these patients. A clinical history is the cornerstone for making a correct differential diagnosis, and allowing the establishment of a specific treatment, given that the exacerbation of baseline thrombocytopenia, alterations in platelet functionality or its appearance during pregnancy can be associated both with the worsening of the disease. Although DIC during pregnancy is rare, it is also important to correlate the clinical picture with laboratory parameters (PT, aPTT, fibrinogen and D-dimer), considering the physiological changes that occur during pregnancy [34,35]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 156.6,
+        "minX": 166.4,
+        "maxY": 163.8,
+        "maxX": 254.9,
+        "page": 4
+      },
+      {
+        "minY": 76.7,
+        "minX": 166,
+        "maxY": 148.5,
+        "maxX": 560.9,
+        "page": 4
+      }
+    ],
+    "text": "3.3.4. Immunization A correct vaccination schedule in patients who plan a pregnancy can contribute to the prevention of embryofetopathies, as in the rest of pregnant women. In patients with GD who have undergone splenectomy, due to the increased risk of infection, it is important to review the immunization status prior to pregnancy with the additional recommendation of anti-pneumococcal, anti-Haemophilus influenzae type B and antimeningococcal vaccination [26]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Biomedicines 2024, 12, 579 5 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 652.3,
+      "minX": 166.2,
+      "maxY": 736.7,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "The most appropriate approach for the patient will be selected according to the evolution of the pregnancy. To avoid invasive procedures due to the potential risk of bleeding, vaginal delivery is prioritized over cesarean birth. If cesarean birth is required, it is recommended to avoid longitudinal central incisions in the presence of organomegaly. Epidural analgesia is not contraindicated if the patient has no history of bleeding, presents a previous normal blood count and an absence of abnormalities in platelet aggregation or hemostasis studies [24]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 576,
+      "minX": 166.1,
+      "maxY": 648.9,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Management during the postpartum period will depend on the evolution of the pregnancy, associated comorbidities, and characteristics of delivery. In uncomplicated vaginal delivery, management will be carried out according to usual practice, without specific follow-up recommendations. If surgical intervention is required, monitoring is recommended for the subsequent 24\u201348 h, considering close follow-up upon discharge in the event of risk factors, usually during the first 6 weeks postpartum."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 525.8,
+      "minX": 166.2,
+      "maxY": 573.6,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "During the lactation period, the potential appearance of bone complications should be evaluated, due to the transient loss of bone density in 3\u20137% of the general population, considering, in these patients, limiting their duration to 6 months and evaluating the need for supplementation according to calcium and vitamin D levels [24]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 261,
+      "minX": 165.9,
+      "maxY": 484.5,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "When patients with GD are planning a pregnancy, the need for treatment or its modification must be established. It is recommended to perform a dynamic evaluation considering the intercurrent symptoms throughout the pregnancy. The initiation of treatment during pregnancy is recommended in those patients who throughout the pregnancy present symptoms associated with the disease: mainly bone crises, pathological fractures or the worsening of thrombocytopenia with associated bleeding symptoms. The treatment of choice is ERT, with greater experience with Imiglucerase (Cerezyme®) compared to Velaglucerase alfa (VPRIV®) [12,36]. Treatment with ERT will be prescribed based on pre-pregnancy weight, evaluating cases on an individual basis, according to the clinical evolution of the patient, with the adjustment based on weight gain. The data on treatment with SRT are limited. Preclinical studies reported maternal death in the case of Miglustat (Zavesca®) and fetal distress with both Miglustat and Eliglustat (Cerdelga®). Thus, SRT is currently discouraged in pregnancy, and it is recommended to discontinue the treatment in the last 3 months. In the Phase 2 and Phase 3 clinical trials of Eliglustat, 18 women had 19 pregnancies, resulting in 14 healthy infants from 13 pregnancies (one set of twins), three elective terminations, one ectopic pregnancy, one miscarriage, and one intrauterine death. If a patient undergoing treatment with Eligustat becomes pregnant without prior planning, Eliglustat discontinuation is recommended [15]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 199.2,
+      "minX": 166.1,
+      "maxY": 258.5,
+      "maxX": 559.4,
+      "page": 5
+    }],
+    "text": "During lactation, GD treatment will follow the same recommendations. If the patient experiences clinical deterioration, lactation interruption or an initiation/adjustment of ERT will be considered depending on the symptoms and the evolution of the patient. In patients with previous bone involvement, no more than 6 months of lactation should be recommended [12,36]. SRT is not indicated in lactation."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 175.9,
+        "minX": 166.4,
+        "maxY": 185.7,
+        "maxX": 264.1,
+        "page": 5
+      },
+      {
+        "minY": 97.5,
+        "minX": 166.1,
+        "maxY": 170.4,
+        "maxX": 561,
+        "page": 5
+      }
+    ],
+    "text": "3.5.2. Supportive Care Throughout pregnancy and lactation, the need for nutritional supplements should be assessed on an individual basis according to the symptoms and analytical monitoring. The use of bisphosphonates is discouraged during pregnancy. In those patients undergoing treatment with bisphosphonates, it is recommended to discontinue bisphosphonates 6\u201312 months prior to pregnancy. Analgesic treatment and other drugs used to treat potential complications throughout pregnancy should follow the standard recommendations [24]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 72.4,
+        "minX": 166.4,
+        "maxY": 95.1,
+        "maxX": 560.5,
+        "page": 5
+      },
+      {
+        "minY": 704.6,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 560.9,
+        "page": 6
+      }
+    ],
+    "text": "There is little evidence on the management of hemostatic coverage in these patients, and the recommendations established for pregnant patients with congenital or acquired alterations of hemostasis are generally applied, mainly using tranexamic acid for situations of low bleeding risk and platelet transfusion or the use of prothrombin complex concentrates, fresh frozen plasma or fibrinogen, according to the analytical results of each patient, in cases of moderate\u2013severe bleeding risk."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Biomedicines 2024, 12, 579 6 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 554.6,
+      "minX": 166,
+      "maxY": 676.7,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "Although previous studies did not find an increased risk of solid malignancies in patients with GD compared to the general population, this appears to depend on inadequate patient cohorts, and/or differences in the duration and depth of follow-up. Recently, Rosenbloom BE et al. elaborated a large, multicenter, international population with sufficient follow-up times for malignancies to develop. They found a higher risk of malignant neoplasms of liver and kidney cells, breast cancer and melanoma. It seems prudent to monitor for any early signs of hepatic or renal malignancies when examining imaging results during GD1 evaluations; however, the current recommendation is that adult women with GD should undergo the standard screening protocols for breast, colorectal and cervical cancer [37]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 465.5,
+      "minX": 166.1,
+      "maxY": 525.7,
+      "maxX": 559.4,
+      "page": 6
+    }],
+    "text": "Osteoporosis and the associated complications such as hip fractures and vertebral prolapse are one of the main complications in GD. Women with bone-density levels of more than 2.5 standard deviations below the young adult reference mean are considered to have osteoporosis. However, since this entity remains asymptomatic until complications develop, it is generally not diagnosed until bone fractures occur [37]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 352.5,
+      "minX": 166,
+      "maxY": 463,
+      "maxX": 561,
+      "page": 6
+    }],
+    "text": "GD is characterized by the presence of \"activated macrophages\" or Gaucher cells, which infiltrate various tissues, including the bone marrow. These cells induce chronic inflammation, due to the secretion of protease enzymes and the production of inflammatory cytokines and chemokines [38]. Thus, skeletal growth and bone remodeling are altered, and result in the development of osteopenia and osteoporosis, among other alterations [39,40]. Reduced bone density is common in GD. In fact, the most common bone lesions in this entity are medullary infiltration and osteopenia [41,42]. Data from the ICGG Gaucher Registry also indicate that 55% of all patients affected by this lysosomal disease have osteopenia [43]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 289.7,
+      "minX": 166,
+      "maxY": 350,
+      "maxX": 561,
+      "page": 6
+    }],
+    "text": "Sex steroids play an important role in bone growth and in obtaining peak bone mass [44]. Around age 50, women begin to develop substantial bone loss in relation to the estrogen deficiency characteristic of menopause [45]. It is reasonable to assume that in postmenopausal women affected by GD, the concomitance of both factors is associated with a greater severity of loss of bone density, although there are few studies in this regard."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 204.5,
+      "minX": 166.4,
+      "maxY": 287.2,
+      "maxX": 560.5,
+      "page": 6
+    }],
+    "text": "On the other hand, it has been described in women affected by GD that a mean age for the development of menopause is 46.2 years in women without treatment and 49.5 years in women treated with alglucerase/imiglucerase. In the general population, on the other hand, the mean age for menopause is 51 to 52 years [12]. Although more studies are needed, this early onset of menopause will presumably induce a greater loss of bone mineral mass, for which reason screening by dual energy X-ray absorptiometry (DXA)/densitometry seems essential."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 114,
+      "minX": 166,
+      "maxY": 199.4,
+      "maxX": 559.7,
+      "page": 6
+    }],
+    "text": "Although it seems that ERT induces improvement in the degree of osteopenia, this effect is achieved late after years of treatment. In addition, such osteopenia may transiently worsen immediately after the initiation of therapy [46]. High-dose oral bisphosphonates rapidly increase bone density in patients with GD who are simultaneously treated with ERT [47]; however, it must be considered that one of the possible complications of the use of this antiresorptive therapy is the development of osteonecrosis. The female sex also seems to be related to a higher incidence of this complication."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76.3,
+        "minX": 166,
+        "maxY": 111.5,
+        "maxX": 559.3,
+        "page": 6
+      },
+      {
+        "minY": 704.6,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 7
+      }
+    ],
+    "text": "It is recommended that all post-menopausal women affected by GD undergo periodic densitometries, optimize their intake of dairy products, and proceed to supplementation with vitamin D and calcium if signs of osteopenia are identified. The most chosen treatment strategy for fracture prevention is anti-resorptive therapy with oral bisphosphonates such as alendronate [48]. Anecdotal improvement in bone mineral density and bone architecture commensurate with a reduced incidence of fractures was reported with the bone-anabolic agent teriparatide (human parathyroid hormone (PTH 1\u201334) in a GD1 patient [49]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 7
+    }],
+    "text": "Biomedicines 2024, 12, 579 7 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 654.3,
+      "minX": 166.1,
+      "maxY": 702.1,
+      "maxX": 560.5,
+      "page": 7
+    }],
+    "text": "Hormone-replacement therapy (HRT) can be offered to peri-menopausal or early post-menopausal women with GD to control moderate to severe menopausal symptoms, after individualizing the risk/benefit of HRT itself [50]. The main complications in each stage are summarized in Table 1."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 629.9,
+      "minX": 166.1,
+      "maxY": 639,
+      "maxX": 558.8,
+      "page": 7
+    }],
+    "text": "Table 1. Main risks and recommendations of Gaucher's disease in women at different stages of life."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 325.8,
+      "minX": 166.1,
+      "maxY": 335.1,
+      "maxX": 556.9,
+      "page": 7
+    }],
+    "text": "1 ERT: enzyme-replacement therapy; 2 HRT: hormone-replacement therapy; 3 DXA: dual energy X-ray absorptiometry."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.6,
+        "minX": 166.4,
+        "maxY": 295.1,
+        "maxX": 561,
+        "page": 7
+      },
+      {
+        "minY": 729.7,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 8
+      }
+    ],
+    "text": "Despite the scientific advances achieved in recent years in the pathophysiology of Gaucher disease, there is little evidence of the behavior of the disease symptomatology in the different stages of a woman's life. The multifactorial etiology of this disease can cause growth retardation and menarche, especially in untreated patients. Alterations in menstrual flow, mainly related to thrombocytopenia or alterations in hemostasis, have also been described in these patients, and the use of oral contraceptives should be considered. Follow-up by a multidisciplinary team is essential during pregnancy in patients with Gaucher disease, first by providing adequate genetic counseling and individualizing the planning of the pregnancy according to the comorbidities present in each patient. It is necessary to guarantee adequate immunization and supplementation, as well as periodically to reevaluate the existence of organomegaly and bone alterations, to establish safety criteria for delivery. Although there are no specific recommendations to guide the management of alterations in platelet count or functionality or the existence of coagulopathies, these should be monitored to assess the administration of supportive measures. The initiation of treatment with ERT is recommended in those patients who present symptoms related to the disease during pregnancy, and treatment with SRT should be discontinued, due to the limited evidence existing to date, extending these recommendations to the lactation period. Finally, the early onset of menopause, compared to the general population, may accelerate the development of osteopenia in these patients, so performing periodic densitometry is recommended in order to adjust treatment."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "Biomedicines 2024, 12, 579 8 of 10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Biomedicines 2024, 12, 579 9 of 10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Biomedicines 2024, 12, 579 10 of 10"
+  }}
+]}

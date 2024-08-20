@@ -1,0 +1,507 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 764.8,
+      "minX": 74.4,
+      "maxY": 773.5,
+      "maxX": 167.2,
+      "page": 1
+    }],
+    "text": "Clinical Medicine"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 686.2,
+      "minX": 35.7,
+      "maxY": 722.7,
+      "maxX": 548.4,
+      "page": 1
+    }],
+    "text": "Real-World Experiences with Taliglucerase Alfa Home Infusions for Patients with Gaucher Disease: A Global Cohort Study"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 572.1,
+      "minX": 166.4,
+      "maxY": 613.6,
+      "maxX": 516.1,
+      "page": 1
+    }],
+    "text": "1 Gaucher Unit, Shaare Zedek Medical Center, Jerusalem 9103102, Israel; azimran@gmail.com 2 Faculty of Medicine, The Hebrew University of Jerusalem, Ein Kerem, Jerusalem 9112102, Israel 3 Pfizer R&D UK Ltd., Sandwich, Kent CT13 9NJ, UK; roy.mansfield@pfizer.com 4 Pfizer, Inc., New York, NY 10001, USA; neta.federkrengel@pfizer.com (N.F.-K.);"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71,
+        "minX": 166.1,
+        "maxY": 143.8,
+        "maxX": 560.9,
+        "page": 1
+      },
+      {
+        "minY": 671.5,
+        "minX": 166.1,
+        "maxY": 744.3,
+        "maxX": 560.9,
+        "page": 2
+      }
+    ],
+    "text": "Gaucher disease (GD) is an autosomal recessive lysosomal storage disorder caused by mutations in the GBA1 gene [1]. The mutations lead to a lysosomal deficiency of glucocerebrosidase activity and consequently to the toxic accumulation of glucocerebroside lipids in various organs (e.g., spleen, liver, bone marrow, and lungs) [2]. Treatments for GD include enzyme replacement therapy (ERT) and substrate reduction therapy (SRT). ERTs provide the enzyme that is deficient/missing and is administered intravenously (IV) every other week, whereas SRTs are oral drugs that reduce the level of the substrate of the deficient/missing enzyme [2]. Three ERTs are currently available. These include imiglucerase (Cerezyme®; Genzyme Corporation, Cambridge, MA, US; Food and Drug Administration (FDA) approval, 1994), velaglucerase alfa (VPRIV®; Takeda Pharmaceuticals Inc./Shire HGT Inc., Lexington, MA, US; FDA approval, 2010), and taliglucerase alfa (Elelyso®; Pfizer, Inc., New York, NY, US; FDA approval, 2012)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 2 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 571.1,
+      "minX": 166.1,
+      "maxY": 669,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Treatment with IV ERT every other week in a hospital setting can adversely impact patients' quality of life, particularly as this therapy is lifelong. Thus, an option for home infusions is greatly appreciated by patients, as is evidenced by our clinical experience and as was suggested by a UK study that surveyed patients with GD and Fabry disease over a decade ago [3]. In Israel, the US, Brazil, and Australia, home infusions have been an option for patients (following at least three safe infusions in a hospital setting) for years (in some countries since the early 1990s). In other countries, such as Italy, ERT administration has been allowed only at medical centers."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 407.9,
+      "minX": 165.9,
+      "maxY": 568.6,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Although all approved ERTs have been successfully administered at home, the literature is limited. The safety of home ERT infusions has been published for alglucerase (the first FDA-approved ERT, which was derived from human placenta and later replaced by ERT produced via recombinant DNA technology) and velaglucerase alfa [4\u20136]. For velaglucerase alfa, the analysis involved 104 adults/children with GD who participated in 1 of 4 velaglucerase alfa studies and demonstrated that the type and severity of infusion-related adverse events (IRAEs) experienced at home and the medical center were similar. Overall, of these 104 patients, 10 (9.6%) experienced IRAEs in a total of 38 infusions. These IRAEs included malaise, pain, hypertension, fatigue, and headache [4]. Another safety analysis focused on Israeli patients (n = 174) who received home infusions with velaglucerase alfa in the context of clinical studies, the early access program, and commercial use (a total of 13,845 infusions over nearly nine years) [5]. The study reported no serious adverse events (AEs) with velaglucerase alfa infusions and a compliance rate of 98.4% [5]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 333.5,
+      "minX": 166.4,
+      "maxY": 405.4,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Data on the safety of taliglucerase alfa home infusions have not been reported until now, although the overall safety and tolerability of taliglucerase alfa in GD patients are well established [7\u201312]. In the 6 clinical studies investigating the efficacy and safety of taliglucerase alfa in GD, which enrolled a total of 154 patients (adults and pediatric, treatment-naïve and treatment-switched), AEs were generally mild/moderate in severity and transient in nature [12]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 246,
+      "minX": 166.4,
+      "maxY": 330.1,
+      "maxX": 560.5,
+      "page": 2
+    }],
+    "text": "For GD patients treated with taliglucerase alfa, Pfizer has been offering home therapy service in Israel (through Pfizer since 2016, before that through Protalix), US (from 2012), Brazil (from Protalix since 2020), and Australia (from 2016). The service is provided by trained nurses either as an in-house service (Israel) or through a third-party vendor (US, Brazil, and Australia). The goal of the current study was to assess the duration, compliance, and safety of home infusions with taliglucerase alfa in commercial use in Israel, the US, Brazil, and Australia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 67.7,
+        "minX": 166.1,
+        "maxY": 203.3,
+        "maxX": 560.5,
+        "page": 2
+      },
+      {
+        "minY": 709.8,
+        "minX": 166.1,
+        "maxY": 744.3,
+        "maxX": 560.5,
+        "page": 3
+      }
+    ],
+    "text": "This study on treatment duration and compliance included a total of 173 patients (58 from Israel, 61 from the US, 48 from Brazil, and 6 from Australia) who received ≥1 home infusion of taliglucerase alfa between the initiation of taliglucerase alfa home infusion program through Pfizer (except for Brazil, where it is managed through Protalix) and 30 June 2021. Overall, the cohort included more female than male patients (57.8% vs. 42.2%), although the female-to-male ratio varied between the countries included in the analysis (Table 1). The median (range) age at the time of home therapy initiation for the entire cohort was 38 (2\u201387) years and was similar in Israel, and the US, younger in Brazil, and older in Australia where at the time of this study, there were no pediatric patients in the home infusion program, although such patients are eligible for it (Table 1). Approximately two-thirds (67.6%) of all patients in the cohort were <50 years old; the age distribution was overall similar between Israel and the US with 55.2% and 60.7% of the patients < 50 years, respectively, whereas almost all the study patients from Brazil (93.8%) were <50 years (Table 1)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 3 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 685.4,
+      "minX": 166.1,
+      "maxY": 694.5,
+      "maxX": 289.2,
+      "page": 3
+    }],
+    "text": "Table 1. Patient demographics."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 338.5,
+      "minX": 166,
+      "maxY": 436.4,
+      "maxX": 561,
+      "page": 3
+    }],
+    "text": "As patients may have received taliglucerase alfa in the hospital setting before joining the home infusion program, we examined the total duration of taliglucerase alfa treatment as well as treatment through the home infusion program. Overall, more than half of all patients (52.0%) in the cohort received taliglucerase alfa infusions for a total of ≥5 years, with more than a third of patients (40.5%) receiving taliglucerase alfa for a total of ≥7 years. The majority of the patients in Israel (62.1%), over a third of the patients in the US (36.1%), and a quarter of the patients in Brazil (25.0%) received taliglucerase alfa for a total of ≥7 years (Table 2)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 314,
+      "minX": 166.1,
+      "maxY": 323.1,
+      "maxX": 398.9,
+      "page": 3
+    }],
+    "text": "Table 2. Duration of total treatment with taliglucerase alfa."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71,
+        "minX": 166.1,
+        "maxY": 169,
+        "maxX": 561,
+        "page": 3
+      },
+      {
+        "minY": 395.2,
+        "minX": 187.7,
+        "maxY": 407.3,
+        "maxX": 614.6,
+        "page": 4
+      },
+      {
+        "minY": 169,
+        "minX": 166.1,
+        "maxY": 179,
+        "maxX": 533.6,
+        "page": 4
+      }
+    ],
+    "text": "The median (range) duration of taliglucerase alfa treatment through the home infusion program for all patients in the cohort was 2.7 (0.04\u20139.0) years. In the US and Israel, the median (range) treatment duration was the longest (US: 4.9 [0.04\u20139.0] years; Israel: 4.8 [0.04\u20135.3] years), followed by Australia (4.5 [4.3\u20135.0] years), and Brazil (1.1 [0.2\u20131.2] years). The distribution of the duration of taliglucerase alfa home infusion treatment is presented in Figure 1. Overall, 84 patients (48.6%) received home infusions of taliglucerase alfa for ≥3 years. In the US, 46 patients (75.4%) received home infusions of taliglucerase alfa for ≥3 years; in Israel, 32 patients (55.2%) received such infusions for ≥3 years; and in The calculated nTuhmebcearlcouflaintefdusniounmsbienrcolufdinefdusiinonousrinsctluuddye,daisnsuomurinstgudthya,taessauchmpinagtitehnatt each patient product administration error, or inappropriate schedule of product administration)."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 721.7,
+      "minX": 166,
+      "maxY": 744.3,
+      "maxX": 614.5,
+      "page": 4
+    }],
+    "text": "Australia, all 6 paatlile6nptsatrieecnetisvreedcesuivcehdisnufuchsioinnfsufsoiorn≥s3foyre≥a3rsy.eIanrsB.rIanzBilr,ahzoilw,hevowere,valelrp,aaltliepnattsients received received taligluctearlaigsleuacelfraasheoamlfea ihnofumseioinnfsufsoiorn<s3fyoera<r3s.years."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 417.9,
+      "minX": 166.4,
+      "maxY": 441.4,
+      "maxX": 614.5,
+      "page": 4
+    }],
+    "text": "Figure 1. DistribuFtiigounreof1.thDeisdtruirbauttiioonn ooff ttahleigdluucreartiaosne oaflftaaltirgelautcmereanste tahlrfaoutrgehattmheenhtotmhreouingfhusthioenhome infusion treatment by counttrreya.tment by country."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 294.8,
+      "minX": 166.1,
+      "maxY": 370.4,
+      "maxX": 614.6,
+      "page": 4
+    }],
+    "text": "TCtficshtohrOaemsebtVclpasoeIeclDmi(tva≥u-epn1ar9lc9ali5ealpn%)n;mauc)inmneotdhnwBbcCtfiTserhttoremrhohaOaeamsreusbstziVcoclgpriaasoeI.lefhelcfD,mil(tvtioa1a≥enu-epnu2t19rfairl09c5tuvatlie0%ahtlespn)hnelim;(a)uyoe9cinitnmeno8nhlsdo.snwtBir0betuwtoa%reimhadauadrss(tzyigcmi6ocriaohol.e1fpf,inmolt.ne1ia5eunr2oti%prtisfi0fvoulttt)0ihetehd,sahlre(itenyo9eeh(ic28dnsnelhet0.os0iu)oia1tw;%niadn6maadyn(ttntce6mihhuoopd1eirmnaie.nno5ilrUnfopu%iicusofSlgoAt)isdeta,hmiwhuront(eehHsp2ncadte0ehlsr1ip1)aaoia;un6r2nlmnaoin0natnctge2hah,eudr1vre6iaaron)ia9la,nmUufi9ctiulgeAnoSa(sihcbm9nuwiwol6lsHupeAna.ta8d.rls1siuap%iaEv2nlusrnixe0otagcncrcr2g,oaaeyed16rmvlpr)a9uiha,aam9tpriiit,lignfel(anwio9ihcabwng6rlhnlua.eaAt8tecdn.hhs%eruidEeee)vns.xcetgrocrayedmlpuihaptri,ligfinwoahgrnhacttenhherd)eee."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 181.5,
+      "minX": 166.1,
+      "maxY": 269.8,
+      "maxX": 614.6,
+      "page": 4
+    }],
+    "text": "(TanatthdhohcemelroiowneriuTgixnocghcairashlendlutirJtsdz\"uraaeheitnfadidoeeoltmcnshy2ea,o0etsaoyt(hab2m\"tertnnifso1huisniieeda)mnrstgh.islo.nttyn,oeTtTwhuhTch8somhihegelhiin0euetsrehseewhadcacysispaJeanoenemacausxsydarcdlofeneicdpelrnmspulo3ectntui\"yh7rrdowci2adhgonamec0aoroeiagilatdr2nsfdnmhtarast1artairteath)izcelniamia.sylcave\"itlolsTssidweAitsoi(ehend,aseCnhhsvEeolattti,oiehiihstnfgisdnrmanibecewel(lcbeguleupaecluntah,,urctaratscdc8Seiodhsleech0inereedeeghdairoocrdnuodlbsaafu1faaceeips3s3hcratlntey7lye0raho)dstamr,ltimicpwfaatwofisaaaiprslsveenesdioietegAdteerdogaihle,asnomtruEao1lanfaemwfcsuf1batamoxeowtshaiiccriwentsisecala(oahvsueCrsaslntiiieeAdohecdshio,dhsneeteiEafa2aledn,lwde1s1glfncpci,36amflagtieS(0o3rritsplAfioehoiobuewcnrrmedEfsacaobeideehsulssvidirtrnafeosceaieuiau)sdnamtrc,scertfewesoeatoxtetednthnhucttioaidacyteldennalruhleorfttafgda1dsrouAaogh1lieaefswonefeoEdtcis1bahaomoaase6alfbwnsomsryr3aleea,rmosainisso2sctimsidadnhseearwscmf,.siaefoieusttinsynher,stiwedhsipvtnaeietrirthrdocaeaodebAdnunauaEncsaclees-t-t"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 68.5,
+      "minX": 166,
+      "maxY": 166.5,
+      "maxX": 560.3,
+      "page": 4
+    }],
+    "text": "The 33 remaining cases were classified as either \"definite\" (n = 19) or \"possible\" (n = 14) home use. The characteristics of these 33 cases are presented in Table 3. Overall, 14 cases were considered serious and none were fatal. Over half of all safety cases (18 patients) involved female patients, and only 1 case involved a pediatric patient. Cases were reported in all countries with home infusion programs (Israel, the US, Australia, and Brazil). No cases with symptomatic AEs indicated self-administration by the patient or with the help of a non-medical caregiver, although 10 case reports did not explicitly mention the presence of a healthcare professional (e.g., a nurse or physician) at the time of the infusion."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 5 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 735.5,
+      "minX": 166.1,
+      "maxY": 744.6,
+      "maxX": 434.2,
+      "page": 5
+    }],
+    "text": "Table 3. Overview of safety cases for taliglucerase alfa in-home use."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 323.3,
+      "minX": 166,
+      "maxY": 433.8,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "The most frequently reported AE-preferred terms (MedDRA) of these 33 cases by causality and seriousness are presented in Table 4. Some of the AEs are recognized as adverse reactions for taliglucerase alfa (i.e., listed in the product reference information [13]). These include fatigue, pain in extremities, bone pain, arthralgia, infusion-related reaction, pruritus, and chest discomfort as well as headache, weight increase, abdominal pain, dizziness, erythema, flushing, and rash. The blood pressure increase is currently not listed as an adverse drug reaction. However, the reported hypertension appeared to be associated with underlying comorbidities and the temporal relationship with taliglucerase alfa is unclear; a causal relationship cannot be completely excluded."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 247.9,
+      "minX": 166,
+      "maxY": 320.8,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "Additionally, events such as chest pain, asthenia, nasal congestion, rhinorrhoea, and somnolence are considered adverse reactions often associated with IRAEs, whereas other AEs, including malaise, nasopharyngitis, feeling abnormal, pain, cataract, chapped lips, COVID-19, influenza, influenza-like illness, rhinorrhoea, and urinary tract infection, were considered intercurrent conditions unrelated to taliglucerase alfa treatment. Lastly, bone disorder was considered to be associated with the underlying GD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 59.6,
+      "minX": 166,
+      "maxY": 245.4,
+      "maxX": 561,
+      "page": 5
+    }],
+    "text": "Twelve serious AEs in 5 separate cases were considered to be treatment related. The first case involved pain in the extremities (difficulty in bending fingers, for which surgery was carried out) and was causally attributed to taliglucerase alfa, although the underlying GD could be an alternative explanation. In the second case, home care staff reported that an hour after starting an infusion, the patient had itching in the lower limbs (pruritus), which was regarded as an IRAE. The symptoms improved after administration of 0.9% saline and hydrocortisone and the infusion was completed without further complications. The third case involved serious events of chest discomfort, chest pain, and hypertension (accompanied by atrial fibrillation), which had limited information to support drug causality. However, since it occurred during treatment, causality cannot be excluded. The fourth case reported erythema associated with a blister on the toe, which was noted during an infusion by the attending nurse, and due to the temporal association, causality cannot be excluded. The fifth case reported serious projectile vomiting, chills, and excessive eye blinking during infusion in a three-year-old patient who required treatment with epinephrine. The case also reported serious growth retardation, although this is likely a result of the underlying GD."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 6 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 712.2,
+      "minX": 166.1,
+      "maxY": 744.6,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Table 4. Symptomatic AEs in patients with definite/possible home use of taliglucerase alfa by system organ class and frequency (reported at least twice in the total case reports), association with treatment and seriousness."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 7
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 7 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 659,
+      "minX": 166,
+      "maxY": 744.3,
+      "maxX": 561,
+      "page": 7
+    }],
+    "text": "Nine cases reported serious events that were considered not to be related to treatment with taliglucerase alfa. The events reported in these cases included those associated with the underlying GD such as bone disorders, blood iron decrease, cholecystitis, and cholelithiasis. Other unrelated events were associated with intercurrent medical conditions including infections such as COVID-19, pneumonia and cystitis, syncope and falls with associated limb fractures, and events such as cataracts, vomiting and intestinal blockage, thrombosis, nephrolithiasis and asthma."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 533.1,
+      "minX": 166,
+      "maxY": 631,
+      "maxX": 560.9,
+      "page": 7
+    }],
+    "text": "The current analysis of the global safety database of Pfizer and the aggregated data from the four countries where the home infusion program is currently available demonstrates that home infusions of taliglucerase alfa are feasible, safe, and associated with high compliance rates. The safety profile in the home setting is consistent with that observed in the clinical setting, and with the profile of the patient population (i.e., more AEs were reported in females vs. males and only one case was reported in children). No specific or enhanced risk with home administration was noted (all AEs with causal associations are well characterized as AEs for taliglucerase alfa or as IRAEs)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 319.7,
+      "minX": 165.9,
+      "maxY": 530.6,
+      "maxX": 560.5,
+      "page": 7
+    }],
+    "text": "Our finding that taliglucerase alfa can be administered safely in the home setting is consistent with prior studies examining ERT [1,4\u20136]. Notably, as home infusions are offered to patients with at least three initial uneventful infusions of taliglucerase alfa in a hospital setting, the population of patients receiving home infusions is enriched in patients who tolerate the drug well. Home infusions offer advantages such as patient convenience, improved quality of life, and high compliance [14]. In a recent survey of 125 patients receiving home infusions in Argentina for lysosomal diseases including GD (13% of patients), 88.5% of the respondents considered their quality of life improved, and the most valuable aspect of home infusion (noted by 77% of the respondents) was that the patients felt comfortable receiving the infusion in their own home. Other advantages noted by more than half of the respondents included the ability to adjust the infusion to their daily routine, timetable flexibility, and that the nurse had more time to dedicate to patient care [15]. In this study, the nurses providing the care were also surveyed. From their perspective, for 96% of the patients, quality of life improved. The adherence rate (across all diseases) was 93%, which is consistent with that observed in the current GD-exclusive study [15]. Also, although not evaluated for ERT specifically, home infusions, in general, have been shown to be associated with cost savings [14]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 144,
+      "minX": 165.9,
+      "maxY": 317.2,
+      "maxX": 560.9,
+      "page": 7
+    }],
+    "text": "The advantages of a home infusion program are underscored during a pandemic, such as the recent SARS-CoV-2 pandemic, since home infusions reduce patients' infection risk due to reduced exposure. A recent study analyzed the impact of the SARS-CoV2 pandemic in the Spanish GD community through a survey of 110 patients. Of these 110 patients, 40% received hospital-based ERT and 6% received home-based ERT. The remaining patients received SRT (45%) or no therapy (9%) [16]. Interestingly, 25% of the patients treated with hospital-based ERT reported therapy interruptions, and 50% of all patients (regardless of treatment) reported being worried about their predisposition to a severe SARS-CoV-2 infection [16]. Therefore, specifically during a pandemic, a home infusion program could promote continuity of care and improve quality of life by reducing patients' anxiety regarding their risk [16]. Indeed, our findings demonstrate that the compliance rate remained high, even during the COVID-19 pandemic period (2020 through H1 of 2021). Although interesting, health-related quality of life was not captured in this study."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.6,
+        "minX": 166.1,
+        "maxY": 141.5,
+        "maxX": 561,
+        "page": 7
+      },
+      {
+        "minY": 671.5,
+        "minX": 166,
+        "maxY": 744.3,
+        "maxX": 559.7,
+        "page": 8
+      }
+    ],
+    "text": "The strengths of our study include its true representation of real-world data (data from four countries in different areas of the world and with different healthcare systems). The limitations of our study stem from its design and the reliability of post-marketing AE reporting that is, in general, submitted voluntarily (except for healthcare professionals who administer treatment and are contracted through Pfizer, as those are required to report any AEs they observe). Also, the data had a relatively large number of cases (80) that were excluded due to a lack of clear evidence of home infusion, and AEs in-home use could have been missed if the word \"home\" did not appear in the case narrative. As the magnitude of underreporting is unknown, incidence rates could not be calculated and between-drug comparisons could not be made. Also, due to the study design, causality cannot be established, as the AE may have been caused by the underlying disease, or concomitant medication, for example."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 8 of 10"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 545.7,
+      "minX": 166.4,
+      "maxY": 643.6,
+      "maxX": 559.5,
+      "page": 8
+    }],
+    "text": "For analyses involving patient demographics and drug administration, aggregated data were provided from Israel, the US, Brazil, and Australia from the initiation of home infusion therapy through Pfizer (or Protalix for Brazil), which was 2012 for the US, 2016 for Israel and Australia, and 2020 for Brazil, and through 30 June 2021. The eligibility criteria for these analyses included patients who were in the home infusion program (not in a clinical trial setting) up to 30 June 2021, and who received at least one taliglucerase alfa infusion at home. Patients who were in the program, but did not undergo infusion at home during this timeframe were excluded."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 420.1,
+      "minX": 166,
+      "maxY": 543.2,
+      "maxX": 561.3,
+      "page": 8
+    }],
+    "text": "For the safety analysis, the study entailed a cumulative search of all taliglucerase alfa AE cases in the Pfizer global safety database through 30 June 2021 where the word \"home\" was included in the case narrative. The Pfizer global safety database contains anonymized AE reports from patients, healthcare professionals, registries, licensing partners, and the literature reports of serious and non-serious AEs for the company's products. In addition, the database contains serious AE reports from investigational studies conducted by Pfizer Research and Development, Pfizer Business Units, and from non-research post-marketing studies, regardless of causality. For patients in the taliglucerase alfa home infusion program, AEs are typically reported by the nurses who administer the treatment. The nurses are required to report all AEs that they observe or those reported by the patient."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 259.6,
+      "minX": 166,
+      "maxY": 417.6,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "AE cases where the word \"home\" was identified were individually reviewed and classified as definite home use, possible home use (i.e., suggestive but not definitive information to indicate that taliglucerase alfa was received in a home setting), unknown, and not relevant (i.e., use in a clinical trial setting). Cases that did not involve a symptomatic AE (i.e., product dose omission, product storage error, product administration error, or inappropriate schedule of product administration) were excluded. AE cases that were classified as definite or possible home use were then categorized according to the causal association between the AE and taliglucerase alfa infusion (as determined by either the reporting healthcare practitioner or when the AE was entered into the Pfizer system by the supervising medical officer). Serious cases were defined as those leading to death, hospitalization, prolongation of hospitalization, disability, are life-threatening, cause congenital abnormalities, or require medical intervention to prevent any of the former. Non-serious cases were defined as all other cases."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 221.9,
+      "minX": 166.4,
+      "maxY": 254.5,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "Descriptive statistics were used to summarize the characteristics of the study population using frequencies with percentages for categorical variables and medians with ranges for continuous variables."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.6,
+      "minX": 166.4,
+      "maxY": 216.8,
+      "maxX": 560.9,
+      "page": 8
+    }],
+    "text": "The study was exempt from institutional review board (IRB) approval because all patients provided written informed consent for data collection and since the data provided for the analysis were received from Pfizer's databases in an aggregated and anonymized form."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 83.5,
+      "minX": 166,
+      "maxY": 153.7,
+      "maxX": 560.5,
+      "page": 8
+    }],
+    "text": "This real-life global cohort study involving a total of 173 patients from Israel, the US, Australia, and Brazil, who received a total of over 10,000 home infusions of taliglucerase alfa over four years, demonstrates that such infusions are feasible, safe, and associated with high compliance rates. During a global health crisis such as the recent COVID-19 pandemic, a home infusion option is crucial for safe and uninterrupted medical care for GD patients on ERT."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 9 of 10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.4,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "J. Clin. Med. 2023, 12, 5913 10 of 10"
+  }}
+]}

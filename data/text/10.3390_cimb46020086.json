@@ -1,0 +1,1081 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 686.2,
+      "minX": 35,
+      "maxY": 722.7,
+      "maxX": 558.2,
+      "page": 1
+    }],
+    "text": "A Smooth Muscle Cell-Based Ferroptosis Model to Evaluate Iron-Chelating Molecules for Cardiovascular Disease Treatment"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 618.7,
+      "minX": 166.4,
+      "maxY": 638.7,
+      "maxX": 530.6,
+      "page": 1
+    }],
+    "text": "1 Université de Lorraine, CITHEFOR, F-54505 Vandoeuvre Les Nancy, France; elhajjsarah@gmail.com 2 Université de Lorraine, LRGP, CNRS, F-54000 Nancy, France;"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 74.7,
+        "minX": 166,
+        "maxY": 298.1,
+        "maxX": 561,
+        "page": 1
+      },
+      {
+        "minY": 730.7,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 2
+      }
+    ],
+    "text": "Iron, an essential mineral in the human body, plays a crucial role in various physiological processes, such as hemoglobin production, oxygen transport, and enzyme function [1]. As free iron might be toxic due to its redox potential, the body stores excess iron in the liver, where it can be mobilized when needed [2]. Iron storage is regulated to maintain a balance between absorption and utilization [3]. Maintaining iron homeostasis is critically essential for human health to prevent diseases such as iron deficiency anemia and hemochromatosis caused by iron overload [4]. The concentration of intracellular iron ions is regulated at several cellular levels that comprise iron (Fe3+) uptake via transferrin receptors (TFR1 and TFR2), iron (Fe2+) storage in ferritin, and iron (Fe2+) export via ferroportin [5]. In the United States and France, the Recommended Dietary Allowance is 8 mg or 9 mg of iron for adult males and 18 mg or 16 mg for adult females to compensate for the losses during menstrual bleeding increasing to 27 mg or 35 mg during pregnancy, respectively [6]. Moreover, the Recommended Dietary Allowance for vegetarians is 1.8 times higher than for people who eat meat. This intake will meet the daily needs of 1 mg for adult males and 2 mg for adult females due to intestinal absorption limited at 5 to 10% [7]. Dysregulation of iron homeostasis causes iron-mediated cell death, recently described as ferroptosis, which is genetically, biochemically, and morphologically different from apoptosis and necrosis [8,9]. Indeed, free iron ions catalyze the formation of hydroxyl radicals via the Haber\u2013Weiss reaction [10] or can be a direct reactant for their production, such as Fe(II) in the Fenton reaction [11]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1349"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 566.5,
+      "minX": 166.1,
+      "maxY": 727.2,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Ferroptosis is a programmed cell death implicated in the development of several diseases, such as hepatic cancer, renal, and cardiovascular diseases (heart failure, atherosclerosis) [12]. The hallmark feature of ferroptosis is iron-dependent accumulation of oxidized phospholipids (i.e., lipid peroxides) [13]. Ferroptosis can be \"mimicked\"/induced by the inactivation of system Xc− (cystine/glutamate antiporter) using either erastin, sorafenib, sulfasalazine, or excess glutamate or also by inhibiting glutathione peroxidase 4 using Ras Selective Lethal 3. The inhibition of the system Xc− induces the depletion of the intracellular cysteine pool, which is the limiting amino acid required for GSH synthesis [14,15]. Yet, the decrease in intracellular GSH concentration causes an imbalance in cell redox homeostasis and antioxidant capacity. Indeed, it inhibits glutathione-dependent enzymes, such as the glutathione peroxidase-4, that catalyze the reduction of lipid peroxides, while oxidizing GSH, eventually helping protect cells from oxidative stress-induced plasma membrane injury [15\u201317]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 468.7,
+      "minX": 166.1,
+      "maxY": 564,
+      "maxX": 560.9,
+      "page": 2
+    }],
+    "text": "Ferroptosis can be prevented by inhibiting lipid peroxidation using either the natural vitamin E, the synthetic ferrostatin-1 and liproxstatine-1, or by chelating iron ions (Fe2+/3+) using deferoxamine (DFO) or deferiprone (DFr) [15]. Although ferroptosis has been identified as a cell death pathway occurring in cardiovascular diseases, such as atherosclerosis, very few studies in the literature report treatments inhibiting ferroptosis [18,19]. Moreover, to the author's knowledge, there is no model of ferroptosis based on cardiovascular cells in order to test molecules that are able to inhibit ferroptosis with potential application in cardiovascular disease treatment."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 415.9,
+      "minX": 166.4,
+      "maxY": 463.6,
+      "maxX": 560.3,
+      "page": 2
+    }],
+    "text": "Hence, the objective of this study is to develop a cell-based ferroptosis model upon the inhibition of the system Xc− antiporter and triggering lipid peroxidation with Fe(III) overload. This model will be validated using Fe(III) chelators, such as DFO and Dfr, as ferroptosis rescue molecules."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 264,
+      "minX": 166,
+      "maxY": 374.5,
+      "maxX": 560.3,
+      "page": 2
+    }],
+    "text": "Erastin (E7781, Sigma\u2013Aldrich, Saint-Quentin-Fallavier, France) mother solution was prepared at an initial concentration of 10 mM in 100% DMSO (FLUKA), aliquoted and stored at −80 ◦C. Ferric citrate (F3388-Sigma\u2013Aldrich, Saint-Quentin-Fallavier, France) mother solution was prepared at an initial concentration of 25 mM in warm PBS (37 ◦C) and stored at 4 ◦C. Deferoxamine (D0160000, European Pharmacopia, Starsbourg, France) mother solution was prepared at an initial concentration of 30 mM in PBS, aliquoted, and stored at −80 ◦C. Deferiprone (Y0001976, European Pharmacopia, Starsbourg, France) mother solution was prepared at an initial concentration of 134 mM in warm ultra-pure water, aliquoted, and stored at −80 ◦C."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 138.2,
+      "minX": 166.1,
+      "maxY": 236.1,
+      "maxX": 560.5,
+      "page": 2
+    }],
+    "text": "Smooth muscle cells derived from human aorta, AoSMC (CC-2571, LONZA, Colmar, France) were grown (37 ◦C, 10% CO2) in smooth muscle complete cell growth medium (CC-3182, LONZA, Colmar, France) containing SmBMTM Basal Medium and SmGMTM 2 SingleQuots supplements. Supplements comprise 5% (v/v) of fetal bovine serum (FBS), 0.1% (v/v) insulin, 0.2% (v/v) of human basic fibroblast growth factor (hFGF-B), 0.1% (v/v) of gentamicin, 0.1% (v/v) of amphotericin-B, and 0.1% (v/v) of human epidermal growth factor (hEGF). All experiments were conducted using actively growing cells at around 90% of confluency."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.1,
+        "minX": 166.4,
+        "maxY": 110.3,
+        "maxX": 559.4,
+        "page": 2
+      },
+      {
+        "minY": 679.5,
+        "minX": 166,
+        "maxY": 752.3,
+        "maxX": 560.3,
+        "page": 3
+      }
+    ],
+    "text": "The cytocompatibility of erastin at a concentration range comprised between 0.01 µM and 10 µM was evaluated using the MTT test. AoSMC were seeded at a density of 60 × 103 cells/mL of complete growth medium in a 96-well plate. After 24 h, cells were incubated with a different concentration of erastin for another 24 h at 37 ◦C. Then, 50 µL of 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) solution (5 mg/mL) were added to each well for 3 h at 37 ◦C. In viable cells, cellular oxidoreductase can reduce MTT to its insoluble form, called formazan, that has a purple color. The formazan crystals were dissolved with 50 µL of 100% DMSO in each well, and the absorbance was read at a wavelength of 570 nm."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1350"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 490.9,
+      "minX": 166.1,
+      "maxY": 653.1,
+      "maxX": 560.5,
+      "page": 3
+    }],
+    "text": "AoSMCs were seeded at a density of 60 × 103 cells/mL of complete growth medium in a 6-well plate (for further GSH, MDA, and protein quantifications). Solutions of 1% DMSO (100%), 100 µM erastin, 500 µM FC, 500 µM DFr, and 1500 µM DFO solution were prepared in a warm (37 ◦C) incubation medium (complete cell growth medium either undiluted or diluted 2 times with PBS). Those solutions were further diluted 10 times in a final volume of 1 mL of complete growth medium to obtain final concentrations of 0.1% DMSO (for control), 10 µM erastin, 50 µM FC (for inducing cellular ferroptosis), 50 µM DFr, and 150 µM DFO (for rescuing cells from ferroptosis) and were incubated overnight (16 h, 37 ◦C, 10% CO2) with AoSMC. According to some studies, 10 µM of erastin is the commonly used concentration to inhibit the system Xc− and induce ferroptosis [20\u201322]. Therefore, a concentration of 10 µM for erastin was chosen in order to ensure the inhibition of system Xc− necessary for the development of the ferroptosis model on AoSMC in our experiments."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 264.6,
+      "minX": 166,
+      "maxY": 463,
+      "maxX": 560.5,
+      "page": 3
+    }],
+    "text": "After incubation, cells were lysed with 250 µL of 3.3% (v/v) cold perchloric acid (Sigma\u2013Aldrich) and centrifuged at 10,000× g during 15 min at 4 ◦C. A total of 200 µL of the supernatant were neutralized by 11.5 µL NaOH-40% (v/v), whereas the pellet was collected and resuspended in 200 µL of lysis buffer (0.5 M Tris-HCl, 1.5 M NaCl, 10% SDS, and 10% (v/v) of 10% (w/v) Triton X-100) and frozen at −80 ◦C for further protein quantification. The neutralized supernatant was diluted (4 times for control condition, 2 times for the erastin condition, and 1.3 times both for the erastin + FC condition and for erastin + DC + DFO or DFr condition) in a solution containing 0.1 M HCl and 2 mM EDTA. Then, 60 µL of each previously diluted supernatant was deposited in triplicates in a 96-well black microplate. A total of 120 µL of 0.4 M borate buffer (pH 9.2; MERCK) and 20 µL of 5.4 mM 2,3-naphthalene dicarboxaldehyde (FLUKA) were then added to each well. The plate was incubated for 25 min at 4 ◦C. The fluorescence intensity was measured at λexc = 485 nm and λem = 538 nm using the microplate reader Synergy2\u2014Bioteck and the Gen5 version 1.08 software. GSH concentration in each sample was determined from a calibration curve presenting fluorescence intensity as a function of GSH concentration ranging from 0.325 µM to 3.25 µM."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76,
+        "minX": 166,
+        "maxY": 236.7,
+        "maxX": 560.3,
+        "page": 3
+      },
+      {
+        "minY": 666.9,
+        "minX": 165.9,
+        "maxY": 752.3,
+        "maxX": 559.4,
+        "page": 4
+      }
+    ],
+    "text": "Malondialdehyde (MDA) was quantified as a final product of lipid peroxidation using the TBARS method [23]. After incubation, cells were lysed in 200 µL of 10% (v/v) perchloric acid and centrifuged at 10,000× g for 15 min at 4 ◦C. The supernatant was added with 200 µL of TBA solution (15 g of trichloroacetic acid and 0.38 g of thiobarbituric acid dissolved in 100 mL of 0.25 M HCl) and 2 µL of 2% (w/v in absolute ethanol) butylated hydroxytoluene, whereas the pellet was resuspended in 200 µL of lysis buffer (0.5 M Tris-HCl, 1.5 M NaCl, 10% (v/v) SDS, and 10% pure Triton X-100) and frozen at −80 ◦C for further protein quantification. The treated supernatants were incubated at 95 ◦C for 1 h. The reaction was stopped on ice for 3 min. The MDA-TBA adduct was then extracted with 400 µL of butanol-1 and centrifuged at 15,000× g for 5 min at 4 ◦C. A volume of 120 µL of each supernatant was deposited in triplicates in a 96-well black microplate. The fluorescence intensity was measured at λexc = 485 nm and λem = 538 nm using the microplate reader Jasco and the Spectra Manager version 2.10.01 software. The concentration of MDA in each sample was determined from the plotted calibration curve representing the fluorescence intensity as a function of MDA concentration ranging from 0.0625 µM to 2.5 µM. The MDA standard (10 mM) was synthesized by diluting 208 µL of 1,1,3,3-tetramethoxypropane in 100 mL of 10% (v/v) perchloric acid and incubated at room temperature for 2 h in darkness. MDA concentration was calculated upon its absorbance at 245 nm (UV spectrophotometer, BioTek Microplate Reader 800TS) and its molar absorbance (ε245 nm = 13,700 mol−1·L·cm −1) using the Beer\u2013Lambert equation [24]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.7,
+      "page": 4
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1351"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 529.2,
+      "minX": 165.9,
+      "maxY": 639,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "The cellular protein concentration was quantified on each pellet generated in Sections 2.5 and 2.6 to normalize the quantification of GSH and MDA, as well as to estimate a variation of cells remaining after incubations. The cellular protein concentration was determined using the bicinchoninic acid assay kit (ThermoFisher Scientific, Waltham, MA, USA), including a calibration curve of bovine serum albumin ranging from 25 µg/mL to 1000 µg/mL. A volume of 25 µL of each resuspended pellet was deposited in triplicates in a 96-well microplate and added with 200 µL working buffer. The absorbance at 570 nm was read after 30 min of incubation at 37 ◦C using a microplate reader (BioTeck 800TS)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 377.6,
+      "minX": 165.9,
+      "maxY": 500.6,
+      "maxX": 560.8,
+      "page": 4
+    }],
+    "text": "Results are shown as mean ± standard error of the mean (SEM); only the upper SEM limit is shown as equal to the lower one. Mean and SEM calculations are based on 3 different wells (triplicate) per group from 3 independent experiments in each group (n = 3). The number of samples has been reduced to the smallest size allowing statistical differences between conditions. The statistical analysis was performed using GraphPad Prism version 9 software (San Diego, CA, USA). All data were analyzed using the ShapiroWilks test and showed a p-value > 0.05, suggesting that there is no significance that the data deviates from a normal distribution. Then, comparisons were performed using a t-test or one-way ANOVA test followed by Tukey's post-test [25]. Differences were considered significant when p < 0.05."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 302,
+      "minX": 166.1,
+      "maxY": 349.7,
+      "maxX": 560.9,
+      "page": 4
+    }],
+    "text": "The development of the ferroptosis model on AoSMCs was conducted by first testing the cytocompatibility of erastin and, then, by following the two biomarkers: intracellular concentration of GSH and lipid peroxidation, normalized in reference to cellular protein content."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 191.3,
+      "minX": 166.4,
+      "maxY": 274.1,
+      "maxX": 561,
+      "page": 4
+    }],
+    "text": "A range of erastin concentrations (0.01 µM\u201310 µM) was tested for evaluating their cytocompatibility on AoSMCs as a first required step in order to set the maximum concentration of erastin to be used in developing the ferroptosis model without killing the cells. For all tested concentrations of erastin, cells show a metabolic activity of approximately 80 ± 20% of the control (Figure 1). Thus, AoSMCs have maintained their functional properties and growing abilities after 24 h of treatment with erastin, whatever the investigated concentration is."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 809.9,
+      "minX": 621.7,
+      "maxY": 816.3,
+      "maxX": 626.5,
+      "page": 5
+    }],
+    "text": "5"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 477.3,
+      "minX": 166.4,
+      "maxY": 486.3,
+      "maxX": 560.8,
+      "page": 5
+    }],
+    "text": "Figure 1. AoSMC metabolic activity after 24 h incubation with different erastin concentrations."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 464.4,
+      "minX": 155,
+      "maxY": 475.4,
+      "maxX": 626.5,
+      "page": 5
+    }],
+    "text": "FigRuesruelt1s.aAreopSrMeseCntemdeatsamboealinc±acsteimviotyfna=ft3erex2p4erhiminenctusbanadtioconmwpairtehdduisffinegreonnet-ewraaysAtinNOcoVnAc.entrations. Re-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 454.2,
+      "minX": 155,
+      "maxY": 461.5,
+      "maxX": 606.3,
+      "page": 5
+    }],
+    "text": "sults are presented as mean ± sem of n = 3 experiments and compared using one-way ANOVA."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 424.8,
+      "minX": 155,
+      "maxY": 435.4,
+      "maxX": 588,
+      "page": 5
+    }],
+    "text": "3.2. ErTaostvina-liIdnadtuecseydstIenmtrXacc−elliunlhairbiGtioSnH, wDeepqlueatinotnifiiend DinitffraecreelnlutlDarilGuStHioncoonfcCenutlrtautiroenMedia"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 400.2,
+        "minX": 166.4,
+        "maxY": 422.8,
+        "maxX": 626.6,
+        "page": 5
+      },
+      {
+        "minY": 387.7,
+        "minX": 155,
+        "maxY": 398.5,
+        "maxX": 626.6,
+        "page": 5
+      },
+      {
+        "minY": 375,
+        "minX": 155,
+        "maxY": 385.2,
+        "maxX": 626.5,
+        "page": 5
+      }
+    ],
+    "text": "2uptiomTnoesAvooraSdlMiidlCuatetinedccusobymastptieolemntewcXuitlcht−ueriernamhstieibndiituinimonn.oI,nndw-deeeildu,qtceuydastcniontmeifiapenldedtegilnucuttarltmaucareetellmpureledasireunmGta,StoHhriginhconcentration upcoonncAenotrSaMtioCns iinnccuubltuarteiomnedwiuitmh (ecoransfitdinentiinalninofnor-mdialtuiotnedfrocmomLOpNleZteA)cmulitguhrtehamveeadium, or in 2 timneegsaotirvediimluptaecdtocnoemrapstlientienhcuiblittuorryeamctievditiyu.Imnd.eIendd,ecyesdti,nceyasntdingeluatnamdagteluintaemxceastsecpanresent at high"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 337.5,
+      "minX": 155,
+      "maxY": 372.6,
+      "maxX": 626.6,
+      "page": 5
+    }],
+    "text": "cnoearngescaatecthhineFvctiLerge-aluialmtrmcieyopit2nnoaospschaltaiconsiowdmncsturvteahilranteaustisprnratoetinrrnstamemciren.eelmhdluiiblbuariramtncoeor(npyccroeoanntcetfitirinadvsteiirotneynst.pioaIofnlnGdsiniSebHfeloedarf,nomcrdyaapmstritooiinntneoeinafarcsoindbmdetfrogaLrnleuOspatNanordmZtasAaufttc)eehrminigehxctehsasvceana"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 325.6,
+      "minX": 155,
+      "maxY": 337,
+      "maxX": 626.6,
+      "page": 5
+    }],
+    "text": "reaincchubcaetliolncyotfoApolaSMsmCsvwiaithtrearnasstmine(m10bµraMneinpdrioffteeriennst irnecsupboatniosnibmleedfoiar (admiluitneod oarcid transport"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 312.4,
+        "minX": 155,
+        "maxY": 322.4,
+        "maxX": 559.3,
+        "page": 5
+      },
+      {
+        "minY": 249.6,
+        "minX": 155,
+        "maxY": 260.1,
+        "maxX": 626.6,
+        "page": 5
+      },
+      {
+        "minY": 236.7,
+        "minX": 155,
+        "maxY": 247.1,
+        "maxX": 626.5,
+        "page": 5
+      },
+      {
+        "minY": 214.6,
+        "minX": 155,
+        "maxY": 234.5,
+        "maxX": 626.6,
+        "page": 5
+      }
+    ],
+    "text": "suncoht)a.sInthneonL--daimlutiendocaocmidpltertaenmspedoirutmer.and in the absence of erastin, the physiological traetviaolnuaotef tGheSHnumisbsetraotefdcelalst r1e0m±ai1n.i4ngµaMfter(Fthigeuinrceu2baat)ioann.dNtohseigpnrifioctaenintcchoanngceenwtarsation at 520 ± 80oµbsger/vmedLin(Fpirgouterine c2obn)c.enFtoraltlioownbinetgweeernatshteincoontvroelrcnoingdhittioinnc(5u2b0a±ti8o0nµgin/mcLo)manpdlethtee culture mediuienrmtarsa,tcitnehllceuolniandritGtriSaoHnce(cl3ol9un0clea±nrt2rG0atSµioHgn/omcfoLthn)e(cFceiongnuttrrraeolt2iibos)tn.hIe(nFscaiomgmuepraelseit2neatm)heeddceoiucnrmteroadlsioleufdtthedbeyn2ot9nim-tdieimslu,ettehsdecompared to"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 262.2,
+      "minX": 155,
+      "maxY": 309.9,
+      "maxX": 626.6,
+      "page": 5
+    }],
+    "text": "conFceignutrraetio2nsohfoGwSHs tihsestaintetdraacte1l0lu±la1r.4cµoMnc(eFnigturareti2oan)aonfdGthSeHpraontedinpcroontceeinntrsatbioenfore and after Iinncaccnuoutomlb5tnu2ap0r-taedir±oeimnldu8eto0tdoefiµutdAhgmec/o,ocmStomhMLnetprC(ioFlneslitgtcrweuaocrnmieedtlhli2eutbidelo)ari.nrua.sGmFTtoShilnHaelonc(wce1doli0lnnuigncµlaeMenrthrtpareriasonttaiitnoebdinsnioffe(vcFneeoircrngneeucinergonethftti2renaairtn)ciacoudsunbetbciwaanrteta,iiasootsnhdnedeeimtnebpreychmdoy9miinsatepiimod(ledletotioeslguicteadlcoornncoetn)-."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 199.4,
+      "minX": 155,
+      "maxY": 214,
+      "maxX": 626.6,
+      "page": 5
+    }],
+    "text": "themecdoinutmrocloncdointidonitaionnd.dTechreeasceedllbuyla5rtipmreostaefitner coovnercneignhttraintcioubnatwioanswditehte10rmµMineerdasttion evaluate the"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 186.8,
+      "minX": 155,
+      "maxY": 198.6,
+      "maxX": 626.6,
+      "page": 5
+    }],
+    "text": "nuinmcboemrpoarfiscoenlltso trheemcoanintrionlg(Fiagfutreer2tch),eanindcthuebpartoiotenin. cNonocesnigtrnatiifioncarnemtacihnaedngcoenswtaanst observed in"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 174.3,
+      "minX": 155,
+      "maxY": 184.3,
+      "maxX": 626.5,
+      "page": 5
+    }],
+    "text": "pr4o5t0ei±n 2c0oµngc/emntLrafotriobnotbhectowndeietinontsh(eFicgounretr2odl).cIonnbdoitthiocnult(u5r2e0m±ed8i0a,µngo/nm-dLil)uatendd,atnhde erastin con-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 159.8,
+      "minX": 155,
+      "maxY": 171.8,
+      "maxX": 626.5,
+      "page": 5
+    }],
+    "text": "ditdiiolunte(d3920-ti±m2e0s, µerga/smtinLw)(aFsiagbulereto2inbh).ibIint scyosmtemplXetce−,mreedduicuinmgtdheiluactceedss2ibtiliimtyeosf,ctehlles intracellular"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 124.1,
+      "minX": 155,
+      "maxY": 159.2,
+      "maxX": 626.5,
+      "page": 5
+    }],
+    "text": "cGoStocnoHyndscttiyhcitnsioeeotnibnnaicnneead/dnncignytdlrgsuatdtoetanieimnocseanrytenseotaeeifesnmdetthedhXdeecb−cfcyou,orld5tnGuidttrSrienmoHmoletseiyassdfniaftutehfhmctetee,serswirsaao.hmsviAtciehendrdwanacisiettgiiriovehnniettayxti.lhpnlMyeec,coutctherobedenoathvttoriiegocor,honltmhcowoepfne2ittcthetheienmw1tnier0tashotµdineoiMr-lnaudsstiteeoildnrufatsetdinminedcioumm-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 111.5,
+      "minX": 155,
+      "maxY": 121.7,
+      "maxX": 626.4,
+      "page": 5
+    }],
+    "text": "pamriesdoinawtoastnhoet cdoelnetterroiolu(sFfiogruAreoS2McC), vainabdilitthyeafpterrootveeirnnicgohnticnecnutbraatitoionnevreenmthaoiungehdthceonstant 450 ±"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 6,
+      "minX": 155,
+      "maxY": 109,
+      "maxX": 626.7,
+      "page": 5
+    }],
+    "text": "20cµelglc/multLurfeocrobmoptohnecnotnsdwietrieonresd(uFciegduinre22tidm)e.sIndibluotethd ccuultlutureremmedeiad.ia, non-diluted, and diluted 2-times, erastin was able to inhibit system Xc−, reducing the accessibility of cells to cystine/cysteine needed for GSH synthesis. Additionally, the high concentrations of cystine and glutamate in the culture medium, which were expected to compete with erastin on the binding on system Xc−, did not affect erastin activity. Moreover, the 2 times diluted media was not deleterious for AoSMC viability after overnight incubation even though the cell culture components were reduced in 2 times diluted culture media."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 794.7,
+      "minX": 621.7,
+      "maxY": 801.2,
+      "maxX": 626.5,
+      "page": 6
+    }],
+    "text": "6"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 298.5,
+      "minX": 155,
+      "maxY": 325.8,
+      "maxX": 626.6,
+      "page": 6
+    }],
+    "text": "osuulaettrrseeasraptarirnseetsiiepnnnrnteieonsdne-anndsotimlenude-tdeaadnislc±uomtmseeedpmalnecotoef±mnms=peemdl3eiuetoexmpfme(narei,m=bd)e3ianunetmsdxapcn(oeadmr,ibcmpo)lmeeatpnenatdmrseedcadonuimudsminpcgoldeomitlnuepetemasdareme2ddptiilmuuemest-sitne(dcsgt,id;lo*u).nptRee<edss0ua.20ml5tts.ipmleest-(tce,sdt;).*Rpe<-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 252.3,
+      "minX": 155,
+      "maxY": 274.9,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "MDA was quantified to evaluate lipid peroxidation\u2014the second ferroptosis 3.3b.ioEmraasrktienr\u2014-InstdautecoedfcLelilpsiadftPereroovxeirdnaigthiotninicnubDatiiffoenrewnitthD1i0luµtMioenraosftiCnuinltnuorne-Mdileudteiad and"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 214.6,
+      "minX": 155,
+      "maxY": 249.8,
+      "maxX": 626.6,
+      "page": 6
+    }],
+    "text": "om(4inF7ai02grMk±utiermDe5r0e\u20143Asaµ)dsgwati/lanumatdteLespd,orrqcfoeoustcmepaeiennplcllttcseiiovtfiaeneeflcmytde,eenardtntroiodaavt.rieeIeonmrvnnnaa(iolFignunigeh-adduttireclieuonn3tlceibsupdt)abiwcndoatemtwripeopheldnaerettoewetevxmreiimtrdehtdiahni1teuei0odminnµav,\u2014tMeMs0tD.ti1hegA±areatce0sods.tn0eiccn2coeonµnindntMridatnitaoionofnednnsr-rdoipluttoesdisanbid-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 202.1,
+      "minX": 155,
+      "maxY": 212.2,
+      "maxX": 626.6,
+      "page": 6
+    }],
+    "text": "inw2etriem(ceosntdroilluotreidn tchoemprpesleentecemofeedraiast.inIn). Inno2nt-imdielsu-dteildutecdommepdlieutme,mMeDdAiucomnc,eMntDraAtionconcentration"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 151.9,
+      "minX": 155,
+      "maxY": 199.6,
+      "maxX": 626.7,
+      "page": 6
+    }],
+    "text": "(Fiflguucrtuea3tead) baentwdepenro0t.e0i8n±co0.n05ceµnMtraintitohne c(oFnigtruorleco3nbd)itwioneraendde0t.1e6rm±i0n.e05dµaMt0in.1th±e0.02 µM and 4w7eeP40rr0rea±o0st5±(teic0inno8µ0cncogoµtnrn/godmc/ilemtLniooLt,rrnra(,ieFtnwiisogpitnuthehrieceont3uipbdvtro)ea.etlShssyoei,mg,natnhecnidefiedicbaoalronf(ecctemkodrimnaiafgpsfientloerifenettedn)h.ceoceIrsonyb2nse2tsttewitmmtaienmeeXstncew−dbsi-owlhdutaihtitetlhuecdeov)trneeawddsrtaiittsmnihoaienespsdnipno(irFuvtoisexmguisumf,tfirieMacgtia3eeDnclty)etA.d ccoonndceitnitornas-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 139.3,
+        "minX": 155,
+        "maxY": 150.5,
+        "maxX": 626.7,
+        "page": 6
+      },
+      {
+        "minY": 126.8,
+        "minX": 155,
+        "maxY": 136.8,
+        "maxX": 626.6,
+        "page": 6
+      }
+    ],
+    "text": "tiotno pflruovcotukeatliepdidbpeetrwoxeiednati0o.n08in±A0o.S0M5CµsMin ibnotthhmeecdoinatarfotelrcoovnerdniitgihotninacnudba0ti.o1n6. T±h0is.05 µM in the eraresstuinlt wcoasnedxiptieoctne,d wasiltihpoiduptearoxsiidgantiiofinciasnintdduicffederbeynhcyedrboextywlreaednicablso,tphrocdounceddituipoonns (Figure 3c)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 89.1,
+      "minX": 155,
+      "maxY": 124.3,
+      "maxX": 626.6,
+      "page": 6
+    }],
+    "text": "±Pr8ptloih0rpteoeiµdvHinigpda/beecmrreoorfLn\u2013xoWcird(eFfeaneiitrsgitrsoriunarcer,t(aeiFwocet3en3iod+dni))eni.croeSibndsoosue.,dtlthTtithnhomgeeifnsebrttodalromboiaicdlikiur(toyiccnneoogm5ifo0FonpµCfslMeotinhtxeoietdfhoasFertyCipos2rndteet.usimTemrnihnteeXgresecxe−fdprowaierlserutii,itmtnihneeidonenr)rctdauawlebsrcataoittsnonioadininpis,tdipanousrncooaestxsiumffiatceileyn4t0to0"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 4,
+      "minX": 155,
+      "maxY": 88.9,
+      "maxX": 626.7,
+      "page": 6
+    }],
+    "text": "pr(oaverookbeic lciopnidditpioenrso),xmidaaketisointaincoAmpoaStMiblCeschionicbeofothrtmheepduirapoasfeteorf tohvisesrtnuidgyh.t incubation. This result was expected as lipid peroxidation is induced by hydroxyl radicals, produced upon the Haber\u2013Weiss reaction resulting from iron ions oxidation. Therefore, in order to induce lipid peroxidation, we decided to introduce 50 µM of FC during erastin incubation, as a provider for ferric (Fe3+) ions. The stability of FC in the present experimental conditions (aerobic conditions), makes it a compatible choice for the purpose of this study."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 794.7,
+      "minX": 620.7,
+      "maxY": 801.2,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "7"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 322.6,
+      "minX": 154,
+      "maxY": 333.9,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "FigFuigruer3e.3M.MDADAananddpprrootteeiinn qquuaanntitfiificactaiotniosnins iAnoASMoSCMsaCftserafatnerovaenrnoivghetrninigcuhbtaitniocnuwbaitthioanndwith and with-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 260.1,
+      "minX": 154,
+      "maxY": 273.5,
+      "maxX": 599.4,
+      "page": 7
+    }],
+    "text": "3.4. EraMstDinA-IcnondcuecnetdraFtieornroinptnoosnis-duipluotnedIrcoonmApldetdeitmioendiiunmDaifffteerreonvterDniigluhttiionncuobfaCtiuonltuofre Media"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 246.5,
+      "minX": 166,
+      "maxY": 257.6,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "AoSMMDCAswcitohn1c0eµnMtraertaiostnini+n5n0oµnM-dFCiludtidednoctosmignpifilectaentmlyechdainugmecaomftepraroedvebronthigtohtthiencubation of"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 209.9,
+      "minX": 154,
+      "maxY": 245.1,
+      "maxX": 625.6,
+      "page": 7
+    }],
+    "text": "AthoedceSorecaMncosrtternCioantlssrceaoodwnlndbaidyttnihht3dieo1tn1it0m0hseµe(µFsMM1iig0nueteµrrhaerMesa4t1sibn0te)i.rcµnToaMhns+itdesi5inrtm0aioscetµnoainsnMn(s+dFti5iFhgt0aCiuotµr,enMdins4iadcc()ooF.mnmiHgoppoutalwerrseteeiedgv4metnaorei,)fitdt.hhicHeueamcopnorw,tnolttyhtereeovicnliehnarcnta,ordnonthdgctheueenecptct1rior0oaotmnµitoMoepnfianrceodnbcoenthtrtao-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 198.2,
+      "minX": 154,
+      "maxY": 208.4,
+      "maxX": 625.6,
+      "page": 7
+    }],
+    "text": "tio5n0 dµMecFreCaisseddelbetyeri3outismtoecselilns. tNhoete1t0haµtMneitehrearstthienc+he5m0icµalMforcmomnoprathreedinittoialtchoencceonn-trol and the"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 147.2,
+      "minX": 154,
+      "maxY": 194.9,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "10tµraMtioneroafsitrionncioonnsdinititohencso(mFipgleutreem4ebd)i.uTmhciosumldenaontsbethcaotm,minucnoicmatpedlebtye tmheemdieudmium,the introductcioonsminnuccepoerapenfnaltt5isireme0ard.etµiM,IonMthDnceAoFopmCcrfoopiitnlresecoitendennecmtorliaeonettdcnieoeisrunnitmoibrnayutdis3toihl.n7tueo5tsetcccdaoeoym2lmeldpstipa.mcrNloeeendsots,etttoatehmnteththeea1adt0ctaoiµupnnMptmerroioetlrxhcacioeomsturniandlttdhei+tlieyon5nc40o2h(µt0FeMib±mgeuF7irCcc0eaoµ4clmocgf)n/.omdmIrnimutLitonhinnneicoartethdebiynittihael"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 134.6,
+      "minX": 154,
+      "maxY": 146.9,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "methdeiu3mconsduitpiopnlsie(Fri.gIunrec4odm).Tphleisteimmpleiedsituhamt, idnicloumtepdlet2e mtiemdieusm, tdhileut1ed0 2µtMimeesr,a10stµinM + 50 µM FC"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 46.5,
+      "minX": 154,
+      "maxY": 132.1,
+      "maxX": 625.6,
+      "page": 7
+    }],
+    "text": "conerdaisttiinon+ i5n0cµrMeaFseCdpMromDoAtecloipnidcepnetrroaxtidioantiobnyw3i.t7h5ouctolmeapdianrgedtotcoeltlhdeeactohn.tItroislwcoonrtdhition (Figure 4c)n.oItnintghtehamt5e0aµnMtimFCe,atlohneepdridotneoitnhcaovenacneyntimraptaioctnosntGaySHedorcoMnDsAtacnotnactenatpraptiroonxs.imately 420 ± 70 µg/mL in the 3 conditions (Figure 4d). This implies that, in complete medium diluted 2 times, 10 µM erastin + 50 µM FC promote lipid peroxidation without leading to cell death. It is worth noting that 50 µM FC alone did not have any impact on GSH or MDA concentrations."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 0.4,
+      "minX": 154,
+      "maxY": 39.2,
+      "maxX": 625.5,
+      "page": 7
+    }],
+    "text": "Therefore, inducing ferroptosis was validated using GSH and MDA quantifications upon overnight incubation with 10 µM Erastin (to act on cysteine supply and GSH synthesis) + 50 µM FC (to induce lipid peroxidation) in complete medium diluted 2 times."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 790.5,
+      "minX": 584.8,
+      "maxY": 796.3,
+      "maxX": 589.2,
+      "page": 8
+    }],
+    "text": "8"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 212.5,
+      "minX": 157,
+      "maxY": 260.2,
+      "maxX": 589.3,
+      "page": 8
+    }],
+    "text": "wtidhsuyeipcsnoT,htnhwoTTaeohoersfieevifirsnrene)wearsa+fnlcloellui5ylyrgle0evh,kvdµaitnanlMtliiodhdindwuaiFcsatucCnetfibneet(fahtrgoottrihirsfooieifntpnrsehdrtroeforuweoipscrrpiitetrsoithorlosmiopsip1sintios0dow-dmcsµpaehioMsseledruvlmoeaEaslxtilortiiinodanddgsaegaettvtdiliepnaoetdlnrouf(o)eutaoperistnoevieanxariccrgtoalotiummeGnoas-pSnitc.neHlheceetiyaler(asnoDmttdnieFnei-MgOndchemi)DueasomAlunalepdtqdcipuunidlllaugyeentsfemt/eaidrfnpoii2decplpaetrtGitcoimiuodSnneelHeesss.s,(D/pFerp)-,"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 199.9,
+      "minX": 166,
+      "maxY": 210,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "we rescued this ferroptosis model using deferoxamine (DFO) and deferiprone (DFr), which"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 159.8,
+      "minX": 157,
+      "maxY": 198.7,
+      "maxX": 589.3,
+      "page": 8
+    }],
+    "text": "3.5a.reRwesecluleknofowthne Eforratshtienir/FirCo-nI-ncdhueclaetdinFgerprrooppteorstiisesM.odel by Iron-Chelating Molecules by3.p5.lIonRttecsioncumgeptohfleethtreeaEmtriaoesdtoiinfu/GmFCS-dHInildquuutceaeddnFt2iettryirmo(pnetmoss,ioisnlM)trooadvceeelrlblyuplrIaroortneG-iCnShHmelacatoisnsngc(Memnogtlre)ca(utFileoisgnuwrea5sae)v.aTlhueatreed-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 111.8,
+      "minX": 157,
+      "maxY": 159.5,
+      "maxX": 589.3,
+      "page": 8
+    }],
+    "text": "tsµhuMbiselnhtyicsoenupwrscblahIouansttotbthticiwioanaonnttgmitcotwthhpohnaiilnetsethwdtrreta1iaihtttm0tiiihioosoµen1odMrif0.asiuGtHµenimSrooMoaHnwsdist-eqiiselnrnuiuvgaaot+ensennrtdi5tfi,i-i0nst21cyiµa5+gt(niM0nnm5tmilµ0eyFfisMoCµci,lnaM)ianncDonrttvdrFeFlaeyaCrircsseieipanseldrlnqcuoaubrdtlbaeeiyvliiranesa5sGl0meeteSodqnµaHutsiMbnsticovyc(oDamrtn5helFcge0aeeOn)snGµ(teFtiMSrtnitoaHghtcuiDteorohraemnFGet5iOwpSoGaHa)aiSi.nrsniHTsrtehohacvroenteaaimrol1ttuei0ospoacuµottaiehlMmnrtdesistpohanere1tdo0"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 99.2,
+      "minX": 157,
+      "maxY": 110.8,
+      "maxX": 589.2,
+      "page": 8
+    }],
+    "text": "toetrhaest1in0 cµoMndiEtiroans.tiHno+w5e0vµerM,15F0CµcMonDdFitrioisna,bbluettonointcsrieganseifitchaenGtlSyHcoramtipoacroemdptaorethdetocontrol"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 86.7,
+      "minX": 157,
+      "maxY": 96.7,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "cotnhdei1ti0oµnM(raEtriaost=in30+±501 µnMmoFlC/mcogn).dition, but not significantly compared to the control"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 32.9,
+      "minX": 157,
+      "maxY": 84.2,
+      "maxX": 589.3,
+      "page": 8
+    }],
+    "text": "conSdiimtioilna(rrlayt,ioM=D3A0±co1nncmenotlr/amtigo)n. was evaluated by also plotting MDA quantity (nmol) over protein mass (mg) (Figure 5b). MDA concentration was non-significantly decreased after incubation with 50 µM DFO but significantly decreased by 4 times after incubation with 150 µM DFr in comparison to the incubation with 10 µM erastin + 50 µM FC."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 792.6,
+      "minX": 566.6,
+      "maxY": 798.5,
+      "maxX": 571,
+      "page": 9
+    }],
+    "text": "9"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 397.2,
+      "minX": 138.8,
+      "maxY": 419.8,
+      "maxX": 560.3,
+      "page": 9
+    }],
+    "text": "4. DisocvuesrsSpioirmnotielainrlym,MassD(Amcgo)n(Fceignutrraet5iobn).wMaDsAevcaolunacteendtrbaytioanlsowpalsonttoinng-siMgnDifiAcaqnutalnytditeyc(rneamseodl)"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 346.7,
+      "minX": 138.8,
+      "maxY": 396.4,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "Faefrtreorpintcousbisatiisona wfoirthm5o0fµrMegDuFlaOtebdutcseilglndifieacathntclyhdareaccretearsiezdebdyb4ytiimroens-adfetepreinndcuebnattiaocncumulatwiointho1f50lipµiMd DpeFrroixnicdoemsp[1a3ri]s.oTnhteo itmhebianlcaunbcaetiobnetwwiethen10pµrMo-oexraidstainnt+s5(0suµcMh FaCs.lipid peroxides, reactive oxygen species, and free iron ions) and antioxidants (including glutathione an4d.Dgilsuctuastshiioonne peroxidase 4) is crucial in regulating ferroptosis [15]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 332.7,
+      "minX": 162.2,
+      "maxY": 344.2,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "DespiFteerrfoeprrtoospistoissias fboermingofrreecgouglantiezdecdelalsdaeacthelclhdaeraacthterpizaetdhwbyayiroinn-vdoelpveenddeinntcaacrcduimovua-s-"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 283.9,
+      "minX": 138.8,
+      "maxY": 331.7,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "csapulelaaccrikfidrlgaceolituaasifoceltlatanayDitvshofeeieeifnssoroplhnrilxipioietkybeipdpegiftteeepoarnfretsoerhriosxrosepprixdoremtiooacdpssisoeteeicossdsl4s,e[be)1iarels3inoisb]n[ds.1cagiTrs5fsurrh,e,ee1ctedcehi6oai]eimolgr.roinnbFenniauzicrlseireaaodtgnarnhducasseelsi)carobaaamtviernncatcodewgsirltclaeefyueedn,rnoltearaifaoosprtlpxrhifoctitadoepe-rosralalxiaantsshitst,du[sw1thar(h5naiei]nneyt.srcdiael(neupsuvurdotoichinrlhnovtgigearndstgighslliiuentparticewaadaatbahrptidrmileoieirton,eoyventxahittasdosencerutdstehe-,asistt"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 271.4,
+      "minX": 138.8,
+      "maxY": 283.6,
+      "maxX": 571.2,
+      "page": 9
+    }],
+    "text": "molecluarledsifsoearstehseliirkpeoatthenertoiaslclteoroinsihs,ibthitefreerirsoapstocasricsiatynodf, lciotenrsaetuqrueernetployr,ttihnegitrraeaptpmliecnatbsitlhitayt in"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 258.8,
+        "minX": 138.8,
+        "maxY": 269.6,
+        "maxX": 571.1,
+        "page": 9
+      },
+      {
+        "minY": 246.3,
+        "minX": 138.8,
+        "maxY": 256.3,
+        "maxX": 559.3,
+        "page": 9
+      },
+      {
+        "minY": 233.7,
+        "minX": 162.2,
+        "maxY": 243.8,
+        "maxX": 571.1,
+        "page": 9
+      }
+    ],
+    "text": "the trespatemcifiencatlloyfincahribdiitofvearrsocputloasrisd[i1s5e,1a6s]e.sF.uOrtuhrersmtuodrey, ainsvfaorlvaesdthtehaeudtheovreilsoapwmaeren,tthoefrea ifserroptosaislamckoodfeal afenrdroiptstorseisscmuoedinelaboarsteidc somnocaortdhiomvuasscculelacreclelslls(,AhoinSdMeCrins)g. the ability to test Inmtohleecuinledsufcotriothneoirfpfoerternotpiatolstois,inbhliobciktifnergrospytsotseimsaXndc−, icsoansweqeulle-nestltya,btlhiesihreadppmlieccahbailnitiysm"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 171,
+      "minX": 138.8,
+      "maxY": 231.2,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "[26]. Vinartihoeustrsetartamteegniteosfhcaavrdeiboeveanscduolacrudmiseenasteeds. inOuthrestluitdeyraitnuvroelvfoerdtthhies pdeuvreploospem,iennctluofdaing Xtdhicre−,epcatrcVpfotieransmrorrhmiboooiyIpbuotntiitsoortitohiessnointedsrnoiuaomnftofcdeoigfggundllsicugueeyttsiltsaotaahtmhnmenaeomadvafteietifntXeebsetrcexrerr−eaocexunepcscscsetedsouils,nloseusmigcs,ilu,noamebmdrarlooauoeccsdnlrokatttuinitiecninldcoagsen[mtis2ninoyo8otsftrn]otha.tethetEhomieflromigaXtntelshucurt−oesaitcnatfiglusm,eclraauyicenwestrfolateoellimscrlynlo(-steieAhignssianotospanSilbpazyMdltueish,sCdriwhsptsehioa)pnd.uysahems[t,i,2hbei7incwim]thc,oalaapurynnadiodsc[ifmn2tdisg7niy[]rt2g,esh6cate]tten.hmde"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 158.4,
+      "minX": 138.8,
+      "maxY": 170.9,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "syntheinshisiboitfioGnSoHf s[y1s7t]e.mInXitci−alulysinregceorganstiizne[d28a]s. Earcaastninc,ear rceeclolgknililzeerdtihnrhoiubigtohraofnsoynst-eampoXpct−o,tic"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 145.9,
+      "minX": 138.8,
+      "maxY": 156.8,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "pathwaacyts,beyraresdtiunciwngatshleaitnetrraicdeellnutliafirecdonacsenatnratiinodnuocfecrysotifnfeearnrdo,ptthoussi,sim[1p3a]c.tIinngtthhies ssytnutdheys,isthe"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 133.3,
+      "minX": 138.8,
+      "maxY": 143.4,
+      "maxX": 570.9,
+      "page": 9
+    }],
+    "text": "comproefhGeSnHsiv[1e7]e.vInaliutiaaltliyonrecoofgenriazsetdinascaoncacnecnetrracteilolnkisllreervthearoleudghaahniognh-adpeogprteoeticofpactyhtwocaoym,-"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 120.7,
+        "minX": 138.8,
+        "maxY": 130.8,
+        "maxX": 571.1,
+        "page": 9
+      },
+      {
+        "minY": 107.1,
+        "minX": 138.8,
+        "maxY": 118.3,
+        "maxX": 571,
+        "page": 9
+      }
+    ],
+    "text": "patibielirtaystiwniwthasAlaoteSrMidCens,tiafisedeavsidanenincdeudcebryoftfheerrocpeltlossims[a13in].taIninthinisgsttuhdeyi,rthmeecotambporleicheancstiivveity acrossevthaleutaetsiotendorfaenragset.inThcoenccheonitcraetioofn1s0reµvMealaesd tahehiegrhasdteingrceoenocfecnyttroactoiomnpfaotribsiluitbysewqiuthent"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 78.9,
+      "minX": 138.8,
+      "maxY": 105.7,
+      "maxX": 571.1,
+      "page": 9
+    }],
+    "text": "aexlipgenrmAirmaeonneSgnMtetw.CsTisith,shaeasecsejhutvaodibidcileceinisoohcfueed1sd0bspeµyrlMaethccettaiisccoeentlhsl,seienmenrtasahuisnetrtiifinaniengcloidnbngo[c2etth0hn\u2013etrc2iaro2tmm]io.epntaafbtoiorblisilcuitbaycsetwiqvuiitteyhnatcceerlxolpsvseritaihmbeietlnietstysteiadsnd"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": -5.7,
+      "minX": 138.8,
+      "maxY": 72.2,
+      "maxX": 571.2,
+      "page": 9
+    }],
+    "text": "Quantification of intracellular GSH concentration serves as a crucial biomarker in the study of ferroptosis [17]. GSH, a tripeptide composed of glutamate, cysteine, and glycine, plays a pivotal role in cellular antioxidant defense mechanisms and redox homeostasis [14]. Monitoring changes in GSH levels provides valuable insights into the oxidative stress associated with ferroptosis. In our study, the observed decrease in intracellular GSH levels supports the hypothesis that erastin hinders the accessibility of cells to cystine/cysteine,"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.5,
+      "page": 10
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1357"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 729.7,
+      "minX": 166.4,
+      "maxY": 752.3,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "a judicious selection, ensuring both compatibility with cell viability and alignment with established practices in the field [20\u201322]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 566.5,
+      "minX": 166.1,
+      "maxY": 727.2,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "Quantification of intracellular GSH concentration serves as a crucial biomarker in the study of ferroptosis [17]. GSH, a tripeptide composed of glutamate, cysteine, and glycine, plays a pivotal role in cellular antioxidant defense mechanisms and redox homeostasis [14]. Monitoring changes in GSH levels provides valuable insights into the oxidative stress associated with ferroptosis. In our study, the observed decrease in intracellular GSH levels supports the hypothesis that erastin hinders the accessibility of cells to cystine/cysteine, essential for GSH synthesis. Furthermore, the experiment addressed concerns about the potential interference of high concentrations of cystine and glutamate in the culture medium with erastin's activity. Contrary to expectations, erastin's inhibitory effect on system Xc− remained evident, indicating its resilience to competition with these amino acids. Notably, the 2-times diluted culture medium did not compromise AoSMC viability after overnight incubation, emphasizing the robustness of the cells even under reduced culture components."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 466.1,
+      "minX": 166.1,
+      "maxY": 564,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Quantification of GSH is often complemented by the assessment of lipid peroxidation markers (e.g., malondialdehyde) to provide a comprehensive understanding of ferroptotic processes. Therefore, MDA quantification was undertaken to assess the state of cells following overnight incubation with 10 µM erastin in non-diluted and 2-times diluted culture medium. The results indicate that erastin alone, even with the blockade of system Xc−, is not adequate to induce lipid peroxidation in AoSMCs. This observation aligns with the understanding that lipid peroxidation is often induced by hydroxyl radicals, generated through the Haber\u2013Weiss reaction resulting from the oxidation of iron ions [11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 390.7,
+      "minX": 166.1,
+      "maxY": 463.6,
+      "maxX": 559.7,
+      "page": 10
+    }],
+    "text": "To address this, ferric citrate (FC) was introduced during erastin incubation to provide ferric (Fe3+) ions. Ferric iron is known for its involvement in redox reactions and its capacity to readily accept electrons, thereby becoming reduced to ferrous iron (Fe2+) [11]. Several studies have reported the ferroptosis-inducing potential of iron supplementation through the introduction of ferric-based compounds, such as FC and ferric ammonium citrate, at varying concentrations [13,29,30]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 255.3,
+      "minX": 166.1,
+      "maxY": 388.3,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "In the context of complete medium, the introduction of 50 µM FC is detrimental to cell viability. The absence of information regarding the chemical form and initial concentration of iron ions in the complete medium further complicates the interpretation of these results. It is suspected that by adding 50 µM FC, the total concentration of iron ions for an overnight incubation is more than the cells can handle, causing oxidative damage and ultimately cell death. Therefore, the results validate the induction of ferroptosis in AoSMCs through the co-incubation of 10 µM erastin and 50 µM FC only in 2-times diluted complete medium. The observed increase in MDA concentration signifies the initiation of lipid peroxidation, a characteristic feature of ferroptosis. The sustained protein concentration indicates that, under these conditions, the cells undergo lipid peroxidation without undergoing significant cell death."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 89.5,
+      "minX": 166.1,
+      "maxY": 250.2,
+      "maxX": 560.5,
+      "page": 10
+    }],
+    "text": "The development of a rescue model in AoSMC involving iron-chelating molecules, deferoxamine (DFO) and deferiprone (DFr), provides crucial positive control for future evaluation of other metal-chelating agents [17]. DFO, known for its effective iron chelation on a 1:1 basis [31], displayed some protective effect, albeit to a lesser extent. In contrast, DFr, with its capacity to bind Fe3+ in a 3:1 molar ratio [32], demonstrated a more robust rescue effect. DFr was able to significantly increase GSH concentration and decrease MDA concentration. The small structure of DFr also facilitates its cell permeability, enabling it to effectively chelate intracellular iron. By chelating intracellular iron, deferiprone helps prevent iron from participating in harmful reactions that can lead to oxidative stress and tissue damage [33]. It also enables the excretion of excess iron from the body through urine, ultimately reducing the iron burden and mitigating the complications associated with iron overload disorders [31]. The observed rescue effect underscores the importance of targeting intracellular iron levels as a strategy to counteract ferroptosis."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 11
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1358"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 652,
+      "minX": 166.1,
+      "maxY": 736.7,
+      "maxX": 559.5,
+      "page": 11
+    }],
+    "text": "In conclusion, the ferroptosis model is validated using GSH and MDA as biomarkers upon the overnight incubation of AoSMCs with erastin 10 µM and FC 50 µM. Erastin induced GSH depletion while the combination of erastin and ferric citrate\u2014containing ferric ions (Fe3+)\u2014induced lipid peroxidation. After, DFO and DFr were investigated for their ability to rescue the ferroptosis cellular model, considering their well-known chelating properties. DFO (50 µM) was not effective on AoSMCs for rescuing ferroptosis, unlike DFr (150 µM)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 601.1,
+      "minX": 166.4,
+      "maxY": 648.9,
+      "maxX": 561,
+      "page": 11
+    }],
+    "text": "It would be interesting to study the effect of synthetic metal-chelating peptides such as HHH, HHHHHH, HGH, and carnosine in inhibiting ferroptosis since it could be the start of a protein-based therapy (or prevention) for iron-overload diseases and then to investigate the effect of metal-chelating peptides discovered from protein hydrolysates [17]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 513.3,
+      "minX": 166.2,
+      "maxY": 598.7,
+      "maxX": 559.4,
+      "page": 11
+    }],
+    "text": "Additionally, it is important to note that ferroptosis is a complex process influenced by various factors, including the activity of specific enzymes like glutathione peroxidase-4 and the presence of antioxidants [17]. Therefore, addressing ferroptosis may require a multifaceted approach that includes not only iron chelation but also the modulation of other cellular processes involved in lipid peroxidation and cell death. Researchers continue to study ferroptosis and develop new strategies and compounds to effectively inhibit this form of cell death in different pathological conditions."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783,
+      "minX": 35.5,
+      "maxY": 791,
+      "maxX": 559.3,
+      "page": 12
+    }],
+    "text": "Curr. Issues Mol. Biol. 2024, 46 1359"
+  }}
+]}

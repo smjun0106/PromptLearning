@@ -1,0 +1,32 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","# Title: Molecules
+
+## Identification of GM1-Ganglioside Secondary Accumulation in Fibroblasts from Neuropathic Gaucher Patients and Effect of a Trivalent Trihydroxypiperidine Iminosugar Compound on Its Storage Reduction
+
+### Introduction
+Gaucher disease (GD) is the most common lysosomal storage disorder (LSD) of glycosphingolipids. It occurs at a frequency of 1 in 100,000 live births in the general population and 1 in 450 live births among Ashkenazi Jews. GD is caused by mutations in the GBA gene, which encodes for the lysosomal enzyme acid β-glucosidase (GCase). GCase is involved in the lysosomal breakdown of glucocerebroside (GlcCer) and glucosylsphingosine (GlcSph). Severe mutations in the GBA gene are distributed throughout the three domains of GCase. Severe neuropathic GD phenotypes may arise from enzyme defects involving the catalytic site, protein folding, stability, or regulatory functions. GD is classified into three major clinical types based on age of onset and neurological involvement. GD type 1 is characterized by bone disease, hepatosplenomegaly, anemia, thrombocytopenia, lung disease, and absence of primary central-nervous-system disease. GD types 2 and 3 are characterized by primary neurologic disease. GD type 2 has childhood onset with aggressive central nervous system involvement, often resulting in death within 2 years. GD type 3 has later onset and a slower progressive course. Additional data on the role of each mutation in determining specific GD phenotypes are needed.
+
+### Current Treatments
+Currently available treatments for GD, especially for type 1, include enzyme replacement therapy (ERT) using imiglucerase, velaglucerase alfa, and taliglucerase alfa, and substrate reduction therapy (SRT) using N-butyldeoxynojirimycin (NB-DNJ). ERT supplements defective enzymes with active enzymes, while SRT lowers the synthesis rates of all GlcCer. ERT has disadvantages such as dependence on intravenous infusions and poor delivery to bones and lungs. Zavesca® is given orally and crosses the blood–brain barrier but causes several side effects.
+
+### Pharmacological Chaperone Therapy (PCT)
+An alternative therapeutic strategy, pharmacological chaperone therapy (PCT), has emerged. Pharmacological chaperones (PCs) stabilize misfolded GCase, allowing it to be trafficked to lysosomes and resume enzymatic activity. PCs behave as reversible inhibitors but can correct folding and stabilize enzyme activity in sub-inhibitory amounts. Trihydroxypiperidine iminosugars have shown properties as anti-viral, anti-bacterial, anti-diabetes, or immunosuppressant agents and as PCs for LSDs. No PC for Gaucher disease has yet reached the market.
+
+### Secondary Accumulation in GD
+The lack of a treatment targeting the primary cause for neuropathic GD phenotypes prompted further investigation into secondary accumulated materials. Higher levels of lactosylceramide (LacCer) were found in the brain of GD patients, while gangliosides had a higher proportion of GM2 and GM3. An increase in secondary GD3 was found in the brain of a type 2 patient. Ceramide, dihexosylceramide, trihexosylceramide, and phosphatidylglycerol were higher in skin fibroblasts from GD types 1 and 2 patients. A clear connection between GluCer or GluSph accumulation and secondary compounds has not been established.
+
+### Study Findings
+GM1 was found to accumulate in skin fibroblasts from GD types 2 and 3 using flow cytometry and fluorescent labeling. No genetic defects were found in beta-Galactosidase (β-Gal), responsible for GM1 degradation. The trivalent trihydroxypiperidine iminosugar compound (CV82) reduced levels of both GlcCer and GM1. This suggests β-galactosidase as a potential therapeutic target for neuronopathic GD variants.
+
+### Methods
+Fibroblasts from GD patients were monitored for storage material changes. Confocal microscopy and flow cytometry were used to label and quantify GlcCer and GM1. CV82 was tested for its ability to reduce GM1 accumulation without significantly affecting GlcCer levels. The inhibition and pharmacological chaperone activities of CV82 towards β-Gal were evaluated.
+
+### Results
+In fibroblasts with the L444P mutation, a ~50% increase in GlcCer and a ~60% increase in GM1 storage were observed. CV82 significantly reduced GM1 accumulation without affecting GlcCer levels. CV82 showed negligible inhibition of β-Gal, suggesting other mechanisms for GM1 reduction. Fibroblasts with the R131C mutation showed increased GM1 levels, indicating structural changes in GCase.
+
+### Conclusion
+GCase defects can give rise to various GD phenotypes and neurodegenerative diseases. GM1 accumulation in GD cell lines suggests a role in GD pathogenesis. Targeting secondary GM1 accumulation may provide therapeutic benefits. Personalized drug treatments based on specific mutations may be developed.
+
+### Experimental Details
+Fibroblast samples were obtained from the ""Cell Line and DNA Biobank from Patients Affected by Genetic Diseases"" and cultured in Dulbecco's Modified Eagle's Medium. CV82 was screened for β-Gal inhibition in leukocytes from healthy donors. Enzyme activity was measured using a Micro BCA Protein Assay Kit. Fibroblasts were labeled with specific antibodies and analyzed using confocal microscopy and flow cytometry. Statistical significance was evaluated using Student's test and KaleidaGraph software."

@@ -1,0 +1,780 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 763.8,
+      "minX": 75.3,
+      "maxY": 771.6,
+      "maxX": 167.4,
+      "page": 1
+    }],
+    "text": "Molecular Sciences"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 690.7,
+      "minX": 35.7,
+      "maxY": 722.7,
+      "maxX": 527.9,
+      "page": 1
+    }],
+    "text": "Long-Term Evaluation of Biomarkers in the Czech Cohort of Gaucher Patients"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 565.2,
+      "minX": 165.7,
+      "maxY": 628.3,
+      "maxX": 553.6,
+      "page": 1
+    }],
+    "text": "1 Department of Pediatrics and Inherited Metabolic Disorders, First Faculty of Medicine, Charles University and General University Hospital, 128 08 Prague, Czech Republic; malinovav@seznam.cz (V.M.); hpoup@lf1.cuni.cz (H.P.); martin.reboun@vfn.cz (M.Ř.); lenka.dvorakova@vfn.cz (L.D.); stella.reichmannova@vfn.cz (S.R.); ivasvand@gmail.com (I.Š.); lenka.murgas@gmail.com (L.M.) 2 ARCHIMEDlife Laboratories, 1110 Vienna, Austria; d.kasper@archimedlife.com * Correspondence: martin.magner@vfn.cz"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 179.3,
+      "minX": 166.1,
+      "maxY": 289.8,
+      "maxX": 561,
+      "page": 1
+    }],
+    "text": "Gaucher disease (GD, OMIM #230800), one of the most common lysosomal storage disorders, is caused by biallelic pathogenic variants in the GBA gene. This autosomal recessive disorder due to an enzymatic deficiency of β-glucocerebrosidase (EC 3.2. 1.45) results in an intra-lysosomal accumulation of glucosylceramide (GlcCer, glucosylcerebroside). Glucosylceramide accumulates primarily within cells of mononuclear phagocyte origin in the spleen, liver, and bone marrow. During its deacylation by acid ceramidase, glucosylceramide transforms into a sensitive biomarker for GD, lyso-glucosylsphingosine (lyso-Gb1). The accumulation of deacylated lysolipids leads to a progressive disease hallmarked by immune dysregulation and multi-system involvement [1\u20133]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 66.3,
+        "minX": 166.1,
+        "maxY": 176.8,
+        "maxX": 559.8,
+        "page": 1
+      },
+      {
+        "minY": 534.1,
+        "minX": 165.9,
+        "maxY": 744.3,
+        "maxX": 561,
+        "page": 2
+      }
+    ],
+    "text": "The clinical manifestation of GD varies broadly from a perinatal-lethal form to an asymptomatic form. The classification of GD by clinical subtype is useful for prognosis and disease management. Three major clinical types are distinguished by the absence (GD type 1) or presence (GD types 2 and 3) of neurologic signs and symptoms. Perinatal-lethal and cardiovascular forms represent fewer common phenotypes. Symptoms of the most prevalent type 1 GD may include hepatosplenomegaly, anemia, thrombocytopenia, growth delay, and bone or pulmonary involvement. Most heterozygous mutations in the GBA1 gene elevate the risk of Parkinson's disease and dementia with Lewy bodies. Even though type 1 GD patients classically do not have CNS involvement, they are at increased risk for developing parkinsonism and Parkinson's disease (PD). Heterozygous mutations in the GBA1 gene cause a more severe PD phenotype and are associated with synucleinopathies in general (Thaler et al., 2017 [4]). However, large-scale studies report that only 8% to 12% of type 1 GD patients show PD symptoms at age 80 years (Blauwendraat et al., 2023 [5]). The rimary neurologic disease of type 2 and 3 GD is characterized by an earlier age of onset and the rate of disease progression, a neurologic involvement including squint, swallowing difficulty (bulbar signs), opisthotonus, head retroflexion, spasticity, and trismus (pyramidal signs), oculomotor involvement, or generalized tonic-clonic seizures and progressive myoclonic epilepsy in some individuals [6]. Type 1 is the most common form in the European and US populations, with an estimated disease prevalence of 1 in 40,000 to 60,000 individuals in the Czech Republic. Altogether, 62 patients were diagnosed with Gaucher disease between 1975 and 2022. The calculated birth prevalence of Gaucher disease was 1043 patients per 100,000 live births, or 1 patient per 95,853 live births ([7]; data actualized up to March 2023). An increased prevalence is observed in individuals of Ashkenazi Jewish descent. The birth incidence was estimated to be 1 in 450 in the Ashkenazi Jewish population [8], while disease prevalence reaches about 1 in 800 [9,10]. More than 600 GBA gene mutations associated with GD have been identified (HGMD® Professional 2022.4)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.7,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 2 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 395.3,
+      "minX": 166.1,
+      "maxY": 530.9,
+      "maxX": 559.3,
+      "page": 2
+    }],
+    "text": "Guidelines for the evaluation of the disease burden and management of patients with GD can be challenging due to a high degree of phenotypic heterogeneity. The clinical picture can vary from patients remaining asymptomatic for decades to children with severe clinical manifestations [11]. Traditional GD evaluation includes indirect markers (liver and spleen size/volume, hemoglobin level, platelet count, and the skeletal system's radiologic and MRI characteristics). A personalized guiding treatment decision should be based on pathologically relevant markers that are ideally specific to GD, play a direct role in GD pathophysiology, do not exhibit high genetic variation, reflect the therapy, and can be used for all patients [2]. Monitoring of the disease progression in GD patients is performed at baseline and usually every 3\u20136 months or in a 12-month period for both treated and untreated patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 282.3,
+      "minX": 165.9,
+      "maxY": 392.8,
+      "maxX": 560.5,
+      "page": 2
+    }],
+    "text": "The first and most widely used biomarker is chitotriosidase (CHITO), an orthologue of the chitinase family. While CHITO has been used as an established biomarker since 1994 [12], some concerns have arisen from its description to the present. CHITO limitations include the increased marker activity in different pathological processes [13]. Moreover, approximately 6% of GD Caucasian patients exhibit no measurable CHITO activity due to null alleles in the encoding gene [14], while the manifestation of GD symptoms is not altered in them. Another one-third of GD patients are heterozygotes for this CHIT1 SNP and thus present with half-normal serum levels [14]. Therefore, evaluating the trend of CHITO activity is more reliable than assessing its absolute levels."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.9,
+      "minX": 166.4,
+      "maxY": 279.9,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "The other alternative biomarkers are also used, irrespective of the chitotriosidase genotype. Lyso-Gb1 concentration from a dried blood spot has been the most specific and sensitive diagnostic GD biomarker [15]. The elevated levels of lyso-Gb1 in GD patients were first shown over 40 years ago [16]. The high lyso-Gb1 levels seem to be related to immune dysregulation and skeletal disease in GD1 patients [17]. Plasma levels of lyso-Gb1 decreased following enzyme replacement therapy (ERT) and were correlated with other biomarker changes [18]. Both CHITO and Lyso-Gb1 reflect the context of GD. They fluctuate in the same direction and can serve as a prognostic and disease-monitoring biomarker in GD [2]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 119.2,
+      "minX": 166.1,
+      "maxY": 179.4,
+      "maxX": 559.7,
+      "page": 2
+    }],
+    "text": "The concentrations of another plasma biomarker, tartrate-resistant acid phosphatase (TRAP), rise with GD progression and decrease in response to ERT. The TRAP isoenzyme 5b is a specific marker of bone resorption. It plays a key role in the degradation of type I collagen by the osteoclast. Like CCL18/PARC, elevation of TRAP activity also appears in other diseases (Niemann\u2013Pick disease, osteopetrosis, and multiple myeloma, among others) [19]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 68.9,
+      "minX": 166.4,
+      "maxY": 116.7,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Appropriate candidate biomarker selection is complicated due to the vast clinical and biochemical heterogeneity in GD. Some plasma biomarkers for disease monitoring and response-to-treatment evaluation were or are used, such as ferritin and hemoglobin levels, angiotensin-converting enzyme (ACE), and alkaline phosphatase activity (ALP)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.7,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 3
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 3 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 721.7,
+      "minX": 166,
+      "maxY": 744.3,
+      "maxX": 559.7,
+      "page": 3
+    }],
+    "text": "However, they were also shown to be affected by other factors, and their lack of specificity was reported [20,21]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 684.1,
+      "minX": 166.4,
+      "maxY": 719.2,
+      "maxX": 559.5,
+      "page": 3
+    }],
+    "text": "The aim of our present study was to test the utility of relevant plasma biomarkers for disease trend evaluation in patients receiving ERT or substrate reduction therapy (SRT) in the Czech cohort of patients with GD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 507.1,
+      "minX": 41.8,
+      "maxY": 642.7,
+      "maxX": 565.1,
+      "page": 3
+    }],
+    "text": "Thirty-four patients with confirmed GD treated with ERT or SRT were included in the present study. All subjects were evaluated during five visits over 30 months. Thirty patients received long-term ERT with imiglucerase (Cerezyme®, Sanofi Genzyme, Cambridge, MA, USA) (n = 21) or velaglucerase alfa (VPRIV®, Shire Human Genetic Therapies, Inc., MA, USA) (n = 9) during their first study visit. On visit 2, one patient was switched from VPRIV® to Cerdelga® (Sanofi Genzyme, Cambridge, MA, USA). The remaining 29 patients continued ERT during subsequent visits. Three patients started the study period with Cerdelga® and one with Zavesca® (Actelion, Allschwil, Switzerland) (Figure 1). Due to the small SRT sample size, patients with ERT could not be matched to those with SRT. Clinical assessments included Int. J. Mol. Sci. 2023, 24, x FOR PEERCRHEIVTIOEWand TRAP activity, platelet counts, and Lyso-Gb1 level analysis at every visit. Bas6eloinfe19 characteristics of the study cohort are summarized in Tables 1 and 2."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.7,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 4 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 709.9,
+      "minX": 166.1,
+      "maxY": 744.6,
+      "maxX": 561.1,
+      "page": 4
+    }],
+    "text": "Table 1. Baseline characteristics of the study cohort. ERT\u2014enzyme replacement therapy; SRT\u2014 substrate reduction therapy; CHITO\u2014chitotriosidase; Lyso-Gb1\u2014glucosylsphingosine; TRAP\u2014 tartrate resistant acid phosphatase; platelets\u2014platelet count. Values represent the mean ± S.E.M."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 482.6,
+      "minX": 166.1,
+      "maxY": 504.5,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "Table 2. Basic characteristics of the subjects. Pathogenic mutations in the GBA and CHIT1 genes and treatment at initial and follow-up visits are noted. EOW\u2014every other week; mg/D\u2014mg per day."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 447.9,
+      "minX": 327,
+      "maxY": 463.9,
+      "maxX": 541.1,
+      "page": 4
+    }],
+    "text": "C(HNIMT1_0G0e3n46o5ty.3p)e Initial Visit Follow-Up"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.7,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 5
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 5 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 737.9,
+      "minX": 166.1,
+      "maxY": 744.5,
+      "maxX": 220.4,
+      "page": 5
+    }],
+    "text": "Table 2. Cont."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 700.8,
+      "minX": 327,
+      "maxY": 716.8,
+      "maxX": 541.1,
+      "page": 5
+    }],
+    "text": "C(HNIMT1_0G0e3n46o5ty.3p)e Initial Visit Follow-Up"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.6,
+        "minX": 166.1,
+        "maxY": 128.9,
+        "maxX": 560.5,
+        "page": 5
+      },
+      {
+        "minY": 721.7,
+        "minX": 166.1,
+        "maxY": 744.3,
+        "maxX": 560.5,
+        "page": 6
+      }
+    ],
+    "text": "The effect of ERT and SRT was assessed with changes in Lyso-Gb1 levels, CHITO and TRAP activities, and platelet count in a mostly female study cohort of 34 patients. At Visit 0, 30 of the included patients were treated with ERT and four with SRT (Table 2). On visit 2, one patient was switched from ERT to SRT (Figure 1, Table 2, no. 21). No patient interrupted treatment. Prior to entering the study, patients on ERT therapy had been treated for 15.6 years on average (range 2.0 to 25.0) and patients on SRT for 2.8 years (range 0.0 to 11 years), respectively. At the time of the first visit, the average age was 42.9 years (range 3\u201369 years)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 777.3,
+      "minX": 35.7,
+      "maxY": 784.8,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 6 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 659,
+      "minX": 166.1,
+      "maxY": 719.2,
+      "maxX": 560.5,
+      "page": 6
+    }],
+    "text": "A genotype\u2013phenotype correlation was clearly observed. In thirty-three patients exhibiting phenotype I GD, the presence of at least one p.Asn409Ser allele was detected (32 patients were heterozygous for this allele; patient no. 34 was a homozygote). Patient no. 19, homoallelic for p.Leu483Pro, presented with phenotype III GD (Table 2). Overall, 3 (8.9%) patients were splenectomized (Table 1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 583.6,
+      "minX": 166.4,
+      "maxY": 656.4,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "The chitotriosidase genotype was determined in 30 out of 34 patients involved in the study. Ten patients were heterozygous carriers of the dup24 allele (c.1049_1072dup; rs3831317) in the CHIT1 gene. In the remaining 20 patients, the dup24 allele was not detected. Three other known single nucleotide variants, c.304G>A (p.Gly102Ser; rs2297950), c.1325C>G (p.Ala442Gly; rs1065761), c.1351C>T (p.Pro451Ser; rs141079733), and one unpublished variant, c.922_923delinsAT (p.Ser308Ile), were detected within the cohort (Table 2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 508,
+      "minX": 166.1,
+      "maxY": 555.7,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "At every scheduled visit, a peripheral blood sample was drawn for CHITO and TRAP activity, Lyso-Gb1 levels, and platelet count assessment. The results of biomarker changes at the beginning and end of the study period are summarized in Table 3. Figure 2 depicts plasma marker evolution in both groups during the study period."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 256.6,
+      "minX": 166.4,
+      "maxY": 480.1,
+      "maxX": 560.9,
+      "page": 6
+    }],
+    "text": "To assess the impact of long-term ERT and SRT on CHITO activity, we measured the serum activity of CHITO at regular 6-month intervals. After 30 months, the reduction in CHITO activity was observed irrespective of treatment and chitotriosidase genotype. After ERT treatment, plasma CHIT activity decreased from a median of 608.3 ± 214.8 nmol/h/mL to 244.7 ± 52.6 nmol/h/mL (p = 0.123, Table 3, Figure 2A). After SRT treatment, we observed a marked decrease in plasma CHITO activity from a median of 4846.0 ± 1638.0 nmol/h/mL to a median of 1780.0 ± 743.0 nmol/h/mL (p = 0.045, Table 3, Figure 2E). Linear regression analysis was performed, and a regression equation was calculated. Each point of the regression curve corresponded to the mean of values measured at regular 6-month visits, giving a sample size of 5. For ERT treatment, the regression curve showed a slope value ± standard error of −9.68 ± 2.27 (Figure 3A). We observed a more skewed regression curve for SRT treatment with a slope value ± standard error of −106.64 ± 18.11 (Figure 3E). Further, we compared the slopes of linear regression curves to determine whether the slopes of the two treatments were significantly different from each other, given the slope, standard error, and sample size for each line. The two slopes differed significantly (p < 0.001). The isotonic regression curve was estimated using the pool adjacent violators algorithm and fitted to minimize the mean squared error (Figure 4A). The patients treated with SRT demonstrated a sharper decline in CHITO activity."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 80.6,
+      "minX": 166,
+      "maxY": 228.7,
+      "maxX": 561,
+      "page": 6
+    }],
+    "text": "To compare Lyso-Gb1 responses to long-term therapy, we estimated Lyso-Gb1 levels over 30 months of treatment. The median Lyso-Gb1 level dropped comparably, irrespective of treatment. By 30 months of ERT treatment, there was a significant decrease in plasma Lyso-Gb1 level from a median of 81.5 ± 12.4 ng/mL to 60.9 ± 8.6 ng/mL (p = 0.048, Table 3, Figure 1B). After SRT treatment, we observed a marked drop in plasma Lyso-Gb1 levels from a median of 454.9 ± 168.0 ng/mL to a median of 114.4 ± 45.7 ng/mL (p = 0.002, Table 3, Figure 2F). For ERT treatment, the Lyso-Gb1 regression curve showed a slope value ± standard error of −0.849 ± 0.46 (Figure 2B). We observed a more skewed regression curve for SRT treatment with slope value ± standard error −7.976 ± 4.75 (Figure 3F). Even though the patients treated with SRT demonstrated a sharper decline in Lyso-Gb1 levels, slope comparison revealed comparable rate behavior of the marker decrease, irrespective of treatment (p < 0.17). The isotonic regression curves for both treatments are shown in Figure 4B."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 532.6,
+      "minX": 36,
+      "maxY": 540.1,
+      "maxX": 805.9,
+      "page": 7
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 7 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 167.3,
+      "minX": 166.1,
+      "maxY": 227.6,
+      "maxX": 807,
+      "page": 7
+    }],
+    "text": "Figure 2. Plasma markers' evolution during the study period. Upper panels (graphs (A\u2013D)) represent absolute marker activities for each subject with ERT. Lower panels (graphs (E\u2013H) represent absolute marker activities for each subject with SRT. For patients with ERT, CHITO, Lyso-Gb1, and TRAP were log-transformed to achieve a normal distribution for the graphical presentation. Graphs (A,E) CHITO activity; Graphs (B,F) Lyso-Gb1 levels; Graphs (C,G) TRAP activity; Graphs (D,H) platelet count. ERT\u2014enzyme replacement therapy; SRT\u2014substrate reduction therapy; CHITO\u2014chitotriosidase; Lyso-Gb1\u2014glucosylsphingosine; TRAP\u2014tartrate-resistant acid phosphatase."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 8
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 8 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 730.7,
+      "minX": 166.1,
+      "maxY": 752.6,
+      "maxX": 560.4,
+      "page": 8
+    }],
+    "text": "Table 3. Median decrease and increase of biomarkers and Lyso-Gb1 correlation with CHITO, TRAP, and platelet count in ERT and SRT patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 264,
+      "minX": 165.9,
+      "maxY": 449.9,
+      "maxX": 560.5,
+      "page": 8
+    }],
+    "text": "To analyze whether ERT resulted in significant differences in serum TRAP activity compared to SRT, we evaluated median TRAP activities. At month 30, an overall increase in median TRAP activity values was observed within the ERT cohort, whereas median TRAP activity dropped in the subjects treated with SRT. Both trends were significant for the particular group. The median Lyso-Gb1 level dropped irrespective of treatment. In the ERT patients, we observed a significant increase in plasma TRAP activity from a median of 60.9 ± 3.5 nkat/L to 73.5 ± 3.1 nkat/L (p = 0.001, Table 3, Figure 2C). The regression curve equation showed a positive slope value (slope ± standard error) of 0.419 ± 1.01 (Figure 3C). Within the SRT group, there was an initial, marked drop in TRAP activity, followed by trend stagnation. The median TRAP activity value decreased from a median of 124.4 ± 18.1 nkat/L to a median of 95.8 ± 11.1 nkat/L (p = 0.041, Table 3, Figure 2G). We observed a downtrend regression curve for SRT treatment with a slope value ± standard error of −1.055 ± 0.46 (Figure 3G). The two slopes differed significantly (p < 0.015). Our data suggests that long-term SRT could affect bone resorption in GD I patients more effectively than ERT. The isotonic regression curves for both treatments are depicted in Figure 4C."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 75.4,
+      "minX": 166.1,
+      "maxY": 236.2,
+      "maxX": 560.5,
+      "page": 8
+    }],
+    "text": "The platelet count recovered steadily and significantly over 30 months, regardless of the treatment method. Compared to ERT, the effect of the therapy on platelet count increase was more noticeable in patients treated with SRT. By 30 months of ERT treatment, there was a significant increase in platelet count from a median of 203.9 ± 8.8 × 109/L to 229.0 ± 12.4 × 109/L (p = 0.006, Table 3, Figure 2D). In patients with SRT, the median platelet count increased from a median of 116.6 ± 26.7 × 109/L to a median of 196.0 ± 28.6 × 109/L (p = 0.028, Table 3, Figure 2H). Both regression curves depicted the same trend, with a positive slope skewed significantly more in the SRT cohort than in the ERT cohort. The platelet count regression curve for ERT treatment showed a slope value ± standard error of 0.7417 ± 0.19 (Figure 3D). For SRT treatment, we observed a regression curve with a slope value ± standard error of 2.4457 ± 0.50 (Figure 3H). Slope comparison revealed a significant difference in the increase rate between the treatment cohorts (p < 0.012). The isotonic regression curve revealed a continuously increasing trend (Figure 4D)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 532.6,
+      "minX": 36,
+      "maxY": 540.1,
+      "maxX": 805.9,
+      "page": 9
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 9 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 139,
+      "minX": 166.4,
+      "maxY": 199.3,
+      "maxX": 807.7,
+      "page": 9
+    }],
+    "text": "Figure 3. Regression curves of plasma markers. Each graph depicts the regression line, 95% confidence interval (dark gray), the 95% prediction interval (light gray), and the equation of the regression curve (framed). Upper panels (graphs (A\u2013D)) represent marker regression curves for ERT. Lower panels (graphs (E\u2013H)) represent regression curves for SRT. Graphs (A,E) CHITO regression curves; Graphs (B,F) Lyso-Gb1 regression curves; Graphs (C,G) TRAP regression curves; Graphs (D,H) platelet count regression curves. ERT\u2014enzyme replacement therapy; SRT\u2014substrate reduction therapy; CHITO\u2014chitotriosidase; Lyso-Gb1\u2014 glucosylsphingosine; TRAP\u2014tartrate-resistant acid phosphatase."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 10
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 10 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 329.7,
+      "minX": 166.4,
+      "maxY": 377.2,
+      "maxX": 560.4,
+      "page": 10
+    }],
+    "text": "Figure 4. The graph shows changes in (A) CHITO activity, (B) Lyso-Gb1 levels, (C) TRAP activity, and (D) platelet count together with the isotonic regression curve (a solid line without markers used to constraint means the line does not decrease). Each point of the regression curve corresponds to the mean of values measured at regular 6-month visits in all graphs."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 193.2,
+      "minX": 166,
+      "maxY": 303.7,
+      "maxX": 560.5,
+      "page": 10
+    }],
+    "text": "To test the utility of Lyso-Gb1 for monitoring response in long-term treatment patients with GD, Lyso-Gb1 was correlated with established serum markers of Gaucher disease. Plasma lyso-GL1 correlated significantly with chitotriosidase (ERT: r = 0.54, p < 0.001; SRT: r = 0.83, p < 0.001) and TRAP (ERT: r = 0.34, p < 0.001; SRT: r = 0.88, p < 0.001) irrespective of treatment method (Table 3, Figure 5A,B,D,E). There was no significant correlation between Lyso-Gb1 and platelet count within the ERT cohort (r = −0.01, p = 0.92) (Table 3, Figure 5C). On the contrary, patients receiving SRT showed a significant correlation between Lyso-Gb1 and platelet count (r = −0.45, p = 0.0249) (Table 3, Figure 5F). The association of Lyso-Gb1 with all evaluated markers was stronger in the SRT cohort."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 532.6,
+      "minX": 36,
+      "maxY": 540.1,
+      "maxX": 805.9,
+      "page": 11
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 11 of 18"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 88.8,
+      "minX": 166,
+      "maxY": 136.3,
+      "maxX": 807,
+      "page": 11
+    }],
+    "text": "Figure 5. Lyso-Gb1 correlation with evaluated biomarkers over a 30-month period. The upper panel row represents patients with ERT. (A) Lyso-Gb1 correlation with CHITO. (B) Lyso-Gb1 correlation with TRAP. (C) Lyso-Gb1 correlation with platelet count. The lower panel row depicts patients with SRT. (D) Lyso-Gb1 correlation with CHITO. (E) Lyso-Gb1 correlation with TRAP. (F) Lyso-Gb1 correlation with platelet count. CHITO\u2014chitotriosidase; Lyso-Gb1\u2014glucosylsphingosine; TRAP\u2014tartrate-resistant acid phosphatase."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 12
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 12 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 626.3,
+      "minX": 166.2,
+      "maxY": 736.7,
+      "maxX": 559.7,
+      "page": 12
+    }],
+    "text": "The system-wide involvement of Gaucher disease requires regular monitoring of all GD patients. Appropriate biomarkers correlating with the disease burden are important for monitoring disease progression and response-to-treatment evaluation. However, the choice of the optimal biomarker has its limitations, reflecting their lack of specificity, different sensitivity and specificity, or the fact that they can be affected by other factors [20,21]. Recent studies reported Lyso-Gb1 as the most specific and sensitive diagnostic and disease-monitoring biomarker with the potential to be a prognostic biomarker of GD [2,13,23\u201326]. Our study assessed the utility of pathophysiologically relevant plasma biomarker combinations for disease trend evaluation in patients receiving long-term ERT or SRT."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 337.5,
+      "minX": 166.1,
+      "maxY": 623.8,
+      "maxX": 560.5,
+      "page": 12
+    }],
+    "text": "Our investigation confirmed the utility of CHITO in monitoring disease progression and response to therapy. Indeed, CHITO usage in monitoring treatment efficacy was credited to a substantial body of evidence [27\u201332]. Our results revealed that in patients with long-term therapy (the mean number of years in treatment in the ERT cohort was 15.6 years), a decline in CHITO levels is still evident. However, it reached statistical significance with the skewer slope of the regression curve only within the SRT cohort (the mean of the previous treatment was 2.8 years). We attribute the lower CHITO decrease rate in the ERT cohort mainly to the effect of time; Hollak [27] reported a decrease in chitotriosidase activity of 32% in 1 year, and Vigan and colleagues [33] found in their predictive model based on data from 233 GD patients a 95% CHITO response in 2 years and a 36% response in 1 year with ERT. On the contrary, our patients have yet to reach some sustainable plateau since the start of their ERT/SRT, resulting in a less marked decrease in CHITO activity. The higher decrease rate within the SRT cohort could also reflect significantly higher baseline (at month 0 of the study) CHITO activities in SRT patients. Patients with severe changes in the disease's biomarker levels could profit more from therapy and show more marked changes in biomarker levels or activities. The GBA gene mutation heterogeneity was not equal between our study cohorts (Table 2). Within a limited number of our SRT population, 3 of 5 (60%) patients were of the p.[Asn409Ser];[Leu483Pro] genotype, and one patient (no. 21) harbored a null mutation c.1326dupT, which may be considered even more severe than the Leu483Pro genotype Rec Ncil2 mutation, which is considered even more severe than the Leu483Pro genotype [34]. Other factors one should bear in mind are the different mechanisms of SRT and ERT action, as well as the different mechanisms of eliglustat and miglustat as compared to ERT (as undermentioned)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 212,
+      "minX": 166.1,
+      "maxY": 335.1,
+      "maxX": 561,
+      "page": 12
+    }],
+    "text": "The results of CHIT1 genotype determination among our Gaucher patients and estimation of CHITO activity in heterozygotes for the dup24 allele were consistent with the reports by the other groups [35\u201338]; however, we detected no dup24 and two p.Gly102Ser homozygotes among the same patients. As reported by Bussing and colleagues [38], the concomitant presence of the p.Gly102Ser allele may result in an underestimation of disease severity if evaluated by CHITO activity. We did not dispose of a priori data on whether dup24 and p.Gly102Ser mutations are at the same or distinct CHIT1 alleles in our patients. However, we did not correct CHITO activity by a factor of 1.6 in our two p.Gly102Ser patients, as recommended by Bussink et al. [38]. Again, the insights of our study are admittedly limited by the small number of patients."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.9,
+        "minX": 165.9,
+        "maxY": 209.5,
+        "maxX": 560.9,
+        "page": 12
+      },
+      {
+        "minY": 673.5,
+        "minX": 166.4,
+        "maxY": 746.3,
+        "maxX": 560.9,
+        "page": 13
+      }
+    ],
+    "text": "We further analyzed changes in Lyso-Gb1 levels, presently the superior diagnostic biomarker for GD [18,23]. Rolfs and colleagues [23] estimated a plasma Lyso-Gb1 level of 12 ng/mL (25.99 nmol/mL) as a threshold differentiating patients with GD from healthy subjects or patients with other lysosomal storage, with 100% sensitivity and 100% specificity. In a comprehensive review of Revel-Vilk et al. [21], data from 16 of the 17 studies demonstrated that treatment with ERT and SRT (alone or in combination) led to marked reductions in Lyso-Gb1 plasma levels, cerebrospinal fluid (CSF), and urine [21]. Lyso-Gb1 was also shown to precede and predict the response of splenomegaly and thrombocytopenia in patients with ERT [39]. Our results are in concord with these studies. A decrease in Lyso-Gb1 levels following ERT or SRT in our GD patients proved comparable rate behavior for the marker decrease, irrespective of treatment. As distinct from the CHITO evaluation, regression curve slopes did not differ significantly. Lyso-Gb-1 levels are not hampered by the well-described limitations of CHITO activity [38]. Even though Lyso-Gb1 levels were significantly higher in SRT patients at Month 0, the trendlines of both ERT and SRT long-term patients were closely similar. That is in good agreement with observations suggesting that a significant reduction in plasma lyso-Gb1 occurs after ERT or SRT initiation before stabilizing at a lower concentration in most patients [23,40,41]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 13
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 13 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 610.7,
+      "minX": 166.1,
+      "maxY": 671,
+      "maxX": 559.7,
+      "page": 13
+    }],
+    "text": "Interestingly, at month 30, an overall significant increase in median TRAP activity values was observed within the ERT cohort. In contrast, median TRAP activity dropped (with borderline significance) in the subjects treated with SRT in our study. The isotonic regression curve depicted reached a plateau in TRAP activity decrease in patients with SRT treatment, whereas an increasing trend was evident in the ERT group."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 196.5,
+      "minX": 166,
+      "maxY": 608.2,
+      "maxX": 561,
+      "page": 13
+    }],
+    "text": "It was documented that the TRAP level could differ as a function of age [42]; however, the respective age means weren't significantly different between our ERT and SRT patients. Considering biomarker values, the disease burden, including bone involvement, was significantly higher within our SRT cohort. TRAP activity rises during bone resorption through the degradation of type I collagen by the osteoclast. We can only hypothesize that higher TRAP levels will better respond to the particular treatment. Sims and colleagues [43] evaluated changes in bone disease in 33 patients with skeletal manifestations with ERT therapy with imiglucerase. They studied bone formation (osteocalcin, bone-specific alkaline phosphatase) and bone resorption (N-telopeptide crosslinks and deoxypyridinoline, DPYD) markers. With median baseline measurements of all markers at baseline distributed within the normal range, median post-treatment measurements for bone formation markers were significantly higher, even though some increases were small, and all increased within the normal reference ranges. The decrease in bone resorption markers was not significant; however, their results indicate an alteration favoring new bone formation relative to bone resorption after 48 months with ERT treatment [43]. The effect of SRT on bone involvement in GD seems more complex. Miglustat, acting as a competitive inhibitor of glucosylceramide synthase, blocks the first committed step in glycosphingolipid synthesis, thus blocking the synthesis of all glucosylceramide-derived glycosphingolipids. However, it was shown to have dual mechanisms of action. It may also accelerate the degradation of the glycolipid complex by increasing glucocerebrosidase activity, which can be additionally beneficial in patients harboring mutations with residual enzyme activity (such as p.Asn409Ser) [44]. Moreover, in a study using human and mouse NPC1-mutant cells, miglustat demonstrated its ability to affect impaired calcium homeostasis related to sphingosine storage [45]. The second SRT, eliglustat, is a highly specific oral glucosylceramide synthase inhibitor structurally different from miglustat, upon which eliglustat exhibits superior potency and selectivity [46]. The eliglustat effect is also weighty on bone involvement in GD. Eliglustat prevents autophagic degradation of TNF receptor-associated factor 3 (TRAF3), a key step in osteoclast differentiation [47]. This SRT effectively inhibits autophagy in osteoclasts and increases bone mass, thus having tremendous potential for the therapeutic use of eliglustat in bone loss. Taken together, our data could indicate a marked reduction in osteoclastogenic markers in patients with SRT treatment compared to the ERT cohort. Nevertheless, the markers of bone metabolism and their level patterns are complex. Their variability makes their use in clinical practice rather polemical [19,48,49]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.9,
+        "minX": 166.2,
+        "maxY": 194,
+        "maxX": 559.5,
+        "page": 13
+      },
+      {
+        "minY": 723.7,
+        "minX": 166.4,
+        "maxY": 746.3,
+        "maxX": 559.3,
+        "page": 14
+      }
+    ],
+    "text": "The platelet count recovered steadily and significantly over 30 months, regardless of the method of treatment. The trends of platelet count recovery were comparable for both therapies, and our observation confirms literary evidence [43,48,50]. Mistry et al. [51] showed improvement in cytopenias with different dosing regimens of ERT. In slow or poor responders, a gradual increase in the ERT dose can increase the platelet count; the other method of choice is to switch to another ERT regimen. Elstein et al. [52] demonstrated approximately a 40% chance of improvement (\"booster effect\") due to a switch from imiglucerase or taliglucerase alfa to velaglucerase alfa. A possible therapeutic benefit of SRT was demonstrated in patients with poor platelet response after 6 years on first-line ERT treatment. After ERT discontinuation, eliglustat was the sole treatment, leading to a good clinical and relatively stable platelet response [53]. The study also illustrates GD's different responses to ERT or SRT treatment [50]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 14
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 14 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 623.3,
+      "minX": 166,
+      "maxY": 721.2,
+      "maxX": 561,
+      "page": 14
+    }],
+    "text": "In our ERT and SRT study cohorts, we observed a significant correlation of Lyso-Gb1 with CHITO and TRAP markers. A platelet count increase was associated with a Lyso-Gb1 decrease in both treatment groups; however, the correlation was insignificant in ERT patients. The association of Lyso-Gb1 with all evaluated markers was markedly stronger in the SRT cohort. Correlations between Lyso-Gb1 levels and other established biomarkers of GD were summarized in several studies [2,18,54\u201356]. Significant correlations between plasma Lyso-Gb1 and CHITO activity were demonstrated, with Pearson coefficient values varying from 0.59 to >0.9 [18,54\u201356]. These findings are in good agreement with our results."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 409.9,
+      "minX": 165.9,
+      "maxY": 620.8,
+      "maxX": 561,
+      "page": 14
+    }],
+    "text": "With respect to correlations, there is evidence of a moderate pairing between decreasing plasma Lyso-Gb1 levels and increasing platelet counts in patients with ERT [48,52]. In the present study, we found no significant correlation between Lyso-Gb1 and platelet count within the ERT cohort. On the contrary, patients receiving SRT showed a significant correlation between Lyso-Gb1 and platelet count (r = −0.45). In the paper of Hurwitz and colleagues [25], Lyso-Gb1 significantly correlated with platelet count in patients with ERT, with almost the same correlation coefficient of −0.42 [25]. On the other hand, although platelet count increased with Lyso-Gb1 decrease in the pooled ERT and SRT cohort of 128 patients in the study of Murugesan et al. [2], no correlation between Lyso-Gb1 and platelet counts was found. As tartrate-resistant acid phosphatase is now included in the older and less specific GD markers, the limited literary evidence of Lyso-Gb1 and TRAP correlation in GD patients hinders the formation of further conclusions about its significance. However, regarding all tested correlations, we found the highest correlation coefficient for the association of Lyso-Gb1 and TRAP in patients with SRT treatment. With respect to the above-mentioned combined effects of SRT on bone involvement in GD patients, Lyso-Gb1 correlation with TRAP could still be considered, at least for SRT therapy response monitoring by means of osteoclast activity, as a cheap and available instrument."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 284.3,
+      "minX": 166.1,
+      "maxY": 407.4,
+      "maxX": 559.6,
+      "page": 14
+    }],
+    "text": "The present study has several limitations, and the results should be interpreted with caution. First, our study sample is of a very limited size. Moreover, the ERT to SRT patient ratio is highly inequal (6 to 1) and differs in the duration of treatment before entering the study. One of the further limitations of the study was the inclusion of a higher ratio of females to males (24F/11M), reflecting our center's patient population. Another limitation of the study was the heterogeneity of patients in treatment dosage and the wide variation in the GBA1 mutation. Regardless, our data confirmed the effectiveness of ERT and SRT long-term treatment in patients with GD. We proved the non-inferiority of SRT. Our results indicate that ERT and SRT show the potential of individual drug effectiveness in treating particular symptoms, either as a combination or in a switch manner."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 221.6,
+      "minX": 166.4,
+      "maxY": 281.9,
+      "maxX": 560.9,
+      "page": 14
+    }],
+    "text": "GD has possibly the widest range of thoroughly studied biomarkers among lysosomal storage disorders. Combining the key biomarker of GD and the evaluation of the treatment, Lyso-Gb1, with other biomarkers, can offer an improved assessment of response to long-term therapy. Nevertheless, new therapeutic options and reliable biomarkers for GD monitoring are crucial to tailoring therapies to a patient's specific clinical needs."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 93.9,
+      "minX": 165.9,
+      "maxY": 166.8,
+      "maxX": 561,
+      "page": 14
+    }],
+    "text": "Chitotriosidase activity in plasma samples stored at −20 ◦C was determined using the fluorogenic substrate 4-methylumbelliferyl-β-D-N-N\u2032-N\u2032\u2032-triacetylchitotriose (Sigma M-5639, Steinheim, Germany). The assay was performed according to the Hollak method. Fluorescence of 4-methylumbelliferone released from the substrate was detected at excitation 365 nm and emission 448 nm by a luminescence spectrometer (Perkin Elmer LS50B, Wellesley, MA, USA)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 15
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 15 of 18"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 736.2,
+        "minX": 166.4,
+        "maxY": 746.3,
+        "maxX": 274.3,
+        "page": 15
+      },
+      {
+        "minY": 657.9,
+        "minX": 166.1,
+        "maxY": 730.8,
+        "maxX": 560.5,
+        "page": 15
+      }
+    ],
+    "text": "4.1.2. Chit-1 Genotyping Genomic DNA was isolated from peripheral blood leukocytes using the QIAamp DNA Blood Mini Kit (Qiagen, Valencia, CA, USA). Purified DNA of the entire coding region of the 12-exon human CHIT1 gene, including intron/exon junctions (GenBank NC_000001.11, NM_003465.3), was used for PCR amplification. Each amplicon was sequenced by Sanger sequencing or by high-throughput sequencing using the NexteraXT kit and the MiSeq platform (Illumina, San Diego, CA, USA)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 635.5,
+        "minX": 166.4,
+        "maxY": 645.6,
+        "maxX": 234,
+        "page": 15
+      },
+      {
+        "minY": 583,
+        "minX": 166.4,
+        "maxY": 630,
+        "maxX": 559.8,
+        "page": 15
+      }
+    ],
+    "text": "4.1.3. Lyso-Gb1 Tandem mass spectrometry from dried blood spots was used to quantitatively measure Lyso-Gb1. Blood samples were collected as dried blood spots on filter cards. Lyso-Gb1 levels were performed using liquid chromatography-mass spectrometry at ARCHIMEDlife Laboratories (ARCHIMEDlife Laboratories, Vienna, Austria)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 559.9,
+        "minX": 166.4,
+        "maxY": 569.7,
+        "maxX": 256.6,
+        "page": 15
+      },
+      {
+        "minY": 531.8,
+        "minX": 166.4,
+        "maxY": 554.4,
+        "maxX": 559.4,
+        "page": 15
+      }
+    ],
+    "text": "4.1.4. TRAP Activity Serum TRAP activity was measured by a spectrophotometric assay in the presence of 0.1 M L(+) sodium tartrate at pH 5.6 using 10 mM 4-nitro-phenyl phosphate as substrate."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 267.9,
+      "minX": 166,
+      "maxY": 503.9,
+      "maxX": 560.9,
+      "page": 15
+    }],
+    "text": "Descriptive analysis and a test for the characteristics of a normal distribution (the Kolmogorov\u2013Smirnov test of normality) were performed for sample background characteristics. Continuous variables were presented as a range of values as minimum and maximum, mean and standard error of the mean (SEM), or median and standard deviation (SD), depending on the distribution. A paired sample t-test was used to assess differences in plasma markers over time. Two sample T-tests were performed to test differences between therapies for statistical significance. To describe the relationships between the effects of the treatment and time, a linear regression analysis was performed and a regression equation was calculated. Each point of the regression curve corresponded to the mean of values measured at regular 6-month visits, giving a sample size of 6. Slopes of linear regression curves were compared to determine whether the slopes of the two treatments were significantly different from each other, given the slope, standard error, and sample size for each line (c.f. [57]). The isotonic regression curve was estimated using the pool adjacent violators algorithm and fitted to minimize the mean squared error. All p-values reported are two-tailed, and p-values < 0.05 were considered significant. In univariate analysis, Pearson's correlation coefficient r was used to correlate Lyso-Gb1 against CHITO, TRAP, and platelet count. Statistical analysis was performed using MedCalc version 20.010 (MedCalc Software Ltd., Ostend, Belgium) and OriginPro 8.5.0 SR1 (OriginLab Corporation, Northampton, MA, USA)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 16
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 16 of 18"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 17
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 17 of 18"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 779.3,
+      "minX": 35.7,
+      "maxY": 786.7,
+      "maxX": 559.3,
+      "page": 18
+    }],
+    "text": "Int. J. Mol. Sci. 2023, 24, 14440 18 of 18"
+  }}
+]}

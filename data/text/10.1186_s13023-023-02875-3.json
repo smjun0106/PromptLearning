@@ -1,0 +1,595 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.6,
+      "maxY": 757.3,
+      "maxX": 260,
+      "page": 1
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 745.8,
+      "minX": 433.8,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "Orphanet Journal of"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 733.1,
+      "minX": 467.7,
+      "maxY": 741.7,
+      "maxX": 538.1,
+      "page": 1
+    }],
+    "text": "Rare Diseases"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 687.9,
+      "minX": 61.8,
+      "maxY": 699.4,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "RESEARCH Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 595.1,
+      "minX": 56.6,
+      "maxY": 669.7,
+      "maxX": 463.7,
+      "page": 1
+    }],
+    "text": "Follow-up of pre-motor symptoms of Parkinson's disease in adult patients with Gaucher disease type 1 and analysis"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 569.1,
+      "minX": 56.6,
+      "maxY": 591.7,
+      "maxX": 502,
+      "page": 1
+    }],
+    "text": "of their lysosomal enzyme profiles in the CSF"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 494.2,
+      "minX": 56.6,
+      "maxY": 559.9,
+      "maxX": 498.1,
+      "page": 1
+    }],
+    "text": "Matheus Vernet Machado Bressan Wilke1,2 , Fabiano Poswar1,3, Wyllians Vendramini Borelli4,11, Kristiane Michelin Tirelli5, Dévora Natalia Randon6, Franciele Fátima Lopes5, Fernanda Bender Pasetto5, Fernanda Medeiros Sebastião5, Gabrielle Dineck Iop7, Larissa Faqueti7, Layzon Antonio da Silva7, Francyne Kubaski8, Artur Francisco Schumacher Schuh4,9, Roberto Giugliani6,7,10 and Ida Vanessa Doederlein Schwartz1,3,6,10*"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 446,
+      "minX": 63.1,
+      "maxY": 453.5,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 309.9,
+      "minX": 63.1,
+      "maxY": 438.3,
+      "maxX": 526.9,
+      "page": 1
+    }],
+    "text": "Background Parkinson's disease (PD) is the second most common neurodegenerative disease worldwide. Its classic motor symptoms may be preceded by non-motor symptoms (NMS). Population studies have identified GBA variants as risk factors for idiopathic PD. The increased risk of PD has also been suggested in other Lysosomal Storage Disorders (LSDs). Objective: To assess the evolution of the prevalence of NMS compatible with PD in a cohort of South Brazilian adult patients with Gaucher Disease (GD) type 1, already evaluated 3 years ago (2018). Cerebrospinal Fluid (CSF) was collected to assess the levels of LSD enzymes (beta-hexosaminidases, beta-glucuronidase) and biomarker of macrophage activation (chitotriosidase, ChT), compared to controls (metachromatic leukodystrophy, MLD). Cognition was evaluated by the Montreal Cognitive Assessment (MoCA) questionnaire, daytime sleepiness by the Epworth Sleepiness Scale (ESS), depression by Becḱs Inventory, constipation by the Unified Multiple System Atrophy Rating Scale (UMSARS) scale, and REM sleep behavior disorder by the single-question screen. Hyposmia was assessed with Sniffin' Sticks (SST)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 210.2,
+      "minX": 63,
+      "maxY": 303.4,
+      "maxX": 526.3,
+      "page": 1
+    }],
+    "text": "Results Nineteen patients completed the follow-up (mean age of the sample was 44 years; range, 26\u201371). The patient with the highest number of NMS at the baseline (4 including the lowest SST score) was diagnosed with PD four years later. Apart from an improvement in the ESS score, no other statistical significance was found between the number of NMS between the first and second evaluation, nor between patients with one L444P variant (n = 5) and the rest of the cohort. CSF was collected in five patients (mean age of the sample was 40 years, range 30\u201353. A significant difference was found in the mean CSF activity levels of beta-hexosaminidases and beta-glucuronidase between GD1 and MLD patients. Mean ChT (CSF) was 62 nmol/h/mL in GD patients and 142 in MLD (n = 6) patients."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 2
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309 Page 2 of 10"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 650.3,
+      "minX": 63.9,
+      "maxY": 695.5,
+      "maxX": 524.3,
+      "page": 2
+    }],
+    "text": "Conclusions The patient with the highest number of NMS in our 2018 cohort was the one that developed PD, corroborating with the importance of this longitudinal follow-up. CSF and plasma analysis might allow a better understanding of the neurodegenerative processes connecting PD and the lysosomal environment. Further analysis is needed to understand this relationship."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 635.1,
+      "minX": 63.9,
+      "maxY": 644.5,
+      "maxX": 429.1,
+      "page": 2
+    }],
+    "text": "Keywords Gaucher disease, Parkinson s disease, Non-motor symptoms, Cerebrospinal fluid"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 599,
+      "minX": 56.7,
+      "maxY": 608.5,
+      "maxX": 112.4,
+      "page": 2
+    }],
+    "text": "Background"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 442.8,
+      "minX": 56.6,
+      "maxY": 596.3,
+      "maxX": 290.6,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD, OMIM #230800) is an inborn error of metabolism caused by a deficiency of the lysosomal enzyme beta-glucocerebrosidase (GCase), which is encoded by the gene GBA. The prevalence of GD ranges from 0.70 to 1.75 per 100,000 individuals [1]. GD is conventionally classified into three clinical forms based on neurological involvement. Type 1 (GD1) is considered non-neuronopathic, whereas types 2 and 3 are considered neuronopathic forms [2]. According to the Human Gene Mutation Database (HGMD) database, more than 690 damaging variants in the GBA gene have been described, with c.1226A > G (N370S) being the most frequent in the GD type 1 population."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 239.6,
+      "minX": 56.7,
+      "maxY": 440.1,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "After its first association in 1996, pathogenic variants in GBA are now considered the most commonly known genetic risk factor for Parkinson's disease (PD) [3]. PD patients with GD-associated variants (PD-GBA) appear to have a different disease progression, developing dementia and psychosis significantly earlier than those without pathogenic variants [4]. Although GD patients carry two pathogenic variants in GBA, there is no significant difference in PD risk between homozygous and heterozygous carriers of GBA variants, as was previously believed [5]. The motor symptoms of PD can be preceded by a prodromal period of up to 20 years. The so-called non-motor symptoms (NMS) that occur during this prodrome, such as hyposmia, rapid eye movement (REM) sleep disorder, daytime drowsiness, constipation, depression, and anxiety, may represent the beginning of the pathological process of PD and appear to be more often found in PD-GBA [6, 7]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 82.8,
+      "minX": 56.7,
+      "maxY": 236.3,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "The accumulation of α-synuclein (α-syn), a hallmark of PD, has been reported to be closely related to the endolysosomal pathway [8]. Moreover, other lysosomal enzymes have been suggested to play a role in PD pathogenesis, as exemplified by many lysosomal disorders presenting parkinsonism as a symptom [9]. Within this context, our main objective was to evaluate the evolution of NMS of PD in a cohort of Brazilian patients with GD1 who were already evaluated in a previous study [10]. We also aimed to assess the cerebrospinal fluid (CSF) activity of other lysosomal enzymes (alfa-mannosidase, beta-glucuronidase, beta-hexosaminidase) and chitotriosidase (ChT) in GD1 patients to better understand their role in disease pathogenesis."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 601.1,
+      "minX": 304.7,
+      "maxY": 608.5,
+      "maxX": 345.3,
+      "page": 2
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 253,
+      "minX": 304.7,
+      "maxY": 584.1,
+      "maxX": 538.6,
+      "page": 2
+    }],
+    "text": "This is an observational, cross-sectional study with a convenience sampling. GD type 1 patients seen at the Reference Center for GD in Rio Grande do Sul, Brazil, that were part of the 2018 NMS assessment were invited to participate. The enrollment happened during their routine follow-up visits from November/21 to July/22. Figure 1 shows a flow diagram of patient enrollment. After signing a research consent form the patients were evaluated by two clinical geneticists (MW and FP) who collected the clinical data (including the self-report questionnaires to evaluate NMS of PD) and assessed for the presence of parkinsonian manifestations. Motor symptoms of PD were assessed with part III of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS III). Cognition, daytime sleepiness, depression, constipation, and REM sleep behavior disorder were evaluated respectively by the Montreal Cognitive assessment (MoCa, cutoff for cognitive impairment < 26), the Epworth Sleepiness Scale (ESS, cutoff point > 10), the Beck Depression Inventory (BDI) (cutoff for depression > 14), the subscale of the Unified Multiple System Atrophy Rating Scale (UMSARS, cutoff for constipation ≥ 2) and the validated Single-Question Screen for REM sleep behavior disorder (RBD-1Q) [29]. Hyposmia was assessed with the 12-item Sniffin' Sticks smell identification test (SST, cut off for hyposmia < 9/12). All procedures were evaluated and scored identically at follow-up to those performed at baseline."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 99.3,
+      "minX": 304.7,
+      "maxY": 214.4,
+      "maxX": 538.7,
+      "page": 2
+    }],
+    "text": "Lumbar puncture was performed after written informed consent. The procedure was performed by a trained physician in clinical neurology (WVB). Lumbar puncture was performed before the patient's routine medical appointment between 11:00 and 1 pm. The samples were collected in sterile polypropylene tubes. Care was taken so that none of the samples was contaminated by blood during the procedure. The samples were centrifuged for 10 min at 4000 g, and 0.5-mL aliquots were immediately frozen at − 80 °C."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 3
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 247.7,
+      "minX": 62.7,
+      "maxY": 255.2,
+      "maxX": 198.8,
+      "page": 3
+    }],
+    "text": "Fig. 1 Flow diagram of patient enrollment"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.6,
+        "minX": 56.7,
+        "maxY": 202.9,
+        "maxX": 290.6,
+        "page": 3
+      },
+      {
+        "minY": 181.3,
+        "minX": 304.7,
+        "maxY": 214.8,
+        "maxX": 538.6,
+        "page": 3
+      }
+    ],
+    "text": "Analysis of the activity of beta-glucuronidase, alpha-mannosidase, beta-hexosaminidase (HEX) and chitotriosidase (Cht) were assessed in cerebrospinal fluid (CSF) and plasma from patients with GD type 1. Lysosomal enzyme activity is measured at acidic pH in plasma, leukocytes, fibroblasts, amniocytes, chorionic villi and cerebrospinal fluid. An artificial fluorogenic substrate is used, which is degraded by the enzyme and releases the fluorescent fraction (methylumbelliferone). This activity is measured against a methylumbelliferone standard curve, and the activity is expressed in nmol/h/mL (plasma, CSF) and in nmol/h/mg protein (specific activity for the other samples). Metachromatic leukodystrophy (MLD) patients were used as controls due to sample availability."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 73.5,
+        "minX": 304.7,
+        "maxY": 154.6,
+        "maxX": 538.6,
+        "page": 3
+      },
+      {
+        "minY": 598.1,
+        "minX": 56.7,
+        "maxY": 702.8,
+        "maxX": 290.6,
+        "page": 4
+      }
+    ],
+    "text": "Numerical variables with normal distribution were expressed as means and standard deviations. On the entire sample, Wilcoxon signed-rank test was performed for the variables MoCa, BSI, ESS, UMSARS, RBD-1Q, SSI, and total NMS number. Effect size was calculated with Rank-Biserial correlation with its respective confidence interval of 95% at both baseline and follow-up. In addition, the same analysis was performed dividing the sample between GD1 patients with at least one L444P (alternate nomenclature of the variant p. Leu483Pro; NM_000157.3; in GBA) variant. The difference between lysosomal enzymes in the CSF were calculated using the Mann\u2013Whitney test. Their respective effect sizes and 95% confidence intervals were calculated for the Rank-Biserial correlation. All analyzes were performed in JASP (JASP Team, 2022) version 0.16.3.0."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 4
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 563.2,
+      "minX": 56.7,
+      "maxY": 570.6,
+      "maxX": 89.8,
+      "page": 4
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 287.2,
+      "minX": 56.7,
+      "maxY": 558.3,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "Nineteen patients completed the follow-up. The mean age of the sample was 44 years (range, 26\u201371) with a mean time of treatment duration of 15 years (range, 6\u201328). Most patients (n = 18/19) had at least one N370S allele, with the most common genotype being N370S/ RecNciI (n = 6/19). Five patients presented one allele with the L444P pathogenic variant. The complete demographic and clinical information can be found in Table 1. The only NMS in the cohort that showed a significant difference from baseline was ESS that decreased after 3 years (mean = 9.7 SD = 4.5 at baseline and mean = 7.36 SD = 5.0 at follow-up). ESS was also the most frequent NMS found in our cohort in both baseline and follow-up. There was no difference between the patients that were heterozygous for one L444P (n = 5) variant regarding the overall number of NMS or their scores compared to the rest of the cohort. At the follow-up, eight patients had at least two NMS (mean age = 52 years) from which two (P9, P18) had an increase in the NMS total number, three (P4, P17, P19) had a decrease and two (P10, P15) remained with the same number of NMS. The complete demographic and clinical information can be found in Table 2."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 117,
+      "minX": 56.6,
+      "maxY": 282.3,
+      "maxX": 291.3,
+      "page": 4
+    }],
+    "text": "P17 presented the highest number of NMS, being also the only patient to present hyposmia (SS = 4) at baseline when she was 62 years old. The patient started treatment with enzyme replacement therapy (ERT) at the age of 42 due to anemia, thrombocytopenia, splenomegaly, and hyposmia. No motor symptoms were present in 2018. In the 2021 follow-up she was diagnosed with PD due to bradykinesia and tremor. To rule out other causes of parkinsonism a genetic panel for genes related to PD and parkinsonism was done showing, apart from the GBA variants, a VUS in VPS13C that was not deemed relevant to the case. The patient has been showing good response to the levodopa treatment. No other patients in the cohort showed signs of parkinsonism."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.9,
+        "minX": 56.7,
+        "maxY": 114.5,
+        "maxX": 290.6,
+        "page": 4
+      },
+      {
+        "minY": 443.7,
+        "minX": 304.7,
+        "maxY": 702.8,
+        "maxX": 538.6,
+        "page": 4
+      }
+    ],
+    "text": "Five patients (P4, P7, P8, P11, P14) had their CSF analyzed for lysosomal biomarkers (mean age of the sample was 40 years, range 30\u201353) and six patients with MLD were used as controls. Regarding the CSF biomarkers, significant difference (p = 0.03) was found between the groups for HEX activity, which mean value was 112.4 ± 57.3 nmol/h/mL in the GD group versus 208.2 ± 34.7 nmol/h/mL observed in the MLD group. Same behavior (p = 0.03) was observed for beta-glucuronidase, with mean values of 4.6 ± 34.7 nmol/h/ mL and 1.1 ± 0.5 nmol/h/mL, respectively for GD and MLD groups, as illustrated in Fig. 2. Beta-hexosaminidase B was increased in the GD group with mean = 47.6 ± 53.5 nmol/h/mL (reference range on plasma = 1000\u20132857 nmol/h/mL with no available reference range in CSF) in comparison to the MLD group, which mean value was 20.7 ± 8.7 nmol/h/mL. The analysis of these enzymes on plasma of GD were normal (values not shown). ChT levels exhibited a higher increase in the MLD group (mean = 142.8 ± 101.2 nmol/h/mL; reference range on plasma = 8.8\u2013132 nmol/h/mL with no available reference range in CSF) in comparison to the GD group (mean = 70 ± 51 nmol/h/mL) even though they were not statistically different- (p=0.08). The complete biomarker assessment in CSF can be found in Table 3."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 415,
+      "minX": 304.7,
+      "maxY": 422.3,
+      "maxX": 353.6,
+      "page": 4
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 292.9,
+      "minX": 304.7,
+      "maxY": 410.1,
+      "maxX": 539.4,
+      "page": 4
+    }],
+    "text": "PD has been increasingly associated with the lysosome after the discovery of several autosomal dominant and recessive genes associated with PD correlated with other genes important for the functioning of this organelle. The aggregation of α-syn has been reported in the brain of patients and animal models of different LSDs, including GD, Fabry disease, Niemann-Pick disease, Sandhoff disease, Tay-Sachs disease, MLD, β-galactosialidosis and GM2 gangliosidosis, Krabbe's disease, and Neuronal Ceroid Lipofuscinosis [9]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 88.7,
+        "minX": 304.7,
+        "maxY": 290.1,
+        "maxX": 539.3,
+        "page": 4
+      },
+      {
+        "minY": 213.3,
+        "minX": 56.7,
+        "maxY": 257.9,
+        "maxX": 290.6,
+        "page": 7
+      }
+    ],
+    "text": "Elevated ChT activity has already been described in other neurological disorders including stroke, multiple sclerosis and cerebral adrenoleukodystrophy (C-ALD) [11]. ChT levels even correlated with the degree of severity of white matter lesions which corroborates to the importance of macrophages and astrocytes in the natural immune response of these demyelinative lesions [11, 12]. The more severe involvement of the brain in MLD might be the responsible for the higher levels of ChT found in this group in comparison to the GD patients. Higher levels of Cht in CSF were also demonstrated in other LSDs with more severe neurological involvement than GD1as GM1-gangliosidosis and GM2-gangliosidosis, for example [13]. Another possible explanation for this finding is that the GD group is treated with ERT which is already extensively associated with the lowering of ChT levels [14]. However, as this treatment doesn't cross the brain blood barrier and ChT is not clearly demonstrated to breach it, the ERT role on the lower levels of ChT in the GD group still needs to be further elucidated [15]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309 Page 5 of 10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 6
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309 Page 6 of 10"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 7
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 286.5,
+      "minX": 62.7,
+      "maxY": 314,
+      "maxX": 241.1,
+      "page": 7
+    }],
+    "text": "Fig. 2 Lysosomal enzymes activity in the cerebrospinal fluid of patients with Gaucher Disease type 1 (GD1, n=5) and Metachromatic leukodystrophy (MLD, n=6)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.8,
+        "minX": 56.7,
+        "maxY": 209.9,
+        "maxX": 290.7,
+        "page": 7
+      },
+      {
+        "minY": 311,
+        "minX": 304.7,
+        "maxY": 440.4,
+        "maxX": 539.3,
+        "page": 7
+      }
+    ],
+    "text": "Lower HEX activity was found in the GD group when compared to MLD patients in our cohort. In a study that analyzed α-syn, phosphorylated tau protein and lysosomal enzymes in CSF of 71 PD patients compared with 45 neurological controls, CSF GCase activity was significantly decreased, and HEX activity was moderately increased in the PD group [16]. HEX is associated with the Sandhoff disease caused by the accumulation of ganglioside GM2 and with shared features with PD including the α-syn inclusions frequently found in the Sandhoff disease brain of both patients and mouse models [8, 17]. Interestingly, a new study that biochemically characterize α-syn changes in the transgenic HEX knockout mice model showed that HEX expression decreases α-syn association to lipid compartments and prevented nigrostriatal accumulation of AAV6-overexpressed α-syn [17]. To the best of our knowledge this is the first time that low HEX is described in the CSF of GD patients. We hypothesize that a lower HEX activity in GD might also be contributing to the increased risk of PD found in these patients; however, a bigger sample of patients is necessary to establish a better association."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 83.2,
+      "minX": 304.7,
+      "maxY": 308.4,
+      "maxX": 539.3,
+      "page": 7
+    }],
+    "text": "We hypothesize that the usefulness of CSF endolysosomal enzyme activity levels as biomarkers of PD, and their role in the prodromal period of PD, are likely to be of greater value when used in combination with measures of other substrates, such as glycosphingolipids and complex gangliosides. We could not find any explanation in the literature for the increase of beta-glucuronidase seen in the GD group, as this enzyme was mostly associated with bacterial meningitis [18]. Currently, there is no treatment available that can stop the progression of PD. However, new studies suggest that re-establishing normal levels of GCase, which has been reported to be reduced in PD patients, may be a treatment option for patients carrying GBA variants, as demonstrated by some animal models [17, 19]. One limitation of our study was the availability of few lysosomal enzymatic assays and the restricted number of GD CSF samples, which did not allow for a proper assessment of the lysosomal environment in GD patients as intended."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 8
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 489.4,
+      "minX": 56.7,
+      "maxY": 702.8,
+      "maxX": 291.3,
+      "page": 8
+    }],
+    "text": "The NMS assessment allows for a more complete follow-up of GD patients, as it was recently reported that most GD patients would like to be informed about their PD risk in the clinical setting by the physician in charge at the time of GD diagnosis [20]. After a three-year follow-up, it was interesting to note that the patient with the highest number of NMS and the lowest SST score was the one who developed PD after two years (P17). In a study that performed a six-year longitudinal evaluation of 31 GD1 patients, the GD subjects had significantly worse scores in UPSIT (Pennsylvania Smell Identification Test), UMSARS (Unified Multiple System Atrophy Rating Scale), MoCA, and MDS-UPDRS III compared to controls, with hyposmia being a predictive factor for deterioration in this population. Due to the importance of NMS in our cohort, we advocate for the routine assessment of smell, even by directed anamnesis, as multiple tools can be used in clinical practice to assess hyposmia [22]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 334.2,
+      "minX": 56.7,
+      "maxY": 486.8,
+      "maxX": 290.6,
+      "page": 8
+    }],
+    "text": "In another two-year follow-up study, it was shown that RBD and UPDRS III scores were significantly worse in GD patients and PD-GBA variants compared to controls at baseline [23]. On the other hand, olfactory and cognitive assessments were lower in the GD group and did not differ significantly from baseline [23]. Although we followed up our patients for almost the same period, no consistent pattern was observed between both cohorts. One hypothesis for the lack of difference in our NMS follow-up compared to Avenali's and Beavan's cohorts might have been the older mean age of these cohorts (mean ages = 52 and 61 years, respectively) compared to ours [21, 23]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 237.5,
+      "minX": 56.7,
+      "maxY": 330.8,
+      "maxX": 290.7,
+      "page": 8
+    }],
+    "text": "It was intriguing to observe that ESS significantly improved, and the BDI score was not worsened during the follow-up, which happened during the SARS-CoV-2 pandemic, as these were described as common during this period [24, 25]. We hypothesize that the changes in habits during the pandemic, mainly working habits (including less time spent in commute due to working from home), might be responsible for these findings."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 56.6,
+        "maxY": 234.9,
+        "maxX": 290.6,
+        "page": 8
+      },
+      {
+        "minY": 621.4,
+        "minX": 304.7,
+        "maxY": 702.8,
+        "maxX": 538.6,
+        "page": 8
+      }
+    ],
+    "text": "The term \"variant severity\" has been used in the literature to define the effect of the variant on the phenotype of patients with GD, classifying them as \"severe\" (e.g., 84 GG, V394L, D409H, L444P) or \"mild\" (e.g., N370S, R496H) [26, 27]. However, this terminology has been criticized because the pathogenic variant N370S, which is considered \"mild,\" has great phenotypic heterogeneity. Homozygotes can remain asymptomatic for decades, while others can present severe clinical manifestations in childhood, including hepatosplenomegaly and pancytopenia [28]. It has been reported that motor, cognitive, olfactory, and psychiatric symptoms are more severe in PD carriers of \"severe\" GBA variants compared to those carrying mild or no GBA variants [26]. We could not find any difference in the NMS assessment between patients presenting at least one L444P allele and the rest of the cohort. Our single patient presenting motor symptoms (P17) only had \"mild\" variants, which leads to the hypothesis that other factors influence the neurodegeneration of PD beyond the patient's genotype."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 587.2,
+      "minX": 304.7,
+      "maxY": 594.6,
+      "maxX": 359.9,
+      "page": 8
+    }],
+    "text": "Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 443.2,
+      "minX": 304.7,
+      "maxY": 582.3,
+      "maxX": 539.3,
+      "page": 8
+    }],
+    "text": "Hyposmia was the NMS that best predicted the development of PD in our cohort, showing important prognostic value. We recommend a detailed neurological physical examination focusing on PD motor symptoms starting at the age of 30 in GD patients. HEX activity was lower in the CSF of patients when compared to the MLD group. More studies will be necessary to assess whether this could also be a contributing factor to the increased risk of PD in these patients. A combination of biomarkers, both clinical and in CSF, might help define the optimal time to intervene with neuroprotective therapy for PD when it becomes available."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 9
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 374.6,
+      "minX": 56.7,
+      "maxY": 508.6,
+      "maxX": 289.3,
+      "page": 9
+    }],
+    "text": "1Medical Genetics Service, Hospital de Clínicas de Porto Alegre (HCPA), Ramiro Barcelos St., 2350, 3Rd Floor, Porto Alegre, RS 90035-007, Brazil. 2Postgraduate Program in Medical Sciences, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, RS, Brazil. 3Postgraduate Program in Genetics and Molecular Biology, UFRGS, Porto Alegre, RS, Brazil. 4Neurology Service, Hospital de Clinicas de Porto Alegre, Porto Alegre, RS, Brazil. 5LEIM- Genetics Laboratory - Serviço de Genética Médica, Medical Genetics Service, HCPA, Porto Alegre, RS, Brazil. 6BRAIN Laboratory, HCPA, Porto Alegre, RS, Brazil. 7Biodiscovery Laboratory, HCPA, Porto Alegre, RS, Brazil. 8Biochemical Genetics Laboratory, Greenwood Genetics Center, Greenwood, SC, USA. 9Department of Pharmacology, UFRGS, Porto Alegre, RS, Brazil. 10Department of Genetics, UFRGS, Porto Alegre, RS, Brazil. 11Pharmacology and Therapeutics research program, UFRGS, Porto Alegre, Brazil. Received: 26 May 2023 Accepted: 24 August 2023"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 260.1,
+      "page": 10
+    }],
+    "text": "Wilke et al. Orphanet Journal ofRare Diseases (2023) 18:309"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 646.1,
+      "minX": 56.7,
+      "maxY": 653.5,
+      "maxX": 130.9,
+      "page": 10
+    }],
+    "text": "Publisher's Note"
+  }}
+]}

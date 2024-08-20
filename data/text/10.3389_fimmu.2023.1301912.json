@@ -1,0 +1,2399 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 475.6,
+      "minX": 49.6,
+      "maxY": 482.1,
+      "maxX": 101.6,
+      "page": 1
+    }],
+    "text": "\u2020PRESENT ADDRESS"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 586.4,
+      "minX": 237.3,
+      "maxY": 705.5,
+      "maxX": 530.6,
+      "page": 1
+    }],
+    "text": "Immunophenotype associated with high sustained antibody titers against enzyme replacement therapy in infantile-onset Pompe disease"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 545.3,
+      "minX": 237.3,
+      "maxY": 571.8,
+      "maxX": 541.7,
+      "page": 1
+    }],
+    "text": "Ankit K. Desai 1, P. Brian Smith 2,3, John S. Yi 4\u2020, Amy S. Rosenberg 5, Trevor D. Burt 2,6* and Priya S. Kishnani 1*"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 484.2,
+      "minX": 237.3,
+      "maxY": 535.7,
+      "maxX": 545.4,
+      "page": 1
+    }],
+    "text": "1Division of Medical Genetics, Department of Pediatrics, Duke University Health System, Durham, NC, United States, 2Division of Neonatology, Department of Pediatrics, Duke University School of Medicine, Durham, NC, United States, 3Duke Clinical Research Institute, Durham, NC, United States, 4Division of Surgical Sciences, Department of Surgery, Duke University School of Medicine, Durham, NC, United States, 5EpiVax, Inc., Providence, RI, United States, 6Children's Health and Discovery Initiative, Duke University School of Medicine, Durham, NC, United States"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 2
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 755.4,
+      "minX": 49.6,
+      "maxY": 765.1,
+      "maxX": 137.7,
+      "page": 2
+    }],
+    "text": "1 Introduction"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 565.8,
+      "minX": 49.6,
+      "maxY": 737,
+      "maxX": 291.6,
+      "page": 2
+    }],
+    "text": "Pompe disease (OMIM 232300, glycogen storage disease II) is an autosomal recessive disorder characterized by deficiency of acid a-glucosidase (GAA), an enzyme required for the breakdown of lysosomal glycogen (1). Based on the age of symptom onset and presence or absence of cardiomyopathy, Pompe disease is classified into two major subtypes, infantile-onset Pompe disease (IOPD) and late-onset Pompe disease (LOPD). Patients with IOPD have minimal to no residual enzyme activity, which results in very early and rapid glycogen accumulation in skeletal, cardiac, and smooth muscle. This glycogen accumulation leads to hypotonia, cardiomyopathy, and respiratory failure within days to weeks after birth, progressing to death by two years of age (2). In contrast, patients with LOPD have slower disease progression and may present from the first year to the sixth decade of life (3, 4)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 391.5,
+      "minX": 49.6,
+      "maxY": 562,
+      "maxX": 290.8,
+      "page": 2
+    }],
+    "text": "In 2006, recombinant human acid a-glucosidase (rhGAA; alglucosidase alfa) was FDA approved as the first therapy for Pompe disease. The availability of enzyme replacement therapy (ERT) with rhGAA has increased the life span and improved the quality of life for patients with IOPD (5, 6). While such improvements have benefited patients with Pompe disease overall, there is marked individual variability in treatment response to ERT and identifying patients who are likely to have a poor response to ERT remains a challenge. The response to ERT can be influenced by various factors such as age at initiation of ERT, angiotensinconverting enzyme (ACE) genotype, extent of preexisting pathology, cross-reactive immunologic material (CRIM) status, and, critically, the development of anti-rhGAA IgG antibodies (7\u201311)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 215.7,
+      "minX": 49.6,
+      "maxY": 387,
+      "maxX": 290.7,
+      "page": 2
+    }],
+    "text": "CRIM-negative status and development of high and sustained anti-rhGAA IgG antibody titers (HSAT; defined as antibody titers ≥12,800), were identified as poor prognostic factors for patients with IOPD on ERT (7, 10, 12). CRIM status (positive or negative) is defined as the presence or absence of GAA protein expressed by the patient (13). CRIM-negative IOPD patients have two severe GAA variants and do not make any native GAA enzyme, leaving them prone to development of anti-drug antibodies to ERT due to their lack of natural immune tolerance, as GAA would normally be treated by the immune system as a self-antigen. As such, their immune systems recognize rhGAA as fully foreign, leading to development of HSAT against ERT. In contrast, CRIM-positive IOPD patients express some residual GAA enzyme that allows for generation of natural immune tolerance to some extent."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 78.2,
+        "minX": 49.6,
+        "maxY": 212,
+        "maxX": 291.6,
+        "page": 2
+      },
+      {
+        "minY": 644.1,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.1,
+        "page": 2
+      }
+    ],
+    "text": "To minimize the deleterious effects of anti-rhGAA IgG antibodies, various immune modulation strategies have been tried over the years. Among these approaches, a protocol of immune tolerance induction (ITI) with a short-course of rituximab, methotrexate, and IVIG has proven to be the most effective when initiated in ERT-naïve settings, and this has become a standard of care in CRIM-negative IOPD patients to block adaptive immune responses (14, 15). Widespread use of this ITI protocol, especially in high-risk CRIM-negative IOPD patients, has led to increased survival. While CRIM-negative status is a clear risk factor for HSAT and an indicator for ITI therapy, CRIM-positive status is not always predictive of a low anti-rhGAA IgG antibody response as approximately 32% of patients with CRIM-positive IOPD, and a subset of LOPD, patients develop HSAT resulting in a poor clinical response to treatment (10). This highlights the significant need for an immune biomarker or signature that could identify high-risk CRIM-positive patients at diagnosis before starting ERT and/or identify signs of sensitization during the course of therapy. Development of such a screening and monitoring tool is currently hampered by our limited understanding of the immunobiology that leads to HSAT against ERT in Pompe disease."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 344.1,
+      "minX": 304.9,
+      "maxY": 640.3,
+      "maxX": 546.8,
+      "page": 2
+    }],
+    "text": "To address the critical unmet need of elucidating the cellular subsets and cytokine mediators that drive the HSAT response, we carried out multiparameter immunophenotyping by flow cytometry of peripheral blood mononuclear cell (PBMC) populations combined with a multiplex array analysis of plasma cytokine levels in a cohort of deeply phenotyped CRIM-positive and CRIM-negative IOPD patients. Development of a specific, sustained antibody response requires not only the primary activation of B cells but also the contribution of T cell help via cell-cell interactions and secreted cytokines to generate mature memory B cells and long-lived plasma cells capable of secreting high-titer specific antibodies. We designed our experiments not only to focus on the elements of this adaptive immune response but also to detect signs of underlying inflammation that could contribute to overall immune activation and thereby exacerbate adaptive responses. The immunophenotyping data were analyzed to identify any unique immunological characteristics associated with the HSAT response. In this hypothesis-generating pilot study, we aimed to: (1) provide insights into the basic mechanisms leading to immune sensitization against ERT, which could further guide the evolution of immunotherapy strategies; (2) to understand the impact of currently used ITI regimens on immune phenotypes in IOPD, and also (3) to ultimately guide the development of biomarkers and/or disease risk signatures for HSAT."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 304.7,
+      "minX": 304.9,
+      "maxY": 314.6,
+      "maxX": 458.3,
+      "page": 2
+    }],
+    "text": "2 Materials and methods"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 279.7,
+      "minX": 304.9,
+      "maxY": 288.5,
+      "maxX": 487.1,
+      "page": 2
+    }],
+    "text": "2.1 Patients and inclusion criteria"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 77.7,
+      "minX": 304.9,
+      "maxY": 261.3,
+      "maxX": 546.8,
+      "page": 2
+    }],
+    "text": "Inclusion in the present study was based on; (a) a confirmed diagnosis of IOPD based on low GAA enzyme activity, two pathogenic GAA variants, and cardiomyopathy in the 1st year of life (2), (b) having received ERT with/without ITI, and (c) availability of sufficient blood sample and clinical data. Samples from the qualified patients were further classified into three groups based on (a) treatment history and (b) anti-rhGAA IgG antibody titer levels: (Group 1) IOPD patients who have received ERT monotherapy and have low anti-rhGAA IgG antibody titers (<12,800) without any immune modulation for >2 years, (Group 2) high-risk IOPD patients who have received the ITI protocol with rituximab, methotrexate +/- IVIG in the ERT-naïve setting, received ERT for >2 years, and have low anti-rhGAA IgG antibody titers and B cell recovery at the time of sample collection, and (Group 3) IOPD patients who have developed HSAT."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 2
+    }],
+    "text": "Frontiers in Immunology 02 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 3
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 756.5,
+      "minX": 49.6,
+      "maxY": 765.3,
+      "maxX": 153.7,
+      "page": 3
+    }],
+    "text": "2.2 Data collection"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 616.9,
+      "minX": 49.6,
+      "maxY": 738.1,
+      "maxX": 290.9,
+      "page": 3
+    }],
+    "text": "Clinical data including GAA variants, CRIM status, age at ERT initiation, time on ERT at the sample collection, and longitudinal anti-rhGAA IgG antibody titers were extracted from medical records. CRIM status was determined by western blot analysis in skin or blood at the Duke GSD/LSD Enzymology Laboratory and confirmed by GAA variants or was predicted based on known GAA variants as previously described (13). Anti-rhGAA IgG antibody titers were determined by Sanofi Genzyme or LabCorp by enzymelinked immunosorbent assay and specificity was confirmed using radioimmunoprecipitation as previously described (5)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 557.5,
+      "minX": 49.6,
+      "maxY": 592.3,
+      "maxX": 267.5,
+      "page": 3
+    }],
+    "text": "2.3 Isolation and storage of plasma and peripheral blood mononuclear cells (PBMCs)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 406.4,
+      "minX": 49.6,
+      "maxY": 540.1,
+      "maxX": 291,
+      "page": 3
+    }],
+    "text": "Peripheral blood was obtained by venipuncture and collected in acid-citrate-dextrose tubes (BD Vacutainer, Franklin Lake, NJ). Plasma and PBMCs were separated by Ficoll (GE Healthcare, Uppsala, Sweden) density gradient centrifugation; the plasma layer was isolated first and aliquoted in 1mL increments and subsequently stored at −80°C. PBMCs were transferred to a new 50mL conical tube and washed, counted, and then re-suspended in a 90% FBS (Gemini, West Sacramento, CA) and 10% DMSO (Sigma-aldrich, St. Louis, MO) solution, and progressively cooled to −80°C in a CoolCell cell freezing container (BioCision, Larkspur, CA). The next day, the cells were stored in vapor phase liquid nitrogen for long-term storage."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 368.6,
+      "minX": 49.6,
+      "maxY": 379.8,
+      "maxX": 270.6,
+      "page": 3
+    }],
+    "text": "2.4 Cellular analysis and flow cytometry"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.4,
+      "minX": 49.6,
+      "maxY": 352.6,
+      "maxX": 291.6,
+      "page": 3
+    }],
+    "text": "Cell preparation, staining, and analysis for flow cytometry were carried out by the Duke Immune Profiling Core (DIPC). PBMCs were thawed by washing twice with RPMI medium (R10) containing 10% FBS (Gemini Bio, Sacramento, CA) +1% penicillin, streptomycin, and L-glutamine (Invitrogen, Carlsbad, CA), and cell number and viability were calculated. A total of 106 PBMCs were plated in 96 well round-bottom plates in R10. After centrifugation and removal of media, cells were surface stained with 50uL of an antibody cocktail mix consisting of titrated volumes of fluorescent antibodies for the innate and T cell panels. After fixing the cells with 1% paraformaldehyde (PFA), cells were acquired on a BD Symphony X50 flow cytometer (BD Biosciences, San Jose, CA). The antibodies listed in Supplementary Table 1 from BioLegend (San Diego, CA) and BD Biosciences were used for flow cytometry."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 143.6,
+      "minX": 49.6,
+      "maxY": 154.8,
+      "maxX": 199.4,
+      "page": 3
+    }],
+    "text": "2.5 Multiplex immunoassay"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 49.6,
+        "maxY": 127.6,
+        "maxX": 290.8,
+        "page": 3
+      },
+      {
+        "minY": 669.1,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546,
+        "page": 3
+      }
+    ],
+    "text": "Plasma preparation and analysis for multiplex immunoassay were carried out by the DIPC. Patients' plasma samples were used undiluted to measure the concentration of Fractalkine, GM-CSF, IFN-g, IL−1b, IL-2, IL-4, IL-5, IL-6, IL-7, IL-8, IL-10, IL-12 (p70), IL-13, IL-17A, IL-21, IL-23, ITAC, MIP−1a, MIP−1b, MIP−3a, and TNF−a. Multiplex immunoassay was performed according to the manufacturer's protocol (Millipore, HSTCMAG-28SK). Briefly, magnetic beads were diluted and added to a 96-well flat bottom plate. Plasma and serially diluted standards were added to wells in duplicate. The plate was incubated overnight and detection antibodies were added the next day. Lastly, Streptavidin-PE was added to each well prior to cytokine detection using a Magpix analyzer (Luminex, Austin, TX)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 618.9,
+      "minX": 304.9,
+      "maxY": 642.5,
+      "maxX": 535.7,
+      "page": 3
+    }],
+    "text": "2.6 HSAT signature score derivation using principal components analysis (PCA)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 519.1,
+      "minX": 304.9,
+      "maxY": 602.8,
+      "maxX": 546.1,
+      "page": 3
+    }],
+    "text": "Principal component analysis was performed on the flow cytometry and cytokine array data to generate PC1 loadings for HSAT signature parameters that were significantly different in both the comparisons between Group 2 vs. Group 3 and Group 1 + 2 vs. Group 3. Values were then z-score standardized across all samples within a parameter and multiplied by the PC1 loading values before summation to generate the HSAT signature score."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 481.4,
+      "minX": 304.9,
+      "maxY": 492.5,
+      "maxX": 422.9,
+      "page": 3
+    }],
+    "text": "2.7 Statistical analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 444.1,
+        "minX": 304.9,
+        "maxY": 465.3,
+        "maxX": 546,
+        "page": 3
+      },
+      {
+        "minY": 156.8,
+        "minX": 322.1,
+        "maxY": 427.8,
+        "maxX": 546.8,
+        "page": 3
+      }
+    ],
+    "text": "Following statistical analyses were performed after classifying the patient cohort into predetermined groups: a. Low antibody titers (LT; antibody titer <12,800) (Group 1 and 2) v/s High sustained antibody titer (HSAT; antibody titers ≥12,800) (Group 3); comparison between the group of patients which have high sustained antibodies (Group 3) and those who do not (Groups 1 + 2) to understand whether any of the flow and Luminex cytokine measures correlate with anti-rhGAA antibody status of the patients. b. Group 2 v/s Group 3. Both groups consist of patients at high-risk of developing anti-drug antibodies but with different treatment outcomes. The aim was to identify the immune characteristics in Group 3 compared to Group 2 which was successfully treated with ITI. c. Group 1 v/s Group 2; Both groups consist of \"good responders\" in terms of anti-rhGAA IgG antibodies as they maintained low anti-rhGAA IgG antibody titers. Group 2 was considered as high risk and as such received ITI in the ERT-naïve setting and were immune tolerant. The aim was to determine whether there were any immunological changes in Group 2 that might be associated with either their high-risk status and/or with administration of ITI or if looked similar in profile to Group 1 patients."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 106.4,
+      "minX": 304.9,
+      "maxY": 117.5,
+      "maxX": 407.8,
+      "page": 3
+    }],
+    "text": "2.8 Study approval"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 304.9,
+        "maxY": 90.3,
+        "maxX": 546.8,
+        "page": 3
+      },
+      {
+        "minY": 656.7,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 290.9,
+        "page": 4
+      }
+    ],
+    "text": "All patients were enrolled in Duke institutional review board (IRB) approved study protocols Pro00001562 (Determination of Cross-Reactive Immunological Material [CRIM] Status and Longitudinal Follow-up of Individuals with Pompe disease), Pro00007612 (Genetic Disease Repository for Blood, Urine, and Tissue), and/or Pro00051144 (Identify alterations in phenotypically defined PBMC subpopulations and the possible generation of anti-Myozyme cellular reactivities in Pompe disease patients as a result of alglucosidase alfa). All patients were included in the study after provision of written informed consent by parents or a legally authorized representative."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 3
+    }],
+    "text": "Frontiers in Immunology 03 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 4
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 621.2,
+      "minX": 49.6,
+      "maxY": 630.9,
+      "maxX": 105.6,
+      "page": 4
+    }],
+    "text": "3 Results"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 593.9,
+      "minX": 49.6,
+      "maxY": 604.9,
+      "maxX": 231.3,
+      "page": 4
+    }],
+    "text": "3.1 Description of patient groups"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 306.6,
+      "minX": 49.6,
+      "maxY": 577.8,
+      "maxX": 290.9,
+      "page": 4
+    }],
+    "text": "From pediatric IOPD patients that we follow at Duke, we identified a cohort of 40 patients with IOPD who met the criteria for one of the study groups (Table 1). A total of 40 PBMCs and 38 plasma deidentified samples were submitted to Duke Immune Profiling Core for flow cytometry and cytokine array analysis. Patients were divided into three groups based on antibody titers and ITI treatment status: (a) Group 1 (LT; n=20), long-term IOPD survivors who did not receive ITI and maintained low antibody titers, (b) Group 2 (ITI+LT; n=10), long-term high-risk IOPD survivors who received ITI with rituximab, methotrexate +/- IVIG in the ERT-naïve setting and maintained low antibody titers, and (c) Group 3 (HSAT; n=10), IOPD patients who developed and maintained anti-rhGAA IgG antibody titers of ≥12,800 (including a mix of patients who received ITI and those who did not). Group 2 included CRIM-negative patients as well as CRIM-positive patients that were identified as high-risk based on family history or a combination of GAA variants that were previously seen in CRIM-positive patients with high antibody titers. The time that patients had been receiving ERT at the time of sample acquisition is closely correlated with age, and is included in Table 1, and a graph representing the close correlation (Spearman's r = 0.9773, P<0.0001) is included in the Supplementary Figures."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 256.4,
+      "minX": 49.6,
+      "maxY": 280,
+      "maxX": 210.4,
+      "page": 4
+    }],
+    "text": "3.2 High titer versus low titer group analysis"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 49.6,
+        "maxY": 240.3,
+        "maxX": 291.6,
+        "page": 4
+      },
+      {
+        "minY": 656.6,
+        "minX": 304.9,
+        "maxY": 765.8,
+        "maxX": 546.1,
+        "page": 4
+      }
+    ],
+    "text": "A nested analysis approach was taken to interrogate the phenotypic immunological changes associated with the development of HSAT in patients with IOPD undergoing ERT (Figure 1A). In the first, broader comparison, all patients with HSAT (Group 3, n=10) were compared with all patients with LT (Group 1 combined with Group 2, n=30). This approach (LT vs. HSAT; Group 1 + 2 vs. Group 3) includes a greater number of patients (n=40) with a range of disease severity and effects, but also a significant range of ages, especially in Group 1 (Tables 1, 2). With the goal of narrowing the analysis to optimally matched groups for comparison, we also carried out a focused sub-group analysis of only LT patients who have been treated with ITI (Group 2) compared to HSAT patients (Group 3). An additional feature of this sub-analysis is that it compares two groups that are more similar in age [Group 2 age 36.58 +/- 13.72 months vs. Group 3 age 34.24 +/- 35.87 months (mean +/- SD)]. This is significant especially considering the unique features of immune phenotype and function in early childhood compared to that of older children and adults (16, 17). Patients in Groups 2 and 3 are all considered high-risk due to the CRIM-negative status and/or the expected severity of their identified variants. For each variable studied, regression analysis was carried out controlling for age at the time of sampling to identify parameters that were significantly different between groups."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 606.8,
+      "minX": 304.9,
+      "maxY": 640.5,
+      "maxX": 537.6,
+      "page": 4
+    }],
+    "text": "3.2.1 The circulating lymphocyte population is shifted toward increased B cell and decreased T cell frequencies in patients with HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 469.1,
+      "minX": 304.9,
+      "maxY": 602.8,
+      "maxX": 546.8,
+      "page": 4
+    }],
+    "text": "Phenotype analysis of lymphocyte subsets revealed that there was an increase in the percentage of CD19+ B cells (22.1 vs. 13.6% of lymphocytes, age-adjusted P value (Padj)=0.043) and a decrease in CD3+ T cells (58.1 vs. 72.1% of lymphocytes, Padj=0.018) in HSAT patients (Group 3) compared to LT patients (Group 1 + 2) (Figures 1B, C; gating strategy shown in Supplementary Figure 1). In the focused analysis comparing only Group 2 (ITI+LT) and Group 3 (HSAT), there was a persistent overall decrease in T cells (58.1 vs. 75.1% of lymphocytes, Padj=0.029), and an increase in B cells (22.1 vs. 13.5% of lymphocytes, Padj=0.11) in Group 3, though the difference in B cells did not reach significance."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 431.2,
+      "minX": 304.9,
+      "maxY": 452.9,
+      "maxX": 526.7,
+      "page": 4
+    }],
+    "text": "3.2.2 Patients with HSAT have increased circulating Th2 cells and decreased Th17 cells"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 193.6,
+      "minX": 304.9,
+      "maxY": 427.3,
+      "maxX": 546.8,
+      "page": 4
+    }],
+    "text": "Previous evidence in GAA-deficient mice treated with ERT with rhGAA demonstrated that anti-GAA IgG antibody responses are driven by immunodominant epitopes recognized by CD4+ T helper type-2 (Th2) cells (18). We carried out T helper (Th) subtype analysis in IOPD patients using well-established chemokine receptor expression patterns (19) to identify populations of CD4+ effector cells that are enriched for Th1 (Th1; CXCR3+CCR6-), Th2 (CXCR3-CCR6-), and Th17 (CXCR3-CCR6+) cells (Figures 1D\u2013F, Supplementary Figure 1). There was an increase in mean Th2 (65.6 vs. 55.8% of CD4+; Padj=0.029) and a decrease in Th17 (1.0 vs. 4.5% of CD4+; Padj=0.012) cells in HSAT patients (Group 3) compared with LT (Group 1 + 2) patients (Figures 1E, F). There was not a significant difference in Th1 cells (32.9 vs. 37.8% of CD4+; Padj=0.17) (Figure 1D). In the focused sub-analysis, we again observed a significant increase in Th2 cells (65.5 vs. 53.7% of CD4+, Padj=0.032) and decrease in Th17 cells (1.0 vs. 3.5% of CD4+, Padj=0.009) in HSAT (Group 3) vs. ITI+LT (Group 2) patients, with no significant difference in Th1 cells (32.9 vs. 40.9% of CD4+, Padj= 0.14) (Figures 1D\u2013F)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 93.6,
+      "minX": 304.9,
+      "maxY": 189.8,
+      "maxX": 546.1,
+      "page": 4
+    }],
+    "text": "In addition to Th1, Th2, and Th17 cells, we compared other CD4+ T cell subsets and found that there were no significant differences between HSAT patients and other groups in the levels of regulatory T cells (Treg; CD4+CD25+CD127-), T-follicular helper (Tfh; CD4+CXCR5+CD45RA-), or T-follicular regulatory (Tfr; CD4+CXCR5+CD45RA-CD25+CD127-) cells in circulation, though there was a clear trend toward decreased Tfh and increased Tfr in HSAT patients. (Figure 2C; Supplementary Figures 2D, E)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.6,
+        "minX": 304.9,
+        "maxY": 89.8,
+        "maxX": 546.1,
+        "page": 4
+      },
+      {
+        "minY": 391.1,
+        "minX": 49.6,
+        "maxY": 499.9,
+        "maxX": 290.7,
+        "page": 6
+      }
+    ],
+    "text": "A shift toward increased Th2 cells in circulation suggests prior activation events leading to Th2 polarization, which is typically accompanied by an increase in Th2 cytokines at the local tissue level and may be reflected in the systemic circulation. This can be accompanied by a concomitant, reciprocal decrease in Th1 and/or Th17 cells and cytokines. In a comparison of mean Th1 (IFN-g, IL-12), Th2 (IL-4, IL-5, IL-13), Th17 (IL-17, IL-21, IL-23), and immunoregulatory IL-10 cytokine concentrations in plasma, there were no significant differences detected in total plasma concentrations between HSAT and LT patients in either the larger or nested analysis (Supplementary Figure 3)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 4
+    }],
+    "text": "Frontiers in Immunology 04 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 5
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 6
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 338.2,
+      "minX": 49.6,
+      "maxY": 372,
+      "maxX": 264.1,
+      "page": 6
+    }],
+    "text": "3.2.3 Increased Th2 cells are correlated with higher levels of Th2 and proinflammatory cytokines in patients with HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 125.6,
+      "minX": 49.6,
+      "maxY": 334.3,
+      "maxX": 290.8,
+      "page": 6
+    }],
+    "text": "While there were no significant differences in the total plasma levels of Th1-, Th2-, or Th17-specific cytokines between treatment groups, we sought to understand if there were associations between cytokine levels and the skewed Th cell subsets observed in HSAT patients. Correlation analysis revealed a significant positive correlation between the frequency of Th2 cells and plasma concentrations of the Th2 cytokines IL-4 (R2 = 0.81, P=0.0003), IL-5 (R2 = 0.65, P=0.0048), and IL-13 (R2 = 0.74, P=0.0013) that was only seen in HSAT patients (Group 3), but not other groups (Figures 1G\u2013I). This was accompanied by a reciprocal negative correlation with Th1 cells (Supplementary Figures 4A\u2013C). There were no correlations between Th1 or Th17 cells and canonical Th1 cytokines (IFN-g, IL-12A) (Supplementary Figures 4D, E) or Th17 cytokines (IL-17A, IL-21, IL-23) (Supplementary Figures 4G\u2013I), except for a positive correlation between IL-21 concentration and percent of Th17 cells in Group 3 (R2 = 0.48, P=0.027) (Supplementary Figure 4H)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.6,
+        "minX": 49.6,
+        "maxY": 121.8,
+        "maxX": 290.8,
+        "page": 6
+      },
+      {
+        "minY": 403.6,
+        "minX": 304.9,
+        "maxY": 499.9,
+        "maxX": 546,
+        "page": 6
+      }
+    ],
+    "text": "Several classical pro-inflammatory cytokines and chemokines, including IL-6 (R2 = 0.84, P=0.0002), TNF-a (R2 = 0.49, P=0.025), MIP-1a (R2 = 0.54, P=0.015), and MIP-1b, (R2 = 0.40, P=0.048) were positively correlated with the frequency of Th2 cells in HSAT patients (Group 3), but not in other groups (Figures 3A\u2013D). There were significant inverse correlations between Th2 cells and the pro-inflammatory mediators IL-1b (R2 = 0.75, P=0.0056) and CX3CL1 (also known as Fractalkine; R2 = 0.60, P=0.0247) in Group 2 which appear to be reversed in HSAT patients (Group 3), though the positive correlation in HSAT patients fails to reach significance (Figures 3E, F). Similar trends were observed for IL-8 (CXCL8) and MIP-3a (Figures 3G, H), but failed to reach significance for either group."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 364.8,
+      "minX": 304.9,
+      "maxY": 387.6,
+      "maxX": 530.8,
+      "page": 6
+    }],
+    "text": "3.2.4 CD4+ T cells are more highly activated in patients with HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 152.1,
+      "minX": 304.9,
+      "maxY": 360.9,
+      "maxX": 546.9,
+      "page": 6
+    }],
+    "text": "We used cell surface markers of T cell activation (i.e., CD38 and HLA-DR) to compare the immune activation state between groups. CD4+ T cells from HSAT patients (Group 3) were more activated than LT patients (Group 1 + 2), as demonstrated by increased frequencies of CD38+ single positive (88.0 vs. 83.3% ofCD4+ T cells, Padj=0.037) and CD38+HLA-DR+ double positive (2.28 vs. 0.88% CD4+ T cells, Padj=0.032) cells (Figures 2A, B). In the focused comparison of ITI +LT vs HSAT (Group 2 vs. 3), there was no significant difference. Increased activation can lead to the accumulation of memory populations and a consequent decrease in naive cells. We analyzed the maturation state of CD4+ T cells using standard markers of Naïve (CD45RA+CCR7+), Central Memory (CM; CD45RA-CCR7+), Effector/Effector Memory (EM; CD45RA-CCR7-), and CD45RA+ Terminal Effector-Memory (TEMRA; CD45RA+CCR7-) cells and found that there were no significant differences between groups (Figures 2D\u2013G), though we observed a trend toward decreased circulating memory populations in the HSAT group."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 113.3,
+      "minX": 304.9,
+      "maxY": 135,
+      "maxX": 539.2,
+      "page": 6
+    }],
+    "text": "3.2.5 Circulating unswitched memory B cells are decreased in IOPD patients with HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.6,
+        "minX": 304.9,
+        "maxY": 109.4,
+        "maxX": 546,
+        "page": 6
+      },
+      {
+        "minY": 70.7,
+        "minX": 49.6,
+        "maxY": 291.9,
+        "maxX": 291.5,
+        "page": 9
+      },
+      {
+        "minY": 145.7,
+        "minX": 304.9,
+        "maxY": 291.9,
+        "maxX": 546.9,
+        "page": 9
+      }
+    ],
+    "text": "The hallmark clinical feature of Group 3 is the presence of high titer antigen-specific antibodies against rhGAA, which suggests an ongoing, mature, memory-type antibody response involving robust germinal center (GC) reactions in the lymphoid tissues (e.g., spleen and lymph nodes) and residence of long-lived plasma cells in the bone marrow. To determine whether the composition ofcirculating B cells reflects evidence of such a response, we analyzed the percentage of various maturational states of B cells in PBMCs, including transitional B cells (most nascent B cells in transit from bone marrow (BM) to periphery; CD19+CD20+CD38++CD24++), naïve B cells (antigen-specific but not activated; CD19+IgD+CD27-), unswitched memory B cells (previously activated in response to antigen but have not undergone a GC reaction and IgG heavy chain class-switching \u2013 argued to be the circulating equivalent of splenic marginal zone B cells; CD19+IgD+CD27+), switched memory (previously activated in response to antigen and matured by undergoing IgG heavy chain class-switching; CD19+IgD-CD27+), and plasmablasts (nascent antibody secreting cells typically in transit from the periphery to bone marrow; CD19+CD27+IgD-CD20-CD38++) (Figures 4A\u2013E; gating scheme in Supplementary Figure 1) (20\u201323). We found that the frequency of circulating unswitched memory B cells in HSAT patients was around 1/3 of that which was observed in LT patients (0.57% vs. 1.68% of CD19+ B cells; Padj = 0.003) (Figure 4C). In the focused analysis comparing only LT patients who were treated with ITI (Group 2) vs. HSAT patients (Group 3), there was again a significant decrease in unswitched memory cells in the HSAT group (0.57% vs. 1.36% of CD19+ B cells; Padj=0.008) (Figure 4C). Titers of anti-rhGAA antibodies were negatively correlated with naïve (R2 = 0.65 P=0.0046) and unswitched memory B cells (R2 = 0.70 P=0.0027), and positively correlated with mature memory cells (R2 = 0.57, P=0.012) and plasmablasts in Group 3 (R2 = 0.67, P=0.0038) and (Figures 4F\u2013J)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 6
+    }],
+    "text": "Frontiers in Immunology 06 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 801.1,
+      "minX": 49.6,
+      "maxY": 806.1,
+      "maxX": 84.9,
+      "page": 7
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 367.6,
+      "minX": 60.8,
+      "maxY": 371.7,
+      "maxX": 84.7,
+      "page": 7
+    }],
+    "text": "FIGURE 1"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.4,
+      "minX": 49.6,
+      "maxY": 40.9,
+      "maxX": 545.9,
+      "page": 7
+    }],
+    "text": "Frontiers in Immunology 07 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 8
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 9
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 108.9,
+      "minX": 304.9,
+      "maxY": 130.6,
+      "maxX": 538.9,
+      "page": 9
+    }],
+    "text": "3.2.6 Patients with HSAT have increased CXCL11 and decreased GM-CSF plasma concentration"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.2,
+        "minX": 304.9,
+        "maxY": 104.9,
+        "maxX": 546.1,
+        "page": 9
+      },
+      {
+        "minY": 168.6,
+        "minX": 49.6,
+        "maxY": 277.3,
+        "maxX": 290.8,
+        "page": 10
+      }
+    ],
+    "text": "Patients with HSAT (Group 3) had significantly higher average plasma concentrations of the chemokine CXCL11 (also known as ITAC; 19.24 vs. 10.98 pg/mL, Padj=0.037) and lower average plasma GM-CSF concentration (19.96 vs 29.71 pg/mL, Padj=0.038) compared with LT patient (Groups 1 + 2) (Figures 5A, B). In the focused subgroup comparison of ITI+LT (Group 2) vs. HSAT (Group 3) patients, only the decrease in GM-CSF concentrations observed in HSAT patients remained significant (19.95 vs. 42.42 pg/ mL, Padj=0.018). There were trends toward increased levels of pro-inflammatory cytokines in Group 3 including IL-1b, IL-6, IL-8, MIP-1a, MIP-1b, MIP-3a, and TNF-a which did not reach significance in either the larger or subgroup analysis (Supplementary Figure 3)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 9
+    }],
+    "text": "Frontiers in Immunology 09 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 10
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 361.7,
+      "minX": 60.8,
+      "maxY": 365.8,
+      "maxX": 85.1,
+      "page": 10
+    }],
+    "text": "FIGURE 2"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 68.6,
+        "minX": 49.6,
+        "maxY": 164.8,
+        "maxX": 291.6,
+        "page": 10
+      },
+      {
+        "minY": 218.6,
+        "minX": 304.9,
+        "maxY": 277.3,
+        "maxX": 546,
+        "page": 10
+      }
+    ],
+    "text": "Given that increased CXCL11 and decreased GM-CSF were observed in HSAT patients, we compared the concentrations of these cytokines across the entire cohort and found that there was a mutually inverse correlation between GM-CSF and CXCL11, such that all patients with high GM-CSF (>~20 pg/mL) also had low CXCL11 (<~20 pg/mL), while patients with high CXCL11 (> ~20 pg/ml) had low GM-CSF (<~20 pg/mL) (Figure 5C). Further, we confirmed that patients with HSAT tend to cluster according to their low GM-CSF and high CXCL11 levels (Figure 5C), though there is a significant overlap between groups. Thus, most patients with HSAT have a low ratio of GM-CSF/CXCL11 (below 2), but not all patients with a low GM-CSF/CXCL11 ratio have elevated Ab titers (Figure 5D)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 181.7,
+      "minX": 304.9,
+      "maxY": 203.4,
+      "maxX": 531.5,
+      "page": 10
+    }],
+    "text": "3.2.7 Derivation of an HSAT disease-associated signature score"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 304.9,
+        "maxY": 177.8,
+        "maxX": 546.8,
+        "page": 10
+      },
+      {
+        "minY": 78.8,
+        "minX": 49.6,
+        "maxY": 350,
+        "maxX": 291.5,
+        "page": 11
+      },
+      {
+        "minY": 316.3,
+        "minX": 304.9,
+        "maxY": 350,
+        "maxX": 546.1,
+        "page": 11
+      }
+    ],
+    "text": "In addition to those described above, immunophenotyping revealed other significant differences in patients with HSAT compared to LT, including decreased CD11c+ myeloid dendritic cells (mDCs), CD16+CD56+ Natural Killer (NK) cells (Table 3, Supplementary Figures 6A, 7A), and CD8+ TEMRA T cells (Supplementary Figure 5D). Given that multiple, diverse parameters were identified as being associated with development of HSAT in patients with IOPD, we set out to integrate these parameters into a potential immunophenotypic signature profile of patients who were in the HSAT group. We carried out principal component analysis (PCA) utilizing the measured values of parameters that were identified as significantly different in HSAT patients (listed in Figure 6A). Principal component 1 (PC1) accounted for 23.6% of variance in the data set, and patients from the cohort tend to segregate along PC1 according to their HSAT status, with Group 3 having more negative values in PC1, while LT groups centered more in the positive range of PC1 (Figure 6B and Supplementary Figure 8B). Patients that were more than 90 weeks old at the time of sampling were mostly in Group 1 and generally segregated according to positive values along PC2 (Figure 6B, Supplementary Figure 8B). Thus, patients tend to be distributed according to HSAT status along PC1. The PC1 loading values for each HSAT-signature immunophenotype parameter (e.g., GM-CSF concentration or % CD3+ T cells) were used to weight the z-standardized values of that parameter (Figure 6A, Supplementary Figure 8A), and the sum of the weighted values was taken to generate a standardized, PC1-weighted HSAT Signature Score, which was then calculated for everyone in the cohort. The HSAT signature scores were plotted by group (Figure 6C), and patients in Group 3 scored lower than patients in Groups 1 and 2, with minimal overlap between LT groups (Groups 1 and 2) and Group 3. Finally, antibody titers were compared to HSAT signature scores, demonstrating that elevated antibody titers correlated with low signature scores across the whole cohort (Figure 6D)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 10
+    }],
+    "text": "Frontiers in Immunology 10 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 11
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 425.4,
+      "minX": 60.8,
+      "maxY": 429.5,
+      "maxX": 85.1,
+      "page": 11
+    }],
+    "text": "FIGURE 3"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 266.1,
+      "minX": 304.9,
+      "maxY": 289.6,
+      "maxX": 494.8,
+      "page": 11
+    }],
+    "text": "3.3 Immunophenotypic analysis of LT groups"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 78.8,
+      "minX": 304.9,
+      "maxY": 250,
+      "maxX": 546.9,
+      "page": 11
+    }],
+    "text": "ITI with a short course of rituximab, methotrexate, and IVIG has become a standard of therapy for CRIM-negative IOPD patients and prevents development of deleterious immune responses to ERT. We wanted to determine whether treatment with these potent immunomodulatory therapies, though limited in their duration of exposure, results in long-term changes in immune phenotype in treated patients. We compared a group of ERT-treated patients with no exposure to ITI (Group 1; n=20) to patients on ERT who were also treated with ITI (Group 2; n=10) due to their CRIM-negative status or the anticipated risk associated with their known mutation. Ofnote, none of the patients included in this analysis developed HSAT. Given the difference in ages between Group 1 and Group 2, we controlled for age of the patient at the time the sample was taken using linear regression analysis."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.6,
+      "maxX": 545.9,
+      "page": 11
+    }],
+    "text": "Frontiers in Immunology 11 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 12
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 305.4,
+      "minX": 60.8,
+      "maxY": 309.4,
+      "maxX": 85.3,
+      "page": 12
+    }],
+    "text": "FIGURE 4"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.2,
+        "minX": 49.6,
+        "maxY": 203,
+        "maxX": 291.5,
+        "page": 12
+      },
+      {
+        "minY": 146.4,
+        "minX": 304.9,
+        "maxY": 203,
+        "maxX": 546,
+        "page": 12
+      }
+    ],
+    "text": "There were few statistically significant changes noted between ITI + and ITI- groups, but these included a higher percentage of CD16-CD56++ NK cells (13.91 vs. 7.6% ofall CD56+, Padj=0.049) and CD4+ T cells (69.87 vs. 63.48% of CD3+, Padj=0.035) in patients treated with ITI, who also had higher levels of TNF-a (5.99 vs. 4.05 pg/mL, Padj=0.01)(Supplementary Figures 9A\u2013C). The increase in TNF-a is modest but notable given that it is higher in patients who have received immunosuppressive therapy due to their increased risk of developing HSAT and may therefore reflect their underlying disease and demonstrate chronic, smoldering inflammation. This highlights an important consideration in interpreting the results of this comparison; the differences observed may not only reflect the use of ITI, but also the underlying immunological state associated with the factors which put these patients at increased risk for HSAT (i.e., CRIM-negative, high-risk mutations), and which lead to the administration of ITI."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 108.9,
+      "minX": 304.9,
+      "maxY": 118.6,
+      "maxX": 383.2,
+      "page": 12
+    }],
+    "text": "4 Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 304.9,
+        "maxY": 90.5,
+        "maxX": 546.1,
+        "page": 12
+      },
+      {
+        "minY": 108.7,
+        "minX": 49.6,
+        "maxY": 340.3,
+        "maxX": 291.6,
+        "page": 13
+      }
+    ],
+    "text": "The negative impact of IgG anti-drug antibodies on the efficacy of therapeutic protein treatment for IOPD has been appreciated since the first clinical trials of rhGAA. Two decades later, however, we continue to have a limited understanding of cellular and cytokine mediators that govern immune responses during treatment with enzyme replacement. To counteract the anti-rhGAA IgG antibody response, various immunomodulation approaches have been employed with varying degrees of success, and our approach has been to use a combination of a short course of rituximab, methotrexate, and IVIG. Since both B and T cells participate in germinal center responses that result in sustained high-titer antibodies, both B cell-targeting (rituximab) and T cell targeting (methotrexate) agents were incorporated into the regimen. While we have been able to demonstrate normalization of CD19+ B cells to baseline levels after depletion with rituximab, very little else is known about the immunological state of patients with IOPD, especially those who received ITI and those who develop HSAT. To address this gap in current knowledge, we conducted a pilot study to establish an immune profile of the cellular subsets and secreted cytokines in a cohort of IOPD patients treated with ERT with or without ITI."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 12
+    }],
+    "text": "Frontiers in Immunology 12 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 13
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 415.7,
+      "minX": 60.8,
+      "maxY": 419.8,
+      "maxX": 85,
+      "page": 13
+    }],
+    "text": "FIGURE 5"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 81.5,
+        "minX": 49.6,
+        "maxY": 102.8,
+        "maxX": 291.5,
+        "page": 13
+      },
+      {
+        "minY": 81.5,
+        "minX": 304.9,
+        "maxY": 340.3,
+        "maxX": 546.8,
+        "page": 13
+      }
+    ],
+    "text": "It is critical to realize that any data from immune phenotyping of PBMC in the circulation must be interpreted with the understanding that most immune cell interactions and reactions occur in tissues, especially secondary lymphoid tissues such as spleen and lymph node (LN), and that the cellular composition of blood may or may not reflect that of a relevant tissue. For example, high blood levels of a particular cell may correlate either positively or negatively with levels in tissue. Much as road traffic is lower during work hours when people are generally gathered at workplaces rather than in transit, tissue sequestration of a particular cell type into a site of active immune reaction may result in a relative decrease in the circulating frequency of that cell. With blood immune phenotyping, we capture a snapshot of cell populations in transit between compartments at one point in time. As such, an understanding of established relevant immunological paradigms must be cautiously employed when inferring mechanisms from circulating cell populations and cytokine levels. Another important distinction to make is between cell frequency, which we report here, and absolute cell counts. While the frequency ofa cell conveys the fractional representation ofthat cell type within a parent population, it often does not correlate directly with the absolute cell count, which is the number ofcells per volume of blood. These two measures can have different biological and diagnostic values but must not be confused or considered equivalent."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.6,
+      "maxX": 545.9,
+      "page": 13
+    }],
+    "text": "Frontiers in Immunology 13 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 14
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.6,
+      "maxX": 545.9,
+      "page": 14
+    }],
+    "text": "Frontiers in Immunology 14 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 15
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.6,
+      "maxX": 545.9,
+      "page": 15
+    }],
+    "text": "Frontiers in Immunology 15 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 16
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 521.7,
+      "minX": 49.6,
+      "maxY": 545.1,
+      "maxX": 279,
+      "page": 16
+    }],
+    "text": "4.1 An immunophenotypic signature that correlates with the development of HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 84.3,
+        "minX": 49.6,
+        "maxY": 505.5,
+        "maxX": 291.5,
+        "page": 16
+      },
+      {
+        "minY": 486.6,
+        "minX": 304.9,
+        "maxY": 545.3,
+        "maxX": 546.9,
+        "page": 16
+      }
+    ],
+    "text": "CRIM status has been an important tool for stratifying risk in IOPD patients, but alone it is not adequate to identify the risk of HSAT, as a significant number of CRIM-positive patients will go on to develop HSAT. The overall goal of this work was to conduct comprehensive immune profiling of cytokines and cell subsets to identify unique immunological features in patients who develop HSAT. These features may potentially serve as biomarkers representing a disease 'signature', which may in the future be refined and tested to identify patients at risk for developing HSAT. To that end, we conducted statistical analysis to compare age-adjusted group mean values for each parameter between IOPD patients on ERT who developed HSAT (Group 3) and all patients who did not (Group 1 + 2). We further compared only LT patients who received ITI (Group 2) with HSAT patients (Group 3), finding that most of the identified differences were consistent between these analyses. Given that several parameters were identified as being significantly altered in HSAT patients, we sought to integrate these measurements to account for their contribution to development of HSAT. We included all significantly different parameters in PCA, revealing that patients were distributed along PC1 according to their antibody titers and therefore their HSAT status. Given the small number of parameters included and the natural degree of variability found in human phenotyping data, HSAT patients did not form a purely discrete cluster but were clearly skewed toward the more negative values of PC1. Loading values in PC1, which roughly represent the degree to which a particular parameter (e.g., % CD3+ T cells) contributes to the difference between HSAT and LT patients, were used to weight the measured values for each parameter and all weighted values were combined to derive a single numerical HSAT Signature Score. When patients in the cohort were scored according to this method, there was a clear separation between patients with HSAT and those without. While these data and analyses provide confirmatory evidence that the variables identified are associated with the presence of HSAT in this cohort, it is important to recognize that the interpretation of these results and their significance should be limited to this study and this cohort at this time. True evaluation of such a signature score requires a test for validation in a separate and independent cohort, but the results ofthe current pilot study could be used to rationally guide such endeavors."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 374,
+      "minX": 304.9,
+      "maxY": 482.7,
+      "maxX": 546,
+      "page": 16
+    }],
+    "text": "In addition to providing the basis for a potential disease score measurement, the immunological parameters that were significantly different in patients with HSAT may also illuminate the pathophysiology underlying the development of HSAT. Keeping in mind the potential caveats mentioned above regarding the interpretation of cell frequencies in peripheral blood, we can learn a great deal about disease process by making careful interpretations and informed speculations regarding mechanisms of tissue-based reactions as reflected in circulating populations."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 311.7,
+      "minX": 304.9,
+      "maxY": 345.5,
+      "maxX": 535.3,
+      "page": 16
+    }],
+    "text": "4.2 A shift toward type 2 immunity may support B cell maturation and production of HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 84.5,
+        "minX": 304.9,
+        "maxY": 293.3,
+        "maxX": 546.8,
+        "page": 16
+      },
+      {
+        "minY": 87.7,
+        "minX": 49.6,
+        "maxY": 283.9,
+        "maxX": 291.5,
+        "page": 17
+      }
+    ],
+    "text": "While antibodies can be generated without help from T cells (i.e. T-independent) or in a T cell-dependent manner that doesn't involve maturation in a germinal center (GC), such antibody responses are typically short-lived and self-limited and lead to the production of lower titer and lower avidity antibody (16). Development of a highly specific, robust, and sustained antibody response such as HSAT against rhGAA involves the recruitment of B cells into GCs, where interactions with Tfh cells promote antibody affinity maturation, isotype class switching (i.e., from IgM and IgD to IgG, IgA, or IgE) (17, 18), and development of long-lived memory and antibody-secreting plasma cells. We observed a relative expansion of total B cells in the circulation of patients with HSAT that is accompanied by a shift in the circulating B cell population away from unswitched memory (CD27+IgD+) B cells. That this occurs in concert with high-titer specific IgG production suggests that the whole-body B cell compartment may be shifted toward a more mature type of memory and antibody-secretion response. While we did not detect a statistically significant difference in mature memory B or Tfh cells using robust testing methods, there is a clear visual decrease in the population of circulating mature memory B and Tfh cells in HSAT patients (Figure 4 and Supplementary Figure 2). This may reflect recruitment and/or sequestration of Tfh cells out of the circulation into the secondary lymphoid tissues where they can participate in GC responses. This may also help to explain the observed HSAT-associated decrease in circulating unswitched memory cells since it could reflect a dominant shift toward GCassociated B cell reactions that are committed to generating mature, tissue-associated memory and antibody secreting cells (i.e., plasma cells). This is further supported by our observation that anti-rhGAA antibody titers are positively correlated with mature memory B cells and plasmablasts, and negatively correlated with naïve and unswitched memory B cells."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 16
+    }],
+    "text": "Frontiers in Immunology 16 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 17
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 359.3,
+      "minX": 60.8,
+      "maxY": 363.3,
+      "maxX": 85.2,
+      "page": 17
+    }],
+    "text": "FIGURE 6"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 222.7,
+      "minX": 304.9,
+      "maxY": 283.8,
+      "maxX": 523.6,
+      "page": 17
+    }],
+    "text": "4.3 The makeup of the Th cell compartment in HSAT patients is significantly shifted toward Th2 cells, which may support the maturation of B cells into HSAT-producing cells"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 87.9,
+        "minX": 304.9,
+        "maxY": 209.1,
+        "maxX": 546.1,
+        "page": 17
+      },
+      {
+        "minY": 494.1,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 291.6,
+        "page": 18
+      }
+    ],
+    "text": "While Tfh cells play a key role in driving GC reactions that are essential for mature, robust, prolonged antibody responses, extrafollicular Th2 cells can also contribute to such antibody responses (16, 19). IL-4 and IL-13, which are secreted by Th2, Tfh, and several innate-type cells, are typically associated with atopic disease as well as immunity against extracellular parasites (e.g., helminths), but they also play an important broader role in humoral immunity. These cytokines not only drive B cell switching to IgG1 and IgE isotypes, but also act on B cells to support GC formation in type-2 immune responses, promote B cell proliferation, and protect them from apoptosis by modulating glycolytic metabolism (20, 21). Thus, IL-4/IL-13-deficient mice have decreased GC B cells during type-2 responses, and IL-4 from Th2 cells was sufficient to restore GC formation by acting directly on B cells (19). In the GAA−/− 129SVE mouse model of Pompe Disease, robust IgG1 antibody generation against human rhGAA is driven by immunodominant CD4+ Th2 cell epitopes, and these affected mice with high IgG antibody titers ultimately die from IgE-mediated anaphylaxis (22, 23). Our analysis demonstrated that the concentrations of type 2 cytokines (IL-4, IL-5, and IL-13) were significantly correlated with the increased percentage of Th2 cells in patients with HSAT. Since type 2 cytokines signal in a positive feedback loop to support ongoing Th2 cell differentiation and function, the correlation between type 2 cytokines and Th2 cells may reflect an expansion of cells in response to increased cytokine stimulation and/or increased secretion of cytokines by the expanded Th2 cell population. If activated Th2 cells contribute toward HSAT formation in humans, as they do in mice, an important question remains as to what mechanisms lead to their generation. A proposed summary model of how a dominant shift toward type 2 immunity in HSAT patients could feasibly contribute to the pathogenesis of HSAT is depicted in Supplementary Figure 11."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.6,
+      "maxX": 545.9,
+      "page": 17
+    }],
+    "text": "Frontiers in Immunology 17 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 18
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 244.1,
+      "minX": 49.6,
+      "maxY": 490.3,
+      "maxX": 291.5,
+      "page": 18
+    }],
+    "text": "CRIM-negative patients are ideally set up to develop anti-rhGAA IgG antibodies. They lack endogenous expression of GAA, which normally drives the acquisition of immune tolerance through deletion of autoreactive T and B cell clones, and they undergo repeated administration of a specific antigenic stimulus (i.e., ERT with rhGAA). A quandary arises, therefore, in considering that patients in Group 2 who have the same immunological setup do not develop HSAT. The tolerizing regimens given to these patients due to their high-risk status allow them to maintain immune quiescence and avoid deleterious antibody responses through mechanisms of peripheral immune tolerance (e.g., influence of regulatory cells or tolerization of T or B cells through apoptosis or anergy). Conversely, some CRIM-positive patients do develop HSAT despite expressing endogenous GAA that should theoretically lead to natural immune tolerance. It is clear, therefore, that additional immunological and physiological factors are crucial for 'tipping the scale' from tolerance toward immunogenicity in HSAT patients. By examining parameters in our studies that define the immune profile of patients with HSAT (Group 3), we hope to gain insight into what factor(s) are responsible for this shift."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 181.5,
+      "minX": 49.6,
+      "maxY": 217.5,
+      "maxX": 283.8,
+      "page": 18
+    }],
+    "text": "4.4 GM-CSF and CXCL11 form an immunological circuit that may contribute to the development of HSAT"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.2,
+        "minX": 49.6,
+        "maxY": 165.3,
+        "maxX": 290.9,
+        "page": 18
+      },
+      {
+        "minY": 519.1,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.8,
+        "page": 18
+      }
+    ],
+    "text": "Of all the cytokines and chemokines that were examined, only elevated plasma CXCL11 and decreased GM-CSF were significantly different in patients with HSAT compared to patients with LT. GM-CSF is a hematopoietic growth and differentiation factor for granulocytes and myeloid cells (e.g., monocytes and DCs), but it also plays an important part in myeloid cell activation, while CXCL11 is a chemokine originally described for its chemotactic properties, but which also has potent effects on immune cell signaling and differentiation (24\u201329). While high GM-CSF levels are strongly associated with disease in Multiple Sclerosis, Rheumatoid Arthritis, and other inflammatory diseases, decreased plasma GM-CSF is not commonly reported to be associated with disease states (25, 26, 28). There is, however, a clear association in Crohn's Disease between decreased GM-CSF bioactivity and worsened disease severity (24, 28). Low GM-CSF in these patients has been linked to accelerated progression and increased gut permeability with resulting microbial translocation. In clinical trials, administration of recombinant GM-CSF to patients with moderate to severe Crohn's was associated with increased rates of disease remission (28, 30). Furthermore, GM-CSF-null mice have impaired gut barrier function and are prone to intestinal damage in models of murine ileitis (31, 32), while administration of exogenous GM-CSF ameliorates colitis in these models and promotes healing of the mucosal epithelial barrier (33, 34), further highlighting the importance of normal GM-CSF function for maintaining intestinal barrier integrity. In addition to its role in mucosal healing and barrier integrity, GM-CSF may also play a role in maintaining a healthy intestinal microbiome (35)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 244.1,
+      "minX": 304.9,
+      "maxY": 515.3,
+      "maxX": 546.8,
+      "page": 18
+    }],
+    "text": "We demonstrate that all patients in this IOPD cohort with elevated CXCL11 also have low GM-CSF, while all patients with high GM-CSF have low CXCL11. GM-CSF and CXCL11 are functionally related such that experimental antibody-mediated blockade of GM-CSF drives human monocytes to differentiate into CXCL11-producing immunomodulatory cells (24). CXCL11, in turn, was reported to inhibit T cell proliferation (24). The diminished levels of GM-CSF observed in patients with HSAT may therefore not only contribute to the increased levels of CXCL11 production in these patients but also to their decreased frequency of T cells due to the anti-proliferative influence of CXCL11 on these cells. CXCL11 both supports Th2 differentiation and inhibits Th17 differentiation in vitro, and administration of stabilized CXCL11-Ig fusion protein to mice resulted in decreased central nervous system Th1 and Th17 cells and increased Th2 and regulatory Tr1 cells in Experimental Autoimmune Encephalomyelitis (36, 37). CXCL11 also promotes susceptibility to cutaneous leishmaniasis in mice by promoting Th2 and inhibiting Th1 responses (38). These findings described in mice suggest that elevated levels of CXCL11 observed in HSAT patients may support the expansion of Th2 cells, promoting a dominant Type 2 milieu, and contributing to a paucity of Th17 cells."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 132.4,
+      "minX": 304.9,
+      "maxY": 240.3,
+      "maxX": 546,
+      "page": 18
+    }],
+    "text": "Low GM-CSF levels may explain the decrease in mDC observed in patients with HSAT. While GM-CSF has typically been thought of as more important for monocytes and macrophage development and function, several studies clearly demonstrate a role for GM-CSF in the development of inflammation-induced mDC. The combined knockout of GM-CSF and Flt3-ligand severely reduced mDC production in mice, while genetic complementation by knock-in of human GM-CSF and Flt3-ligand resulted in enhanced mDC reconstitution and maturation in humanized mice (39\u201341)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.8,
+        "minX": 304.9,
+        "maxY": 127.8,
+        "maxX": 546,
+        "page": 18
+      },
+      {
+        "minY": 594.3,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 290.7,
+        "page": 19
+      }
+    ],
+    "text": "Given that GM-CSF and CXCL11 can potentially influence multiple HSAT-associated parameters, we propose that these cytokines play a role in the pathogenesis of HSAT. In our theoretical model (Supplementary Figure 10), decreased plasma GM-CSF results in secretion of CXCL11 (24) which then acts on T cells to promote Th2 differentiation, inhibit Th17 differentiation, and decrease T cell proliferation, resulting in overall lower T cells with a Th2 predominance. The presence of increased T cell activation markers in HSAT patients suggests the influence of a broadly activating stimulus. We suggest that this chronic immune activation may be the result of microbial translocation due to impaired gut barrier integrity resulting from low GM-CSF concentrations. Decreased levels of Th17 cells, which we also observed in HSAT patients, could also contribute to microbial translocation since IL-17 is strongly associated with normal gut barrier integrity (42, 43). Both GM-CSF and IL-17A have been shown to promote colonic epithelial barrier integrity by enhancing expression and/or regulating protein trafficking of tight-junction proteins (44\u201346)."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 18
+    }],
+    "text": "Frontiers in Immunology 18 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 19
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 296.3,
+      "minX": 49.6,
+      "maxY": 590.3,
+      "maxX": 291.6,
+      "page": 19
+    }],
+    "text": "Gastrointestinal (GI) manifestations are common in patients with Pompe disease, including chronic diarrhea and/or constipation that has been assumed to be related to impaired GI smooth muscle motility, and the mouse model of Pompe disease (GAAKO 6neo/ 6neo) demonstrates accumulation of glycogen in smooth muscle throughout the GI tract (47). Given our findings, we suggest the possibility that these GI symptoms may in part be related to the immunological state of some IOPD patients, and specifically to low GM-CSF and/or Th17 levels. Low GM-CSF bioactivity due to anti-GM-CSF antibodies in Crohn's Disease is associated with increased gut barrier permeability, microbial translocation, and innate immune activation (48), and it is now accepted that a large number of diverse pathological states are associated with altered gut barrier integrity (49). There is currently no direct evidence for increased gut permeability in IOPD, but it has not been specifically tested. Activation of innate immune cells in the gut by microbial products stimulating TLRs would result in the release of inflammatory mediators that then cause bystander immune activation of T and B cells. Several aspects of this model could be readily tested, especially it's more speculative aspect: increased gut permeability and chronic immune activation due to microbial translocation. Given that it is unlikely to be explained by simple mendelian variation, the cause of low GM-CSF in HSAT patients remains unclear."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 231.5,
+      "minX": 49.6,
+      "maxY": 267.4,
+      "maxX": 285.7,
+      "page": 19
+    }],
+    "text": "4.5 Evidence for chronic inflammation and immune activation in high-risk LT and HSAT+ patients"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 49.6,
+        "maxY": 215.8,
+        "maxX": 291,
+        "page": 19
+      },
+      {
+        "minY": 606.6,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.1,
+        "page": 19
+      }
+    ],
+    "text": "We found increased mean CD4+ T cell activation (HLADR+CD38+) in HSAT patients, compared to LT patients, suggesting the presence of a chronically activating stimulus. While levels of pro-inflammatory cytokine levels were not significantly different in HSAT patients, there were significant positive correlations between higher %Th2 cells and multiple pro-inflammatory cytokines, including IL-6, TNF-a, MIP-1a, and MIP-1b. There were also obvious but non-statistically significant correlations between Th2 cells and the pro-inflammatory cytokine IL-1b, CX3CL1, and IL-8 in HSAT patients. This may suggest that their increased risk for HSAT is associated with smoldering low-level inflammation due to either the primary impairment of glycogen handling and the resulting glycogen buildup, and/or low-level T and B cell activation in response to ongoing ERT exposure. Chronic gut leakiness would lead to chronic exposure to microbial products (e.g., LPS) that can cause innate immune activation. The resulting chronic inflammatory response, even at low levels, could play a role in secondary T and B cell activation, ultimately adding fuel to the fire of ongoing antibody responses. If chronic innate immune activation and inflammation are shown to contribute to HSAT responses (including breakthrough responses after ITI), it would suggest a role for therapeutic interventions that target the source of the inciting inflammatory triggers (e.g., gut leakiness resulting in LPS exposure) and/or the innate immune system's inflammatory response to these triggers."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 469.1,
+      "minX": 304.9,
+      "maxY": 602.8,
+      "maxX": 546,
+      "page": 19
+    }],
+    "text": "TNF-a was significantly elevated in high-risk LT patients in Group 2 who received ITI, compared to lower risk LT patients in Group 1 who did not. While this could be associated with the immunomodulatory therapy, they received prior to starting ERT, a more likely explanation is that some high-risk patients in Group 2 live with low-level chronic inflammation and immune activation despite receiving ITI. Thus, future studies may be warranted to determine if LT patients with elevated TNF-a are at higher risk for breakthrough development of HSAT. If so, therapies directed at blocking TNF-a and/or the upstream effects of IL-1b could be beneficial in preventing their conversion to HSAT production."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 281.6,
+      "minX": 304.9,
+      "maxY": 465.8,
+      "maxX": 546.8,
+      "page": 19
+    }],
+    "text": "There is a notable absence of differences in CD4+ Treg cells between groups in this study. This was initially surprising, as it was hypothesized that increased production of regulatory immune cells (e.g., Tregs) could be responsible for suppressing anti-rhGAA responses in patients who had received ITI. The absence of differences in circulating Tregs does not, however, rule out this possibility. An expansion of rhGAA-specific Tregs at the time of ITI administration very likely would not be reflected in the frequency of overall circulating population, as such putative rhGAA-specific Tregs specific would carry out their suppressive function at the tissue level. Here, we enumerated the number of cells in circulation, but are unable to assess the frequency of cells in LNs and other tissues. We also were unable to assess the specificity or suppressive activity of Tregs, which are both crucial for understanding their functionality."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 304.9,
+        "maxY": 277.8,
+        "maxX": 546.1,
+        "page": 19
+      },
+      {
+        "minY": 694.1,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 290.7,
+        "page": 20
+      }
+    ],
+    "text": "There are several important caveats associated with this study, including the relatively low number of patients. However, given the rarity of patients with IOPD and of HSAT patients within that group, this is the largest published series of IOPD patients to undergo multiparameter immunophenotyping. Even so, interpretations must be made with caution when considering the larger disease population. This is particularly true in the case of the PC1-weighted HSAT Signature Score we derived to integrate several HSAT-associated parameters. While the score appropriately stratifies the patients from which it is derived according to their antibody titers, validation requires studying these parameters and the HSAT Signature Score in an independent cohort. The available data on anti-rhGAA IgG antibody titers only detailed total antibodies and was unable to distinguish between neutralizing vs. binding (non-neutralizing) antibodies. In addition, prior data supports that the patients who develop high total IgG titers, even those with no abnormality noted in uptake or binding, showed suboptimal clinical response to ERT (5, 50). Additionally, the impact of anti-rhGAA IgG antibodies in patients with LOPD is not completely clear in contrast to the well-documented evidence on the deleterious effect in IOPD patients. As such it will be important to see if the findings of this study are also noted in a well-phenotyped cohort of LOPD patients."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 19
+    }],
+    "text": "Frontiers in Immunology 19 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 49.6,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 20
+    }],
+    "text": "Desai et al. 10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 394.1,
+      "minX": 49.6,
+      "maxY": 690.3,
+      "maxX": 291.5,
+      "page": 20
+    }],
+    "text": "A technical caveat regarding flow cytometry analysis is that we employed a widely used method for measuring the frequency of Th2 and Th17 cells via cell surface chemokine receptors. It must be recognized, however, that the definitive test to identify these cells is intracellular flow cytometry for canonical transcription factors and/ or cytokines, which was not feasible for this pilot study but should be carried out in further confirmatory studies. We report a reciprocal relationship between Th2 cytokines (IL-4, IL-5, IL-13) and Th1 vs. Th2 cells. While it is well-recognized that Th1 and Th2 cells exert a reciprocal negative regulation on each other's development through cytokine signals, it must also be considered that the reciprocity of these correlations also likely arises from the gating scheme which parses Th1 and Th2 cells based on CXCR3 positivity, and therefore does reveal an overall literal shift in the effector population toward Th2 cells based on surface phenotype. Finally, in our theoretical model, we propose a relationship between CXCL11 and T cell proliferation, enhanced Th2 differentiation, and impaired Th17 differentiation, but we did not see direct correlations between these measurements. This may be explained by the knowledge that most cytokines act most potently at the microscopic scale of cell-cell interactions, and plasma levels of cytokines may not always reflect these paracrine interactions. This caution applies when considering the importance of both statistically significant and non-significant associations."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 331.5,
+      "minX": 49.6,
+      "maxY": 367.5,
+      "maxX": 284,
+      "page": 20
+    }],
+    "text": "4.6 HSAT immunophenotyping can inform future diagnostic and therapeutic approaches"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 49.6,
+        "maxY": 315.3,
+        "maxX": 291.5,
+        "page": 20
+      },
+      {
+        "minY": 594.3,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.8,
+        "page": 20
+      }
+    ],
+    "text": "With the implementation of ERT and ITI, CRIM-negative patients with IOPD are living longer than previously with improved quality of life, but are faced with a new set of challenges that potentially limit the success of their treatment, i nd u c i n g de ve l op me nt of HSAT. Un d e rstand i ng the immunobiology in the new emerging phenotype of long-term CRIM-negative IOPD survivors could help identify the factors that may lead to their clinical decline. Among the phenotypic traits studied, signs of chronic inflammation and immune activation are emerging as likely candidates underlying such progressive disease. There are potential implications that may be drawn from the findings in this study which may impact therapeutic strategies for mitigation of HSAT. Given that both T and B cells seem to be significantly affected in patients that develop HSAT, the addition of intensified T-cell targeted therapies (e.g., cyclosporine, sirolimus, tacrolimus, or mycophenolate mofetil) in addition to B-cell depletion with rituximab could more potently prevent the initial sensitization of T cells that go on to contribute to mature B memory cell and plasma cell responses. Given the vulnerable state of IOPD patients, the use of such agents would require careful consideration and may first be best evaluated in the rare patients who develop breakthrough HSAT after an initial round of ITI or in adults with Pompe disease. Furthermore, multiple lines of evidence presented here suggest a role for innate immune activation in driving the pathogenesis of HSAT. Biologic agents that block inflammatory cytokines and/or cytokine receptors (e.g., against IL-1b or TNF-a) may therefore have a therapeutic role in preventing or treating it. Recombinant preparations of GM-CSF have been widely used to support myeloid reconstitution after hematopoietic stem cell transplantation, to treat neutropenia during chemotherapy, or to ameliorate radiation-induced myelosuppression (51, 52). If low GM-CSF is found to play a likely role in the pathogenesis of HSAT, these off-the-shelf medicines could therefore be further studied and, if successful, incorporated into clinical trials."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 556,
+      "minX": 304.9,
+      "maxY": 568.4,
+      "maxX": 468.5,
+      "page": 20
+    }],
+    "text": "Data availability statement"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 506.6,
+      "minX": 304.9,
+      "maxY": 540.3,
+      "maxX": 545.9,
+      "page": 20
+    }],
+    "text": "The original contributions presented in the study are included in the article/Supplementary Material. Further inquiries can be directed to the corresponding authors."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 471.2,
+      "minX": 304.9,
+      "maxY": 480.9,
+      "maxX": 408.6,
+      "page": 20
+    }],
+    "text": "Ethics statement"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 381.6,
+      "minX": 304.9,
+      "maxY": 452.8,
+      "maxX": 545.9,
+      "page": 20
+    }],
+    "text": "The studies involving humans were approved by Duke University Health System Institutional Review Board. The studies were conducted in accordance with the local legislation and institutional requirements. Written informed consent for participation in this study was provided by the participants' legal guardians/next of kin."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 346.2,
+      "minX": 304.9,
+      "maxY": 355.9,
+      "maxX": 434.6,
+      "page": 20
+    }],
+    "text": "Author contributions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 181.6,
+      "minX": 304.9,
+      "maxY": 327.8,
+      "maxX": 546,
+      "page": 20
+    }],
+    "text": "AD: Conceptualization, Funding acquisition, Investigation, Methodology, Project administration, Resources, Supervision, Writing \u2013 original draft, Writing \u2013 review & editing. PS: Data curation, Formal analysis, Methodology, Validation, Writing \u2013 original draft, Writing \u2013 review & editing. JY: Conceptualization, Formal analysis, Investigation, Methodology, Resources, Writing \u2013 review & editing. AR: Formal analysis, Writing \u2013 original draft, Writing \u2013 review & editing. TB: Data curation, Formal analysis, Investigation, Visualization, Writing \u2013 original draft, Writing \u2013 review & editing. PK: Conceptualization, Funding acquisition, Investigation, Methodology, Supervision, Writing \u2013 original draft, Writing \u2013 review & editing."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 143.5,
+      "minX": 304.9,
+      "maxY": 155.9,
+      "maxX": 355,
+      "page": 20
+    }],
+    "text": "Funding"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.1,
+        "minX": 304.9,
+        "maxY": 127.8,
+        "maxX": 546.1,
+        "page": 20
+      },
+      {
+        "minY": 744.3,
+        "minX": 49.6,
+        "maxY": 765.3,
+        "maxX": 290.7,
+        "page": 21
+      }
+    ],
+    "text": "The author(s) declare financial support was received for the research, authorship, and/or publication of this article. This research was supported by a grant from Sanofi Genzyme (Cambridge, Massachusetts, USA). The content is solely the responsibility of the authors. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 20
+    }],
+    "text": "Frontiers in Immunology 20 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 21
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 706.1,
+      "minX": 49.6,
+      "maxY": 718.4,
+      "maxX": 165,
+      "page": 21
+    }],
+    "text": "Acknowledgments"
+  }},
+  {"paragraph": {
+    "role": "acknowledgments",
+    "positions": [{
+      "minY": 569.1,
+      "minX": 49.6,
+      "maxY": 690.3,
+      "maxX": 291.6,
+      "page": 21
+    }],
+    "text": "The authors wish to acknowledge the Y.T. and Alice Chen Pediatric Genetics and Genomics Research Center for its encouragement of this work. The authors would like to thank Emerson & Barbara Kampen Foundation for their generous contributions to research efforts to increase the understanding of the underlying disease pathology in Pompe disease. The authors acknowledge the generous support of The Lucas Garrett Pompe Foundation, Inc., which provided philanthropic funding for this research. The authors would also like to thank Judy and Monty Frost for their generous support."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 533.7,
+      "minX": 49.6,
+      "maxY": 543.6,
+      "maxX": 166.6,
+      "page": 21
+    }],
+    "text": "Conflict of interest"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 419.1,
+        "minX": 49.6,
+        "maxY": 515.3,
+        "maxX": 290.9,
+        "page": 21
+      },
+      {
+        "minY": 669.1,
+        "minX": 304.9,
+        "maxY": 765.3,
+        "maxX": 546.2,
+        "page": 21
+      }
+    ],
+    "text": "AD has received grant support from Sanofi Genzyme and the Lysosomal Disease Network. AD has received honoraria from Sanofi Genzyme. PK has received research/grant support from Sanofi Genzyme and Amicus Therapeutics. PK has received consulting fees and honoraria from Sanofi Genzyme, Amicus Therapeutics, Maze Therapeutics, Bayer, and Asklepios Biopharmaceutical, Inc. AskBio. PK is a member ofthe Pompe and Gaucher Disease Registry Advisory Board for Sanofi Genzyme, Pompe Disease Advisory Board for Amicus Therapeutics, and Advisory Board for Baebies. PK has equity with Maze Therapeutics and has held equity in Asklepios Biopharmaceuticals, and may receive milestone payments related to that equity in the future. AR is on the Medical Advisory Board of Sonoma Biotherapeutics, and the Scientific Advisory Boards of 4DMT and the Alice and YT Chen Genetics and Genomics Center and is a Consultant for EpiVax, Inc. AR is employed by Epivax, Inc."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 631.7,
+      "minX": 304.9,
+      "maxY": 665.3,
+      "maxX": 545.9,
+      "page": 21
+    }],
+    "text": "The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 596.2,
+      "minX": 304.9,
+      "maxY": 606.1,
+      "maxX": 403.9,
+      "page": 21
+    }],
+    "text": "Publisher's note"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 506.6,
+      "minX": 304.9,
+      "maxY": 577.8,
+      "maxX": 546,
+      "page": 21
+    }],
+    "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 468.6,
+      "minX": 304.9,
+      "maxY": 481.1,
+      "maxX": 452.9,
+      "page": 21
+    }],
+    "text": "Supplementary material"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 419.1,
+      "minX": 304.9,
+      "maxY": 452.8,
+      "maxX": 546,
+      "page": 21
+    }],
+    "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fimmu.2023.1301912/ full#supplementary-material"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 371.2,
+      "minX": 49.6,
+      "maxY": 381,
+      "maxX": 118.9,
+      "page": 21
+    }],
+    "text": "References"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 328.6,
+      "minX": 49.6,
+      "maxY": 351.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "1. Hirschhorn R, Reuser AJJ. Glycogen storage disease type II: acid a-glucosidase (acid Maltase) deficiency. In: Valle D, Scriver CR, editors. Scriver's OMMBID the online metabolic & molecular bases ofinherited disease. New York: McGraw-Hill (2009)."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 301.6,
+      "minX": 49.6,
+      "maxY": 324.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "2. Kishnani PS, Hwu WL, Mandel H, Nicolino M, Yong F, Corzo D, et al. A retrospective, multinational, multicenter study on the natural history of infantile-onset Pompe disease. J Pediatr (2006) 148(5):671\u201376. doi: 10.1016/j.jpeds.2005.11.033"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 274.7,
+      "minX": 49.6,
+      "maxY": 297.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "3. Hagemans ML, Winkel LP, Van Doorn PA, Hop WJ, Loonen MC, Reuser AJ, et al. Clinical manifestation and natural course of late-onset Pompe's disease in 54 Dutch patients. Brain (2005) 128(Pt 3):671\u20137. doi: 10.1093/brain/awh384"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 247.6,
+      "minX": 49.6,
+      "maxY": 270.4,
+      "maxX": 290.8,
+      "page": 21
+    }],
+    "text": "4. Huggins E, Holland M, Case LE, Blount J, Landstrom AP, Jones HN, et al. Early clinical phenotype of late onset Pompe disease: Lessons learned from newborn screening. Mol Genet Metab (2022) 135(3):179\u201385. doi: 10.1016/j.ymgme.2022.01.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 220.6,
+      "minX": 49.6,
+      "maxY": 243.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "5. Kishnani PS, Nicolino M, Voit T, Rogers RC, Tsai AC, Waterson J, et al. Chinese hamster ovary cell-derived recombinant human acid alpha-glucosidase in infantile-onset Pompe disease. J Pediatr (2006) 149(1):89\u201397. doi: 10.1016/j.jpeds.2006.02.035"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 193.7,
+      "minX": 49.6,
+      "maxY": 216.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "6. Kishnani PS, Corzo D, Leslie ND, Gruskin D, Van der Ploeg A, Clancy JP, et al. Early treatment with alglucosidase alpha prolongs long-term survival of infants with Pompe disease. Pediatr Res (2009) 66(3):329\u201335. doi: 10.1203/PDR.0b013e3181b24e94"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 159.2,
+      "minX": 49.6,
+      "maxY": 189.4,
+      "maxX": 290.9,
+      "page": 21
+    }],
+    "text": "7. Banugaria SG, Prater SN, Ng YK, Kobori JA, Finkel RS, Ladda RL, et al. The impact of antibodies on clinical outcomes in diseases treated with therapeutic protein: lessons learned from infantile Pompe disease. Genet Med: Off J Am Coll Med Genet (2011) 13(8):729\u201336. doi: 10.1097/GIM.0b013e3182174703"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 132.2,
+      "minX": 49.6,
+      "maxY": 154.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "8. De Filippi P, Saeidi K, Ravaglia S, Dardis A, Angelini C, Mongini T, et al. Genotype-phenotype correlation in Pompe disease, a step forward. Orphanet J Rare Dis (2014) 9:102. doi: 10.1186/s13023-014-0102-z"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 88.6,
+      "minX": 49.6,
+      "maxY": 127.4,
+      "maxX": 290.8,
+      "page": 21
+    }],
+    "text": "9. Li C, Desai AK, Gupta P, Dempsey K, Bhambhani V, Hopkin RJ, et al. Transforming the clinical outcome in CRIM-negative infantile Pompe disease identified via newborn screening: the benefits of early treatment with enzyme replacement therapy and immune tolerance induction. Genet Med: Off J Am Coll Med Genet (2021) 23(5):845\u201355. doi: 10.1038/s41436-020-01080-y"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 69.6,
+      "minX": 49.6,
+      "maxY": 84.4,
+      "maxX": 290.7,
+      "page": 21
+    }],
+    "text": "10. Desai AK, Kazi ZB, Bali DS, Kishnani PS. Characterization of immune response in Cross-Reactive Immunological Material (CRIM)-positive infantile Pompe disease"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 336.6,
+      "minX": 304.9,
+      "maxY": 351.4,
+      "maxX": 545.9,
+      "page": 21
+    }],
+    "text": "patients treated with enzyme replacement therapy. Mol Genet Metab Rep (2019) 20:100475. doi: 10.1016/j.ymgmr.2019.100475"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 308.6,
+      "minX": 304.9,
+      "maxY": 331.4,
+      "maxX": 546,
+      "page": 21
+    }],
+    "text": "11. Raben N, Takikita S, Pittis MG, Bembi B, Marie SK, Roberts A, et al. Deconstructing Pompe disease by analyzing single muscle fibers: to see a world in a grain of sand. Autophagy (2007) 3(6):546\u201352. doi: 10.4161/auto.4591"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 280.6,
+      "minX": 304.9,
+      "maxY": 303.4,
+      "maxX": 546.1,
+      "page": 21
+    }],
+    "text": "12. Kishnani PS, Goldenberg PC, DeArmey SL, Heller J, Benjamin D, Young S, et al. Cross-reactive immunologic material status affects treatment outcomes in Pompe disease infants. Mol Genet Metab (2010) 99(1):26\u201333. doi: 10.1016/j.ymgme.2009.08.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 244.6,
+      "minX": 304.9,
+      "maxY": 275.4,
+      "maxX": 546.4,
+      "page": 21
+    }],
+    "text": "13. Bali DS, Goldstein JL, Banugaria S, Dai J, Mackey J, Rehder C, et al. Predicting cross-reactive immunological material (CRIM) status in Pompe disease using GAA mutations: lessons learned from 10 years of clinical laboratory testing experience. Am J Med Genet Part C Semin Med Genet (2012) 160C(1):40\u20139. doi: 10.1002/ajmg.c.31319"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 217.2,
+      "minX": 304.9,
+      "maxY": 239.4,
+      "maxX": 546.1,
+      "page": 21
+    }],
+    "text": "14. Desai AK, Li C, Rosenberg AS, Kishnani PS. Immunological challenges and approaches to immunomodulation in Pompe disease: a literature review. Ann Transl Med (2019) 7(13):285. doi: 10.21037/atm.2019.05.27"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 182.2,
+      "minX": 304.9,
+      "maxY": 212.4,
+      "maxX": 546.6,
+      "page": 21
+    }],
+    "text": "15. Desai AK, Baloh CH, Sleasman JW, Rosenberg AS, Kishnani PS. Benefits of prophylactic short-course immune tolerance induction in patients with infantile pompe disease: demonstration of long-term safety and efficacy in an expanded cohort. Front Immunol (2020) 11:1727(1727). doi: 10.3389/fimmu.2020.01727"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 162.6,
+      "minX": 304.9,
+      "maxY": 177.4,
+      "maxX": 545.9,
+      "page": 21
+    }],
+    "text": "16. Cyster JG, Allen CDC. B cell responses: cell interaction dynamics and decisions. Cell (2019) 177(3):524\u201340. doi: 10.1016/j.cell.2019.03.016"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 144.2,
+      "minX": 304.9,
+      "maxY": 158.4,
+      "maxX": 546,
+      "page": 21
+    }],
+    "text": "17. Weisel F, Shlomchik M. Memory B cells of mice and humans. Annu Rev Immunol (2017) 35:255\u201384. doi: 10.1146/annurev-immunol-041015-055531"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 116.6,
+      "minX": 304.9,
+      "maxY": 139.4,
+      "maxX": 545.9,
+      "page": 21
+    }],
+    "text": "18. Weisel FJ, Zuccarino-Catania GV, Chikina M, Shlomchik MJ. A temporal switch in the germinal center determines differential output of memory B and plasma cells. Immunity (2016) 44(1):116\u201330. doi: 10.1016/j.immuni.2015.12.004"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 89.6,
+      "minX": 304.9,
+      "maxY": 112.4,
+      "maxX": 546.4,
+      "page": 21
+    }],
+    "text": "19. Turqueti-Neves A, Otte M, Prazeres da Costa O, Hopken UE, Lipp M, Buch T, et al. B-cell-intrinsic STAT6 signaling controls germinal center formation. Eur J Immunol (2014) 44(7):2130\u20138. doi: 10.1002/eji.201344203"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 70.6,
+      "minX": 304.9,
+      "maxY": 85.4,
+      "maxX": 546,
+      "page": 21
+    }],
+    "text": "20. Wurster AL, Rodgers VL, White MF, Rothstein TL, Grusby MJ. Interleukin-4mediated protection of primary B cells from apoptosis through Stat6-dependent up-"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 21
+    }],
+    "text": "Frontiers in Immunology 21 frontiersin.org"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 800.9,
+      "minX": 49.6,
+      "maxY": 805.9,
+      "maxX": 84.9,
+      "page": 22
+    }],
+    "text": "Desai et al."
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 750.6,
+      "minX": 49.4,
+      "maxY": 765.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "regulation of Bcl-xL. J Biol Chem (2002) 277(30):27169\u201375. doi: 10.1074/ jbc.M201207200"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 715.6,
+      "minX": 49.6,
+      "maxY": 746.4,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "21. Dufort FJ, Bleiman BF, Gumina MR, Blair D, Wagner DJ, Roberts MF, et al. Cutting edge: IL-4-mediated protection of primary B lymphocytes from apoptosis via Stat6-dependent regulation of glycolytic metabolism. J Immunol (2007) 179(8):4953\u20137. doi: 10.4049/jimmunol.179.8.4953"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 688.5,
+      "minX": 49.6,
+      "maxY": 711.4,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "22. Nayak S, Sivakumar R, Cao O, Daniell H, Byrne BJ, Herzog RW. Mapping the T helper cell response to acid alpha-glucosidase in Pompe mice. Mol Genet Metab (2012) 106(2):189\u201395. doi: 10.1016/j.ymgme.2012.03.009"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 661.6,
+      "minX": 49.6,
+      "maxY": 684.3,
+      "maxX": 290.8,
+      "page": 22
+    }],
+    "text": "23. Doerfler PA, Nayak S, Herzog RW, Morel L, Byrne BJ. BAFF blockade prevents anti-drug antibody formation in a mouse model of Pompe disease. Clin Immunol (2015) 158(2):140\u20137. doi: 10.1016/j.clim.2015.03.022"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 635.2,
+      "minX": 49.6,
+      "maxY": 657.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "24. Lotfi N, Zhang GX, Esmaeil N, Rostami A. Evaluation of the effect of GM-CSF blocking on the phenotype and function of human monocytes. Sci Rep (2020) 10 (1):1567. doi: 10.1038/s41598-020-58131-2"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 616.2,
+      "minX": 49.6,
+      "maxY": 630.4,
+      "maxX": 291,
+      "page": 22
+    }],
+    "text": "25. Becher B, Spath S, Goverman J. Cytokine networks in neuroinflammation. Nat Rev Immunol (2017) 17(1):49\u201359. doi: 10.1038/nri.2016.123"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 580.2,
+      "minX": 49.6,
+      "maxY": 610.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "26. Cook AD, Louis C, Robinson MJ, Saleh R, Sleeman MA, Hamilton JA. Granulocyte macrophage colony-stimulating factor receptor a expression and its targeting in antigen-induced arthritis and inflammation. Arthritis Res Ther (2016) 18 (1):287. doi: 10.1186/s13075-016-1185-9"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 543.6,
+      "minX": 49.6,
+      "maxY": 574.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "27. Dabritz J, Bonkowski E, Chalk C, Trapnell BC, Langhorst J, Denson LA, et al. Granulocyte macrophage colony-stimulating factor auto-antibodies and disease relapse in inflammatory bowel disease. Am J Gastroenterol (2013) 108(12):1901\u201310. doi: 10.1038/ajg.2013.360"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 515.6,
+      "minX": 49.4,
+      "maxY": 538.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "28. Dougan M, DranoffG, Dougan SK. GM-CSF, IL-3, and IL-5 family ofcytokines: regulators of inflammation. Immunity (2019) 50(4):796\u2013811. doi: 10.1016/ j.immuni.2019.03.022"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 488.6,
+      "minX": 49.6,
+      "maxY": 511.4,
+      "maxX": 291.4,
+      "page": 22
+    }],
+    "text": "29. Zhan Y, Xu Y, Lew AM. The regulation of the development and function of dendritic cell subsets by GM-CSF: more than a hematopoietic growth factor. Mol Immunol (2012) 52(1):30\u20137. doi: 10.1016/j.molimm.2012.04.009"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 462.2,
+      "minX": 49.6,
+      "maxY": 484.4,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "30. Korzenik JR, Dieckgraefe BK, Valentine JF, Hausman DF, Gilbert MJ. Sargramostim for active Crohn's disease. N Engl J Med (2005) 352(21):2193\u2013201. doi: 10.1056/NEJMoa041109"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 426.6,
+      "minX": 49.4,
+      "maxY": 457.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "31. Han X, Uchida K, Jurickova I, Koch D, Willson T, Samson C, et al. Granulocyte-macrophage colony-stimulating factor autoantibodies in murine ileitis and progressive ileal Crohn's disease. Gastroenterology (2009) 136(4):1261\u201371. doi: 10.1053/ j.gastro.2008.12.046"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 401.3,
+      "minX": 49.6,
+      "maxY": 422.4,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "32. Xu Y, Hunt NH, Bao S. The role of granulocyte macrophage-colony-stimulating factor in acute intestinal inflammation. Cell Res (2008) 18(12):1220\u20139. doi: 10.1038/ cr.2008.310"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 365.2,
+      "minX": 49.6,
+      "maxY": 395.4,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "33. Bernasconi E, Favre L, Maillard MH, Bachmann D, Pythoud C, Bouzourene H, et al. Granulocyte-macrophage colony-stimulating factor elicits bone marrow-derived cells that promote efficient colonic mucosal healing. Inflammation Bowel Dis (2010) 16 (3):428\u201341. doi: 10.1002/ibd.21072"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 331.3,
+      "minX": 49.6,
+      "maxY": 360.3,
+      "maxX": 290.7,
+      "page": 22
+    }],
+    "text": "34. Sainathan SK, Hanna EM, Gong Q, Bishnupuri KS, Luo Q, Colonna M, et al. Granulocyte macrophage colony-stimulating factor ameliorates DSS-induced experimental colitis. Inflammation Bowel Dis (2008) 14(1):88\u201399. doi: 10.1002/ ibd.20279"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 294.6,
+      "minX": 49.6,
+      "maxY": 325.4,
+      "maxX": 291.1,
+      "page": 22
+    }],
+    "text": "35. Wu YN, Zhang L, Chen T, Li X, He LH, Liu GX. Granulocyte-macrophage colony-stimulating factor protects mice against hepatocellular carcinoma by ameliorating intestinal dysbiosis and attenuating inflammation. World J Gastroenterol (2020) 26(36):5420\u201336. doi: 10.3748/wjg.v26.i36.5420"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 800.7,
+      "minX": 450.4,
+      "maxY": 806.2,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "10.3389/fimmu.2023.1301912"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 742.6,
+      "minX": 304.9,
+      "maxY": 765.3,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "36. Karin N, Wildbaum G, Thelen M. Biased signaling pathways via CXCR3 control the development and function of CD4+ T cell subsets. J Leukoc Biol (2016) 99(6):85762. doi: 10.1189/jlb.2MR0915-441R"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 715.6,
+      "minX": 304.9,
+      "maxY": 738.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "37. Zohar Y, Wildbaum G, Novak R, Salzman AL, Thelen M, Alon R, et al. CXCL11-dependent induction of FOXP3-negative regulatory T cells suppresses autoimmune encephalomyelitis. J Clin Invest (2014) 124(5):2009\u201322. doi: 10.1172/JCI71951"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 688.5,
+      "minX": 304.9,
+      "maxY": 711.4,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "38. Roebrock K, Sunderkotter C, Munck NA, Wolf M, Nippe N, Barczyk K, et al. Epidermal expression of I-TAC (Cxcl11) instructs adaptive Th2-type immunity. FASEB J (2014) 28(4):1724\u201334. doi: 10.1096/fj.13-233593"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 669.6,
+      "minX": 304.9,
+      "maxY": 684.3,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "39. Satpathy AT, Wu X, Albring JC, Murphy KM. Re(de)fining the dendritic cell lineage. Nat Immunol (2012) 13(12):1145\u201354. doi: 10.1038/ni.2467"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 643.2,
+      "minX": 304.9,
+      "maxY": 665.3,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "40. Kingston D, Schmid MA, Onai N, Obata-Onai A, Baumjohann D, Manz MG. The concerted action ofGM-CSF and Flt3-ligand on in vivo dendritic cell homeostasis. Blood (2009) 114(4):835\u201343. doi: 10.1182/blood-2009-02-206318"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 608.2,
+      "minX": 304.9,
+      "maxY": 638.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "41. Iwabuchi R, Ikeno S, Kobayashi-Ishihara M, Takeyama H, Ato M, TsunetsuguYokota Y, et al. Introduction of human flt3-L and GM-CSF into humanized mice enhances the reconstitution and maturation ofmyeloid dendritic cells and the development offoxp3(+) CD4(+) T cells. Front Immunol (2018) 9:1042. doi: 10.3389/fimmu.2018.01042"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 589.2,
+      "minX": 304.9,
+      "maxY": 603.4,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "42. Blaschitz C, Raffatellu M. Th17 cytokines and the gut mucosal barrier. J Clin Immunol (2010) 30(2):196\u2013203. doi: 10.1007/s10875-010-9368-7"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 554.2,
+      "minX": 304.9,
+      "maxY": 584.4,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "43. Marchetti G, Cozzi-Lepri A, Merlini E, Bellistri GM, Castagna A, Galli M, et al. Microbial translocation predicts disease progression of HIV-infected antiretroviralnaive patients with high CD4+ cell count. AIDS (2011) 25(11):1385\u201394. doi: 10.1097/ QAD.0b013e3283471d10"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 526.6,
+      "minX": 304.9,
+      "maxY": 549.3,
+      "maxX": 546.1,
+      "page": 22
+    }],
+    "text": "44. Sun H, Tang C, Chung SH, Ye XQ, Makusheva Y, Han W, et al. Blocking DCIR mitigates colitis and prevents colorectal tumors by enhancing the GM-CSF-STAT5 pathway. Cell Rep (2022) 40(5):111158. doi: 10.1016/j.celrep.2022.111158"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 500.2,
+      "minX": 304.9,
+      "maxY": 522.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "45. Kinugasa T, Sakaguchi T, Gu X, Reinecker HC. Claudins regulate the intestinal barrier in response to immune mediators. Gastroenterology (2000) 118(6):1001\u201311. doi: 10.1016/s0016-5085(00)70351-9"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 472.5,
+      "minX": 304.9,
+      "maxY": 495.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "46. Lee JS, Tato CM, Joyce-Shaikh B, Gulen MF, Cayatte C, Chen Y, et al. Interleukin-23-independent IL-17 production regulates intestinal epithelial permeability. Immunity (2015) 43(4):727\u201338. doi: 10.1016/j.immuni.2015.09.003"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 445.6,
+      "minX": 304.9,
+      "maxY": 468.3,
+      "maxX": 546.1,
+      "page": 22
+    }],
+    "text": "47. Korlimarla A, Lim JA, McIntosh P, Zimmerman K, Sun BD, Kishnani PS. New insights into gastrointestinal involvement in late-onset pompe disease: lessons learned from bench and bedside. J Clin Med (2021) 10(15). doi: 10.3390/jcm10153395"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 411.2,
+      "minX": 304.9,
+      "maxY": 441.3,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "48. Nylund CM, D'Mello S, Kim MO, Bonkowski E, Dabritz J, Foell D, et al. Granulocyte macrophage-colony-stimulating factor autoantibodies and increased intestinal permeability in Crohn disease. J Pediatr Gastroenterol Nutr (2011) 52 (5):542\u20138. doi: 10.1097/MPG.0b013e3181fe2d93"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 383.6,
+      "minX": 304.9,
+      "maxY": 406.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "49. Martel J, Chang SH, Ko YF, Hwang TL, Young JD, Ojcius DM. Gut barrier disruption and chronic disease. Trends Endocrinol Metab (2022) 33(4):247\u201365. doi: 10.1016/j.tem.2022.01.002"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 350.1,
+      "minX": 304.9,
+      "maxY": 379.4,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "50. Nicolino M, Byrne B, Wraith JE, Leslie N, Mandel H, Freyer DR, et al. Clinical outcomes after long-term treatment with alglucosidase alfa in infants and children with advanced Pompe disease. Genet Med: Off J Am Coll Med Genet (2009) 11(3):210\u20139. doi: 10.1097/GIM.0b013e31819d0996"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 315.1,
+      "minX": 304.9,
+      "maxY": 344.3,
+      "maxX": 546,
+      "page": 22
+    }],
+    "text": "51. Lazarus HM, Pitts K, Wang T, Lee E, Buchbinder E, Dougan M, et al. Recombinant GM-CSF for diseases of GM-CSF insufficiency: Correcting dysfunctional mononuclear phagocyte disorders. Front Immunol (2022) 13:1069444. doi: 10.3389/fimmu.2022.1069444"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 294.6,
+      "minX": 304.9,
+      "maxY": 309.4,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "52. Lazarus HM, McManus J, Gale RP. Sargramostim in acute radiation syndrome. Expert Opin Biol Ther (2022) 22(11):1345\u201352. doi: 10.1080/14712598.2022.2143261"
+  }},
+  {"paragraph": {
+    "role": "reference",
+    "positions": [{
+      "minY": 34.2,
+      "minX": 49.6,
+      "maxY": 40.7,
+      "maxX": 545.9,
+      "page": 22
+    }],
+    "text": "Frontiers in Immunology 22 frontiersin.org"
+  }}
+]}

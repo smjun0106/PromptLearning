@@ -1,0 +1,32 @@
+,prompt,response
+0,"Extract all contents for a reader.
+Do not include your assumption and explanation.","# Biomedicines
+
+## Noninvasive DBS-Based Approaches to Assist Clinical Diagnosis and Treatment Monitoring of Gaucher Disease
+
+### Introduction
+Gaucher disease (GD) is a lysosomal storage disease (LSD) affecting the recycling of cellular glycolipids. Glucocerebroside accumulates within lysosomes in GD. The incidence of GD ranges between 0.4 and 5.8 per 100,000 births, with a prevalence of 0.7 to 1.8 per 100,000. Type 1 (GD1) accounts for 90% of patients, especially common in the Ashkenazi Jewish population. GD1 incidence in non-Jewish populations ranges from 1 in 40,000 to 1 in 86,000 live births. GD2 incidence is about 1 in 150,000, and GD3 is 1 in 200,000, with higher prevalence due to longer survival.
+
+### Disease Continuum
+GD types form a continuum from severely affected collodion babies to older adults with mild or no clinical manifestations. GD results from a deficiency of lysosomal glucocerebrosidase (GBA), leading to the accumulation of glucocerebroside and other glycolipids within macrophages. Tissue levels of these compounds may increase 20 to 100 times.
+
+### Pathological Processes
+Macrophages stuffed with glycolipids accumulate in tissues like the liver, spleen, bone, and bone marrow. Pathologic lipid accumulation accounts for less than 2% of additional tissue mass in the liver and spleen. The inflammatory and hyperplastic cellular response accounts for the additional increase in organ weight and volume. Bone involvement includes decreased mineral density, marrow infiltration, and infarction. Mechanisms may involve failure to achieve peak bone mass, abnormal osteoclast regulation, or overproduction of cytokines by activated macrophages.
+
+### Case Studies
+Two siblings with GD presented with hepatosplenomegaly and cytopenia. Case 1, a 22-month-old male, was initially suspected of acute leukemia. Biochemical confirmation revealed low glucocerebrosidase activity and high glucosyl-sphingosine levels. Case 2, a 41-month-old sister, showed similar symptoms and was confirmed to have GD through biochemical studies.
+
+### Diagnostic Workflow
+Newborn screening (NBS) for LSDs involves measuring lysosomal enzymatic activities in dried blood spot (DBS) samples. Two methodologies are used: tandem mass spectrometry (MS/MS) and digital microfluidics fluorimetry (DMF-F). The entire diagnostic workflow for NBS was applied to the DBS samples from the siblings, confirming GD with low GBA activity and high LysoGb1 levels.
+
+### Familial Study
+A familial study quantified GBA activity and LysoGb1 levels in available family members, revealing normal values. Mutation analysis of the GBA1 gene identified the pathogenic variant c.1448T>C (p.Leu483Pro) in both symptomatic siblings. The parents and two older siblings were heterozygous carriers.
+
+### Enzyme Replacement Therapy (ERT)
+ERT with imiglucerase was started for both siblings. Significant clinical improvements were observed, including reduced liver and spleen size and improved hematological parameters. LysoGb1 levels correlated well with clinical improvement during ERT.
+
+### Discussion
+GD is one of the most prevalent LSDs, with a combined frequency of ~1:5000 live births. The c.1448T>C variant is one of the four most common pathogenic variants for GD. Mutation 1448 is associated with a more severe phenotype. The use of DBS samples for biochemical confirmation and follow-up is highlighted. NBS workflow is valuable for early diagnosis and monitoring of LSDs.
+
+### Conclusion
+The study supports the use of DBS samples for noninvasive GD diagnosis and therapeutic monitoring. This approach is beneficial for both pediatric and adult patients, ensuring early intervention and detailed evaluation of ERT efficacy."

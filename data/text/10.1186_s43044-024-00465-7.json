@@ -1,0 +1,564 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 56.6,
+      "maxY": 757.2,
+      "maxX": 239.4,
+      "page": 1
+    }],
+    "text": "Addou et al. The Egyptian Heart Journal (2024) 76:35"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 733.1,
+      "minX": 439,
+      "maxY": 757.1,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "The Egyptian Heart Journal"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 687.9,
+      "minX": 61.8,
+      "maxY": 699.4,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "C ASE REPO RT Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 621.1,
+      "minX": 56.6,
+      "maxY": 669.7,
+      "maxX": 479.2,
+      "page": 1
+    }],
+    "text": "The role of cardiac imaging in assessing the cardiac involvement of type 1 Gaucher"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 595.6,
+      "minX": 56.6,
+      "maxY": 617.7,
+      "maxX": 511.5,
+      "page": 1
+    }],
+    "text": "disease: a case report with review of literature"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 573.9,
+      "minX": 56.6,
+      "maxY": 586,
+      "maxX": 406.8,
+      "page": 1
+    }],
+    "text": "Ahmed Youssouf Addou1,2* , Wafa El Mire1,2, Nawal Doghmi3 and Aatif Benyass2"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 528,
+      "minX": 63.1,
+      "maxY": 535.5,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 450.9,
+      "minX": 63.1,
+      "maxY": 520.4,
+      "maxX": 531.7,
+      "page": 1
+    }],
+    "text": "Background Gaucher disease (GD) is a lysosomal storage disease that leads to the accumulation of glucocerebroside within reticuloendothelial cells, haematological, neurological, skeletal and abdominal organs. These clinical manifestations are common to all types of GD, but categorization depends on the absence of neurological involvement (type I) or its presence (type II and III). Cardiac involvement is rare and only reported in few cases, where valvular and aortic calcifications were associated with type IIIc. Other cardiac manifestations, such as constrictive pericarditis, pulmonary hypertension, myocardial infiltration, and restrictive cardiomyopathy, had also been reported."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 364.1,
+      "minX": 63.1,
+      "maxY": 445.4,
+      "maxX": 531.1,
+      "page": 1
+    }],
+    "text": "Case presentation We report a case of a 72-year-old patient with known type 1 GD who presented with a sudden syncope during exercise. He reported also an exercise intolerance evolving for three months. Echocardiography found concentric left ventricular hypertrophy with segmental hypokinesis, bi-atrial enlargement, and mildly reduced ejection fraction. Mitral flow was in favour of grade II diastolic dysfunction with elevated filling pressure. Cardiac magnetic resonance (CMR) showed interstitial fibrosis in the basal infero-septal wall, probably due to the myocardial infiltration of GD. Due to the lack of echocardiographic and CMR hallmarks of cardiac GD, we conducted a literature review on similar findings."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 337.1,
+      "minX": 63.1,
+      "maxY": 358.4,
+      "maxX": 492,
+      "page": 1
+    }],
+    "text": "Conclusion This case illustrates the importance of non-invasive cardiac imaging in the diagnosis, prognosis and management of cardiac manifestations of GD."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 321.9,
+      "minX": 63.1,
+      "maxY": 331.4,
+      "maxX": 431.6,
+      "page": 1
+    }],
+    "text": "Keywords Gaucher disease, Syncope, Echocardiography, CMR, Myocardial interstitial fibrosis"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 287,
+      "minX": 56.6,
+      "maxY": 296.5,
+      "maxX": 112.4,
+      "page": 1
+    }],
+    "text": "Background"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 226.8,
+        "minX": 56.6,
+        "maxY": 284.1,
+        "maxX": 290.6,
+        "page": 1
+      },
+      {
+        "minY": 191.9,
+        "minX": 304.7,
+        "maxY": 296.7,
+        "maxX": 538.6,
+        "page": 1
+      }
+    ],
+    "text": "Gaucher disease is a lysosomal storage disorder that results with the accumulation of glucosylceramide in the cells of reticuloendothelial tissue. This global accumulation leads to hepatosplenomegaly, thrombocytopenia, anaemia, neurologic signs and many inconsistent clinical manifestations. Cardiac involvement is rare and typically seen in type IIIc GD associated with extensive valvular and aortic calcifications [1]. In this article, we report a case of 72-year-old patient with known type 1 GD who presented a syncope. Our study aims to evaluate the cardiovascular involvement of GD, such as myocardial infiltration and ventricular function abnormalities, using echocardiography and cardiac magnetic resonance (CMR)."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 167.7,
+      "minX": 304.7,
+      "maxY": 176.9,
+      "maxX": 387.2,
+      "page": 1
+    }],
+    "text": "Case presentation"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 119.3,
+        "minX": 304.7,
+        "maxY": 164.6,
+        "maxX": 538.6,
+        "page": 1
+      },
+      {
+        "minY": 524.7,
+        "minX": 56.7,
+        "maxY": 702,
+        "maxX": 291.3,
+        "page": 2
+      }
+    ],
+    "text": "A 72-year-old male patient, a retired factory worker, who had no cardiovascular risk factor beside sex and age, had a history of undocumented dysthyroidia. He was diagnosed with type 1 Gaucher disease 1 year prior to current hospital admission. A bone marrow biopsy found Gaucher cells, and a reduced glucocerebrosidase activity was detected. The patient suffered from a syncope that occurred during mild physical effort 4 days before admission. He described also a progressive onset of exercise intolerance and bilateral lower limb oedema over the last three months. He denied any other cardiac symptoms. On admission, his blood pressure was 126/86 mmHg, with a heart rate of 124 bpm. Cardiac auscultation found irregular rhythm, without murmurs or gallops. A Jugular venous distension, a hepatojugular reflux and a bilateral lower limb oedema limited to ankles were observed. Abdominal examination revealed hepatosplenomegaly. A mobile soft thyroid nodule was found with no signs of thyrotoxicosis or cervical adenopathy."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 49,
+      "minX": 180.5,
+      "maxY": 103.5,
+      "maxX": 532.5,
+      "page": 1
+    }],
+    "text": "©The Author(s) 2024. Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate ifchanges were made.The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. Ifmaterial is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.To view a copy ofthis licence, visit http://creativecommons.org/licenses/by/4.0/."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 56.7,
+      "maxY": 757.2,
+      "maxX": 239.5,
+      "page": 2
+    }],
+    "text": "Addou et al. The Egyptian Heart Journal (2024) 76:35"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 416.7,
+        "minX": 56.7,
+        "maxY": 522.1,
+        "maxX": 290.6,
+        "page": 2
+      },
+      {
+        "minY": 668.7,
+        "minX": 304.7,
+        "maxY": 702,
+        "maxX": 539.3,
+        "page": 2
+      }
+    ],
+    "text": "The electrocardiogram showed focal atrial tachycardia, left axis, left ventricular hypertrophy, a poor R antero-septal progression and repolarization abnormalities in inferior leads (Fig. 1). The pattern of atrioventricular conduction with \" the grouped beating\" was in favour of focal atrial tachycardia. The laboratory workup showed a bi-cytopenia (haemoglobin level at 13 g/dl, white cell counts at 3130/mm3, platelets at 54,000/mm3), mild hepatic cytolysis, BNP level at 590 pg/ml and a very low TSH at 0,07 UI/L with a high free T4 level at 1.94 ng/dL. Chest X-ray showed signs of pulmonary interstitial oedema of cardiac origin."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 452.7,
+      "minX": 304.7,
+      "maxY": 666.1,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "Echocardiography demonstrated a concentric left ventricular hypertrophy (LVH) with global hypokinesis and marked wall motion disturbances in the basal and median segments of the infero-septal and inferior walls. The systolic function was mildly impaired ejection fraction at 43%. The global longitudinal strain was reduced (− 9.6%) with regional wall motion abnormalities (Fig. 2b). Mitral and aortic valves had normal structure with minimal mitral regurgitation (Fig. 2a). No ejection tract obstruction was found. Bi-atrial enlargement (Left atrium volume at 52 ml/m2; Right atrium area at 22 cm2). Pulmonary artery pressure was mildly elevated at 40 mmHg with pulmonary acceleration time at 98 ms. Mitral flow was in favour of grade II diastolic dysfunction with elevated filling pressure. Pulsed Doppler at mitral valve showed an exclusive E wave of increased velocity (0.73 m/s), a deceleration time of 92 ms, and E/e' ratio of 12.3, with an E' velocity at 5.9 cm/s."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 416.9,
+        "minX": 304.7,
+        "maxY": 450.1,
+        "maxX": 538.6,
+        "page": 2
+      },
+      {
+        "minY": 409,
+        "minX": 56.7,
+        "maxY": 452.1,
+        "maxX": 290.7,
+        "page": 3
+      }
+    ],
+    "text": "To further investigate the syncope aetiology, we performed a cerebral CT scan and supra-aortic trunks echoDoppler that turned out to be normal. A Holter-ECG found a focal atrial tachycardia with an average heart rate of 103 bpm, frequent premature ventricular complexes (PVC) with bigeminism. Coronary arteries angiography was normal."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 70.8,
+      "minX": 62.7,
+      "maxY": 88.1,
+      "maxX": 508.5,
+      "page": 2
+    }],
+    "text": "Fig. 1 Electrocardiogram showing focal atrial tachycardia at 94bpm, left axis, left ventricular hypertrophy, a poor R antero-septal progression and repolarization abnormalities in inferior leads"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.2,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Addou et al. The Egyptian Heart Journal (2024) 76:35 Page 3 of 5"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 485,
+      "minX": 62.7,
+      "maxY": 512.5,
+      "maxX": 503.6,
+      "page": 3
+    }],
+    "text": "Fig. 2 Transthoracic echocardiography revealing concentric hypertrophy with mildly reduced LVEF (43%). A The parasternal long-axis view shows an enlarged left atrium, normal valves structure with no calcification, septal and posterior wall hypertrophy. B The bull's-eye plot from two-dimensional speckle-tracking echography visualizing the regional wall motion abnormalities and reduced GLS 9.6%"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 277,
+      "minX": 56.7,
+      "maxY": 404.2,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "To rule out a myocardial infiltration, a CMR was performed. It revealed a non-dilated left ventricle (EDV 58 ml/m2) with hypertrophy limited to the basal segment of the infero-septal wall with a thickening of 12mm (ventricular mass at 74g/m2), a mildly reduced ejection fraction (40%) and global hypokinesis. Late gadolinium enhancement (LGE) showed the presence of a focal interstitial fibrosis in the basal LV infero-septal segment (Fig. 3). Marked bi-atrial enlargement was noted. The right ventricle was non-dilated with normal systolic function."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 178.8,
+      "minX": 56.7,
+      "maxY": 272.1,
+      "maxX": 291.3,
+      "page": 3
+    }],
+    "text": "We hypothesized that the primary mechanism of the syncope was purely arrhythmic. A sudden heart rate acceleration at the initiation of the tachyarrhythmia remains a plausible cause. While a continuous in-hospital heart rate monitoring and a Holter-ECG found a persistent tachycardia with no conduction disturbance. Thus, a cardiac pause at the termination of the tachycardia is of lesser probability."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 94.8,
+      "minX": 56.7,
+      "maxY": 176.1,
+      "maxX": 290.6,
+      "page": 3
+    }],
+    "text": "Given the bi-atrial enlargement and the tachyarrhythmia, an anticoagulation regimen based on apixaban was initiated. The haemorrhagic risk assessment based on HASBLED score (2/9) was moderate, despite the thrombocytopenia which remains above 50.000/ mm3. Rate control was successfully obtained with betablockers. Nonetheless, because of hyperthyroidism,"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 194.2,
+      "minX": 310.7,
+      "maxY": 220.9,
+      "maxX": 531.8,
+      "page": 3
+    }],
+    "text": "Fig. 3 Short axis view showing a Late gadolinium enhancement after 10 min of injection in the basal segment of the infero-septal wall (red arrow)"
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 64.9,
+      "minX": 304.7,
+      "maxY": 146.3,
+      "maxX": 538.7,
+      "page": 3
+    }],
+    "text": "amiodarone could not be initiated. The patient was discharged after an effective diuretic decongestion and normalization of BNP level. He was then referred to a metabolic disease centre to start enzyme replacement therapy (ERT). The patient will benefit from radioiodine therapy for a toxic thyroid nodule revealed by scintigraphy."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 56.7,
+      "maxY": 757.2,
+      "maxX": 239.5,
+      "page": 4
+    }],
+    "text": "Addou et al. The Egyptian Heart Journal (2024) 76:35"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 695.2,
+      "minX": 56.7,
+      "maxY": 702.6,
+      "maxX": 105.6,
+      "page": 4
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 477,
+      "minX": 56.6,
+      "maxY": 690.4,
+      "maxX": 290.7,
+      "page": 4
+    }],
+    "text": "Gaucher disease (GD) is the most prevalent lysosomal storage disease that leads to the accumulation of glucocerebroside in reticuloendothelial cell, thus haematological, skeletal and abdominal organs. It is an autosomal recessive disease secondary to a deficit in glucocerebrosidase. Its incidence rate is 1/50000 in the general population but could reach 1/800 among Ashkenazi Jews [2]. Three major clinical sub-types are described depending on the absence (Type I) or presence of neurologic involvement (Type II and III). Type 1 of GD is the most frequent, especially within the Ashkenazi, evolving from adult-onset disorders with major haematological and bony manifestations to childhood disorders, with mainly visceral and bony involvement. Type II is the infant subtype, seen within the first year of life, with acute neurologic involvement and severe prognosis [3]. GD Type III is another form of GD with a subacute neurological involvement associated with visceral findings."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 368.9,
+      "minX": 56.7,
+      "maxY": 474.3,
+      "maxX": 290.7,
+      "page": 4
+    }],
+    "text": "Concerning cardiac involvement, it is rare and mainly reported in type IIIc GD, a subtype described in Spanish and Arab populations, in patients with D409H mutation. It is characterized by extensive calcification of the aorta and leaflets valve [1, 4]. Constrictive calcific pericarditis is a rare cardiac manifestation resulting from intrapericardial haemorrhage related to thrombocytopenia seen in GD [5]. Coexistence of Gaucher disease with restrictive cardiomyopathy is rare [6]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 203.2,
+      "minX": 56.7,
+      "maxY": 366.3,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "It is important to evaluate pulmonary artery hypertension, which is rare but well-described in type I GD [7] with an incidence rate of up to 20%, based on Doppler echocardiographic assessment [8]. According to the European Association of Cardiovascular Imaging criteria to assess the probability of PAH, our patient presented mild pulmonary hypertension with an estimated systolic PAP (sPAP) of 40mmH. Similar results were reported in a large Romanian cohort with mean sPAP of 41mmHg, found in 13% of patients [9]. Risk factors of symptomatic PAH in GD are female sex, splenectomy, non-N409S GBA mutation, angiotensin-converting enzyme gene polymorphism and family history. None of those is present in our case."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 116.9,
+      "minX": 56.7,
+      "maxY": 198.3,
+      "maxX": 290.6,
+      "page": 4
+    }],
+    "text": "The diastolic function may be compromised due to infiltrative processes leading to left ventricular hypertrophy and patchy interstitial fibrosis [10]. In our study, Doppler assessment found a grade II diastolic dysfunction with elevated filling pressure; however, E/e' ratio was normal. Neither E/A ratio nor A mitral wave could be studied due to Atrial arrhythmia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.9,
+        "minX": 56.7,
+        "maxY": 114.3,
+        "maxX": 290.7,
+        "page": 4
+      },
+      {
+        "minY": 585.4,
+        "minX": 304.7,
+        "maxY": 702.8,
+        "maxX": 538.7,
+        "page": 4
+      }
+    ],
+    "text": "Only two studies were interested in evaluating diastolic function in Type 1 GD. Koželj and al. reported a tendency towards dysfunction with no statistically significant difference between patients and the control group [11]. However, Lo Iudice investigated LV geometry and function in 18 GD patients compared to hypertensive and normal subjects. A prolonged deceleration time of E wave velocity, greater atrial filling fraction and normal E/e' ratio were observed. There is a pattern of impaired relaxation with normal filling pressure [12]. Worthy of note, all GD were under enzyme replacement therapy, which partly explains the absence of LV hypertrophy."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 549.4,
+      "minX": 304.7,
+      "maxY": 582.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "We hypothesize that our patient had an impaired diastolic function, recently decompensated by the onset of tachyarrhythmia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 477.7,
+      "minX": 304.7,
+      "maxY": 546.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "Besides LV hypertrophy and bi-atrial enlargement, our patient presented a global hypokinesis with a regional wall motion abnormalities in basal and middle infero-septal and inferior segments. Alizad described similar findings in adult GD patients, with increased LV mass and a septal muscular prominence [13]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 333.4,
+      "minX": 304.7,
+      "maxY": 474.8,
+      "maxX": 538.7,
+      "page": 4
+    }],
+    "text": "CMR was performed in order to study myocardial infiltration. Recently, Solanich assessed the GD cardiac involvement of a 62-year-old type I GD patient with no cardiac symptoms using CMR. LGE showed multiple foci consistent with interstitial infiltrative fibrosis in the basal and middle inferior and inferolateral segments, in addition to bi-atrial enlargement [14]. Similar findings are seen in our case, even if LGE was only located in the basal infero-septal segment. Without an objective histological examination, the focal interstitial fibrosis may correspond to a local reaction in response to sphingolipid infiltration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 238.2,
+      "minX": 304.7,
+      "maxY": 330.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "In a larger cohort of patients with type I GD, no interstitial fibrosis was reported neither in patients on ERT nor at diagnosis. Atrial enlargement is present even in the absence of structural heart disease. An accurate assessment of diastolic function and interstitial fibrosis is warranted by using a multi-modal approach with the aid of CMR imaging and echocardiography evaluation [8]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 141.5,
+      "minX": 304.7,
+      "maxY": 234.8,
+      "maxX": 538.6,
+      "page": 4
+    }],
+    "text": "Enzyme replacement therapy is the cornerstone for treating GD with a positive outcome regarding anaemia, thrombocytopenia, and organomegaly [3]. Concerning cardiac involvement, Spada reported an improvement of LV systolic and diastolic function and normalization of T-wave within months of a high dose of ERT, and complete normalization of echocardiogram after 3 years [15]."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 69.4,
+      "minX": 304.7,
+      "maxY": 138.9,
+      "maxX": 538.7,
+      "page": 4
+    }],
+    "text": "Considering the absence of myocardial infiltration in GD on ERT in the cohort of Roghi et al. [8], ERT may have a significant role in preventing cardiac manifestations. Nonetheless, its effect in treating valve calcification is debatable. As reported by previous cases, it did not seem to stop calcification progression [1, 16]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.8,
+      "minX": 56.7,
+      "maxY": 757.2,
+      "maxX": 239.5,
+      "page": 5
+    }],
+    "text": "Addou et al. The Egyptian Heart Journal (2024) 76:35"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 695.2,
+      "minX": 56.7,
+      "maxY": 702.7,
+      "maxX": 111.8,
+      "page": 5
+    }],
+    "text": "Conclusions"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 609,
+      "minX": 56.7,
+      "maxY": 690.3,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "Even though cardiac involvement of GD has been previously reported especially in particular genotypes, further studies should focus on cardiac abnormalities to establish an imaging hallmark of GD. We recommend using a shared dataset of the International Collaborative Gaucher Group Registry, which may help clarify their incidence and provide additional therapeutic goals."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 563.2,
+      "minX": 56.7,
+      "maxY": 606.3,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "Non-invasive cardiac imaging, by both CMR and echocardiography, can therefore provide essential information regarding diagnosis, prognosis, and management of cardiac manifestations of GD."
+  }},
+  {"paragraph": {
+    "role": "footer",
+    "positions": [{
+      "minY": 78.4,
+      "minX": 57.7,
+      "maxY": 120.7,
+      "maxX": 288.9,
+      "page": 5
+    }],
+    "text": "1. Kör Y, Keskin M, Başplnar O (2017) Severe cardiac involvement in Gaucher type IIIC: a case report and review of the literature. Cardiol Young 27(7):1426\u20131429 2. Nguyen Y, Stirnemann J, Belmatoug N (2020) Maladie de Gaucher. Rev Prat 70(4):416\u2013420"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 313.1,
+      "minX": 304.7,
+      "maxY": 320.5,
+      "maxX": 378.9,
+      "page": 5
+    }],
+    "text": "Publisher's Note"
+  }}
+]}

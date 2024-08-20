@@ -1,0 +1,651 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 763.8,
+      "minX": 75.3,
+      "maxY": 771.6,
+      "maxX": 167.4,
+      "page": 1
+    }],
+    "text": "Molecular Sciences"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 686.4,
+      "minX": 35,
+      "maxY": 722.7,
+      "maxX": 559.3,
+      "page": 1
+    }],
+    "text": "A Comparative Biochemical and Pathological Evaluation of Brain Samples from Knock-In Murine Models of Gaucher Disease"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 617.9,
+      "minX": 166.4,
+      "maxY": 626.2,
+      "maxX": 534.4,
+      "page": 1
+    }],
+    "text": "1 Medical Genetics Branch, National Human Genome Research Institute, National Institutes of Health,"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 573.9,
+      "minX": 166.4,
+      "maxY": 583.1,
+      "maxX": 546.7,
+      "page": 1
+    }],
+    "text": "3 Advanced Imaging & Analysis Core, National Human Genome Research Institute, National Institutes of"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 552.3,
+      "minX": 166.4,
+      "maxY": 561.6,
+      "maxX": 496.9,
+      "page": 1
+    }],
+    "text": "4 Washington University Metabolomics Facility, Washington University School of Medicine,"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 530.8,
+      "minX": 165.7,
+      "maxY": 538.9,
+      "maxX": 438.6,
+      "page": 1
+    }],
+    "text": "* Correspondence: ellen.sidransky@nih.gov (E.S.); hant2@nih.gov (T.-U.H.)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 69.4,
+        "minX": 166.1,
+        "maxY": 217.5,
+        "maxX": 561,
+        "page": 1
+      },
+      {
+        "minY": 729.7,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 2
+      }
+    ],
+    "text": "Gaucher disease (GD), a prevalent lysosomal storage disorder, is caused by biallelic mutations in GBA1, the gene encoding the lysosomal enzyme glucocerebrosidase (GCase). GCase is responsible for catalyzing the hydrolysis of the glycolipids glucosylceramide (GlcCer) and glucosylsphingosine (GlcSph). When GCase activity is deficient, these lipid substrates accumulate, resulting in engorged macrophages known as Gaucher cells, a hallmark of the disease. Mutations in GBA1 are also the most common risk factor for the development of Parkinson's disease (PD). Clinical studies noting patients with GD and early onset PD led to the discovery of this intriguing relationship [1,2]. There is a broad range of clinical presentations in GD, extending from severe and rapidly progressive neurodegeneration in infancy to patients with extensive skeletal or visceral disease to largely asymptomatic cases identified in the elderly [3,4]. Animal models that accurately reproduce the phenotypes observed in the different types of human GD are essential for understanding this heterogeneity, as well as for developing and testing the efficacy of novel therapeutics [5]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 2
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 541.4,
+      "minX": 166.1,
+      "maxY": 727.2,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "Mouse models of GD have been challenging to generate as they often fail to produce the same phenotype observed in human disease [6,7]. A total knock-out of glucocerebrosidase leads to a neonatal lethal phenotype with impaired skin ultrastructure, analogous to the most severe neonates with type 2 GD [8]. Fortunately, other strategies have been used to establish models that more closely resemble most patients with acute neuronopathic GD (nGD) or chronic nGD. The K14-lnl/lnl line was developed to circumvent the lethal skin phenotype observed in other KO models [9]. Neuropathological evaluation confirmed prominent abnormalities, making this a useful model for testing therapeutics. Pewzner-Jung et al. (2021) developed a mouse model by utilizing doxycycline to regulate the expression of a Gba1 transgene to generate Gba−/−: Gbatg mice that phenotypically modeled type 3 GD, displaying GlcCer accumulation, neuronal loss and gliosis [10]. Several other nGD models were also generated, but the mice either died perinatally or lack of symptoms analogous to those seen in patients with GD [11]. In addition to the failure of many of the models to recapitulate human GD phenotypes, some available models such as D409V (D448V) mice do not carry mutations commonly found in patients [11]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 353.1,
+      "minX": 166,
+      "maxY": 538.9,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "In humans, homozygosity for the L444P (p.L483P) mutation is usually associated with chronic nGD [3]. Neuronal loss and degeneration are the most common neuropathological features of human nGD [12,13]. Early attempts to create a L444P murine model by introducing a duplicated mutant allele resulted in mice that died after 1\u20132 days [14]; subsequently, it was shown that mice homozygous for L444P with the WT version of the Ugcg gene actually had a normal lifespan [15]. Several studies have established that while GCase activity in homozygous mice is ~20% of WT [14\u201316], the mice do not accumulate GlcCer. Associated symptoms include inflammation, anemia, leukopenia, skin abnormalities and reduced serum cholesterol levels [15]. Crossing these L444P mice with a Gba1 KO model resulted in GbaL444P/null mice, which had greatly reduced GCase enzyme activity, and elevated GlcSph levels but showed no GlcCer accumulation [17]. A second L444P/L444P mouse was generated via targeted homologous recombination. While these mice have a normal lifespan and breed well, observed histopathology included Gaucher cells in viscera and mild astrogliosis [18]. Data on behavioral testing, especially regarding motor function, on any L444P homozygous mice have not been published."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 202.4,
+      "minX": 166.1,
+      "maxY": 350.6,
+      "maxX": 561,
+      "page": 2
+    }],
+    "text": "The D409H (p.D448H) is another severe GD mutation. GCase with mutation D409H is catalytically defective, susceptible to proteolytic digestion, and unstable GCase [19]. In humans, homozygosity for D409H induces a unique phenotype consisting of oculomotor abnormalities, hydrocephalus and valvular/aortic calcifications [20,21]. Unfortunately, mice with genotypes D409H/D409H and D409H/null failed to display the phenotype detected in human GD patients. Mice homozygous for D409H lack central nervous system (CNS) pathology and have a normal lifespan [13,22]. Low levels of GlcCer accumulation in tissues other than the brain were observed [19,22]. Subsequently, Xu et al. (2003) crossed homozygous D409H/D409H animals with null/WT animals to produce D409H/null mice. Gaucher cells in the spleen lungs and liver appeared 3\u20134 months earlier in the D409H/null animals, but no GlcCer accumulation was observed in the brain in either model, and they did not display CNS abnormalities phenotypically or histologically [19]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76.9,
+        "minX": 165.9,
+        "maxY": 200,
+        "maxX": 561,
+        "page": 2
+      },
+      {
+        "minY": 704.6,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.3,
+        "page": 3
+      }
+    ],
+    "text": "An ongoing need in this field is an appropriate mouse model for assessing the impact of drug interventions targeting the brain. Since it is difficult to compare mutant mice that were generated with diverse mutations and strategies, and in different facilities, we decided to evaluate a panel of mice in parallel using the same breeding and caging conditions, animal care and pathology assessments, focusing on a direct comparison of the L444P and D409H homozygous models in our colony. In addition, through cross breeding, we generated compound heterozygotes with either a L444P or D409H allele and a null allele. We studied the phenotypes of mice with genotypes wildtype (WT), GbaL444P/L444P (LP/LP), GbaD409H/D409H (DH/DH), GbaL444P/null (LP/null) and GbaD409H/null (DH/null) side-by-side, evaluating markers of astrogliosis, microgliosis, the density of dopaminergic neurons and α-synuclein levels and aggregation. Some lines also underwent behavioral testing. Based on data from previous studies, we hypothesized that the haploinsufficient/point mutant mice might better model chronic neuronopathic GD- or GBA1-associated PD and have enhanced utility for therapeutic development."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 3
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 440.4,
+      "minX": 166.4,
+      "maxY": 663.2,
+      "maxX": 561,
+      "page": 3
+    }],
+    "text": "GCase activity was significantly reduced in LP/LP and DH/DH mice (Figure 1a,b) in both the brain and the liver. The combination of a null allele and a point mutation resulted in lower GCase activity than that seen in homozygous L444P and D409H point mutations in brain lysates, and this trend was also observed in liver lysate, although neither reached statistical significance. The fluorescence and enzyme activity assay data are available on Zenodo at https://zenodo.org/records/10431006 (accessed on 25 December 2023). Lipid analysis showed that none of the models accumulated GlcCer (Figure 1d,f). Each of the Gba1 mutant models had higher levels of GlcSph than WT in both brain and liver (Figure 1c,e). The LP/LP and DH/DH mice showed 6-fold and 17-fold increases in GlcSph in the brain, respectively, while the LP/null and DH/null mice showed 16-fold and 35-fold increases in GlcSph in the brain, respectively. These data indicate that in these models, the D409H mutation has a greater impact on GlcSph accumulation than the L444P mutation, and that the combination of a null allele and point mutations increased the lipid accumulation compared to mice with homozygous point mutations. This trend was also observed in the liver, where the impact of D409H on GlcSph accumulation was greater than L444P, and hepatic GlcSph levels were higher than in the brain (Figure 1e). The lipid analysis data are available on Zenodo at https://zenodo.org/records/10431187 (accessed on 25 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 289.8,
+      "minX": 166,
+      "maxY": 437.3,
+      "maxX": 560.9,
+      "page": 3
+    }],
+    "text": "Immunoblotting showed double bands for the GCase protein, where the upper band was around 60 kDa, which corresponds to the molecular weight of glycosylated GCase, and the lower 50 kDa band likely represents deglycosylated GCase. The combined quantification of both bands showed no significant difference in total GCase levels between the different Gba1 genotypes (Figure 1h). However, quantification of the glycosylated GCase band showed that the GCase levels in LP/null and LP/LP were significantly lowered than wildtype GCase (Figure 1i), while in DH/DH and DH/null mice, the levels were not different from wildtype (Figure 1i). These data indicate that the GCase protein levels alone are not driving the GlcSph levels. Also, the Western blots suggest that the L444P mutant form of GCase is more deglycosylated than wildtype GCase. All the immunoblot quantification data are available on Zenodo at https://zenodo.org/records/10431048 (accessed on 25 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 175.8,
+        "minX": 165.9,
+        "maxY": 261.3,
+        "maxX": 559.3,
+        "page": 3
+      },
+      {
+        "minY": 179.5,
+        "minX": 163.5,
+        "maxY": 190.3,
+        "maxX": 559.3,
+        "page": 5
+      },
+      {
+        "minY": 79.8,
+        "minX": 163.5,
+        "maxY": 127.5,
+        "maxX": 559.3,
+        "page": 5
+      }
+    ],
+    "text": "To evaluate visceral pathology in the four Gba1 mutant mice, liver and spleen were collected from 6-month-old mice and H&E staining was performed on the transverse section of each tissue. No Gaucher cells were observed in the liver or spleen in mice with any of the four Gba1 genotypes. To determine whether additional maturation of the mice was needed for the development of pathological cells, we repeated the evaluations using 14-month-old mice. However, again, we did not detect Gaucher cells in the liver and spleen of the older mutant mice (Figure 2). ntohte baesesensspmreevnitooufsltyherempootroterdb.eShianvcieorthoef LL444444PP ainsda Dco4m09mHohnoGmBoAzy1gmouustamtiuotnanatssmoiccieatheads daestseacyt,edbubtentwoeseingnLifiPc/LanPt adnidffeWreTncmesicien (tFhiegularteen3cay). tAo sbtaalyanacteabceclaimmatteesdt wroatsaraoldsosppeeer-d fworemreeddeutseicntgedbbotehtwaeneanrrLoPw/LbPeaamnd(1W8mTmmidceia(mFiegtuerr)e a3nad). aAwbiadleanbceeambe(a2m4 mtemst)w,baustanlsoo dpnioeffredfroiefrfnmecreeesdncwuesesirwnegenrboeotnethdotaeindntaiinrmrtoeimwtoebtceoraocmsrso(st1sh8ethmbeembaemdaimabmebteewtteweree)neantnwdtwoaogwrgoriduoueppsbsewawimtihth(e2ei4tihtmheermrbb)e,eabamumt"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 214.8,
+      "minX": 164.1,
+      "maxY": 226.3,
+      "maxX": 559.3,
+      "page": 4
+    }],
+    "text": "sbtaatrisstiincdalicmateeththoedsutasnedd.a*rdp d<e0v.0ia5t;io**n*.pO<n0e.-0w01a;y*A**N*pO<VA0.0w00it1h. Sidak's multiple-comparison test was"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 192.3,
+      "minX": 163.5,
+      "maxY": 218.4,
+      "maxX": 560.5,
+      "page": 5
+    }],
+    "text": "2.3. EWvhaliuleatmioontoofrMsyomtoprtBoemhasvcioarninbethseeeLn44i4nPpGatbiae1ntMswutiatnhtnMGiDce- and GBA1-associated PD, the asWsehssimleemnottoofrthsyemmpottoomrbsechaanvbioersoeefnL4in44pPatainedntDsw40i9thHnhGoDm-oaznydgoGuBsAm1u-atsasnotcmiaitceedhPaDs,"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 752.8,
+      "minX": 161.7,
+      "maxY": 759.9,
+      "maxX": 578.1,
+      "page": 6
+    }],
+    "text": "width (Figure 3b,c). The complete motor behavior testing data are available on Zenodo at"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 729.7,
+      "minX": 161.7,
+      "maxY": 752.3,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "hwhtttiptdpsts:h/://z(/Fezingeoundroeod3.oob.ro,gcr)g/.r/Tercheoecrocdrodsm/s1/p01l4e03t4e039m069o26t2(oa(rcabccecehesssasevedidoorontne2s2t55inDDgeedccaeemtmabbaeerrer2a20v02a23i3l)a)..ble on Zenodo at"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 386.7,
+      "minX": 161.7,
+      "maxY": 434.5,
+      "maxX": 578.3,
+      "page": 6
+    }],
+    "text": "iwnwonifGntihtiGnDhSetDS-eeiainananc-cncshcahiedetngygaadGeeswsnnBttGrraooAooBsttg1gyyAel-lppvia1ioaeoes-slassgguioissrarscsoaotoiaeunaucnddptpiedaomwdwtnmeeiPectdrhiDrrecoePer,sgoDrstsleatgti,agorilnsiiisianotoeirtsndesaiadsialsfrtsotfeaatirosalcrrsGiotenuiGmfseceasdfompuaimswpeaoonmniliatasdhnmtooedIelnabdaaIratcmbkfe1hraed,oarp1rrmsfe,rkrosoroepebtfremserCsipacnNtiobenimfvcrSatesCapiailvrnyNamke,teshlSapyrano.lp,medlWaoaspngqthohyludiefoladesqalneogurottegiefaefildycanacttgtaemdiivetdfieieidocctilennyaemctitioecdne"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 361.6,
+      "minX": 161.7,
+      "maxY": 386.6,
+      "maxX": 578.2,
+      "page": 6
+    }],
+    "text": "ohfiignhteernlseivtyelswoafsfiebvraillsutaatinedingonoftGhefarpewgiaosndsestteacitnededinwLiPth/neualclhmpicreoctoeminpmaraerdkteor.thWehotihleerrelatigveenlyothyipgehse,rthleevdeilfsfeorfenficbersildsitdainnointgreoafchGsfataptiwstiacsadlseitgencitfiedcainncLeP(F/niguulrlem4iac,eb)c.oAmlspoa,rtehderteo the"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 349.1,
+      "minX": 161.7,
+      "maxY": 359.5,
+      "maxX": 578.2,
+      "page": 6
+    }],
+    "text": "owthaesrngoensiogtnyipfiecsa,ntthdeifdfeiffreenrceensciens Idbiad1 nstoatinreinagchbesttwateisetnicfiavlesiggennifiotcyapnecegr(oFuigpusrien4satr,bia)t.aAllso,"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 311.4,
+      "minX": 161.7,
+      "maxY": 346.6,
+      "maxX": 578.3,
+      "page": 6
+    }],
+    "text": "thseecrteiownsas(Fnigousrieg4nci,fidc)a.nWtedwiffeerereanlscoesniont aIbbale1tsotafiinndinagnybedtiwffeereenncfievseingceenlolutlyapremgorropuhposloignystriaitnalthseecGtifoanps- a(FnidgIubrae1-4sct,adin).eWdceewllserreegaalrsdolenssootfagbelenottoypfiend(Fiagnuyred4iaff,ec)r.eMnciedsbrinaincesleluctliaornsmorphhaorlboogryinignstuhbesGtanfatipa-naingdraIwbae1re-satlasionestdaicneeldlsfroergtayrrdoslienses hoyfdgreonxoytlyaspeet(oFeigvualruea4tea,dco).pMamidinb-rain"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 297.9,
+      "minX": 161.7,
+      "maxY": 308.9,
+      "maxX": 578.1,
+      "page": 6
+    }],
+    "text": "seecrgtiiocnnsehuarornboalrilnosgss,ububsttnaontsiiagnniifigcraanwtedrieffearlesnocsetsaiwneerdefdoertteycrteodsibneetwhyedenrofixvyelagseentootyevpaelsuate"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 284.4,
+      "minX": 161.7,
+      "maxY": 296.4,
+      "maxX": 578.2,
+      "page": 6
+    }],
+    "text": "d(oFpigaumrein4eer,fg).icAnlletuheroimnamlulonsosh,isbtuocthneomissitgrnyiqfiucaannttifidciafftieornendcaetas awreearevadileatbelcetoedn Zbeentwodeoenat five"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 248.6,
+      "minX": 161.7,
+      "maxY": 283.8,
+      "maxX": 578.2,
+      "page": 6
+    }],
+    "text": "go(hne6tn-tZmpoetsoWyn:/npoe/tedhzse-oeovn(alFadotlid)ughoaautt.ntropederdsg:4o//te/lhrzd,efeeec)nr.oeoAraxdddtleslou/n.tlo1htt0re(og41f3i/4mr1α-em0mc-1soo6yurnn(dntauhsoc/c-ch1oleie0lssdi4stn)o3ed1cmleh0ovi1ecne6mel2.s(i5asTictDnrhcyeeebcsrqreesamuewidanbnaeosetrnixfia2t20crt5a2are3ctDitn)os.edncoetfdomawytboaaeurrdanr2geg0r2aae3dva)uat.eilrltable"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 185.9,
+      "minX": 165.9,
+      "maxY": 246.1,
+      "maxX": 559.3,
+      "page": 6
+    }],
+    "text": "accumulation in LP/LP and DH/null models compared to wildtype in the young adult mouse group, but this did not reach statistical significance (Figure 5a,b). There were no significant differences in α-synuclein levels between wildtype, DH/DH and LP/LP mice at 14 months (Figure 5c,d). All the immunoblot quantification data are available on Zenodo at https://zenodo.org/records/10431048 (accessed on 25 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 186.5,
+      "minX": 157.8,
+      "maxY": 198.2,
+      "maxX": 559.6,
+      "page": 7
+    }],
+    "text": "waasndthienstthaetilsotiwcaelrmimeathgoesdaursee5d0. µm. Error bars indicate the standard deviation. One-way ANOVA"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 85.3,
+      "minX": 157.8,
+      "maxY": 173.2,
+      "maxX": 570.4,
+      "page": 7
+    }],
+    "text": "We evaluated the extent of α-synuclein levels in brain extracts of young adult (6month-old) and older adult (14-month-old) mice. There was a trend toward greater accumulation in LP/LP and DH/null models compared to wildtype in the young adult mouse group, but this did not reach statistical significance (Figure 5a,b). There were no significant differences in α-synuclein levels between wildtype, DH/DH and LP/LP mice at 14 months (Figure 5c,d). All the immunoblot quantification data are available on Zenodo at https://zenodo.org/records/10431048 (accessed on 25 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 448.8,
+      "minX": 166.4,
+      "maxY": 457.9,
+      "maxX": 560.8,
+      "page": 8
+    }],
+    "text": "Figure 5. Evaluation of alpha-synuclein levels in brain samples from Gba1 mutant mice. Immunoblot-"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 310.1,
+      "minX": 164.8,
+      "maxY": 318.6,
+      "maxX": 237.4,
+      "page": 8
+    }],
+    "text": "tuissteicds.for statistics."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 208.1,
+        "minX": 164.8,
+        "maxY": 231.5,
+        "maxX": 561,
+        "page": 8
+      },
+      {
+        "minY": 169.7,
+        "minX": 164.7,
+        "maxY": 181.4,
+        "maxX": 559.3,
+        "page": 8
+      },
+      {
+        "minY": 604.1,
+        "minX": 166,
+        "maxY": 752.3,
+        "maxX": 560.9,
+        "page": 9
+      }
+    ],
+    "text": "ssttuuddiieess iinnddiiccaattiinngg tthhaatt mmuurriinnee mmooddeellss ooff GGaauucchheerr ddiisseeaassee sshhooww vveerryy mmiilldd ttoo nnoo nneeuurroolloogg-iiccaall mmanainfeifsetsattaiotinosnesveenvethnouthgohutghhey tehxehyibietxrhedibuictedregdluucceodcergeblurocosicdearesebraocstiidviatsye[1a3c,1ti9v,2it2y]. gthesattsththeaitntthroediunctrtioodnuoctfiaonn aonfaalnogaonuasloGgboau1smGubtaa1tiomnuitsatiinosnufifisciinesnutffitociienndtutcoe itnhdeudciesetahsee higher amounts GlcSph in liver than in brains in both L444P and D409H mice. As reported in previous studies, the LP/LP mice had reduced GCase protein levels [25]. However, the previously reported reduced GCase levels described in DH/DH mouse brains [26] were not found in our study, and hence, further replication studies are necessary to confirm the impact of the D409H mutation on GCase protein levels. Interestingly, D409H mutation carriers showed higher levels of GlcSph than L444P mutation carriers, while GCase activity was similar between the two. Mice with a combination of a null allele and missense mutation, as expected, had lower GCase activity levels than their homozygous counterparts, consistent with the finding that GlcSph levels in LP/null and DH/null were higher than that of LP/LP and DH/DH mice. However, despite the strong reduction in GCase activity and increased glycolipid accumulation, neither LP/null nor DH/null mice exhibited the predicted pathological findings."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 9
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 415.8,
+      "minX": 166,
+      "maxY": 601.7,
+      "maxX": 560.5,
+      "page": 9
+    }],
+    "text": "Remarkably, we did not observe histopathological changes in visceral tissues in any of the four Gba1 mutant lines, even with aging. Previous studies described rare Gaucher cells in the liver and spleen of both LP/LP and DH/DH mice [18,19]. One possible explanation could be differences in strain background and cage conditions between studies. The DH/DH mice in our study may have a higher C57BL/6 (BL6) background ratio because the imported strain was rederived in the BL6 mice and backcrossed with the BL6 mice, while the DH/DH strain used in the previous study had a mixed background [19]. It is also possible that other investigators similarly did not find the expected phenotype, but they did not report their negative findings. Additionally, none of these Gba1 models displayed neuroinflammation or other neuropathological findings. A previous study showed increased levels of astrocytes and alpha-synuclein in the striata of LP/LP mice [18], which again was not replicated in our data. This could be due in part to our limited sample size, which limited the statistical quantification of the neuropathological images. It is also possible that the age at testing (14 months) is still not sufficient to enable detection of neuropathological phenotypes associated with neurodegeneration."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 340.5,
+      "minX": 166,
+      "maxY": 413.3,
+      "maxX": 559.3,
+      "page": 9
+    }],
+    "text": "Another potential limitation is that the GCase activity assay used in this study was performed on whole tissue extract, and thus did not reflect what was specifically occurring in the lysosome. To better understand the impact of lysosomal GCase, newer GCase probes that function exclusively in the lysosome could potentially be used [27]. Another approach would be to breed our lines with lyso-tag mice engineered to carry a tag for lysosomal immunoprecipitation for tissue-specific isolation of intact lysosomes [28,29]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 189.9,
+      "minX": 166,
+      "maxY": 338.1,
+      "maxX": 559.7,
+      "page": 9
+    }],
+    "text": "The conditional Gba1 knock-out mice reported in Enquist's two previous studies showed either infiltrations of Gaucher cells in visceral organs [30] or acute neuronopathic symptoms [9]. The major biochemical difference between the conditional Gba1 knock-out models and the mice presented in the current study is that GlcCer accumulation is only observed in the Gba1 knock-out mice. The DH/null mice had a substantial increase in GlcSph but not GlcCer in brain and liver, and they did not develop neurodegeneration nor storage cell infiltrations. These results suggest that the accumulation of GluCer may have a greater impact on pathology. Another possible explanation for the vast phenotypic differences between knock-out and knock-in mice is that Gba1 could have another function related to cell homeostasis, perhaps through interaction with other proteins. The levels of Gba1 expression present in the knock-in models could be adequate to avoid disrupting the second function, thus explaining the lack of pathological findings."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76.9,
+        "minX": 166,
+        "maxY": 187.4,
+        "maxX": 560.9,
+        "page": 9
+      },
+      {
+        "minY": 692,
+        "minX": 166.4,
+        "maxY": 752.3,
+        "maxX": 559.5,
+        "page": 10
+      }
+    ],
+    "text": "While it was reported that the GBA1 mutations associated with neuronopathic GD, such as L444P, accelerate disease progression and severity in GBA1-PD [31], our current study does not show that mice carrying these mutations accurately recapitulate phenotypes detected in patients with GD-PD. However, even among patients with GD, the penetrance of PD is extremely low, and other factors likely contribute to the risk. In this study, since the Gba1 mutations resulted in significantly increased GlcSph levels but did not result in pathological changes, even in aged mice, it appears that in the mouse, GluSph accumulation alone is not sufficient to generate PD phenotypes, including the loss of dopaminergic neurons and alpha-synuclein accumulation observed in patients with PD [32]. Another possibility is that the lysosomal accumulation of glycolipid in mice is below the threshold required for the alpha-synuclein aggregation cascade, which results in neurodegeneration [32]. Others have shown that in order to generate mouse models of GBA1-PD, it has been necessary to introduce a secondary burden such as under-expression of prosaposin [22], over-expression of pathological alpha-synuclein [26] or injection of pre-formed fibrils [24]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 10
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 641.8,
+      "minX": 166.4,
+      "maxY": 689.5,
+      "maxX": 559.7,
+      "page": 10
+    }],
+    "text": "While the conditional knock-out mice are useful models for the development of therapeutics such as gene therapy [9,30], they cannot be used to validate other strategies like small-molecule chaperones [33]. Thus, further studies and new strategies are necessary to develop more appropriate animal models of GD with GD-causal missense mutations."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 427.2,
+      "minX": 166,
+      "maxY": 602.1,
+      "maxX": 561.2,
+      "page": 10
+    }],
+    "text": "GbaL444P mice were generated as previously described [18] (RRID:IMSR_JAX:024574). The details of the procedures used to generate the GbaL444P strain are also described at https://www.protocols.io/view/generation-of-gba-l444p-mutant-mouse-5jyl8p8qdg2w/ v1 (accessed on 19 December 2023). Subsequently, the neo cassette was removed using Cre driver. Sperm from D409H mice [22,34] (RRID:MGI:7567849) was kindly provided by Dr. Ying Sun's lab at Cincinnati Children's Hospital Medical Center, and live mice were rederived in the NHGRI Transgenic Mouse Core Facility by injecting sperm into C57BL/6 females (RRID:IMSR_JAX:000664). Homozygous mutants were generated by inbreeding of heterozygotes. Haploinsufficient mice (Gba+/−) [8], originating from the Gba1 knock line (RRID:IMSR_JAX:003321), were bred with L444P and D409H homozygotes to produce L444P/null (RRID:MGI:7567793) and D409H/null (RRID:MGI:7567850) animals. The total number of mice used in the study was 74 (WT: 24, LP/LP: 21, LP/null: 10, DH/DH: 12, DH/null: 7). All housing and breeding of mice were performed under NHGRI Animal Care and Use Committee-approved protocols."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 226.7,
+      "minX": 165.9,
+      "maxY": 399.3,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "The rotarod test and beam-walk assay were used to evaluate the motor behavior of the different mice. Prior to rotarod testing, mice were acclimated to standing on a non-rotating rod (Rotamex 5, Columbus Instrument, Columbus, OH, USA) for three 1-min trials. Three hours later, mice were acclimated to walking on the rod over three 90-s trials at a speed of 4 rpm. After training, the instrument was set to begin at 4 rpm and gradually increase by 1 rpm every 8.33 s to a maximum speed of 40 rpm over 5 min. Mice were placed on the rod and the latency was recorded for three trials daily for two days. For the beam-walk assay, mice were trained to cross beams of 24 mm and 18 mm in diameter. During training (over 2 days), each mouse crossed both beams three times. During the experimental day, mice crossed both beams twice per trial, for three trials. Latency to cross the beam was tracked with a stopwatch, and the number of foot slips during each crossing was counted. The details of the rotarod test and beam-walk assay procedures are described at https://www. protocols.io/view/motor-behavioral-evaluation-of-mice-x54v9p5kqg3e/v1 (accessed on 18 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 75.1,
+      "minX": 166.1,
+      "maxY": 198.2,
+      "maxX": 561,
+      "page": 10
+    }],
+    "text": "At age 14 months, mice with each of the five genotypes (WT, LP/LP, DH/DH, LP/null, DH/null) were anesthetized with Avertin (1 mL/25 g body weight) and perfused transcardially according to standard NIH protocol (Whole-Body Perfusion Fixation in Mice, v6, effective 27 August 2019) with 1× PBS (Quality Biological, Gaithersburg, MD, USA) containing 1 IU Heparin/mL, followed by 4% PFA for fixation. Brains were collected and post-fixed in 4% PFA at 4 ◦C for 24 h before being transferred to 30% sucrose for cryoprotection at 4 ◦C for 24\u201348 h, until the brain sank to the bottom of the vessel. The floating sections of brain were kept at 4 ◦C for 8 weeks maximum for immunohistochemistry. Spleen and liver samples were collected using the same perfusion procedure for histological evaluations. After 24 h post-fixation, tissues were kept in 70% ethanol until paraffin embedding."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 11
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 692.7,
+      "minX": 165.9,
+      "maxY": 752.3,
+      "maxX": 560.9,
+      "page": 11
+    }],
+    "text": "For the GCase activity assays, lipid analysis and immunoblotting, brain (left and right hemispheres) and liver were collected after performing euthanasia in a CO2 chamber, snapfrozen and stored at −80 ◦C. The details of the tissue collection procedures are described at https://www.protocols.io/view/mouse-tissue-collection-n2bvj3ejwlk5/v1 (accessed on 19 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 440.6,
+      "minX": 165.9,
+      "maxY": 664.1,
+      "maxX": 561,
+      "page": 11
+    }],
+    "text": "Brain tissue was sliced with a freezing sliding microtome (ThermoScientific HM450, Waltham, MA, USA) at 30 µm and stored in 1× PBS with 0.1% sodium azide until needed. Selected sections were mounted on a slide (FischerBrand SuperFrost Plus, Waltham, MA, USA) and were dried at room temperature for 30 min. A hydrophobic barrier was created around the tissue sections with a PAP pen (Newcomer Supply, Middleton, WI, USA). Slides were rehydrated in 1× PBS for at least 10 min before blocking for 1 h at room temperature in a solution of 15% Normal Goat Serum (Vector Laboratories, Newark, CA, USA) in 1× PBS with 2% Tween-20 (PBS-T). Diluted (10% Normal Goat Serum in PBS-T) primary antibodies (Gfap 1/1000, Proteintech 16825-1-AP, RRID:AB_2109646; Iba1 1/400, Abcam ab178846 (Cambridge, UK), RRID:AB_2636859; TH 1/400, Sigma-Aldrich AB152 (St. Louis, MO, USA), RRID:AB_390204) were incubated overnight in a humidity chamber at 4 ◦C and rinsed three times for 5 min with 1× PBS. Secondary antibody (1/400 Alexa-488, Abcam ab150077, RRID:AB_2630356) diluted in 10% Normal Goat Serum in PBS-T was added to the slides and incubated at room temperature for 2 h. Slides were rinsed three times in 1× PBS for 5 min then topped with a coverslip (FischerBrand) with DAPI antifade medium (Vector Laboratories) and left at room temperature until dry (usually overnight). The details of IHC procedures are described at https://www.protocols.io/view/immunohistochemistryusing-floating-section-6qpvr36yovmk/v1 (accessed on 1 August 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 177.4,
+      "minX": 166.1,
+      "maxY": 412.8,
+      "maxX": 561.1,
+      "page": 11
+    }],
+    "text": "Widefield fluorescent images were collected for GFP and DAPI fluorescent channels using a Zeiss AxioScan.Z1 slide scanning microscope system (Carl Zeiss Inc., Thornwood, NY, USA) with a Plan-Apochromat 20×/0.8 objective lens. All images were acquired using a Orca flash 4.0 camera (Hamamatsu Photonics, Shizuoka, Japan), with an average tile count of 165 tiles per brain section. The Zeiss ZEN blue v.2.3 software package (https://www. zeiss.com/microscopy/en/products/software/zeiss-zen-lite.html#contact (accessed on 25 December 2023), RRID:SCR_013672) was used for collection and stitching of the 2-color (DAPI and GFP) tiled images. Widefield fluorescent images were then post-processed using MediaCybernetics' Image-Pro v.11 software package (https://mediacy.com/image-pro (accessed on 25 December 2023), RRID:SCR_016497). Every stitched image was processed using a protocol modified for each antibody. Initially, the image was masked to solely include the tissue in areas of interest. Then, Smart Segmentation was used to separate GFP-expressing puncta or fibrils from DAPI-stained nuclei in tissue evaluated with Gfap and anti-TH antibodies. Threshold segmentation was used for Iba1 staining to separate actual signal from background autofluorescence. Finally, the Count/Size function was designed to extract the percent of the tissue sample that stained positive for GFP. The details of IHC data processing procedures are described at https://www.protocols.io/ view/immunohistochemistry-data-processing-x54v9p5omg3e/v1 (accessed on 19 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 76,
+        "minX": 166.1,
+        "maxY": 148.9,
+        "maxX": 560.3,
+        "page": 11
+      },
+      {
+        "minY": 528.8,
+        "minX": 165.9,
+        "maxY": 752.3,
+        "maxX": 560.5,
+        "page": 12
+      }
+    ],
+    "text": "GCase buffer (20 mL of 0.2M Na2HPO4 with 15 mL of 0.1 M citrate adjusted to pH 5.4 with additional citrate as needed) was made and activated on the day of the assay (one Roche cOmplete mini protease inhibitor tablet (Sigma-Aldrich, St. Louis, MO, USA) per 10 mL buffer, 0.25% Triton X-100 and 0.2% sodium taurocholate). Protein lysates were prepared in a 96-well plate, diluting samples with GCase buffer. The concentration of protein was determined via a BCA assay and control and experimental samples were maintained at similar concentrations (0.5\u20131 mg/mL). A total of 0.8 mM CBE was prepared by diluting 100 mM CBE in GCase buffer. Control buffer without CBE was also prepared by mixing DMSO with GCase buffer (9.2:0.8 GCase buffer: DMSO). Then, 10 µL of protein lysate from the 96-well plate was pipetted to each assay well in a 384-well plate with four replications using an Eppendorf multichannel pipette. Total volumes of 5 µL of 0.8 mM CBE and 5 µL of control buffer without CBE were added and incubated for 15 min at 37 ◦C, with shaking at 600 rpm. A total of 2.5 mM 4-methylumbelliferyl-B-D-glucoside (4-MU) was then prepared by diluting 1M 4-MU in GCase buffer. Following the 15 min incubation, the 384-well plate was spun down and 15 µL of 4-MU solution was added to each assay well to reach a total volume of 30 µL per well and incubated for 1 h at 37 ◦C, shaking at 450 rpm. Following incubation, plates were spun down and 30 µL of 1M glycine solution (pH 10.5) was added to each assay well. 4-MU fluorescence was read with a microplate reader (Flexstation 3, Molecular Devices, San Jose, CA, USA; excitation: 365 nm; emission: 449 nm; cutoff: 435 nm; 3 reads/well). GCase activity was calculated for each protein lysate according to the equation: (fluorescence of CBE-free sample minus fluorescence of sample with CBE)/protein concentration. The details of the GCase activity assay are described at https://www.protocols.io/view/in-vitro-gcase-activity-assay-dm6 gp3b7dvzp/v1 (1 August 2023)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 783.5,
+      "minX": 35.7,
+      "maxY": 791,
+      "maxX": 136,
+      "page": 12
+    }],
+    "text": "Int. J. Mol. Sci. 2024, 25, 1827"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 390.4,
+      "minX": 166.1,
+      "maxY": 500.9,
+      "maxX": 561,
+      "page": 12
+    }],
+    "text": "The mouse brain and liver tissues (100\u2013300 mg) were homogenized in 2% CHAPS solution (4 mL/g wet tissue) in 2 mL Omni homogenization tubes containing 8 mm ceramic beads. The homogenates were processed on the Bead Ruptor 24 (Omni International, Kennesaw, GA, USA) for two 30 s cycles at 5.65 m/s with a 45 s pause time. The lipids glucosylsphingosine and glucosylceramide in the homogenate (50 µL) were extracted and analyzed using the liquid chromatography with tandem mass spectrometry method as previously described [35]. The details of the lipid analysis are described at https://www.protocols.io/view/glucosylceramide-and-glucosylsphingosine-analysis261gedk8wv47/v2 (accessed on 20 December 2023)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 88.9,
+      "minX": 165.9,
+      "maxY": 362.6,
+      "maxX": 561.1,
+      "page": 12
+    }],
+    "text": "Protein lysates in RIPA buffer were treated with protease inhibitor and phosphatase inhibitor and diluted using the sample RIPA buffer to ensure equal concentrations for loading. A total of 4× Leammli sample loading buffer (Biorad, Hercules, CA, USA) with 10% β-mercaptoethanol was mixed with protein lysates and boiled at 99 ◦C for 5 min. A total volume of 20 µL of each sample was loaded into TGX precast gels in Tris-GlycineSDS buffer, along with 10 µL of protein standard, and run for one hour at 120 V. Proteins were transferred to PVDF membranes using a Trans-Blot Turbo transfer system (Biorad). The membrane was dried for 30 min, reactivated with 100% MeOH and rinsed with RO water. Ponceau S stain was added for 5 min and rinsed with RO water prior to imaging total proteins to normalize the data. After washing the membrane with buffer (1× TBS + 0.1% Tween 20) for 10 min, the membrane was incubated with blocking solution (2.5% milk mixed with 0.5× Intercept blocking buffer (LI-COR, Lincoln, NE, USA) in TBS) for 2 h while shaking. Primary antibody solution was prepared by diluting the antibody with the antibody dilution solution (2.5% milk mixed with 0.5× Intercept antibody diluent (LI-COR) in TBS). Blocking solution was replaced with antibody solution, and incubated overnight at 4 ◦C. The membrane was washed three times for 10 min with a wash buffer. Secondary antibody at the same antibody dilution buffer concentration was incubated with the membrane for 1 h on the shaker at RT. After washing three times for 10 min, membranes were stained with ECL solution (SuperSiganal West Pico PLUS, Thermo Scientific) for 5 min and imaged with the Chemidoc MP (Biorad). Quantification of the images was performed using Image Lab software v.6.1 (https://www.bio-rad.com/en-us/product/ image-lab-software?ID=KRE6P5E8Z (accessed on 25 December 2023) RRID:SCR_014210)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 729.7,
+        "minX": 166.1,
+        "maxY": 752.3,
+        "maxX": 561.1,
+        "page": 13
+      },
+      {
+        "minY": 616.4,
+        "minX": 166.1,
+        "maxY": 701.8,
+        "maxX": 561,
+        "page": 13
+      }
+    ],
+    "text": "The details of the immunoblotting procedures are described at https://www.protocols.io/ view/western-blotting-3byl4qbnrvo5/v1 (accessed on 1 August 2023) All experimental data were averaged for each genotype group and compared between groups using the statistical methods specified here. For the GCase activity assay, lipid assay, IHC and immunoblot results, a one-way ANOVA test with Sidak's multiple-comparison adjustment was used to obtain a statistical p-value for pairwise comparison of each group. For the motor behavioral evaluations, an unpaired t-test was used to compare the average of the two genotype groups. GraphPad PRISM v.9.5 (https://www.graphpad.com/features (accessed on 25 December 2023, RRID: SCR_002798) was used for all the statistical analyses."
+  }}
+]}

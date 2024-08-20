@@ -1,0 +1,851 @@
+{"paragraphs": [
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 733.1,
+      "minX": 433.8,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 1
+    }],
+    "text": "Orphanet Journal of Rare Diseases"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 687.9,
+      "minX": 61.8,
+      "maxY": 699.4,
+      "maxX": 535.5,
+      "page": 1
+    }],
+    "text": "RESEARCH Open Access"
+  }},
+  {"paragraph": {
+    "role": "title",
+    "positions": [{
+      "minY": 621.4,
+      "minX": 56.6,
+      "maxY": 669.4,
+      "maxX": 487.2,
+      "page": 1
+    }],
+    "text": "Assessing the diagnostic utility of the Gaucher Earlier Diagnosis Consensus"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 595.1,
+      "minX": 56.6,
+      "maxY": 617.4,
+      "maxX": 506.1,
+      "page": 1
+    }],
+    "text": "(GED\u2011C) scoring system using real\u2011world data"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 562.2,
+      "minX": 56.6,
+      "maxY": 586,
+      "maxX": 505.9,
+      "page": 1
+    }],
+    "text": "Shoshana Revel\u2011Vilk1,2,3* , Varda Shalev4, Aidan Gill5, Ora Paltiel2,3,6, Orly Manor3, Avraham Tenenbaum4, Liat Azani7 and Gabriel Chodick4,7"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 515.4,
+      "minX": 63.1,
+      "maxY": 522.9,
+      "maxX": 102.1,
+      "page": 1
+    }],
+    "text": "Abstract"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 426.5,
+      "minX": 63.1,
+      "maxY": 507.8,
+      "maxX": 530,
+      "page": 1
+    }],
+    "text": "Background Gaucher disease (GD) is a rare autosomal recessive condition associated with clinical features such as splenomegaly, hepatomegaly, anemia, thrombocytopenia, and bone abnormalities. Three clinical forms of GD have been defined based on the absence (type 1, GD1) or presence (types 2 and 3) of neurological signs. Early diagnosis can reduce the likelihood of severe, often irreversible complications. The aim of this study was to validate the ability of factors from the Gaucher Earlier Diagnosis Consensus (GED\u2011C) scoring system to discriminate between patients with GD1 and controls using real\u2011world data from electronic patient medical records from Maccabi Healthcare Ser\u2011 vices, Israel's second\u2011largest state\u2011mandated healthcare provider."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 351.5,
+      "minX": 63.1,
+      "maxY": 420.8,
+      "maxX": 527.2,
+      "page": 1
+    }],
+    "text": "Methods We applied the GED\u2011C scoring system to 265 confirmed cases of GD and 3445 non\u2011GD controls matched for year of birth, sex, and socioeconomic status identified from 1998 to 2022. The analyses were based on two data\u2011 bases: (1) all available data and (2) all data except free\u2011text notes. Features from the GED\u2011C scoring system applicable to GD1 were extracted for each individual. Patients and controls were compared for the proportion of the specific features and overall GED\u2011C scores. Decision tree and random forest models were trained to identify the main features distinguishing GD from non\u2011GD controls."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 278.5,
+      "minX": 63.1,
+      "maxY": 345.8,
+      "maxX": 529.5,
+      "page": 1
+    }],
+    "text": "Results The GED\u2011C scoring distinguished individuals with GD from controls using both databases. Decision tree models for the databases showed good accuracy (0.96 [95% CI 0.95\u20130.97] for Database 1; 0.95 [95% CI 0.94\u20130.96] for Database 2), high specificity (0.99 [95% CI 0.99\u20131]) for Database 1; 1.0 [95% CI 0.99\u20131] for Database 2), but relatively low sensitivity (0.53 [95% CI 0.46\u20130.59] for Database 1; 0.32 [95% CI 0.25\u20130.38]) for Database 2). The clinical features of splenomegaly, thrombocytopenia (< 50 × 109/L), and hyperferritinemia (300\u20131000 ng/mL) were found to be the three most accurate classifiers of GD in both databases."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 237.5,
+      "minX": 63.1,
+      "maxY": 270.8,
+      "maxX": 528.4,
+      "page": 1
+    }],
+    "text": "Conclusion In this analysis of real\u2011world patient data, certain individual features of the GED\u2011C score discriminate more successfully between patients with GD and controls than the overall score. An enhanced diagnostic model may lead to earlier, reliable diagnoses of Gaucher disease, aiming to minimize the severe complications associated with this disease."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 210.4,
+      "minX": 63.1,
+      "maxY": 231.7,
+      "maxX": 528.7,
+      "page": 1
+    }],
+    "text": "Keywords Gaucher disease, Algorithm, Early diagnosis, Real\u2011world data, Gaucher earlier diagnosis consensus scoring system"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 271.7,
+      "page": 2
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 692.4,
+      "minX": 56.7,
+      "maxY": 701.9,
+      "maxX": 112.4,
+      "page": 2
+    }],
+    "text": "Background"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 524.9,
+      "minX": 56.7,
+      "maxY": 689.7,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "Gaucher disease (GD) is a rare autosomal recessive condition characterized by a deficiency of the lysosomal enzyme beta-glucocerebrosidase (GBA1). Accumulation of glucosylceramide in macrophages throughout the body leads to the onset of multisystemic disease manifestations such as splenomegaly, hepatomegaly, anemia, thrombocytopenia, and bone abnormalities, hallmarks of type 1 GD [1]; neurological involvement is characteristic of the more severe type 2 and type 3 GD [2, 3]. The estimated prevalence of all three GD types is 0.45\u201325.0 per 100,000 live births, although type 1 GD is substantially more common among people with Ashkenazi Jewish heritage (estimated at 1 in 850 live births for type 1 GD) [4, 5]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 308.2,
+      "minX": 56.7,
+      "maxY": 521.5,
+      "maxX": 291.3,
+      "page": 2
+    }],
+    "text": "Timely initiation of appropriate GD-specific therapy (i.e., enzyme replacement therapy or substrate reduction therapy) early in the disease course [6\u20138] has been shown to improve patient outcomes, with significant effects on hematologic and visceral outcomes, and may prevent the onset of irreversible bone disease and severe growth retardation, and reduce the risk of bleeding [8]. However, delayed diagnosis or misdiagnosis is frequent, owing to the complex and non-specific clinical presentation, together with a lack of awareness about this rare disease [1, 9\u201311]. Approximately one in six patients report remaining undiagnosed for 7 years or more after first consulting a doctor with symptoms [9]. Physicians and patients both report multiple referrals to a range of different specialties prior to GD diagnosis, with primary care, hematology/hematology-oncology, and pediatrics being the main specialties to which patients first present symptoms [9]."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 80.2,
+        "minX": 56.7,
+        "maxY": 305.7,
+        "maxX": 290.6,
+        "page": 2
+      },
+      {
+        "minY": 682.9,
+        "minX": 304.7,
+        "maxY": 702,
+        "maxX": 538.6,
+        "page": 2
+      }
+    ],
+    "text": "The Gaucher Earlier Diagnosis Consensus (GED-C) scoring system was developed by a panel of 22 expert physicians using Delphi methodology regarding the signs and covariables considered important for diagnosing type 1 and type 3 GD, to help clinicians identify potential individuals to test further, thereby reducing diagnostic delay [12]. Preliminary validation of the GED-C was able to discriminate between patients with GD and those with overlapping manifestations from other disorders, in studies from the United Kingdom [13] and Finland [14]. We previously carried out a description of the GED-C scoring system in 265 confirmed patients with GD using real-world data from the Maccabi Healthcare Services (MHS), Israel's second-largest state-mandated healthcare provider, representing 2.5 million members (25% of the Israeli population) [15]. The aim of the current study was to assess the ability of the GED-C score to discriminate between individuals with and without GD, and to identify the best discriminatory features using real-world data from electronic patient medical records from the MHS, with and without the use of free-text notes."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 659,
+      "minX": 304.7,
+      "maxY": 666.4,
+      "maxX": 345.3,
+      "page": 2
+    }],
+    "text": "Methods"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 512.7,
+      "minX": 304.7,
+      "maxY": 642,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "Electronic patient medical records from the MHS were used as the data source for this study. In the MHS, clinical records have been fully computerized for > 20 years, and are fully integrated with an automated central laboratory, fully digitized imaging, and pharmacy purchase data. In addition, the MHS is associated with a biobank of samples collected from consenting sample donors among MHS participants. The study design was approved by the MHS Institutional Review Board (0013-21-ASMC). The requirement for patient consent was waived owing to the use of de-identified, anonymized data."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 332.7,
+      "minX": 304.7,
+      "maxY": 486,
+      "maxX": 539.3,
+      "page": 2
+    }],
+    "text": "All eligible individuals with a confirmed diagnosis of GD in the MHS database were included in the study, as described previously [15]. The records of patients identified with an MHS diagnosis code for GD were screened for evidence of GD-specific treatment authorization such as enzyme replacement therapy or substrate reduction therapy. In the absence of evidence of GD treatment, patient records were screened for any medical notes indicating GD (e.g., physicians' notes and hospital discharges). Thirteen randomly selected controls per case, matched for year of birth, sex, and socioeconomic status (per MHS data), were extracted from the MHS database for retrospective analysis."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 92.9,
+        "minX": 304.7,
+        "maxY": 306,
+        "maxX": 539.3,
+        "page": 2
+      },
+      {
+        "minY": 483.9,
+        "minX": 56.7,
+        "maxY": 564.6,
+        "maxX": 290.6,
+        "page": 3
+      }
+    ],
+    "text": "Data for each of the GED-C items applicable to type 1 GD were extracted for each individual, including demographics, diagnosis codes (International Classification of Diseases [ICD], Ninth Revision [ICD-9]), laboratory values, imaging reports, the MHS osteoporosis register, and weight and height measurements. Free-text notes were screened manually for the terms presented in Table 1 for all patients with GD and non-GD controls. For the non-GD controls, free-text notes were screened manually in 1 control from the 13 controls available for each patient with GD (chosen randomly). We assumed that the proportion of the terms in the 12 matched controls was similar to the control that was checked manually. Data were extracted from the first record available until 1 year after GD diagnosis. For controls, data were extracted up to 1 year after the GD diagnosis of the matched patient. The 1-year post-diagnosis cutoff was chosen to allow the maximum time for the capture of features on completion of relevant confirmatory testing for GD. Items for GED-C scores were extracted as quantitative values where possible. GED-C scores were calculated for these features, as indicated in Table 2 for all available data, including free text-notes from patient visits (database 1) and Table 3, data from free-text notes from patient visits were not included (database 2)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71 Page 3 of 10"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 594.2,
+      "minX": 56.7,
+      "maxY": 600.9,
+      "maxX": 427.4,
+      "page": 3
+    }],
+    "text": "a Free\u2011text notes were screened manually in 1 control from the 13 controls available for each patient with GD (chosen randomly)"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 483.6,
+      "minX": 304.7,
+      "maxY": 540.9,
+      "maxX": 538.6,
+      "page": 3
+    }],
+    "text": "Individuals with GD were compared with controls using features of the GED-C scoring system applicable to patients with type 1 GD [12, 15], and total points were determined for each group. Computation of the GED-C score was carried out as described previously [15]."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 110.2,
+      "minX": 56.7,
+      "maxY": 117,
+      "maxX": 134.7,
+      "page": 3
+    }],
+    "text": "a Monoclonal or polyclonal"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 98.9,
+      "minX": 56.7,
+      "maxY": 106.7,
+      "maxX": 253.7,
+      "page": 3
+    }],
+    "text": "b Combined with mild\u2011moderate hepatomegaly scored as 1.5 points"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 87.5,
+      "minX": 56.7,
+      "maxY": 94.3,
+      "maxX": 138.5,
+      "page": 3
+    }],
+    "text": "c Including low body weight"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 77.7,
+      "minX": 56.7,
+      "maxY": 84,
+      "maxX": 132.3,
+      "page": 3
+    }],
+    "text": "d Combined with asthenia"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 65,
+      "minX": 56.7,
+      "maxY": 71.6,
+      "maxX": 330.2,
+      "page": 3
+    }],
+    "text": "e For controls, date of diagnosis was derived from the date of diagnosis of the matched patient"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 4
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71 Page 4 of 10"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 346.3,
+      "minX": 56.7,
+      "maxY": 353.1,
+      "maxX": 134.7,
+      "page": 4
+    }],
+    "text": "a Monoclonal or polyclonal"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 335,
+      "minX": 56.7,
+      "maxY": 342.8,
+      "maxX": 253.7,
+      "page": 4
+    }],
+    "text": "b Combined with mild\u2011moderate hepatomegaly scored as 1.5 points"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 323.7,
+      "minX": 56.7,
+      "maxY": 330.4,
+      "maxX": 138.5,
+      "page": 4
+    }],
+    "text": "c Including low body weight"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 313.8,
+      "minX": 56.7,
+      "maxY": 320.2,
+      "maxX": 132.3,
+      "page": 4
+    }],
+    "text": "d Combined with asthenia"
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 301.1,
+      "minX": 56.7,
+      "maxY": 307.8,
+      "maxX": 330.2,
+      "page": 4
+    }],
+    "text": "e For controls, date of diagnosis was derived from the date of diagnosis of the matched patient"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 71.9,
+      "minX": 62.7,
+      "maxY": 88.6,
+      "maxX": 517.3,
+      "page": 4
+    }],
+    "text": "Fig. 1 Boxplot of overall GED\u2011C summary scores. A Patients with GD versus controls for database 1 (Table 2). B Patients with GD versus controls for database 2 (Table 3)"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71 Page 5 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 488,
+      "minX": 62.7,
+      "maxY": 505.3,
+      "maxX": 496.8,
+      "page": 5
+    }],
+    "text": "Fig. 2 ROC curves for total GED\u2011C scoring. A Patients with GD versus controls for database 1 (Table 2). B Patients with GD versus controls for database 2 (Table 3). FPR, false positive rate"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 287.6,
+      "minX": 56.7,
+      "maxY": 452.9,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "Briefly, the weight of each feature was set according to the published score [12]. For laboratory data, the maximum or minimum levels (as appropriate) were considered and defined abnormal as indicated in Tables 2 and 3. Dichotomous variables were coded as \"yes\" or \"no.\" Evaluation of multiples of normal in spleen and liver size was not feasible; \"splenomegaly\" received a score of 3 irrespective of size, and \"hepatomegaly\" was scored as 1.5 points. Growth retardation (based on height, weight, and body mass index measures) was defined as equal to or less than the fifth percentile for age. Asthenia and fatigue were scored by one item because both descriptions use the same word in Hebrew. No ICD-9 code was available for family history of GD."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 203.5,
+      "minX": 56.7,
+      "maxY": 284.9,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "For constructing discrimination models, 16 available features were used as defined in the GED-C scoring system [12]. These included age, anemia, bleeding, bone issues, dyslipidemia, fatigue, gallstones, gammopathy, growth retardation, hepatomegaly, hyperferritinemia, Jewish ancestry, low bone mineral density, leukopenia, splenomegaly, and thrombocytopenia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 155.7,
+      "minX": 56.6,
+      "maxY": 200.9,
+      "maxX": 290.6,
+      "page": 5
+    }],
+    "text": "Two models were constructed. In the first, all available data were used, including free-text notes from patient visits (database 1). For the second, data from free-text notes from patient visits were not included (database 2)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.5,
+        "minX": 56.7,
+        "maxY": 128.9,
+        "maxX": 290.6,
+        "page": 5
+      },
+      {
+        "minY": 263.6,
+        "minX": 304.7,
+        "maxY": 453,
+        "maxX": 539.3,
+        "page": 5
+      }
+    ],
+    "text": "GED-C summary scores were reported using the median and interquartile range (IQR). Absolute and relative frequencies were reported for nominal data, with the relationship between GD and controls expressed as odds ratio (OR) and 95% CI. A decision tree model using all 16 available features (as detailed above) was constructed using \"training data\" (80%) and \"test data\" (20%), and a random forest model was selected and trained in order to identify the main features that can distinguish GD from non-GD controls. The model performance on the validation dataset was evaluated using receiver operating characteristic (ROC) curve and f1-score as a measure of accuracy. The area under the ROC curve (AUC) results are considered excellent for AUC values between 0.9 and 1.0, good for AUC values between 0.8 and 0.9, fair for AUC values between 0.7 and 0.8, poor for AUC values between 0.6 and 0.7, and failed for AUC values between 0.5 and 0.6 [16]. All statistical analyses were performed using R programming version 1.4.1103, packages dplyr, stringr, tidiverse, lubridate, caret, random forest, and ggplot2."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 229.8,
+      "minX": 304.7,
+      "maxY": 237.2,
+      "maxX": 337.8,
+      "page": 5
+    }],
+    "text": "Results"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 167.5,
+      "minX": 304.7,
+      "maxY": 224.9,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Of 346 individuals with a GD diagnosis code identified from the MHS database, 265 were confirmed as patients with GD following the screening of patient records. A total of 3445 control individuals without GD (13 per GD case) were included in the study."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 95.5,
+      "minX": 304.7,
+      "maxY": 164.9,
+      "maxX": 538.6,
+      "page": 5
+    }],
+    "text": "Manual screening of free-text notes for terms defined in the GED-C scoring system revealed a marked difference in the proportions of individuals with symptoms between GD and control groups, with ORs of approximately 10 or above for splenomegaly, growth retardation, and hepatomegaly (Table 1)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 71.6,
+        "minX": 304.7,
+        "maxY": 92.9,
+        "maxX": 538.6,
+        "page": 5
+      },
+      {
+        "minY": 561.5,
+        "minX": 56.7,
+        "maxY": 702.8,
+        "maxX": 290.6,
+        "page": 6
+      }
+    ],
+    "text": "Overall GED-C summary scores were calculated for each database (Fig. 1A, B). For database 1, which included free-text notes from patient visits, median GED-C scores were 7.5 (range 0\u201317.5; IQR 6.5) for patients with GD (n = 265) and 4.0 (range 0\u201312.5; IQR 3.5) for controls (n = 3445) (Fig. 1A). GED-C scoring distinguished patients with GD from controls with an AUC of 0.81 (95% CI, 0.78\u20130.84) (Fig. 2A). For database 2, in which data from free-text notes from patient visits were not included, median GED-C scores were 6.5 (range 0\u201317.0; IQR 5.0) for patients with GD (n = 265) and 4.0 (range 0\u201312.5; IQR 3.0) for controls (n = 3445) (Fig. 1B). GED-C scoring distinguished patients with GD from controls with an AUC of 0.74 (95% CI 0.71\u20130.78) (Fig. 2B)."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 271.7,
+      "page": 6
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 478.1,
+      "minX": 56.7,
+      "maxY": 558.8,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "The magnitude of difference in GED-C scoring between patients with GD and controls was greater for some features (e.g., splenomegaly [OR 80.3 in database 1 and 61.9 in database 2], severe thrombocytopenia [platelet count < 50 × 109/L; OR 57.9 in both databases], and hyperferritinemia [ferritin 300\u20131000 ng/mL; OR 28.9 in both databases]) (Tables 2 and 3)."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 347.7,
+      "minX": 56.7,
+      "maxY": 474.8,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "Decision tree models were constructed for each database (Fig. 3). The models showed good accuracy (0.96 [95% CI 0.95\u20130.97] for database 1; 0.95 [95% CI 0.940.96] for database 2), high specificity (0.99 [95% CI 0.991] for database 1; 1.0 [95% CI 0.99\u20131] for database 2), but relatively low sensitivity (0.53 [95% CI 0.46\u20130.59] for database 1; 0.32 [95% CI 0.25\u20130.38] for database 2). The AUC was higher for database 1 (0.79 [95% CI 0.73\u20130.87]) compared with database 2 (0.69 [95% CI 0.60\u20130.73]). The f1-scores were 0.66 for database 1 and 0.46 for database 2."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 263.6,
+      "minX": 56.7,
+      "maxY": 342.8,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "A random forest model was developed using the two databases to outline the 10 most important variables for distinguishing patients with GD from controls (Fig. 4). The clinical features of splenomegaly, thrombocytopenia (platelet count < 50 × 109/L), and hyperferritinemia (ferritin 300\u20131000 ng/mL) were found to be the top three most accurate classifiers of GD in both databases."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 232.9,
+      "minX": 56.7,
+      "maxY": 240.3,
+      "maxX": 105.6,
+      "page": 6
+    }],
+    "text": "Discussion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 86.7,
+      "minX": 56.7,
+      "maxY": 228,
+      "maxX": 290.6,
+      "page": 6
+    }],
+    "text": "This retrospective observational analysis used real-world data to assess the utility of the GED-C scoring system for discriminating between patients with GD and controls. We found that the GED-C scoring system performance at distinguishing between GD and controls was 'good' when using a database that included free-text notes from patient visits and 'fair' when using a database that excluded free-text notes. Analysis of both databases consistently identified the most important GED-C features for discriminating GD from non-GD as splenomegaly, thrombocytopenia, and hyperferritinemia."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 431.7,
+      "minX": 304.7,
+      "maxY": 702.8,
+      "maxX": 539.3,
+      "page": 6
+    }],
+    "text": "The three features, splenomegaly, thrombocytopenia and hyperferritinemia were also considered by GD experts to be important features in the diagnosis of GD [12]. There are still some differences that need to be discussed. First, the weight given by experts for these three features was significantly lower than the actual odds of exposure found among patients with GD compared with controls in this real-world dataset. Second, GD experts gave a greater weight (2 points) for mild thrombocytopenia (platelet count 50\u2013150 × 109/L) compared with severe thrombocytopenia (platelet count < 50 × 109/L; 1 point), whereas the actual odds of exposure among patients with GD from this study was acutely higher for severe thrombocytopenia (with a wide CI owing to a lower number). For hyperferritinemia, GD experts gave a lower weight for ferritin levels > 1000 ng/mL (1 point), whereas the odds of exposure among patients in this study was approximately 30 for elevated ferritin levels, regardless of the exact levels. Based on our findings, we can expect that a supervised machine learning classifier, that will not use predefined weights or laboratory cutoffs, could perform better in distinguishing between patients with GD and controls."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 263.7,
+      "minX": 304.7,
+      "maxY": 426.8,
+      "maxX": 539.3,
+      "page": 6
+    }],
+    "text": "Although the models developed in this study show high specificity, they were shown to have low sensitivity. Missing or incomplete data for many features may have been a contributing factor. The definitions used in the GED-scoring may further impact the sensitivity of models to discriminate between patients with GD and controls. For example, the definition of anemia using a threshold of 14 g/L for hemoglobin concentration is relevant to adult males, but this may result in the misclassification of normal hemoglobin levels in patients whose hemoglobin would otherwise fall into the anemic range as specified by their age and gender. Modifying the scoring system may help correctly diagnose more patients with GD at an earlier time in the disease course."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 70.1,
+        "minX": 304.7,
+        "maxY": 258.8,
+        "maxX": 538.6,
+        "page": 6
+      },
+      {
+        "minY": 120.3,
+        "minX": 56.7,
+        "maxY": 177.7,
+        "maxX": 290.6,
+        "page": 7
+      }
+    ],
+    "text": "As expected, the database that included data from free-text notes (database 1) showed better performance compared with database 2 because physicians frequently documented GD-related features (such as splenomegaly, hepatomegaly, fatigue, and bone pain) in the visit notes but then failed to code them. This is in line with a study of electronic records for splenomegaly in the Danish National Registry of Patients; the total number of patients coded for splenomegaly was lower than expected, leading the authors to conclude that splenomegaly as a clinical finding was probably under-coded in the ICD system [17]. Similarly, machine learning algorithms using ICD-9 codes did not perform well in identifying patients with systemic sclerosis; the highest-performing algorithms in this study incorporated clinical data with ICD, Tenth Revision (ICD-10), codes [18]. Unfortunately, ICD-10 codes were not available in the MHS database. Under-coding could be related to the difficulty in translating signs and symptoms into a clear and unambiguous classification code, coupled with time pressures on physicians [19]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.6,
+      "page": 7
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71 Page 7 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 439.7,
+      "minX": 62.7,
+      "maxY": 477.3,
+      "maxX": 526.2,
+      "page": 7
+    }],
+    "text": "Fig. 3 Decision tree models for A database 1 and B database 2. Features of GD based on GED\u2011C scoring as defined in Table 2 for database 1 and in Table 3 for database 2. As per GED\u2011C scoring: anemia is defined as hemoglobin < 14.0 g/dL, hyperferritinemia is defined as ferritin > 300 ng/ mL, and thrombocytopenia is defined as platelet count < 150 × 109/L. Decimal values for p parameter (range 0\u20131) used to show percentage of the split. HDL, high\u2011density lipoprotein cholesterol"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 204.5,
+      "minX": 62.7,
+      "maxY": 252,
+      "maxX": 528.4,
+      "page": 7
+    }],
+    "text": "Fig. 4 Random forest model showing the top 10 variables for distinguishing patients with GD from controls. A database 1 and B database 2. Gini impurity describes the probability of incorrect classification at a given node in the decision tree based on training data. Mean decrease in Gini is a measure of a variable's importance for determining GD across all the decision trees in the random forest: the mean of a variable's total decrease in node impurity, weighted by the proportion of samples reaching that node in each decision tree in the random forest. *HDL cholesterol < 35 mg/ dL. Bone_dx, bone issues, including pain, crises, avascular necrosis, and fractures; HDL high\u2011density lipoprotein"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 72.3,
+        "minX": 56.6,
+        "maxY": 117.7,
+        "maxX": 290.7,
+        "page": 7
+      },
+      {
+        "minY": 72.3,
+        "minX": 304.7,
+        "maxY": 177.8,
+        "maxX": 538.6,
+        "page": 7
+      },
+      {
+        "minY": 243.2,
+        "minX": 56.7,
+        "maxY": 408.5,
+        "maxX": 290.6,
+        "page": 8
+      }
+    ],
+    "text": "The ability of the GED-C to discriminate between individuals with and without GD was also shown by other groups. Mehta et al. compared adults with GD (n = 25) to adults with liver disease, hematological malignancy or immune thrombocytopenia (n = 75) [13]. The data were derived from hospital records, with 80%-90% completeness of data. Analyses, based on 11 possible factors, showed good discrimination between those with GD and non-GD individuals, with AUC of 0.88 (95% CI 0.78\u20130.97) being comparable to the result from database A in our study. Patients with liver disease and hematological malignancy were most likely to have manifestations overlapping with GD [13]. In a study from Finland, clinical data from five patients with GD were compared to electronic health record data of~ 170,000 adults from a biobank [14]. The score of patients with GD ranged between 6 and 18.5 (based on the available data on 28\u201329 possible factors). Only 0.72% of adults from the biobank were assigned at least 6 points, but none had a point score as high as 18.5. A follow-up study using the same approach with another Finnish biobank, showed similar results [20]. The score of 8 patients with GD was 6\u201322.5 points, while only 0.77% of controls had 10 points or higher. Data from patients with GD collected from hospital electronic medical records being compared with control data collected from a biobank, may explain the significant difference found in the studies from Finland."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.3,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 538.7,
+      "page": 8
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71 Page 8 of 10"
+  }},
+  {"paragraph": {
+    "role": "caption",
+    "positions": [{
+      "minY": 438.1,
+      "minX": 62.7,
+      "maxY": 454.9,
+      "maxX": 502.5,
+      "page": 8
+    }],
+    "text": "Fig. 5 Study design for the development of an artificial intelligence\u2013based algorithm. GD Gaucher disease, GED-C Gaucher early diagnosis consensus, MHS Maccabi Health Services"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.2,
+        "minX": 56.7,
+        "maxY": 240.5,
+        "maxX": 291.3,
+        "page": 8
+      },
+      {
+        "minY": 267.2,
+        "minX": 304.7,
+        "maxY": 408.5,
+        "maxX": 538.6,
+        "page": 8
+      }
+    ],
+    "text": "The use of real-world data is both an advantage and a limitation of the study. The use of real-world data confirmed the significance of the majority of features in the GED-C scoring system. These features would need to be included in future machine-learning models. However, real-world data sets have their limitations. They may contain incomplete information or be prone to errors during data entry. In addition, because GD is a rare disease, the number of individuals with GD, even within this relatively large database of individuals, is restricted and there are inherent limitations to the development of an algorithm using such a small data set of patients. In our research, we employed a manual examination of unstructured text notes to identify features related to GD. The reason for resorting to manual screening was that the existing Hebrew resources for training natural language processing (NLP) are inadequate to accomplish this task using computer-based methods [21]. Manual screening was feasible when limited to 265 patients and 265 controls but not for the entire control cohort. Similarly, machine learning diagnostic algorithms will not be able to be based on manual screening of free-text notes. In addition, our study analyzed data from patients retrospectively, a prospective design would have been preferable in terms of standardization of data collection and reducing potential sources of bias."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [
+      {
+        "minY": 75.1,
+        "minX": 304.7,
+        "maxY": 264.5,
+        "maxX": 539.3,
+        "page": 8
+      },
+      {
+        "minY": 682.2,
+        "minX": 56.7,
+        "maxY": 702.8,
+        "maxX": 290.6,
+        "page": 9
+      }
+    ],
+    "text": "The current study was set up to extract patient data on parameters from the GED-C score, chosen as a set of readily available clinical data points established by expert clinician consensus to have diagnostic relevance for patients with GD, and also validated in different geographic patient cohorts [13, 14]. However, we acknowledge that findings on the diagnostic utility of this set of variables are limited to the patient population studied and may not be applicable for populations with different ethnic backgrounds and disease severity. Other clinical manifestations of GD not included in the GED-C scoring system should be considered in future algorithms developed for GD diagnosis, for example co-morbidities that may be associated with GD such as neoplasms, endocrinological disorders like insulin-like growth hormone deficiency, as well as abnormalities in parathyroid hormone levels, phospho-calcium metabolism, and vitamin D levels [22\u201325]."
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 749.9,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 271.7,
+      "page": 9
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 537.4,
+      "minX": 56.7,
+      "maxY": 678.8,
+      "maxX": 291.3,
+      "page": 9
+    }],
+    "text": "In the era of digitized medical records, the opportunity for comparing and combining electronic health data from a wide variety of patient populations is likely to result in better refinement of data-mining tools. As seen with other diseases, use of machine learning for analysis of large amounts of clinical data will assist the development of algorithms for detecting undiagnosed patients with GD, as well as tools optimised for use in particular patient sub-sets [26, 27]. This, accompanied by largescale testing of biobank samples using alternative diagnostic techniques, is needed to address the challenges of GD diagnosis in the future."
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 285.4,
+      "minX": 56.7,
+      "maxY": 534.8,
+      "maxX": 291.3,
+      "page": 9
+    }],
+    "text": "This study forms part of the basis for the development of an artificial intelligence\u2013based algorithm for the accurate diagnosis of GD using machine learning, designed to shorten the diagnostic journey of patients with GD (Fig. 5). Machine learning technologies are being developed for a number of disorders that can potentially accelerate accurate diagnosis by calculating disease probabilities based on symptoms [28, 29]. Integration of machine learning models employing quantifiable variables that are readily discernible and autonomous of clinical evaluations to facilitate screening for rare diseases, such as GD, are needed to improve early detection and treatment [30]. In the next phase of the research process, the models evaluated in this study are to be further refined, by incorporating additional parameters and using supervised machine-learning methods. The bestperforming model would then be applied to the MHS healthcare database population to identify those who may have unidentified GD. These data would then be used for further refinement of the machine learning classifiers for GD diagnosis."
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 263.7,
+      "minX": 56.7,
+      "maxY": 271.1,
+      "maxX": 107.4,
+      "page": 9
+    }],
+    "text": "Conclusion"
+  }},
+  {"paragraph": {
+    "role": "body",
+    "positions": [{
+      "minY": 129.4,
+      "minX": 56.7,
+      "maxY": 258.8,
+      "maxX": 290.6,
+      "page": 9
+    }],
+    "text": "The GED-C score, developed by Delphi expert consensus, shows good discrimination between patients with GD and controls and could be the basis for future models. In our study, as expected, the database that included data from physician notes on frequently documented GD-related features showed the best performance at distinguishing GD patients from controls. The application of machine learning techniques to our cohort is expected to result in an improved diagnostic model with the best possible sensitivity that may be used for screening undiagnosed GD cases."
+  }},
+  {"paragraph": {
+    "role": "footnote",
+    "positions": [{
+      "minY": 149.6,
+      "minX": 304.7,
+      "maxY": 229.7,
+      "maxX": 534.3,
+      "page": 9
+    }],
+    "text": "1Gaucher Unit, Shaare Zedek Medical Center, Jerusalem, Israel. 2Faculty of Medicine, Hebrew University, Jerusalem, Israel. 3Braun School of Public Health and Community Medicine, Hebrew University, Jerusalem, Israel. 4Sack\u2011 ler School of Medicine, Tel Aviv University, Tel Aviv, Israel. 5Takeda Pharma\u2011 ceuticals International AG, Zurich, Switzerland. 6Department of Hematology , Hadassah Medical Organization, Jerusalem, Israel. 7 MaccabiTech, Maccabi Healthcare Services, Tel Aviv, Israel. Received: 28 July 2023 Accepted: 19 January 2024"
+  }},
+  {"paragraph": {
+    "role": "page-header",
+    "positions": [{
+      "minY": 750,
+      "minX": 56.7,
+      "maxY": 757.3,
+      "maxX": 271.7,
+      "page": 10
+    }],
+    "text": "Revel\u2011Vilk et al. Orphanet Journal ofRare Diseases (2024) 19:71"
+  }},
+  {"paragraph": {
+    "role": "heading",
+    "positions": [{
+      "minY": 565.1,
+      "minX": 304.7,
+      "maxY": 572.5,
+      "maxX": 378.9,
+      "page": 10
+    }],
+    "text": "Publisher's Note"
+  }}
+]}
